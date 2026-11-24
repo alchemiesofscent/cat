@@ -1,5 +1,8 @@
 # Roadmap
 
+Releases: weekly, when there is something to publish, until the catalogue settles (v0.2, v0.3 …). Between releases the
+site is updated as changes are pushed, and the current release notes are kept in step.
+
 ## v0.2 (week of 1 December 2026): folio links, review lists, a page for each manuscript
 
 In v0.1 the site shows only manuscripts linked at the start folio. v0.2 brings back, as the folio links are filled in,
