@@ -13,13 +13,13 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 CACHE = ROOT / "cache" / "medimanus_search.json"
-API = "https://medimanus.chs.harvard.edu/app/api/madoc/search/api?page=1&page_size=2000"
+API = "https://medimanus.chs.harvard.edu/app/api/madoc/search/api?page=1&page_size=1000"
 COLLECTION = "7388"
 PAGE = "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/{}"
 
 
 def fetch():
-    body = json.dumps({"facets": [], "facet_fields": [], "contexts": [f"urn:madoc:collection:{COLLECTION}"],
+    body = json.dumps({"facets": [{"type": "metadata", "subtype": "ll.city"}], "facet_fields": [], "contexts": [f"urn:madoc:collection:{COLLECTION}"],
                        "ordering": {"type": "metadata", "subtype": "ll.mss_short_id", "direction": "ascending"}})
     req = urllib.request.Request(API, data=body.encode(), method="POST",
                                  headers={"Content-Type": "application/json", "User-Agent": "cat-catalogue/1.0"})

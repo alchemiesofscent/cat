@@ -15,6 +15,7 @@ jobs:
           python-version: "3.12"
       - name: Fetch MediManus and rebuild
         run: |
+          set -o pipefail
           python3 scripts/medimanus.py | tee refresh.log
           python3 scripts/build.py
       - name: Commit if the data changed
