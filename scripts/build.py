@@ -16,6 +16,19 @@ GVFILE = ROOT / "data" / "galenus_verbatim.json"
 GV = json.loads(GVFILE.read_text())["works"] if GVFILE.exists() else {}
 # catalogue entries that cover more than one TLG text
 EXTRA_TLG = {"galenus-078": ["0057.090", "0057.091"], "galenus-042": ["0057.047"]}
+# Galen works the CMG tables leave out because no Greek survives: known only through Arabic notes
+EXTRA_WORKS = {"Galenus": [
+    {"id": "galenus-ar-alim", "title_lat": "In Hippocratis De alimento commentaria",
+     "note": "Lost in Greek; the Greek commentary printed by Kühn (XV 224–417) is a later forgery. Known through "
+             "Ibn Riḍwān's Arabic notes, which quote the Hippocratic lemmata."},
+    {"id": "galenus-ar-hum", "title_lat": "In Hippocratis De humoribus commentaria",
+     "note": "Lost in Greek; the Greek commentary printed by Kühn (XVI 1–488) is a later forgery. Known through "
+             "Ibn Riḍwān's Arabic notes, which quote the Hippocratic lemmata."}]}
+for _a in DATA["authors"]:
+    for _x in EXTRA_WORKS.get(_a["name"], []):
+        if not any(w["id"] == _x["id"] for w in _a["works"]):
+            _a["works"].append({"abbr": "", "title_gr": "", "prints": [], "editions": [], "editions_prep": None,
+                                "translations": {}, "refs": {}, "mss": []} | _x)
 GAFILE = ROOT / "data" / "graeco_arabic.json"
 GA = json.loads(GAFILE.read_text()) if GAFILE.exists() else {"works": {}, "retrieved": ""}
 WDFILE = ROOT / "data" / "work_dates.json"

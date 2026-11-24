@@ -4,6 +4,9 @@ Each version is published as a release on GitHub. Corrections to the source tabl
 [CORRECTIONS.md](CORRECTIONS.md); shelfmarks and links checked against Pinakes in [PINAKES-CHECK.md](PINAKES-CHECK.md);
 the sigla review list is [SIGLA-CHECK.md](SIGLA-CHECK.md). The manuscript data from MediManus are refreshed every week.
 
+## v0.9 · 24 Nov 2026
+- Galen's commentaries on Hippocrates' De alimento and De humoribus, lost in Greek and known through Ibn Riḍwān's Arabic notes, added as Galen works; the notes are listed under both Galen and Hippocrates.
+
 ## v0.8 · 24 Nov 2026
 - Sigla of the critical editions: the conspectus siglorum of 77 volumes in the CMG viewer, transcribed and checked against the catalogue, Pinakes and MediManus. Each work shows the sigla of its editions, linked to the page they come from.
 - New table under each work: the other manuscripts used in its critical editions, digitized or not.

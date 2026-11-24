@@ -54,9 +54,10 @@ MAP = {
     ("Galen", "Quod animi mores corporis temperamenta sequantur"): "galenus-025",
     ("Galen", "Quod optimus medicus sit quoque philosophus"): "galenus-003",
     ("ps-Galen", "De diaeta in morbis acutis secundum Hippocratem"): "galenus-090",
-    # Galen's commentaries lost in Greek, known through Ibn Riḍwān's notes: shown with the Hippocratic work
-    ("Galen", "In Hippocratis De alimento"): "hippocrates-056",
-    ("Galen", "In Hippocratis De humoribus"): "hippocrates-020",
+    # Galen's commentaries lost in Greek (Kühn's Greek texts are later forgeries), known through Ibn Riḍwān's notes,
+    # which quote the Hippocratic lemmata: listed under the Galen work (added in build.py) and the Hippocratic work
+    ("Galen", "In Hippocratis De alimento"): ["galenus-ar-alim", "hippocrates-056"],
+    ("Galen", "In Hippocratis De humoribus"): ["galenus-ar-hum", "hippocrates-020"],
     ("Hippocrates", "Aphorismi"): "hippocrates-012",
     ("Hippocrates", "De aere, aquis, locis"): "hippocrates-002",
     ("Hippocrates", "De alimento"): "hippocrates-056",
@@ -111,14 +112,15 @@ def main():
             key = greek[r["gr"]]
         else:
             continue
-        wid = MAP.get(key)
-        if not wid:
+        wids = MAP.get(key)
+        if not wids:
             skipped.add(key)
             continue
-        lst = out.setdefault(wid, [])
-        if r["url"] not in [x["url"] for x in lst]:
-            lst.append({k: r[k] for k in ("url", "ed", "by", "title", "en", "type", "source")}
-                       | {"of": f"{key[0]}, {key[1]}"})
+        for wid in [wids] if isinstance(wids, str) else wids:
+            lst = out.setdefault(wid, [])
+            if r["url"] not in [x["url"] for x in lst]:
+                lst.append({k: r[k] for k in ("url", "ed", "by", "title", "en", "type", "source")}
+                           | {"of": f"{key[0]}, {key[1]}"})
     for k in sorted(skipped):
         print("not in catalogue:", k)
     (ROOT / "data" / "graeco_arabic.json").write_text(json.dumps(

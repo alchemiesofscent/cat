@@ -540,6 +540,18 @@
     "of": "Galen, In Hippocratis Aphorismos VI–VII"
    }
   ],
+  "galenus-ar-alim": [
+   {
+    "url": "https://www.graeco-arabic-studies.org/view/ibnridwan.gal.inhippdealim-summ.fawaid-ar1",
+    "ed": "ed. Garofalo 2013",
+    "by": "Ibn Riḍwān",
+    "title": "Fawāʾid min kitāb al-ġiḏāʾ li-Abuqrāṭ tafsīr Ǧālīnūs",
+    "en": "Useful Points Derived from Galen's Commentary on Hippocrates' Nutriment",
+    "type": "Summary (Arabic)",
+    "source": "Garofalo, Ivan. \"Il commento di Galeno al De alimento e gli estratti di Ibn Riḍwān\". Galenos 6 (2013), 130–139.",
+    "of": "Galen, In Hippocratis De alimento"
+   }
+  ],
   "hippocrates-056": [
    {
     "url": "https://www.graeco-arabic-studies.org/view/ibnridwan.gal.inhippdealim-summ.fawaid-ar1",
@@ -560,6 +572,18 @@
     "type": "Translation (Arabic)",
     "source": "Mattock, John N. Kitāb Buqrāṭ fī l-aḫlāṭ (Hippocrates: On humours). Kitāb al-ġiḏāʾ li-Buqrāṭ (Hippocrates: On nutriment) . Arabic Technical and Scientific Texts 6. Cambridge (W. Heffer and Sons) 1971, 1–21.",
     "of": "Hippocrates, De alimento"
+   }
+  ],
+  "galenus-ar-hum": [
+   {
+    "url": "https://www.graeco-arabic-studies.org/view/ibnridwan.gal.inhippdehum-summ.fawaid-ar1",
+    "ed": "ed. Garofalo 2011",
+    "by": "Ibn Riḍwān",
+    "title": "Fawāʾid min kitāb al-aḫlāṭ li-Buqrāṭ tafsīr Ǧālīnūs",
+    "en": "Useful Points Derived from Galen's Commentary on Hippocrates' Book On Humours",
+    "type": "Summary (Arabic)",
+    "source": "Garofalo, Ivan. \"Gli estratti di ʿAlī ibn Riḍwān dal commento di Galeno agli Umori di Ippocrate\". Galenos 5 (2011), 119–132.",
+    "of": "Galen, In Hippocratis De humoribus"
    }
   ],
   "hippocrates-020": [
