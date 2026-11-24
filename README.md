@@ -7,6 +7,7 @@ manuscripts that transmit it, with the folio where the text begins and a link to
 lists early printed editions, authoritative modern editions and translations.
 
 - `data/catalogue.json` holds all the data: authors → works → witnesses, prints, editions, translations, reference numbers.
+- `data/relocations.csv` maps dead digitization links (old URL + start folio) to the library's current viewer, with method, verification and evidence notes. `build.py` renders the new link; the catalogue keeps the original URL.
 - `scripts/extract.py` regenerates the JSON from the 2019–2020 catalogue tables (Word/Excel).
 - `scripts/build.py` writes the site to `docs/` (standard library only). GitHub Pages serves `docs/`.
 - `site/` holds the CSS, search script and About page.
