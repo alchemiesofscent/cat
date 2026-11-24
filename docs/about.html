@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>About: Medici Graeci</title>
+<link rel="stylesheet" href="style.css">
+</head><body>
+<header class="site"><a class="brand" href="index.html">Medici Graeci</a>
+<span class="tag">works · manuscripts · printed editions · translations</span>
+<nav><a href="index.html">Authors</a><a href="manuscripts.html">Manuscripts</a><a href="about.html">About</a></nav></header>
+<main><h1>About</h1>
+<p class="lede">This site lists the works of Greek (and some Latin) medical authors. For each work it gives the manuscripts that transmit it, the folios where the text stands, and a link to the digitized page where it begins. It also gives the early printed editions with page references, the authoritative modern editions, and translations.</p>
+<h2>Sources</h2>
+<p>The data come from work catalogues compiled in 2019–2020 for the Corpus Medicorum Graecorum/Latinorum: one table per author (Hippocrates, Galen and some forty other authors). Manuscript links were checked by hand at the time. Galen's manuscript list was revised in November 2020. Digitization services change their URLs, so some links may have broken since. Links to viewers that have since been retired (the old Laurenziana viewer <code>mss.bmlonline.it</code>, the old Ambrosiana server) are marked <em>old link</em>. Folio references are still valid; find the manuscript in the library’s current viewer or through Pinakes.</p>
+<p>The lists record <em>digitized</em> witnesses with folio-level links. They are not complete censuses. For the full and current manuscript tradition of a work, use
+<a href="https://pinakes.irht.cnrs.fr/">Pinakes</a> (IRHT), <a href="https://portail.biblissima.fr/">Biblissima</a> and
+<a href="https://medimanus.chs.harvard.edu/app">MediManus</a> (CHS). Each work page links to its Pinakes record where one is known.</p>
+<h2>Reference numbers</h2>
+<p><strong>Diels</strong>: H. Diels, <em>Die Handschriften der antiken Ärzte</em> (1905–1907). <strong>Kibre</strong>: P. Kibre, <em>Hippocrates Latinus</em>. <strong>Pinakes</strong>: work number in Pinakes. <strong>TLG</strong>: author and work number in the <em>Thesaurus Linguae Graecae</em>. <strong>Fichtner</strong>: G. Fichtner, <em>Corpus Hippocraticum</em> and <em>Corpus Galenicum</em> bibliographies.</p>
+<h2>Data</h2>
+<p>The full dataset is a single JSON file, <a href="catalogue.json">catalogue.json</a>. It is generated from the source tables by <code>scripts/extract.py</code>.</p>
+</main>
+<footer>Compiled from the CMG work catalogues (2019–2020). Built 2026-11-24.</footer>
+</body></html>
