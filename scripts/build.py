@@ -154,6 +154,15 @@ for _f in PC["fixes"]:
                     _m["pk_fix"] = _f["cote_id"]
                     _m["corrected"] = "; ".join(x for x in (_m.get("corrected"), _f["reason"]) if x)
 
+# within each city, list shelfmarks in natural order (Plut. 75.5 before 75.12), keeping the source's city order
+_nat = lambda s: [(0, int(t), "") if t.isdigit() else (1, 0, t) for t in re.findall(r"\d+|[^\d\s.,]+", s.casefold())]
+for _a in DATA["authors"]:
+    for _w in _a["works"]:
+        _first = {}
+        for _i, _m in enumerate(_w["mss"]):
+            _first.setdefault(_m["city"], _i)
+        _w["mss"].sort(key=lambda m: (_first[m["city"]], _nat(m["shelfmark"])))
+
 
 def ms_date(city_name, shelf):
     return MSDATE.get(ms_key(city_name, shelf))
