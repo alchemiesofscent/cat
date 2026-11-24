@@ -1,4 +1,4 @@
-# Medici Graeci: works, manuscripts, editions
+# Ancient Greek Medical Authors: works, manuscripts, editions
 
 Compiled and built by Sean Coughlin.
 

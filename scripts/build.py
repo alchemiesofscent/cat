@@ -454,7 +454,7 @@ def page(title, body, depth=0):
 <title>{esc(title)}</title>
 <link rel="stylesheet" href="{up}style.css">
 </head><body>
-<header class="site"><a class="brand" href="{up}index.html">Medici Graeci</a>
+<header class="site"><a class="brand" href="{up}index.html">Ancient Greek Medical Authors</a>
 <span class="tag">works · manuscripts · printed editions · translations</span>
 <nav><a href="{up}index.html">Authors</a><a href="{up}manuscripts.html">Manuscripts</a><a href="{up}about.html">About</a></nav>
 <form class="filter" action="{up}index.html" role="search"><input id="filter" name="q" type="search" placeholder="Filter this page · Enter searches everything" autocomplete="off" aria-label="Filter"></form>
@@ -785,7 +785,7 @@ def main():
             '<p class="mmt">Click a column heading to sort, e.g. by date. Author dates from Pinakes; (W) = Wikipedia, where it is more precise or Pinakes has none; (SC) = supplied by the compiler.</p>'
             '<table class="authors sortable"><thead><tr><th>Author</th><th>Date</th><th class="num">Works</th><th class="num">Witnesses</th></tr></thead>'
             f'<tbody>{rows}</tbody></table>')
-    (OUT / "index.html").write_text(page("Medici Graeci: works, manuscripts, editions", body))
+    (OUT / "index.html").write_text(page("Ancient Greek Medical Authors: works, manuscripts, editions", body))
     (OUT / "search.json").write_text(json.dumps(search, ensure_ascii=False))
 
     # manuscripts index
@@ -824,10 +824,10 @@ def main():
             '<p class="sortsw" data-target="mslist">Order: <button data-mode="city" class="on">by city</button>'
             '<button data-mode="date">by date</button></p>'
             f'<p class="cities">{cities}</p><div id="mslist">' + "".join(sections) + "</div>")
-    (OUT / "manuscripts.html").write_text(page("Manuscripts: Medici Graeci", body))
+    (OUT / "manuscripts.html").write_text(page("Manuscripts: Ancient Greek Medical Authors", body))
 
     about = (ROOT / "site" / "about.html").read_text() + changelog_html()
-    (OUT / "about.html").write_text(page("About: Medici Graeci", about))
+    (OUT / "about.html").write_text(page("About: Ancient Greek Medical Authors", about))
     print(f"built {len(authors)} authors, {nw} works, {nm} witnesses, {len(by_ms)} shelfmarks -> {OUT}")
 
 
