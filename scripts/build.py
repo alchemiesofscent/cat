@@ -675,15 +675,22 @@ def changelog_html():
                     f'Corrections to the source tables: <a href="{REPO}/blob/main/CORRECTIONS.md">CORRECTIONS.md</a>; '
                     f'checks against Pinakes: <a href="{REPO}/blob/main/PINAKES-CHECK.md">PINAKES-CHECK.md</a>; '
                     f'sigla to review: <a href="{REPO}/blob/main/SIGLA-CHECK.md">SIGLA-CHECK.md</a>.</p>'], False
+    in_version = False
     for line in f.read_text().splitlines():
         m = re.match(r"## (v[\d.]+) · (.*)", line)
         if m:
             if open_ul:
                 out.append("</ul>")
-            out.append(f'<h3 class="ver"><a href="{REPO}/releases/tag/{m[1]}">{m[1]}</a> <span class="mmt">{esc(m[2])}</span></h3><ul>')
-            open_ul = True
-        elif line.startswith("- ") and open_ul:
+                open_ul = False
+            out.append(f'<h3 class="ver"><a href="{REPO}/releases/tag/{m[1]}">{m[1]}</a> <span class="mmt">{esc(m[2])}</span></h3>')
+            in_version = True
+        elif line.startswith("- ") and in_version:
+            if not open_ul:
+                out.append("<ul>")
+                open_ul = True
             out.append(f"<li>{esc(line[2:])}</li>")
+        elif line.strip() and in_version:
+            out.append(f"<p>{esc(line)}</p>")
     return "\n".join(out + (["</ul>"] if open_ul else []))
 
 
