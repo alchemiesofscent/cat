@@ -334,11 +334,12 @@
      "mss": [
       {
        "city": "Florenz",
-       "shelfmark": "Laur. Plut. 72.12 (libri I--III)",
+       "shelfmark": "Laur. Plut. 57.12 (libri I--III)",
        "folios": "1–102v",
        "start": "1",
-       "url": "http://mss.bmlonline.it/s.aspx?Id=AWOML0_eI1A4r7GxMQqu$/oro/9",
-       "raw": "Laur. Plut. 72.12 (libri I--III), fol. 1--102v"
+       "url": "https://tecabml.contentdm.oclc.org/digital/collection/plutei/id/925811",
+       "raw": "Laur. Plut. 72.12 (libri I--III), fol. 1--102v",
+       "corrected": "Wrong shelfmark: Aetius I–III are in Plut. 57.12, not 72.12 (S. Coughlin, Nov 2026; Teca BML plutei/id/925811)."
       },
       {
        "city": "Florenz",

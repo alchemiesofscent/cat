@@ -52,6 +52,11 @@
    "reason": "Link opened image 1, not the folio. Image = 2 x folio + 9 in this codex (checked on 10 other links)."},
   {"match": {"work": "marcellinus-001", "shelfmark": "Vind. med. gr. 15", "folios": "101-105v"},
    "set": {"folios": "101–105v", "url": "https://digital.onb.ac.at/RepViewer/viewer.faces?doc=DTL_5691714&order=211&view=SINGLE"},
-   "reason": "Link opened image 1, not the folio. Image = 2 x folio + 9 in this codex (checked on 10 other links)."}
+   "reason": "Link opened image 1, not the folio. Image = 2 x folio + 9 in this codex (checked on 10 other links)."},
+  {
+   "match": {"work": "aetius-amidenus-001", "shelfmark": "Laur. Plut. 72.12 (libri I--III)"},
+   "set": {"shelfmark": "Laur. Plut. 57.12 (libri I--III)", "url": "https://tecabml.contentdm.oclc.org/digital/collection/plutei/id/925811"},
+   "reason": "Wrong shelfmark: Aetius I–III are in Plut. 57.12, not 72.12 (S. Coughlin, Nov 2026; Teca BML plutei/id/925811)."
+  }
  ]
 }

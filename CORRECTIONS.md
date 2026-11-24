@@ -4,6 +4,7 @@ Applied automatically by `scripts/extract.py` from `data/corrections.json`. The 
 
 | Work | Before | After | Why |
 |---|---|---|---|
+| aetius-amidenus-001 libri Medicinales | Florenz: Laur. Plut. 72.12 (libri I--III), 1–102v | Florenz: Laur. Plut. 57.12 (libri I--III), 1–102v | Wrong shelfmark: Aetius I–III are in Plut. 57.12, not 72.12 (S. Coughlin, Nov 2026; Teca BML plutei/id/925811). (link changed) |
 | anonymus-003 Anonymi de morbis acutis et chroniis (Anonymus Parisinus) | Paris: Par. suppl. gr. 36, 21–82 | Paris: Par. Suppl. gr. 36, 21–82 | Par. Suppl. gr. spelling |
 | cassius-felix-001 Questiones et problemata | Venedig: Marc. gr. Z, 49v–56v | Venedig: Marc. gr. Z. 257 (=622), 49v–56v | Shelfmark number missing. The link is Marciana CSTOR.240.9902 = Gr. Z. 257 (=622). |
 | dioscorides-001 De materia medica | Florenz: Laur. Plut. 74.23., 21–185 | Florenz: Laur. Plut. 74.23, 21–185 | trailing full stop |

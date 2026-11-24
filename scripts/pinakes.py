@@ -5,7 +5,7 @@ Pinakes guards against bulk access, so this is deliberately slow and resumable:
 one request every DELAY seconds, every page cached in cache/pinakes/, and the run stops at the
 first guard page (re-run later to continue).
 
-Usage: python3 scripts/pinakes.py            # fetch what is missing, then parse
+Usage: python3 scripts/pinakes.py            # fetch what is missing (works, authors, shelfmarks), then parse
        python3 scripts/pinakes.py --parse    # parse the cache only
 """
 import html, json, re, sys, time, urllib.request
@@ -85,6 +85,43 @@ def fetch_authors():
     return True
 
 
+def cote_ids():
+    """Diktyon numbers of every witness of our works (needs a parsed data/pinakes.json)."""
+    pk = json.loads((ROOT / "data" / "pinakes.json").read_text())
+    return sorted({x["cote_id"] for v in pk["oeuvres"].values() for x in v["witnesses"]}, key=int)
+
+
+def fetch_cotes():
+    """Shelfmark pages: they carry the links to the digitized manuscript ('... numérisation')."""
+    todo = [i for i in cote_ids() if not (CACHE / f"cote_{i}.html").exists()]
+    print(f"{len(todo)} shelfmark pages to fetch")
+    for n, i in enumerate(todo, 1):
+        req = urllib.request.Request(f"https://pinakes.irht.cnrs.fr/notices/cote/{i}/", headers={"User-Agent": UA})
+        try:
+            page = urllib.request.urlopen(req, timeout=60).read().decode("utf-8", "replace")
+        except Exception as e:
+            print(f"stop at cote {i}: {e}"); return False
+        if "sentinel-guard-page" in page or "Service temporairement indisponible" in page:
+            print(f"stop at cote {i}: guard page after {n - 1} fetches; re-run later"); return False
+        (CACHE / f"cote_{i}.html").write_text(page)
+        print(f"  cote {n}/{len(todo)} {i}", flush=True)
+        time.sleep(DELAY)
+    return True
+
+
+def parse_cote(i):
+    f = CACHE / f"cote_{i}.html"
+    if not f.exists():
+        return None
+    t = f.read_text()
+    block = re.search(r"<h3>Identifiants</h3>(.*?)</ul>", t, re.S)
+    links = []
+    for label, url, txt in re.findall(r"<li>\s*([^<]*?)\s*:\s*(?:&nbsp;)?\s*<a href=\"(https?://[^\"]+)\"[^>]*>(.*?)</a>", block[1] if block else ""):
+        if "numérisation" in label.lower() or "numerisation" in label.lower() or "digit" in label.lower():
+            links.append({"label": html.unescape(label).strip(), "url": html.unescape(url), "text": cell(txt)})
+    return {"digitized": links}
+
+
 def cell(c):
     return re.sub(r"\s+", " ", html.unescape(re.sub(r"<[^>]+>", " ", c))).strip()
 
@@ -125,9 +162,16 @@ def parse(ids):
             continue
         authors[name] = {"pinakes_id": i, "pinakes_name": pname, "century": cen[1] if cen else "", "date": dat[1] if dat else "",
                          "url": f"https://pinakes.irht.cnrs.fr/notices/auteur/{i}/"}
+    cotes = {}
+    for v in out.values():
+        for x in v["witnesses"]:
+            c = parse_cote(x["cote_id"])
+            if c is not None:
+                cotes[x["cote_id"]] = c
+    print(f"{len(cotes)} shelfmark pages parsed, {sum(1 for c in cotes.values() if c['digitized'])} with a digitization link")
     (ROOT / "data" / "pinakes.json").write_text(json.dumps(
         {"source": "Pinakes, IRHT (pinakes.irht.cnrs.fr)", "retrieved": date.today().isoformat(),
-         "oeuvres": out, "authors": authors}, ensure_ascii=False, indent=1))
+         "oeuvres": out, "authors": authors, "cotes": cotes}, ensure_ascii=False, indent=1))
     print(f"{len(authors)} author records")
     print(f"parsed {len(out)} Pinakes works, {sum(len(v['witnesses']) for v in out.values())} witnesses")
 
@@ -135,6 +179,7 @@ def parse(ids):
 if __name__ == "__main__":
     ids = work_ids()
     if "--parse" not in sys.argv:
-        if fetch(ids):
-            fetch_authors()
+        if fetch(ids) and fetch_authors():
+            parse(ids)
+            fetch_cotes()
     parse(ids)

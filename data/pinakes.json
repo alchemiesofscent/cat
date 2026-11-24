@@ -37969,5 +37969,16 @@
    "date": "",
    "url": "https://pinakes.irht.cnrs.fr/notices/auteur/2561/"
   }
+ },
+ "cotes": {
+  "51800": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b110002515",
+     "text": "Grec 2171 [MF]"
+    }
+   ]
+  }
  }
 }

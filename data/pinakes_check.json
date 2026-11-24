@@ -1,0 +1,652 @@
+{
+ "checked": 995,
+ "confirmed": 920,
+ "fixes": [
+  {
+   "work": "aretaeus-cappadox-001",
+   "title": "De causis et signis acutorum morborum libri II",
+   "city": "London",
+   "shelfmark": "Harley 6236",
+   "folios": "8–118",
+   "set": {
+    "shelfmark": "Harley 6326"
+   },
+   "cote_id": "39715",
+   "pinakes": "Harley 6326, f. 008-118",
+   "reason": "Pinakes lists Harley 6326 (f. 008-118) for this work, not Harley 6236"
+  },
+  {
+   "work": "aretaeus-cappadox-003",
+   "title": "De curatione acutorum morborum libri II",
+   "city": "London",
+   "shelfmark": "Harley 6236",
+   "folios": "118–183v",
+   "set": {
+    "shelfmark": "Harley 6326"
+   },
+   "cote_id": "39715",
+   "pinakes": "Harley 6326, f. 118-183v",
+   "reason": "Pinakes lists Harley 6326 (f. 118-183v) for this work, not Harley 6236"
+  },
+  {
+   "work": "aretaeus-cappadox-004",
+   "title": "De curatione diuturnorum morborum libri II",
+   "city": "London",
+   "shelfmark": "Harley 6236",
+   "folios": "2–7ν and fol. 183v–212",
+   "set": {
+    "shelfmark": "Harley 6326"
+   },
+   "cote_id": "39715",
+   "pinakes": "Harley 6326, f. 002-7v",
+   "reason": "Pinakes lists Harley 6326 (f. 002-7v) for this work, not Harley 6236"
+  },
+  {
+   "work": "galenus-006",
+   "title": "Ars medica",
+   "city": "Paris",
+   "shelfmark": "Par. gr. 2161",
+   "folios": "1–24v",
+   "set": {
+    "shelfmark": "Par. gr. 2163"
+   },
+   "cote_id": "51792",
+   "pinakes": "Grec 2163, f. 01-24v*",
+   "reason": "Pinakes lists Grec 2163 (f. 01-24v*) for this work, not Par. gr. 2161"
+  }
+ ],
+ "review": [
+  {
+   "work": "aetius-amidenus-001",
+   "title": "libri Medicinales",
+   "city": "Florenz",
+   "shelfmark": "Laur. Plut. 72.12 (libri I--III)",
+   "folios": "1–102v",
+   "candidates": [
+    "Plut. 75. 07, f. 001-214",
+    "Plut. 75. 13, f. 001-121*",
+    "Plut. 75. 18, f. 001-278"
+   ]
+  },
+  {
+   "work": "alexander-trallianus-001",
+   "title": "De febribus",
+   "city": "Paris",
+   "shelfmark": "Par. gr. 2718",
+   "folios": "11v–41v",
+   "candidates": []
+  },
+  {
+   "work": "aretaeus-cappadox-002",
+   "title": "De causis et signis diuturnorum morborum libri II",
+   "city": "Florenz",
+   "shelfmark": "Laur. Plut. 75.15",
+   "folios": "27–40",
+   "candidates": []
+  },
+  {
+   "work": "aretaeus-cappadox-003",
+   "title": "De curatione acutorum morborum libri II",
+   "city": "Vatikanstadt",
+   "shelfmark": "Vat. gr. 286",
+   "folios": "92–145",
+   "candidates": []
+  },
+  {
+   "work": "asclepiades-bithyniensis-002",
+   "title": "[Praecepta salubria]",
+   "city": "Florenz",
+   "shelfmark": "Laur. Plut. 59.17",
+   "folios": "74r–v",
+   "candidates": []
+  },
+  {
+   "work": "asclepiades-bithyniensis-002",
+   "title": "[Praecepta salubria]",
+   "city": "Florenz",
+   "shelfmark": "Laur. Plut. 87.16",
+   "folios": "14–15",
+   "candidates": []
+  },
+  {
+   "work": "galenus-005",
+   "title": "De constitutione artis medicae ad Patrophilum",
+   "city": "Vatikanstadt",
+   "shelfmark": "Vat. gr. 283",
+   "folios": "12v–15",
+   "candidates": []
+  },
+  {
+   "work": "galenus-009",
+   "title": "De facultatibus naturalibus",
+   "city": "Paris",
+   "shelfmark": "Par. Suppl. gr. 35",
+   "folios": "129–130v[wrong work, this is “peri ousias ton phusikon dunameon”]",
+   "candidates": []
+  },
+  {
+   "work": "galenus-009",
+   "title": "De facultatibus naturalibus",
+   "city": "Berlin",
+   "shelfmark": "P. 21178 Fr. a, b",
+   "folios": "",
+   "candidates": []
+  },
+  {
+   "work": "galenus-011",
+   "title": "De ossibus ad tirones",
+   "city": "Paris",
+   "shelfmark": "Par. gr. 1849",
+   "folios": "9–94",
+   "candidates": []
+  },
+  {
+   "work": "galenus-028",
+   "title": "De atra bile",
+   "city": "Vatikanstadt",
+   "shelfmark": "Vat. Urb. gr. 70",
+   "folios": "107v–111",
+   "candidates": []
+  },
+  {
+   "work": "galenus-030",
+   "title": "De placitis Hippocratis et Platonis",
+   "city": "Paris",
+   "shelfmark": "Par. gr. 2283",
+   "folios": "108–113v",
+   "candidates": []
+  },
+  {
+   "work": "galenus-030",
+   "title": "De placitis Hippocratis et Platonis",
+   "city": "Paris",
+   "shelfmark": "Par. Suppl. gr. 634",
+   "folios": "19–26",
+   "candidates": []
+  },
+  {
+   "work": "galenus-030",
+   "title": "De placitis Hippocratis et Platonis",
+   "city": "Berlin",
+   "shelfmark": "P. 21141",
+   "folios": "",
+   "candidates": []
+  },
+  {
+   "work": "galenus-030",
+   "title": "De placitis Hippocratis et Platonis",
+   "city": "München",
+   "shelfmark": "Pap. graec. mon. 329 (=P.Münch. II 43)",
+   "folios": "",
+   "candidates": []
+  },
+  {
+   "work": "galenus-033",
+   "title": "De sanitate tuenda",
+   "city": "London",
+   "shelfmark": "Harley 5626",
+   "folios": "53v–79v",
+   "candidates": []
+  },
+  {
+   "work": "galenus-033",
+   "title": "De sanitate tuenda",
+   "city": "Oxford",
+   "shelfmark": "P.Oxy.LXXX 5228",
+   "folios": "",
+   "candidates": []
+  },
+  {
+   "work": "galenus-042",
+   "title": "De morborum temporibus",
+   "city": "Florenz",
+   "shelfmark": "Laur. Plut. 74,5",
+   "folios": "121–122",
+   "candidates": []
+  },
+  {
+   "work": "galenus-043",
+   "title": "De typis",
+   "city": "Florenz",
+   "shelfmark": "Laur. Plut. 74,11",
+   "folios": "163–171",
+   "candidates": []
+  },
+  {
+   "work": "galenus-043",
+   "title": "De typis",
+   "city": "Florenz",
+   "shelfmark": "Laur. Plut. 74,31",
+   "folios": "209–210",
+   "candidates": []
+  },
+  {
+   "work": "galenus-044",
+   "title": "Adversus eos, qui de typis scripserunt",
+   "city": "Mailand",
+   "shelfmark": "Ambros. C,80 inf.",
+   "folios": "212–231",
+   "candidates": [
+    "Mss. Q 003 sup. (Martini-Bassi 659), f. 212-231*"
+   ]
+  },
+  {
+   "work": "galenus-045",
+   "title": "De plenitudine",
+   "city": "Mailand",
+   "shelfmark": "Ambros. C,80 inf.",
+   "folios": "238–265",
+   "candidates": [
+    "Mss. Q 003 sup. (Martini-Bassi 659), f. 238-265*"
+   ]
+  },
+  {
+   "work": "galenus-052",
+   "title": "De locis affectis",
+   "city": "Mailand",
+   "shelfmark": "Ambros. C,80 inf.",
+   "folios": "45–128v",
+   "candidates": [
+    "Mss. Q 003 sup. (Martini-Bassi 659), f. 045-128v"
+   ]
+  },
+  {
+   "work": "galenus-052",
+   "title": "De locis affectis",
+   "city": "Paris",
+   "shelfmark": "Par. gr. 2332",
+   "folios": "6–76v",
+   "candidates": []
+  },
+  {
+   "work": "galenus-052",
+   "title": "De locis affectis",
+   "city": "Oxford",
+   "shelfmark": "P.Oxy.LXXX 5227",
+   "folios": "",
+   "candidates": []
+  },
+  {
+   "work": "galenus-055",
+   "title": "De dignoscendis pulsibus",
+   "city": "Oxford",
+   "shelfmark": "Barocc. 131",
+   "folios": "477v–478",
+   "candidates": []
+  },
+  {
+   "work": "galenus-062",
+   "title": "Ad Glauconem de medendi methodo",
+   "city": "Florenz",
+   "shelfmark": "Laur. Plut. 75,9",
+   "folios": "174–219v",
+   "candidates": []
+  },
+  {
+   "work": "galenus-062",
+   "title": "Ad Glauconem de medendi methodo",
+   "city": "Florenz",
+   "shelfmark": "Laur. Plut. 75,16",
+   "folios": "149v–192",
+   "candidates": []
+  },
+  {
+   "work": "galenus-062",
+   "title": "Ad Glauconem de medendi methodo",
+   "city": "London",
+   "shelfmark": "Arundel 537",
+   "folios": "114–156",
+   "candidates": []
+  },
+  {
+   "work": "galenus-062",
+   "title": "Ad Glauconem de medendi methodo",
+   "city": "Modena",
+   "shelfmark": "Puntoni 109",
+   "folios": "38v–63v",
+   "candidates": [
+    "Mss. α. P. 5. 20 (Puntoni 109), f. 038v-63"
+   ]
+  },
+  {
+   "work": "galenus-062",
+   "title": "Ad Glauconem de medendi methodo",
+   "city": "Paris",
+   "shelfmark": "Par. gr. 2304",
+   "folios": "155v–190v",
+   "candidates": []
+  },
+  {
+   "work": "galenus-062",
+   "title": "Ad Glauconem de medendi methodo",
+   "city": "Wien",
+   "shelfmark": "Vind. med. gr. 13",
+   "folios": "6v–23v",
+   "candidates": []
+  },
+  {
+   "work": "galenus-062",
+   "title": "Ad Glauconem de medendi methodo",
+   "city": "Wien",
+   "shelfmark": "Vind. med. gr. 37",
+   "folios": "4–7v, 10–12v",
+   "candidates": []
+  },
+  {
+   "work": "galenus-065",
+   "title": "De curandi ratione per venae sectionem",
+   "city": "London",
+   "shelfmark": "Additional 17900",
+   "folios": "204v–210v",
+   "candidates": []
+  },
+  {
+   "work": "galenus-065",
+   "title": "De curandi ratione per venae sectionem",
+   "city": "Oxford",
+   "shelfmark": "Barocc. 224",
+   "folios": "1–2v",
+   "candidates": []
+  },
+  {
+   "work": "galenus-067",
+   "title": "De purgantium medicamentorum facultate",
+   "city": "Paris",
+   "shelfmark": "Par. gr. 2279",
+   "folios": "1–155",
+   "candidates": []
+  },
+  {
+   "work": "galenus-070",
+   "title": "De compositione medicamentorum secundum locos",
+   "city": "Berlin",
+   "shelfmark": "P. 11317 R",
+   "folios": "",
+   "candidates": []
+  },
+  {
+   "work": "galenus-077",
+   "title": "In Hippocratis Prorrheticum I commentaria",
+   "city": "Paris",
+   "shelfmark": "Par. gr. 2186",
+   "folios": "172–232v",
+   "candidates": []
+  },
+  {
+   "work": "galenus-077",
+   "title": "In Hippocratis Prorrheticum I commentaria",
+   "city": "Paris",
+   "shelfmark": "Par. gr. 2228",
+   "folios": "66–91v",
+   "candidates": []
+  },
+  {
+   "work": "galenus-077",
+   "title": "In Hippocratis Prorrheticum I commentaria",
+   "city": "Paris",
+   "shelfmark": "Par. gr. 2257",
+   "folios": "129–130v",
+   "candidates": []
+  },
+  {
+   "work": "galenus-077",
+   "title": "In Hippocratis Prorrheticum I commentaria",
+   "city": "Paris",
+   "shelfmark": "Par. gr. 2266",
+   "folios": "1–92v",
+   "candidates": []
+  },
+  {
+   "work": "galenus-077",
+   "title": "In Hippocratis Prorrheticum I commentaria",
+   "city": "Vatikanstadt",
+   "shelfmark": "Vat. Pal. gr. 157",
+   "folios": "2–110",
+   "candidates": []
+  },
+  {
+   "work": "galenus-077",
+   "title": "In Hippocratis Prorrheticum I commentaria",
+   "city": "Vatikanstadt",
+   "shelfmark": "Vat. Urb. gr. 68",
+   "folios": "26v–27",
+   "candidates": []
+  },
+  {
+   "work": "galenus-078",
+   "title": "In Hippocratis Epidemias commentaria",
+   "city": "Paris",
+   "shelfmark": "Par. gr. 2269",
+   "folios": "175v–178r",
+   "candidates": []
+  },
+  {
+   "work": "galenus-078",
+   "title": "In Hippocratis Epidemias commentaria",
+   "city": "Oxford",
+   "shelfmark": "P.Oxy.LXXX 5229",
+   "folios": "",
+   "candidates": []
+  },
+  {
+   "work": "galenus-083",
+   "title": "In Hippocratis Prognosticum commentaria",
+   "city": "Paris",
+   "shelfmark": "Par. gr. 2166",
+   "folios": "89–177v",
+   "candidates": []
+  },
+  {
+   "work": "galenus-087",
+   "title": "De libris propriis",
+   "city": "Vatikanstadt",
+   "shelfmark": "Vat. Barb. gr. 5",
+   "folios": "248",
+   "note": "Pinakes lists Barb. gr. 004 (f. 248), but the catalogue's link is to Vat. Barb. gr. 5",
+   "candidates": [
+    "Barb. gr. 004, f. 248"
+   ]
+  },
+  {
+   "work": "hippocrates-004",
+   "title": "De victu acutorum; de victu acutorum (spurium)",
+   "city": "Vatikanstadt",
+   "shelfmark": "Vat. gr. 276",
+   "folios": "14v–26r",
+   "candidates": [
+    "Pal. gr. 192, f. 013v-18*"
+   ]
+  },
+  {
+   "work": "hippocrates-022",
+   "title": "Coacae praenotiones",
+   "city": "Paris",
+   "shelfmark": "Par. gr. 2253",
+   "folios": "1r–33v",
+   "candidates": []
+  },
+  {
+   "work": "hippocrates-023",
+   "title": "De arte",
+   "city": "Paris",
+   "shelfmark": "Par. gr. 2140",
+   "folios": "10v–13r",
+   "candidates": []
+  },
+  {
+   "work": "hippocrates-026",
+   "title": "De liquidorum usu",
+   "city": "Paris",
+   "shelfmark": "Par. gr. 2253",
+   "folios": "70v–74v",
+   "candidates": []
+  },
+  {
+   "work": "hippocrates-043",
+   "title": "De morbis IV",
+   "city": "Paris",
+   "shelfmark": "Par. gr. 2146",
+   "folios": "187r–198r",
+   "candidates": []
+  },
+  {
+   "work": "hippocrates-043",
+   "title": "De morbis IV",
+   "city": "Vatikanstadt",
+   "shelfmark": "Vat. gr. 276",
+   "folios": "111r–117r",
+   "candidates": []
+  },
+  {
+   "work": "hippocrates-045",
+   "title": "De sterilibus (De morbis mulierum III)",
+   "city": "Paris",
+   "shelfmark": "Par. gr. 2146",
+   "folios": "241v–307v",
+   "candidates": []
+  },
+  {
+   "work": "hippocrates-045",
+   "title": "De sterilibus (De morbis mulierum III)",
+   "city": "Wien",
+   "shelfmark": "Vind. med. gr. 4",
+   "folios": "241r–383v",
+   "candidates": []
+  },
+  {
+   "work": "hippocrates-049",
+   "title": "De anatome",
+   "city": "Paris",
+   "shelfmark": "Par. gr. 2140",
+   "folios": "237r–237v",
+   "candidates": []
+  },
+  {
+   "work": "hippocrates-049",
+   "title": "De anatome",
+   "city": "Paris",
+   "shelfmark": "Par. gr. 2141",
+   "folios": "207r–v",
+   "candidates": []
+  },
+  {
+   "work": "hippocrates-049",
+   "title": "De anatome",
+   "city": "Venedig",
+   "shelfmark": "Marc. gr. 269",
+   "folios": "297r–298r",
+   "candidates": []
+  },
+  {
+   "work": "hippocrates-053",
+   "title": "De hebdomadibus",
+   "city": "Paris",
+   "shelfmark": "Par. gr. 2146",
+   "folios": "326r–331r",
+   "candidates": []
+  },
+  {
+   "work": "hippocrates-053",
+   "title": "De hebdomadibus",
+   "city": "Vatikanstadt",
+   "shelfmark": "Vat. gr. 276",
+   "folios": "192r–195r",
+   "candidates": []
+  },
+  {
+   "work": "johannes-alexandrinus-001",
+   "title": "Commentarium in Hippocratis librum de natura pueri",
+   "city": "Florenz",
+   "shelfmark": "Laur. Plut. 59,14",
+   "folios": "227v–244v",
+   "candidates": []
+  },
+  {
+   "work": "johannes-alexandrinus-002",
+   "title": "Commentarium in Hippocratis librum vi epidemiarum",
+   "city": "Florenz",
+   "shelfmark": "Laur. Plut. 75,4",
+   "folios": "1–220",
+   "candidates": []
+  },
+  {
+   "work": "johannes-alexandrinus-002",
+   "title": "Commentarium in Hippocratis librum vi epidemiarum",
+   "city": "Heidelberg",
+   "shelfmark": "Vat. Pal. gr. 296",
+   "folios": "1–290",
+   "candidates": []
+  },
+  {
+   "work": "johannes-alexandrinus-002",
+   "title": "Commentarium in Hippocratis librum vi epidemiarum",
+   "city": "Paris",
+   "shelfmark": "Par. gr. 2224",
+   "folios": "138–283v",
+   "candidates": []
+  },
+  {
+   "work": "johannes-alexandrinus-002",
+   "title": "Commentarium in Hippocratis librum vi epidemiarum",
+   "city": "Paris",
+   "shelfmark": "Par. gr. 2239",
+   "folios": "1–162v",
+   "candidates": []
+  },
+  {
+   "work": "johannes-alexandrinus-002",
+   "title": "Commentarium in Hippocratis librum vi epidemiarum",
+   "city": "Wien",
+   "shelfmark": "Vind. med. gr. 20",
+   "folios": "7–445",
+   "candidates": []
+  },
+  {
+   "work": "marcellinus-001",
+   "title": "De pulsibus",
+   "city": "Paris",
+   "shelfmark": "Par. gr. 2332",
+   "folios": "149–151v",
+   "candidates": []
+  },
+  {
+   "work": "meletius-monachus-001",
+   "title": "De natura hominis",
+   "city": "Oxford",
+   "shelfmark": "Baroc. 131",
+   "folios": "1–41v",
+   "candidates": [
+    "Barocci 131, f. 001-41v",
+    "Roe 15, f. 001-42*"
+   ]
+  },
+  {
+   "work": "meletius-monachus-001",
+   "title": "De natura hominis",
+   "city": "Rom",
+   "shelfmark": "Bibl. Ang. gr. 17",
+   "folios": "141–236",
+   "candidates": []
+  },
+  {
+   "work": "oribasius-002",
+   "title": "Collectiones Medicae (libri incerti)",
+   "city": "Paris",
+   "shelfmark": "Par. gr. 2237",
+   "folios": "163–203",
+   "candidates": []
+  },
+  {
+   "work": "stephanus-atheniensis-philosophus-003",
+   "title": "In Hippocratis aphorismos commentaria",
+   "city": "Paris",
+   "shelfmark": "Par. gr. 447",
+   "folios": "1–21",
+   "candidates": [
+    "Grec 2222, f. 001-69",
+    "Grec 2223, f. 001-158v*",
+    "Supplément grec 0447, f. 001-21"
+   ]
+  }
+ ]
+}

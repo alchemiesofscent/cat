@@ -83,7 +83,8 @@ def ms_key(city_name, shelf):
     shelf = re.sub(r"\(.*?\)|=.*$", "", re.split(r",\s*(?:MS|ff?\.|f\.)", shelf)[0])
     words = re.findall(r"[A-Za-zÀ-ÿ]+", (city_name or "") + " " + shelf)
     c = next((_CITY_KEY[w.lower()] for w in words if w.lower() in _CITY_KEY), "")
-    norm = lambda w: "coisl" if w == "coislin" else "suppl" if w.startswith(("suppl", "supplément")) else w
+    norm = lambda w: ("coisl" if w == "coislin" else "suppl" if w.startswith(("suppl", "supplément")) else
+                      "add" if w == "additional" else "barocc" if w == "barocci" else w)
     fonds = sorted({norm(w.lower()) for w in words if norm(w.lower()) in _KEEP})
     nums = [str(int(n)) for n in re.findall(r"\d+", shelf)]
     return f"{c}|{' '.join(fonds)}|{'.'.join(nums)}" if c and nums else None
@@ -124,6 +125,34 @@ for _sid, _x in (MM.get("all_manuscripts") or {}).items():
     _k = ms_key("", _sid)
     if _k and _x["centuries"] and _k not in MSDATE:
         MSDATE[_k] = {"cs": _x["centuries"], "date": "", "src": "MediManus", "url": _x["url"]}
+
+
+# Pinakes: witnesses per catalogue work, and the digitization links on its shelfmark pages
+PK_BY_WORK = defaultdict(list)
+for _o in PK["oeuvres"].values():
+    for _wid in _o["works"]:
+        PK_BY_WORK[_wid].extend(_o["witnesses"])
+PKDIG = {i: c["digitized"] for i, c in (PK.get("cotes") or {}).items() if c.get("digitized")}
+PKDIG_BY_KEY = {}
+for _o in PK["oeuvres"].values():
+    for _x in _o["witnesses"]:
+        _k = ms_key(_x["city"], f"{_x['fonds']} {_x['cote']}")
+        if _k and _x["cote_id"] in PKDIG:
+            PKDIG_BY_KEY.setdefault(_k, _x["cote_id"])
+
+# shelfmarks corrected by scripts/pinakes_check.py (one digit off, same start folio)
+PCFILE = ROOT / "data" / "pinakes_check.json"
+PC = json.loads(PCFILE.read_text()) if PCFILE.exists() else {"fixes": [], "review": []}
+for _f in PC["fixes"]:
+    for _a in DATA["authors"]:
+        for _w in _a["works"]:
+            if _w["id"] != _f["work"]:
+                continue
+            for _m in _w["mss"]:
+                if _m["shelfmark"] == _f["shelfmark"] and _m["folios"] == _f["folios"]:
+                    _m["shelfmark"] = _f["set"]["shelfmark"]
+                    _m["pk_fix"] = _f["cote_id"]
+                    _m["corrected"] = "; ".join(x for x in (_m.get("corrected"), _f["reason"]) if x)
 
 
 def ms_date(city_name, shelf):
@@ -258,6 +287,13 @@ def stale(u):
 def go(m, folio_label="view"):
     """Link for witness m: relocated link first, then the stale check, then the stored URL."""
     u = m["url"]
+    if m.get("pk_fix"):  # shelfmark corrected from Pinakes: the old link may be to the wrong manuscript
+        d = PKDIG.get(m["pk_fix"])
+        if d:
+            return f'<a class="go" href="{esc(d[0]["url"])}" title="Digitization linked by Pinakes; opens the manuscript">view ms.</a>'
+        if stale(u) or RELOC.get((u, m.get("start") or "")):
+            return (f'<a class="go stale" href="https://pinakes.irht.cnrs.fr/notices/cote/{m["pk_fix"]}/" '
+                    'title="Shelfmark corrected; see Pinakes for the manuscript">Pinakes</a>')
     r = RELOC.get((u, m.get("start") or ""))
     if r:
         note = " (approximate)" if r["method"] == "offset" else ""
@@ -265,6 +301,9 @@ def go(m, folio_label="view"):
             return f'<a class="go" href="{esc(r["new_folio_url"])}" title="Current viewer{note}">{folio_label}</a>'
         return (f'<a class="go" href="{esc(r["new_manuscript_url"])}" '
                 f'title="Current viewer; opens the manuscript, not the folio">view ms.</a>')
+    if stale(u) and PKDIG_BY_KEY.get(ms_key(m["city"], m["shelfmark"])):
+        d = PKDIG[PKDIG_BY_KEY[ms_key(m["city"], m["shelfmark"])]]
+        return f'<a class="go" href="{esc(d[0]["url"])}" title="Current digitization, linked by Pinakes; opens the manuscript">view ms.</a>'
     if stale(u):
         return f'<a class="go stale" href="{esc(u)}" title="This viewer has been retired; the link no longer resolves">old link</a>'
     return f'<a class="go" href="{esc(u)}">{folio_label}</a>'
@@ -406,6 +445,27 @@ def work_html(a, w):
                        f"<td><a class='go' href='{esc(x['url'])}'>MediManus</a></td></tr>")
         parts.append(f'<h4>In MediManus <span class="n">{len(mmw)}</span></h4>'
                      f'<table class="mss mm sortable"><thead><tr><th>Shelfmark</th><th>Date</th><th>Folios</th><th></th><th>CMG list</th><th></th></tr></thead><tbody>{"".join(trs)}</tbody></table>')
+    # digitized manuscripts Pinakes lists for this work that are in neither list above
+    seen = {ms_key(m["city"], m["shelfmark"]) for m in w["mss"]} | {ms_key("", x["shelfmark"]) for x in mmw}
+    extra, done = [], set()
+    for x in PK_BY_WORK.get(w["id"], []):
+        k = ms_key(x["city"], f"{x['fonds']} {x['cote']}")
+        if x["cote_id"] in PKDIG and k not in seen and (x["cote_id"], x["folios"]) not in done:
+            done.add((x["cote_id"], x["folios"]))
+            extra.append(x)
+    if extra:
+        trs = []
+        for x in sorted(extra, key=lambda x: (x["city"], x["fonds"], x["cote"])):
+            links = " ".join(f'<a class="go" href="{esc(d["url"])}" title="{esc(d["label"], quote=True)}">view ms.</a>'
+                             for d in PKDIG[x["cote_id"]][:2])
+            d = {"cs": _pk_centuries(x["century"]), "part": _pk_part(x["century"]), "date": x["date"], "src": "Pinakes",
+                 "url": f"https://pinakes.irht.cnrs.fr/notices/cote/{x['cote_id']}/"} if _pk_centuries(x["century"]) else None
+            trs.append(f"<tr><td>{esc(city(x['city']))}</td><td class='sm'><a href='https://pinakes.irht.cnrs.fr/notices/cote/{x['cote_id']}/'>"
+                       f"{esc(x['fonds'])} {esc(x['cote'])}</a></td>" + date_cell(d) +
+                       f"<td class='fol'>{esc(x['folios'])}</td><td>{links}</td></tr>")
+        parts.append(f'<h4>Also digitized, according to Pinakes <span class="n">{len(extra)}</span></h4>'
+                     '<table class="mss sortable"><thead><tr><th>City</th><th>Shelfmark</th><th>Date</th><th>Folios</th><th>Digitization</th></tr></thead>'
+                     f'<tbody>{"".join(trs)}</tbody></table>')
     more = []
     pk = next((u for _, u in refs.get("Pinakes", []) if u), None)
     if pk:
