@@ -4,7 +4,8 @@ One row per work × manuscript whose link opens only the manuscript (Pinakes' di
 witnesses whose old link could only be relocated to the manuscript). Open `manuscript_url`, find the start folio,
 paste the page's URL into `folio_url`. scripts/build.py then links that row at the folio ("view f. 52v").
 
-Re-running adds new rows and keeps everything already filled in. Rows are sorted by author, work, city, shelfmark.
+Re-running adds new rows and keeps everything already filled in. Rows are sorted for working through: the author with
+the most missing links first, then manuscript by manuscript (most works first), folios ascending.
 Usage: python3 scripts/folio_worklist.py
 """
 import csv, re, sys
@@ -58,6 +59,14 @@ def main():
         prev = old.pop(k, {})
         out.append({c: (prev.get(c) or r.get(c, "")) for c in COLS})
     out += [r for r in old.values() if r["folio_url"]]  # keep rows filled in earlier even if the source row has gone
+    # work order: the author with the most missing links first; within an author, manuscript by manuscript
+    # (one manuscript usually carries several works), the manuscripts with most works first, folios ascending
+    from collections import Counter
+    per_author = Counter(r["author"] for r in out if not r["folio_url"])
+    per_ms = Counter((r["author"], r["city"], r["shelfmark"]) for r in out)
+    nat = lambda s: [int(t) if t.isdigit() else t for t in re.findall(r"\d+|\D+", s or "")]
+    out.sort(key=lambda r: (-per_author[r["author"]], r["author"], -per_ms[(r["author"], r["city"], r["shelfmark"])],
+                            r["city"], nat(r["shelfmark"]), nat(r["start"])))
     with FILE.open("w", newline="", encoding="utf-8") as fh:
         wr = csv.DictWriter(fh, fieldnames=COLS)
         wr.writeheader()
