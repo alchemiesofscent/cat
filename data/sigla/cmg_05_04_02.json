@@ -1,0 +1,775 @@
+{
+ "volume": "cmg_05_04_02",
+ "editor": "Koch/Helmreich/Kalbfleisch/Hartlich",
+ "series": "CMG V 4,2",
+ "year": "1923",
+ "sections": [
+  {
+   "label": "San.tu – Conspectus codicum",
+   "pages": [
+    66
+   ],
+   "works": [
+    "Galen, De sanitate tuenda"
+   ],
+   "continues_on_next_page": false,
+   "entries": [
+    {
+     "siglum": {
+      "base": "M",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Marcianus 276",
+     "normalized": "Marc. gr. 276",
+     "city": "Venice",
+     "folios": "3r–68r",
+     "date": "s. XII",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "V",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Marcianus 282",
+     "normalized": "Marc. gr. 282",
+     "city": "Venice",
+     "folios": "101v–153v",
+     "date": "s. XV",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "R",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Reginensis 173",
+     "normalized": "Vat. Reg. gr. 173",
+     "city": "Vatican City",
+     "folios": "233r–352v et 361rv",
+     "date": "s. XV",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "M",
+      "sup": "1",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "correctores",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "M1 M2 M3 V1 R1 R2 R3 correctores"
+    },
+    {
+     "siglum": {
+      "base": "M",
+      "sup": "2",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "correctores",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "M1 M2 M3 V1 R1 R2 R3 correctores"
+    },
+    {
+     "siglum": {
+      "base": "M",
+      "sup": "3",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "correctores",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "M1 M2 M3 V1 R1 R2 R3 correctores"
+    },
+    {
+     "siglum": {
+      "base": "V",
+      "sup": "1",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "correctores",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "M1 M2 M3 V1 R1 R2 R3 correctores"
+    },
+    {
+     "siglum": {
+      "base": "R",
+      "sup": "1",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "correctores",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "M1 M2 M3 V1 R1 R2 R3 correctores"
+    },
+    {
+     "siglum": {
+      "base": "R",
+      "sup": "2",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "correctores",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "M1 M2 M3 V1 R1 R2 R3 correctores"
+    },
+    {
+     "siglum": {
+      "base": "R",
+      "sup": "3",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "correctores",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "M1 M2 M3 V1 R1 R2 R3 correctores"
+    },
+    {
+     "siglum": {
+      "base": "[M]",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "deficit M.",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "B",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "translation",
+     "printed": "Burgundionis Pisani versio latina",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "N",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "translation",
+     "printed": "Nicolai Regini versio latina",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Scal.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "Scaligeri lectiones margini exemplaris Aldinae adscriptae",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Orib.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "Œuvres d'Oribase. Par Bussemaker et Daremberg. Paris 1851 sq.",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Aët.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "Aëtii Amideni lib. medicin. I. tom. Venetiis 1534.",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    }
+   ]
+  },
+  {
+   "label": "Alim.fac. – Conspectus codicum",
+   "pages": [
+    264
+   ],
+   "works": [
+    "Galen, De alimentorum facultatibus"
+   ],
+   "continues_on_next_page": false,
+   "entries": [
+    {
+     "siglum": {
+      "base": "W",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Guelferbytanus Wissenburgensis 64",
+     "normalized": "Guelf. Wissenb. 64",
+     "city": "Wolfenbüttel",
+     "folios": "",
+     "date": "s. VI",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "A",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Parisinus 634 supplementi graeci",
+     "normalized": "Par. Suppl. gr. 634",
+     "city": "Paris",
+     "folios": "142r–215v",
+     "date": "s. XIV",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "B",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Parisinus 764 supplementi graeci",
+     "normalized": "Par. Suppl. gr. 764",
+     "city": "Paris",
+     "folios": "151r–203v",
+     "date": "s. XIV",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "C",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Cheltenhamensis Phillipps. 4614",
+     "normalized": "Cheltenham, Phillipps 4614",
+     "city": "Cheltenham",
+     "folios": "141–150",
+     "date": "s. XIV",
+     "note": "Phillipps number as printed; present location not stated in the volume"
+    },
+    {
+     "siglum": {
+      "base": "P",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Vaticanus Palatinus 199",
+     "normalized": "Vat. Pal. gr. 199",
+     "city": "Vatican City",
+     "folios": "84r–98r",
+     "date": "s. XIV",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "V",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Venetus bibliothecae Marcianae 279",
+     "normalized": "Marc. gr. 279",
+     "city": "Venice",
+     "folios": "205r–243r",
+     "date": "s. XV",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "A",
+      "sup": "1",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "correctorum manus",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "A1, B1, C1, P1, V1, A2 ... V2 correctorum manus"
+    },
+    {
+     "siglum": {
+      "base": "B",
+      "sup": "1",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "correctorum manus",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "A1, B1, C1, P1, V1, A2 ... V2 correctorum manus"
+    },
+    {
+     "siglum": {
+      "base": "C",
+      "sup": "1",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "correctorum manus",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "A1, B1, C1, P1, V1, A2 ... V2 correctorum manus"
+    },
+    {
+     "siglum": {
+      "base": "P",
+      "sup": "1",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "correctorum manus",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "A1, B1, C1, P1, V1, A2 ... V2 correctorum manus"
+    },
+    {
+     "siglum": {
+      "base": "V",
+      "sup": "1",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "correctorum manus",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "A1, B1, C1, P1, V1, A2 ... V2 correctorum manus"
+    },
+    {
+     "siglum": {
+      "base": "A",
+      "sup": "2",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "correctorum manus",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "A1, B1, C1, P1, V1, A2 ... V2 correctorum manus"
+    },
+    {
+     "siglum": {
+      "base": "V",
+      "sup": "2",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "correctorum manus",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "A1, B1, C1, P1, V1, A2 ... V2 correctorum manus"
+    },
+    {
+     "siglum": {
+      "base": "l",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "translation",
+     "printed": "interpretatio latina Guilelmi de Moerbeka",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    }
+   ]
+  },
+  {
+   "label": "Bon.mal.suc. – Conspectus codicum",
+   "pages": [
+    452
+   ],
+   "works": [
+    "Galen, De bonis malisque sucis"
+   ],
+   "continues_on_next_page": false,
+   "entries": [
+    {
+     "siglum": {
+      "base": "A",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Parisinus supplementi graeci 634",
+     "normalized": "Par. Suppl. gr. 634",
+     "city": "Paris",
+     "folios": "117r–130v",
+     "date": "s. XIV",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "F",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Laurentianus Florentinus graec. 74, 25",
+     "normalized": "Laur. Plut. 74.25",
+     "city": "Florence",
+     "folios": "153r–159v",
+     "date": "s. XIV",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "M",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Marcianus Venetus graec. 285",
+     "normalized": "Marc. gr. 285",
+     "city": "Venice",
+     "folios": "244r–251r",
+     "date": "s. XV",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "N",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "translation",
+     "printed": "Nicolai Regini versio latina",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "L",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Londinensis (Stowe Brit. Mus.) graec. 1073",
+     "normalized": "Stowe 1073",
+     "city": "London",
+     "folios": "98v–174r",
+     "date": "s. XVI",
+     "note": "raro citatur"
+    },
+    {
+     "siglum": {
+      "base": "O",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Oxoniensis graec. Miscell. 132 (Marshal 72)",
+     "normalized": "Oxon. Misc. gr. 132",
+     "city": "Oxford",
+     "folios": "93v–164v",
+     "date": "s. XVI",
+     "note": "raro citatur"
+    },
+    {
+     "siglum": {
+      "base": "P",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Parisin. graec. 2164",
+     "normalized": "Par. gr. 2164",
+     "city": "Paris",
+     "folios": "169r–182v",
+     "date": "s. XVI",
+     "note": "raro citatur"
+    }
+   ]
+  },
+  {
+   "label": "Vict.at. – Conspectus codicum",
+   "pages": [
+    496
+   ],
+   "works": [
+    "Galen, De victu attenuante"
+   ],
+   "continues_on_next_page": false,
+   "entries": [
+    {
+     "siglum": {
+      "base": "A",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Parisinus supplementi graeci 634",
+     "normalized": "Par. Suppl. gr. 634",
+     "city": "Paris",
+     "folios": "133r–140r",
+     "date": "s. XIV",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "N",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "translation",
+     "printed": "Nicolai Rhegini interpretatio Latina",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "p",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "cod. Paris. lat. 6865",
+     "normalized": "Par. lat. 6865",
+     "city": "Paris",
+     "folios": "191r–194r",
+     "date": "s. XIV",
+     "note": "manuscript of Nicolaus Rheginus' Latin translation (N)"
+    },
+    {
+     "siglum": {
+      "base": "d",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "cod. Dresd. lat. D b 92",
+     "normalized": "Dresd. Db 92",
+     "city": "Dresden",
+     "folios": "309r–312v",
+     "date": "s. XV",
+     "note": "manuscript of Nicolaus Rheginus' Latin translation (N)"
+    },
+    {
+     "siglum": {
+      "base": "m",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "cod. Malatest. lat. S V 4",
+     "normalized": "Cesena, Malatest. S V 4",
+     "city": "Cesena",
+     "folios": "139r–141r",
+     "date": "s. XIV",
+     "note": "manuscript of Nicolaus Rheginus' Latin translation (N)"
+    },
+    {
+     "siglum": {
+      "base": "n",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "cod. Malatest. lat. S XXVI 4",
+     "normalized": "Cesena, Malatest. S XXVI 4",
+     "city": "Cesena",
+     "folios": "127r–132v",
+     "date": "s. XIV",
+     "note": "manuscript of Nicolaus Rheginus' Latin translation (N)"
+    },
+    {
+     "siglum": {
+      "base": "v",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "ed. Veneta a. 1490",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "Latin translation N, printed edition"
+    }
+   ]
+  },
+  {
+   "label": "Ptis. – Conspectus codicum",
+   "pages": [
+    518
+   ],
+   "works": [
+    "Galen, De ptisana"
+   ],
+   "continues_on_next_page": false,
+   "entries": [
+    {
+     "siglum": {
+      "base": "P",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Parisinus 2267",
+     "normalized": "Par. gr. 2267",
+     "city": "Paris",
+     "folios": "63r–67v",
+     "date": "s. XIV",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "P",
+      "sup": "1",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "P1 ad priorem conscriptionem pertinet",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "P",
+      "sup": "2",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "P2 ad correctionem",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "R",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Reginensis 173",
+     "normalized": "Vat. Reg. gr. 173",
+     "city": "Vatican City",
+     "folios": "355v–359r",
+     "date": "s. XV",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "R",
+      "sup": "1",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "R1 ut supra",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "R",
+      "sup": "2",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "R2 ut supra",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    }
+   ]
+  }
+ ],
+ "transcribed_by": "Claude agent, zoomed crops",
+ "uncertain": [
+  "Alim.fac. C: printed 'Cheltenhamensis Phillipps. 4614'; normalized kept as Cheltenham Phillipps number (no modern shelfmark given)",
+  "Bon.mal.suc. L: 'Londinensis (Stowe Brit. Mus.) graec. 1073' normalized 'Stowe 1073' as printed; O: normalized 'Oxon. Misc. gr. 132' (Marshall 72)",
+  "Vict.at. v: print reads 'ed. Vencta' (damaged 'Veneta'); p, d, m, n are Latin manuscripts of N; Dresden 'D b 92' normalized 'Dresd. Db 92'",
+  "Alim.fac. W: normalized 'Guelf. Wissenb. 64' (no house form given)"
+ ]
+}

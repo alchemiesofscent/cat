@@ -1,0 +1,869 @@
+{
+ "volume": "wa_dioscurides_mat_med_lib_5_crat_sext_nig_simpl",
+ "editor": "Wellmann",
+ "series": "",
+ "year": "1914",
+ "sections": [
+  {
+   "label": "Index siglorum",
+   "pages": [
+    5,
+    6
+   ],
+   "works": [
+    "Pedanius Dioscurides, De materia medica V (with the Crateuas and Sextius Niger fragments)"
+   ],
+   "continues_on_next_page": false,
+   "entries": [
+    {
+     "siglum": {
+      "base": "P",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Parisinus gr. 2179",
+     "normalized": "Par. gr. 2179",
+     "city": "Paris",
+     "folios": "",
+     "date": "s. IX",
+     "note": "within bracket O"
+    },
+    {
+     "siglum": {
+      "base": "L",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Laurent. gr. 74, 17 (e P)",
+     "normalized": "Laur. Plut. 74.17",
+     "city": "Florence",
+     "folios": "",
+     "date": "s. XII",
+     "note": "copied from P (e P); within bracket O"
+    },
+    {
+     "siglum": {
+      "base": "F",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Laurent. gr. 74, 23",
+     "normalized": "Laur. Plut. 74.23",
+     "city": "Florence",
+     "folios": "",
+     "date": "s. XIV",
+     "note": "within brackets Q and O"
+    },
+    {
+     "siglum": {
+      "base": "H",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Palat. gr. 77",
+     "normalized": "Vat. Pal. gr. 77",
+     "city": "Vatican City",
+     "folios": "",
+     "date": "s. XIV",
+     "note": "within brackets Q and O"
+    },
+    {
+     "siglum": {
+      "base": "A",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Vindob. med. gr. 16",
+     "normalized": "Vind. med. gr. 16",
+     "city": "Vienna",
+     "folios": "",
+     "date": "s. XV",
+     "note": "within brackets Q and O"
+    },
+    {
+     "siglum": {
+      "base": "Q",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "group",
+     "printed": "F H A (bracket)",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "brace around F., H., A."
+    },
+    {
+     "siglum": {
+      "base": "O",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "group",
+     "printed": "P L F H A (bracket)",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "brace around P., L., F., H., A."
+    },
+    {
+     "siglum": {
+      "base": "E",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Escor. III R 3",
+     "normalized": "Scorial. III R 3",
+     "city": "El Escorial",
+     "folios": "",
+     "date": "s. XI",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Di",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Paris gr. 2183",
+     "normalized": "Par. gr. 2183",
+     "city": "Paris",
+     "folios": "",
+     "date": "s. XV",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Orib.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "Oribasii excerpta",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "pap.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "papyrus",
+     "printed": "papyri Lugd. (II ed. Leemanns 243 sq.) excerpta e capp. 74. 89. 94–97. 100. 104–106. 113.",
+     "normalized": "",
+     "city": "Leiden",
+     "folios": "",
+     "date": "",
+     "note": "Leiden papyrus (Leemans, Papyri graeci musei Lugduni-Batavi II); no inventory number printed"
+    },
+    {
+     "siglum": {
+      "base": "Aet.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "Aetii tetrabiblon",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Ald.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "Aldina, Venet. 1499",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Alex. Tr.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "Alexander Trallianus ed. Th. Puschmann",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Apoll. M.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "Appollonius Mys (frg. Gal. XII)",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Arch.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "Archigenes (frg. Gal. XII. XIII.)",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "Arch. vel Archig."
+    },
+    {
+     "siglum": {
+      "base": "Archig.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "Archigenes (frg. Gal. XII. XIII.)",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "Arch. vel Archig."
+    },
+    {
+     "siglum": {
+      "base": "Asul.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "Asulani ed. Diosc. Venetiis 1518",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Cels.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "Celsus de medicina ed. Daremberg",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Col.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "Columellae de re rustica ed. Gesner",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Dam. lap.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "Damigeron de lapidibus ed. E. Abel",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "D. eup.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "Diosc. Περὶ ἁπλῶν φαρμάκων liber",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "D. eup. vel eup."
+    },
+    {
+     "siglum": {
+      "base": "eup.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "Diosc. Περὶ ἁπλῶν φαρμάκων liber",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "D. eup. vel eup."
+    },
+    {
+     "siglum": {
+      "base": "Gal.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "Galeni opera ed. Kühn",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Ps. Gal. simpl.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "Ps. Galeni de simplicibus ad Paternianum, ed. Iunt. VI 84 sq.",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "Ps. Gal. simpl. vel simpl."
+    },
+    {
+     "siglum": {
+      "base": "simpl.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "Ps. Galeni de simplicibus ad Paternianum, ed. Iunt. VI 84 sq.",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "Ps. Gal. simpl. vel simpl."
+    },
+    {
+     "siglum": {
+      "base": "Garg. M.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "Gargilius Mart. ed. V. Rose",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "Garg. M. vel GM."
+    },
+    {
+     "siglum": {
+      "base": "GM.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "Gargilius Mart. ed. V. Rose",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "Garg. M. vel GM."
+    },
+    {
+     "siglum": {
+      "base": "Geop.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "Geoponica ed. Beckh",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Marc.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "Marcellus Virgilius (editio Diosc. Coloniae 1529)",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Orib.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "Oribasii editio Darembergiana",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "second use of the siglum Orib. in the list"
+    },
+    {
+     "siglum": {
+      "base": "Orib. Syn.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "Synopsis Oribasii (Vol. V 1 Dar.)",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "Orib. Syn. vel Syn."
+    },
+    {
+     "siglum": {
+      "base": "Syn.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "Synopsis Oribasii (Vol. V 1 Dar.)",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "Orib. Syn. vel Syn.; listed again on p. VI as 'Oribasii Synopsis (Vol. V 1 Dar.)'"
+    },
+    {
+     "siglum": {
+      "base": "Orph. lap.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "Orphei Lithica ed. E. Abel",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Pall.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "Palladii opus agriculturae ed. Schmitt",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Paul. Aeg.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "Pauli Aeginetae libri VII (Bas. 1538)",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "Paul. Aeg. (P. A.)"
+    },
+    {
+     "siglum": {
+      "base": "Philum.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "Philumeni de venenatis anim. ed. M. Wellmann",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Pl.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "Plinii nat. hist. ed. Detlefsen",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Poll.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "Pollux onomasticon ed. Becker",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Salm.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "Salmasius Plinianae exercitationes",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Sar.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "Diosc. ed. Saracenus, Lugd. 1598",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "Sar. vel Sarac."
+    },
+    {
+     "siglum": {
+      "base": "Sarac.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "Diosc. ed. Saracenus, Lugd. 1598",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "Sar. vel Sarac."
+    },
+    {
+     "siglum": {
+      "base": "Scrib. Larg.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "Scribonii Largi compositiones ed. G. Helmreich",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "S. N.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "Sextius Niger",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Sol.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "Solini Collectanea ed. Th. Mommsen",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Spr.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "editio Sprengeliana, Lips. 1829",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Theophr. lap.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "Theophrasti frg. de lapidibus ed. Wimmer 340 sq.",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Zop.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "Zopyri frg. (Orib. II 553 sq. Dar.)",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    }
+   ]
+  },
+  {
+   "label": "Simpl. - Index siglorum",
+   "pages": [
+    156
+   ],
+   "works": [
+    "Dioscurides, Περὶ ἁπλῶν φαρμάκων (Euporista)"
+   ],
+   "continues_on_next_page": false,
+   "entries": [
+    {
+     "siglum": {
+      "base": "R",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Riccardianus gr. 91",
+     "normalized": "Riccard. 91",
+     "city": "Florence",
+     "folios": "",
+     "date": "s. XV ineunte",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "F",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Laurentianus gr. 74, 10",
+     "normalized": "Laur. Plut. 74.10",
+     "city": "Florence",
+     "folios": "",
+     "date": "s. XIV",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "M",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Monacensis gr. 389",
+     "normalized": "Mon. gr. 389",
+     "city": "Munich",
+     "folios": "",
+     "date": "s. XV",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "A",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Laurent. gr. 74, 20",
+     "normalized": "Laur. Plut. 74.20",
+     "city": "Florence",
+     "folios": "",
+     "date": "s. XV exeunte",
+     "note": "printed in square brackets"
+    },
+    {
+     "siglum": {
+      "base": "N",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Neapol. gr. 37 III D 23",
+     "normalized": "Neap. III D 23",
+     "city": "Naples",
+     "folios": "",
+     "date": "s. XVI",
+     "note": "printed in square brackets; 'gr. 37' also printed"
+    },
+    {
+     "siglum": {
+      "base": "H",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Hauniensis gr. bibl. univ. add. 277",
+     "normalized": "Haun. bibl. univ. add. 277",
+     "city": "Copenhagen",
+     "folios": "",
+     "date": "s. XVI exeunte",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "O",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "group",
+     "printed": "codices RFH",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "stemma: O (s. XII/XIII)"
+    },
+    {
+     "siglum": {
+      "base": "Q",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "group",
+     "printed": "codices FMH",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Moib.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "Εὐπόριστα Ped. Diosc. ed. Joh. Moibanus et Conr. Gesner (Argent. 1565)",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "Moib. and Gesn. bracketed together"
+    },
+    {
+     "siglum": {
+      "base": "Gesn.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "Εὐπόριστα Ped. Diosc. ed. Joh. Moibanus et Conr. Gesner (Argent. 1565)",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "Moib. and Gesn. bracketed together"
+    },
+    {
+     "siglum": {
+      "base": "Sar.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "editio Iani-Antonii Saraceni, Fr. 1598",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    }
+   ]
+  }
+ ],
+ "transcribed_by": "Claude agent, zoomed crops",
+ "uncertain": [
+  "p. V list continues on p. VI (canvas 6: Poll. … Zop.), included; page 6 was not in sigla_pages.json.",
+  "p. V: groups O and Q are given by braces, not written out; O read as spanning P–A and Q as F, H, A.",
+  "pap.: Leiden papyrus, no number printed; normalized left empty.",
+  "E. = 'Escor. III R 3' normalized as 'Scorial. III R 3' (printed order kept); H. = 'Palat. gr. 77' assumed Vatican (Vat. Pal. gr. 77).",
+  "Simpl. stemma (p. 150) also shows a siglum V below A that is not in the list; not added.",
+  "Riccard. 91, Neap. III D 23 (printed 'Neapol. gr. 37 III D 23'), Haun. bibl. univ. add. 277: normalized forms not in the house list.",
+  "Manuscript sigla on p. V are printed italic with a full stop before the colon (P.:, L.:, Di.:); the full stop is dropped in base for manuscripts, kept for abbreviations."
+ ]
+}

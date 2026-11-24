@@ -1,0 +1,244 @@
+{
+ "volume": "cmg_06_02_01",
+ "editor": "Raeder",
+ "series": "CMG VI 2,1",
+ "year": "1931",
+ "sections": [
+  {
+   "label": "Conspectus siglorum",
+   "pages": [
+    10
+   ],
+   "works": [
+    "Oribasius, Collectiones medicae XXIV–XXV"
+   ],
+   "continues_on_next_page": false,
+   "entries": [
+    {
+     "siglum": {
+      "base": "P",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Palat. Heidelb. 375",
+     "normalized": "Heidelb. Pal. gr. 375",
+     "city": "Heidelberg",
+     "folios": "230r–283v",
+     "date": "s. XII",
+     "note": "incipit p. 8, 13"
+    },
+    {
+     "siglum": {
+      "base": "A",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Paris. gr. 2151",
+     "normalized": "Par. gr. 2151",
+     "city": "Paris",
+     "folios": "12r sqq.",
+     "date": "s. XVI",
+     "note": "adhibetur iis tantum locis, ubi deficit P"
+    },
+    {
+     "siglum": {
+      "base": "B",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Paris. gr. 2261",
+     "normalized": "Par. gr. 2261",
+     "city": "Paris",
+     "folios": "37r sqq.",
+     "date": "s. XVI",
+     "note": "adhibetur iis tantum locis, ubi deficit P"
+    },
+    {
+     "siglum": {
+      "base": "C",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Paris. gr. 2262",
+     "normalized": "Par. gr. 2262",
+     "city": "Paris",
+     "folios": "31r sqq.",
+     "date": "s. XVI",
+     "note": "adhibetur iis tantum locis, ubi deficit P"
+    },
+    {
+     "siglum": {
+      "base": "D",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Paris. gr. 2263",
+     "normalized": "Par. gr. 2263",
+     "city": "Paris",
+     "folios": "29r sqq.",
+     "date": "s. XVI",
+     "note": "adhibetur iis tantum locis, ubi deficit P"
+    },
+    {
+     "siglum": {
+      "base": "E",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Paris. gr. 2321",
+     "normalized": "Par. gr. 2321",
+     "city": "Paris",
+     "folios": "11v sqq.",
+     "date": "s. XVI",
+     "note": "adhibetur iis tantum locis, ubi deficit P"
+    },
+    {
+     "siglum": {
+      "base": "L",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Londin. Burn. 94",
+     "normalized": "Burney 94",
+     "city": "London",
+     "folios": "170r sqq.",
+     "date": "s. XVI",
+     "note": "adhibetur iis tantum locis, ubi deficit P"
+    },
+    {
+     "siglum": {
+      "base": "O",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Vat. Ottob. gr. 235",
+     "normalized": "Vat. Ottob. gr. 235",
+     "city": "Vatican City",
+     "folios": "16v sqq.",
+     "date": "s. XVI",
+     "note": "adhibetur iis tantum locis, ubi deficit P"
+    },
+    {
+     "siglum": {
+      "base": "S",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Scor. Φ. I. 2",
+     "normalized": "Scorial. Φ I 2",
+     "city": "El Escorial",
+     "folios": "16v sqq.",
+     "date": "s. XVI",
+     "note": "adhibetur iis tantum locis, ubi deficit P"
+    },
+    {
+     "siglum": {
+      "base": "F",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Paris. gr. 2237",
+     "normalized": "Par. gr. 2237",
+     "city": "Paris",
+     "folios": "163r–164r et 176v–178r",
+     "date": "s. XIV",
+     "note": "praebet tantum XXIV 29–32 et indices capitum XXIV 1–31 et XXV 1"
+    },
+    {
+     "siglum": {
+      "base": "Mor.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "Oribasii Collectaneorum artis medicae liber, Paris. 1556, apud Guil. Morelium",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "praebet tantum XXIV 1–30 et XXV 2–58"
+    },
+    {
+     "siglum": {
+      "base": "Dg",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "Editio Bussemakeri et Darembergii (vol. III, Paris. 1858)",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    }
+   ]
+  },
+  {
+   "label": "Conspectus siglorum",
+   "pages": [
+    102
+   ],
+   "works": [
+    "Oribasius, Collectiones medicae XLIII–XLVIII"
+   ],
+   "continues_on_next_page": false,
+   "entries": [
+    {
+     "siglum": {
+      "base": "R",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Vatic. gr. 1885",
+     "normalized": "Vat. gr. 1885",
+     "city": "Vatican City",
+     "folios": "1–46, 51–128, 167bis–170",
+     "date": "s. XIV",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "U",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Laurent. 74, 7",
+     "normalized": "Laur. Plut. 74.7",
+     "city": "Florence",
+     "folios": "2v–3v, 90v–149v",
+     "date": "s. IX–X",
+     "note": "in libris tantum XLVI–XLVIII"
+    },
+    {
+     "siglum": {
+      "base": "Dg",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "Editio Bussemakeri et Darembergii (voll. III–IV, Paris. 1858–62)",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    }
+   ]
+  }
+ ],
+ "transcribed_by": "Claude agent, zoomed crops",
+ "uncertain": []
+}

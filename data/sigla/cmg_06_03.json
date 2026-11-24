@@ -1,0 +1,148 @@
+{
+ "volume": "cmg_06_03",
+ "editor": "Raeder",
+ "series": "CMG VI 3",
+ "year": "1926",
+ "sections": [
+  {
+   "label": "Syn. – Conspectus siglorum",
+   "pages": [
+    12
+   ],
+   "works": [
+    "Oribasius, Synopsis ad Eustathium"
+   ],
+   "continues_on_next_page": false,
+   "entries": [
+    {
+     "siglum": {
+      "base": "F",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Laurent. gr. 74, 15",
+     "normalized": "Laur. Plut. 74.15",
+     "city": "Florence",
+     "folios": "f. 1r–138v",
+     "date": "s. XIV",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "F",
+      "sup": "2",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "eiusdem manus recentior (s. XV)",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "s. XV",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "A",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Laurent. gr. 74, 17",
+     "normalized": "Laur. Plut. 74.17",
+     "city": "Florence",
+     "folios": "f. 2r–82r",
+     "date": "s. XII–XIII",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "P",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Paris. gr. 2188",
+     "normalized": "Par. gr. 2188",
+     "city": "Paris",
+     "folios": "f. 1r–85v",
+     "date": "s. XV",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Dg",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "Editio Bussemakeri et Darembergii (vol. V, Paris. 1873); huius editionis paginae numeris in margine adscriptis indicantur.",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    }
+   ]
+  },
+  {
+   "label": "Eun. – Conspectus siglorum",
+   "pages": [
+    326
+   ],
+   "works": [
+    "Oribasius, Libri ad Eunapium"
+   ],
+   "continues_on_next_page": false,
+   "entries": [
+    {
+     "siglum": {
+      "base": "V",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Marcian. gr. 294",
+     "normalized": "Marc. gr. 294",
+     "city": "Venice",
+     "folios": "f. 9r–59v, 70r–105r",
+     "date": "s. XIV",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "A",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Laurent. gr. 74, 17",
+     "normalized": "Laur. Plut. 74.17",
+     "city": "Florence",
+     "folios": "f. 78r–78v, 79v, 80v–81r, 82v–105r",
+     "date": "s. XII–XIII",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Dg",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "Editio Bussemakeri et Darembergii (vol. V, Paris. 1873); huius editionis paginae numeris in margine adscriptis indicantur.",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    }
+   ]
+  }
+ ],
+ "transcribed_by": "Claude agent, zoomed crops",
+ "uncertain": [
+  "p. 326, A: last folio '105r' is faintly printed (the 5 is partly broken); read as 105r."
+ ]
+}

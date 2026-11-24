@@ -1,0 +1,856 @@
+{
+ "volume": "cmg_01_01_03",
+ "editor": "Jouanna",
+ "series": "CMG I 1,3",
+ "year": "2002",
+ "sections": [
+  {
+   "label": "Conspectus siglorum",
+   "pages": [
+    161,
+    162
+   ],
+   "works": [
+    "Hippocrates, De natura hominis",
+    "with the indirect tradition (Galen's commentary, De elementis, De placitis, De atra bile, In Epid. I and VI; P.Stras.; De natura ossium; Aristotle, Historia animalium; De morbis II; De affectionibus)"
+   ],
+   "continues_on_next_page": false,
+   "entries": [
+    {
+     "siglum": {
+      "base": "A",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Parisinus gr. 2253",
+     "normalized": "Par. gr. 2253",
+     "city": "Paris",
+     "folios": "",
+     "date": "s. XI",
+     "note": "1. De natura hominis"
+    },
+    {
+     "siglum": {
+      "base": "A",
+      "sup": "1",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "emendatio scribae ipsius",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "A",
+      "sup": "2",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "manus posteriores",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "A² A³ A⁴ = manus posteriores"
+    },
+    {
+     "siglum": {
+      "base": "A",
+      "sup": "3",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "manus posteriores",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "A² A³ A⁴ = manus posteriores"
+    },
+    {
+     "siglum": {
+      "base": "A",
+      "sup": "4",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "manus posteriores",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "A² A³ A⁴ = manus posteriores"
+    },
+    {
+     "siglum": {
+      "base": "A",
+      "sup": "corr",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "lectio post correctionem",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "A",
+      "sup": "ras",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "emendatio per rasuram",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "M",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Marcianus gr. 269",
+     "normalized": "Marc. gr. 269",
+     "city": "Venice",
+     "folios": "",
+     "date": "s. X",
+     "note": "1. De natura hominis"
+    },
+    {
+     "siglum": {
+      "base": "M",
+      "sup": "1",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "emendatio scribae ipsius",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "M",
+      "sup": "2",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "manus posteriores",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "M² M³ = manus posteriores"
+    },
+    {
+     "siglum": {
+      "base": "M",
+      "sup": "3",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "manus posteriores",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "M² M³ = manus posteriores"
+    },
+    {
+     "siglum": {
+      "base": "M",
+      "sup": "corr",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "lectio post correctionem",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "M",
+      "sup": "ras",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "emendatio per rasuram",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "V",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Vaticanus gr. 276",
+     "normalized": "Vat. gr. 276",
+     "city": "Vatican City",
+     "folios": "",
+     "date": "s. XII",
+     "note": "1. De natura hominis"
+    },
+    {
+     "siglum": {
+      "base": "Π",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "papyrus",
+     "printed": "Papyrus Antinoopolitana",
+     "normalized": "",
+     "city": "Antinoopolis",
+     "folios": "",
+     "date": "s. VI",
+     "note": "1. De natura hominis; no inventory number printed"
+    },
+    {
+     "siglum": {
+      "base": "Co",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Corsinianus 1410",
+     "normalized": "Corsin. 1410",
+     "city": "Rome",
+     "folios": "",
+     "date": "s. XV",
+     "note": "1. De natura hominis; raro memorantur"
+    },
+    {
+     "siglum": {
+      "base": "recc.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "group",
+     "printed": "recentiores (plerique vel omnes)",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "1. De natura hominis; raro memorantur"
+    },
+    {
+     "siglum": {
+      "base": "P",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "translation",
+     "printed": "versio Latina in Parisino lat. 7027",
+     "normalized": "",
+     "city": "Paris",
+     "folios": "",
+     "date": "s. X",
+     "note": "1. De natura hominis; raro memorantur; Latin translation in Par. lat. 7027"
+    },
+    {
+     "siglum": {
+      "base": "Gal.(L)",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Laurentianus plut. LIX, 14",
+     "normalized": "Laur. Plut. 59.14",
+     "city": "Florence",
+     "folios": "",
+     "date": "s. XV",
+     "note": "2. Lemmata in Galeni In Hippocratis De natura hominis commentariis servata"
+    },
+    {
+     "siglum": {
+      "base": "Gal.(U)",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Marcianus gr. 278",
+     "normalized": "Marc. gr. 278",
+     "city": "Venice",
+     "folios": "",
+     "date": "s. XIII/XIV",
+     "note": "2. Lemmata in Galeni In Hippocratis De natura hominis commentariis servata"
+    },
+    {
+     "siglum": {
+      "base": "Gal.(V)",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Marcianus gr. 282",
+     "normalized": "Marc. gr. 282",
+     "city": "Venice",
+     "folios": "",
+     "date": "s. XV",
+     "note": "2. Lemmata in Galeni In Hippocratis De natura hominis commentariis servata"
+    },
+    {
+     "siglum": {
+      "base": "Gal.(Ar.)",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "translation",
+     "printed": "Ḥunaini versio Arabica in Aya Sofya 3632 (s. XIII) et in Laur. ar. 226 (olim orient. 173) (s. XIII/XIV) servata",
+     "normalized": "",
+     "city": "Istanbul",
+     "folios": "",
+     "date": "s. XIII",
+     "note": "2. Lemmata in Galeni In Hippocratis De natura hominis commentariis servata; one siglum for two Arabic manuscripts: Aya Sofya 3632 and Laur. ar. 226"
+    },
+    {
+     "siglum": {
+      "base": "Gal.(Ar.)",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "translation",
+     "printed": "Ḥunaini versio Arabica in Aya Sofya 3632 (s. XIII) et in Laur. ar. 226 (olim orient. 173) (s. XIII/XIV) servata",
+     "normalized": "",
+     "city": "Florence",
+     "folios": "",
+     "date": "s. XIII/XIV",
+     "note": "2. Lemmata in Galeni In Hippocratis De natura hominis commentariis servata; one siglum for two Arabic manuscripts: Aya Sofya 3632 and Laur. ar. 226 (olim orient. 173)"
+    },
+    {
+     "siglum": {
+      "base": "Gal.E(C)",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Cantabrigiensis (Gonville and Caius College) 360",
+     "normalized": "Cantab. Gonville and Caius 360",
+     "city": "Cambridge",
+     "folios": "",
+     "date": "s. XVI",
+     "note": "3. Loci a Galeno in De elementis ex Hippocratis sententia prolati"
+    },
+    {
+     "siglum": {
+      "base": "Gal.E(L)",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Laurentianus plut. LXXIV, 5",
+     "normalized": "Laur. Plut. 74.5",
+     "city": "Florence",
+     "folios": "",
+     "date": "s. XIV",
+     "note": "3. Loci a Galeno in De elementis ex Hippocratis sententia prolati"
+    },
+    {
+     "siglum": {
+      "base": "Gal.E(M)",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Marcianus gr. 275",
+     "normalized": "Marc. gr. 275",
+     "city": "Venice",
+     "folios": "",
+     "date": "s. XV",
+     "note": "3. Loci a Galeno in De elementis ex Hippocratis sententia prolati"
+    },
+    {
+     "siglum": {
+      "base": "Gal.E(O)",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Oxoniensis Laud. gr. 58",
+     "normalized": "Oxon. Laud. gr. 58",
+     "city": "Oxford",
+     "folios": "",
+     "date": "s. XV",
+     "note": "3. Loci a Galeno in De elementis ex Hippocratis sententia prolati"
+    },
+    {
+     "siglum": {
+      "base": "Gal.E(P)",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Parisinus gr. 2267",
+     "normalized": "Par. gr. 2267",
+     "city": "Paris",
+     "folios": "",
+     "date": "s. XIV",
+     "note": "3. Loci a Galeno in De elementis ex Hippocratis sententia prolati"
+    },
+    {
+     "siglum": {
+      "base": "Gal.E(V)",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Vaticanus gr. 282",
+     "normalized": "Vat. gr. 282",
+     "city": "Vatican City",
+     "folios": "",
+     "date": "s. XV",
+     "note": "3. Loci a Galeno in De elementis ex Hippocratis sententia prolati"
+    },
+    {
+     "siglum": {
+      "base": "Gal.E",
+      "sup": "1",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "Si scriptum De natura hominis a Galeno bis profertur, Gal.E¹ primum locum designat, Gal.E² secundum.",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "3. Loci a Galeno in De elementis ex Hippocratis sententia prolati"
+    },
+    {
+     "siglum": {
+      "base": "Gal.E",
+      "sup": "2",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "Si scriptum De natura hominis a Galeno bis profertur, Gal.E¹ primum locum designat, Gal.E² secundum.",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "3. Loci a Galeno in De elementis ex Hippocratis sententia prolati"
+    },
+    {
+     "siglum": {
+      "base": "Gal.P(H)",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Berolinensis Hamiltonianus 270",
+     "normalized": "Berol. Hamilton. 270",
+     "city": "Berlin",
+     "folios": "",
+     "date": "s. XIII/XIV",
+     "note": "4. Loci a Galeno in De placitis Hippocratis et Platonis prolati"
+    },
+    {
+     "siglum": {
+      "base": "Gal.P(M)",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Marcianus gr. 284",
+     "normalized": "Marc. gr. 284",
+     "city": "Venice",
+     "folios": "",
+     "date": "s. XV",
+     "note": "4. Loci a Galeno in De placitis Hippocratis et Platonis prolati"
+    },
+    {
+     "siglum": {
+      "base": "Gal.P(codd.)",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "group",
+     "printed": "Gal.P(HM)",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "4. Loci a Galeno in De placitis Hippocratis et Platonis prolati"
+    },
+    {
+     "siglum": {
+      "base": "Gal.A(V)",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Vaticanus gr. 1845",
+     "normalized": "Vat. gr. 1845",
+     "city": "Vatican City",
+     "folios": "",
+     "date": "s. XIII",
+     "note": "5. Locus (= c. 4 Nat. hom.) a Galeno in De atra bile prolatus"
+    },
+    {
+     "siglum": {
+      "base": "Gal.A(M)",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Marcianus gr. 276",
+     "normalized": "Marc. gr. 276",
+     "city": "Venice",
+     "folios": "",
+     "date": "s. XII",
+     "note": "5. Locus (= c. 4 Nat. hom.) a Galeno in De atra bile prolatus"
+    },
+    {
+     "siglum": {
+      "base": "Gal.A(β)",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Marcianus gr. 284",
+     "normalized": "Marc. gr. 284",
+     "city": "Venice",
+     "folios": "",
+     "date": "s. XV",
+     "note": "5. Locus (= c. 4 Nat. hom.) a Galeno in De atra bile prolatus"
+    },
+    {
+     "siglum": {
+      "base": "Gal.A(γ)",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Marcianus gr. app. cl. V 5",
+     "normalized": "Marc. gr. App. cl. V 5",
+     "city": "Venice",
+     "folios": "",
+     "date": "s. XV",
+     "note": "5. Locus (= c. 4 Nat. hom.) a Galeno in De atra bile prolatus"
+    },
+    {
+     "siglum": {
+      "base": "Gal.A(m)",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Mutinensis gr. 213",
+     "normalized": "Mutin. gr. 213",
+     "city": "Modena",
+     "folios": "",
+     "date": "s. XV",
+     "note": "5. Locus (= c. 4 Nat. hom.) a Galeno in De atra bile prolatus"
+    },
+    {
+     "siglum": {
+      "base": "Gal.A(A)",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Ambrosianus gr. Q 3 Sup.",
+     "normalized": "Ambros. Q 3 sup.",
+     "city": "Milan",
+     "folios": "",
+     "date": "s. XV/XVI",
+     "note": "5. Locus (= c. 4 Nat. hom.) a Galeno in De atra bile prolatus"
+    },
+    {
+     "siglum": {
+      "base": "Gal.Ep.(codd.)",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "group",
+     "printed": "vide CMG V, 10,1, p. VII–XXXIV",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "6. Locus (= c. 9 Nat. hom., p. 188,10–190,3) in Galeni In Hippocratis Epidemiarum librum I commentario I servatus"
+    },
+    {
+     "siglum": {
+      "base": "Gal.Epid.(codd.)",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "group",
+     "printed": "vide CMG V, 10,2,2, p. IX–XXV et p. 2.",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "7. Locus (= c. 14 Nat. hom., p. 202,1–5) in Galeni In Hippocratis Epidemiarum librum VI commentario I servatus"
+    },
+    {
+     "siglum": {
+      "base": "Π",
+      "sup": "s",
+      "sub": ""
+     },
+     "type": "papyrus",
+     "printed": "Papyrus Stratoburgensis gr. inv. 26",
+     "normalized": "P.Stras. gr. inv. 26",
+     "city": "Strasbourg",
+     "folios": "",
+     "date": "s. II p. J.-C.",
+     "note": "8. Locus (= c. 4 Nat. hom., p. 172,13–174,3) in Papyro Stratoburgensi servatus"
+    },
+    {
+     "siglum": {
+      "base": "M",
+      "sup": "′",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Marcianus gr. 269",
+     "normalized": "Marc. gr. 269",
+     "city": "Venice",
+     "folios": "",
+     "date": "s. X",
+     "note": "9. Descriptio venarum (= c. 11 Nat. hom.) in De natura ossium servata"
+    },
+    {
+     "siglum": {
+      "base": "Ar.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "group",
+     "printed": "consensus codicum Aristotelis",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "10. Descriptio venarum (= c. 11 Nat. hom.) in Aristotelis De animalium historia servata"
+    },
+    {
+     "siglum": {
+      "base": "A",
+      "sup": "a",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Marcianus gr. 208",
+     "normalized": "Marc. gr. 208",
+     "city": "Venice",
+     "folios": "",
+     "date": "s. XIII",
+     "note": "10. Descriptio venarum in Aristotelis De animalium historia (codices Aristotelis)"
+    },
+    {
+     "siglum": {
+      "base": "C",
+      "sup": "a",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Laurentianus plut. LXXXVII, 4",
+     "normalized": "Laur. Plut. 87.4",
+     "city": "Florence",
+     "folios": "",
+     "date": "s. XIV",
+     "note": "10. Descriptio venarum in Aristotelis De animalium historia (codices Aristotelis)"
+    },
+    {
+     "siglum": {
+      "base": "D",
+      "sup": "a",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Vaticanus gr. 262",
+     "normalized": "Vat. gr. 262",
+     "city": "Vatican City",
+     "folios": "",
+     "date": "s. XIV",
+     "note": "10. Descriptio venarum in Aristotelis De animalium historia (codices Aristotelis)"
+    },
+    {
+     "siglum": {
+      "base": "P",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Vaticanus gr. 1339",
+     "normalized": "Vat. gr. 1339",
+     "city": "Vatican City",
+     "folios": "",
+     "date": "s. XV",
+     "note": "10. Descriptio venarum in Aristotelis De animalium historia (codices Aristotelis)"
+    },
+    {
+     "siglum": {
+      "base": "ϑ",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Vindobonensis medicus gr. 4",
+     "normalized": "Vind. med. gr. 4",
+     "city": "Vienna",
+     "folios": "",
+     "date": "s. XI",
+     "note": "listed twice: 11. Descriptio morborum capitis (= c. 24 Nat. hom.) in De morbis II legitur; 12. Vltimum caput scripti De nat. hom. in De affectionibus legitur"
+    },
+    {
+     "siglum": {
+      "base": "M",
+      "sup": "m",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Marcianus gr. 269",
+     "normalized": "Marc. gr. 269",
+     "city": "Venice",
+     "folios": "",
+     "date": "s. X",
+     "note": "11. Descriptio morborum capitis (= c. 24 Nat. hom.) in De morbis II legitur"
+    },
+    {
+     "siglum": {
+      "base": "M",
+      "sup": "a",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Marcianus gr. 269",
+     "normalized": "Marc. gr. 269",
+     "city": "Venice",
+     "folios": "",
+     "date": "s. X",
+     "note": "12. Vltimum caput scripti De nat. hom. in De affectionibus legitur"
+    },
+    {
+     "siglum": {
+      "base": "Ermerins",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "F. Z. Ermerins, Hippocratis et aliorum medicorum veterum reliquiae, t. II, Trajecti ad Rhenum, 1862",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Foes",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "A. Foes, Magni Hippocratis ... opera omnia, Francfort, 1595",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Jones",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "W. H. S. Jones, Hippocrates, vol. IV, 5ème éd., Cambridge-Londres, 1959",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Littré",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "E. Littré, Œuvres complètes d'Hippocrate, t. VI, Paris, 1849",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "van der Linden",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "J. van der Linden, Hippocratis Coi opera omnia graece et latine..., Leyde, 1665",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Villaret",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "O. Villaret, Hippocratis De natura hominis liber ad codicum fidem rec., Diss., Berlin, 1911",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Zwing.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "Th. Zwinger, Hippocratis Coi ... viginti duo commentarii tabulis illustrati..., Bâle, 1579",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    }
+   ]
+  }
+ ],
+ "transcribed_by": "Claude agent, zoomed crops",
+ "uncertain": [
+  "Gal.(L): a stray mark (broken type or smudge, like a superscript prime and bar) follows the siglum on p. 161; transcribed as plain Gal.(L).",
+  "ϑ (Vind. med. gr. 4) is printed twice, under items 11 and 12; given as one entry.",
+  "Page 163 (listed in the TOC range) is blank.",
+  "Π (Papyrus Antinoopolitana) has no number printed; normalized left empty.",
+  "Corsinianus 1410, Mutinensis, Cantabrigiensis, Berolinensis Hamiltonianus, Marc. gr. app. cl. V 5: normalized forms are outside the README house list (Corsin. 1410, Mutin. gr. 213, Cantab. Gonville and Caius 360, Berol. Hamilton. 270, Marc. gr. App. cl. V 5)."
+ ]
+}

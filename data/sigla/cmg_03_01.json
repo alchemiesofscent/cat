@@ -1,0 +1,248 @@
+{
+ "volume": "cmg_03_01",
+ "editor": "Sideras",
+ "series": "CMG III 1",
+ "year": "1977",
+ "sections": [
+  {
+   "label": "Conspectus siglorum et compendiorum",
+   "pages": [
+    85
+   ],
+   "works": [
+    "Rufus Ephesius, De renum et vesicae morbis"
+   ],
+   "continues_on_next_page": false,
+   "entries": [
+    {
+     "siglum": {
+      "base": "M",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Monacensis 469",
+     "normalized": "Mon. gr. 469",
+     "city": "Munich",
+     "folios": "",
+     "date": "s. XIV",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "L",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Laudianus 59",
+     "normalized": "Oxon. Laud. gr. 59",
+     "city": "Oxford",
+     "folios": "",
+     "date": "s. XV",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "W",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Vaticanus 291",
+     "normalized": "Vat. gr. 291",
+     "city": "Vatican City",
+     "folios": "",
+     "date": "s. XVI",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Q",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Parisinus 2288",
+     "normalized": "Par. gr. 2288",
+     "city": "Paris",
+     "folios": "",
+     "date": "s. XVI",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "F",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Phillippicus 1536",
+     "normalized": "Phill. 1536",
+     "city": "",
+     "folios": "",
+     "date": "s. XVI",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "V",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Vossianus Q 9",
+     "normalized": "Leid. Voss. gr. Q 9",
+     "city": "Leiden",
+     "folios": "",
+     "date": "s. XVII",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "B",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Barberinianus 91",
+     "normalized": "Vat. Barb. gr. 91",
+     "city": "Vatican City",
+     "folios": "",
+     "date": "s. XVII",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "P",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Parisinus 2331",
+     "normalized": "Par. gr. 2331",
+     "city": "Paris",
+     "folios": "",
+     "date": "s. XVII",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "S",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Paris. Suppl. 629",
+     "normalized": "Par. Suppl. gr. 629",
+     "city": "Paris",
+     "folios": "",
+     "date": "s. XIX",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "ψ",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "group",
+     "printed": "consensus codicum LWQFVBPS",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "χ",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "group",
+     "printed": "consensus codicum LWQS",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "φ",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "group",
+     "printed": "consensus codicum VBP",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Gu.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "editio Parisina, a. 1554 (J. Goupyl)",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Cl.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "editio Londinensis, a. 1726 (G. Clinch)",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Ma.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "editio Mosquensis, a. 1806 (Chr. Fr. de Matthaei)",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Da.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "editio Parisina, a. 1879 (Ch. Daremberg-Ch. E. Ruelle)",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    }
+   ]
+  }
+ ],
+ "transcribed_by": "Claude agent, zoomed crops",
+ "uncertain": [
+  "F 'Phillippicus 1536': present library not printed; normalized as 'Phill. 1536' without a city (possibly Berlin, not assumed)"
+ ]
+}

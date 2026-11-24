@@ -1,0 +1,189 @@
+{
+ "volume": "cmg_05_10_02_03",
+ "editor": "Wenkebach/Schubring",
+ "series": "CMG V 10,2,3",
+ "year": "1955",
+ "sections": [
+  {
+   "label": "Explicatio siglorum",
+   "pages": [
+    5
+   ],
+   "works": [
+    "Galeni In Hippocratis Epidemiarum libros commentaria, Indices nominum et verborum Graecorum"
+   ],
+   "continues_on_next_page": false,
+   "entries": [
+    {
+     "siglum": {
+      "base": "A",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "CMG V 10, 1 Galeni in Hippocratis Epidemiarum librum I commentaria III",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "volume of the commentary edition cited in the indices"
+    },
+    {
+     "siglum": {
+      "base": "B",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "CMG V 10, 2, 1 Galeni in Hippocratis Epidemiarum librum III commentaria III",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "volume of the commentary edition cited in the indices"
+    },
+    {
+     "siglum": {
+      "base": "C",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "CMG V 10, 2, 2 Galeni in Hippocratis Epidemiarum librum VI commentaria VI",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "volume of the commentary edition cited in the indices"
+    },
+    {
+     "siglum": {
+      "base": "H",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "translation",
+     "printed": "versio Arabica commentariorum Galeni ab Hunaino Ibn Ishaq facta (cod. Scorialensis arab. 804/5, s. XIII)",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "Arabic translation; transmitted in Escorial, ar. 804/5, s. XIII"
+    },
+    {
+     "siglum": {
+      "base": "Orib.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "codices in Oribasii Collectionibus medicis eiusdemque in Synopsi ad Eustathium et in libris ad Eunapium edendis adhibiti ab Ioanne Raeder CMG VI 1. 2. 3, Lipsiae 1926–1933",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "M",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Monacensis gr. 231",
+     "normalized": "Mon. gr. 231",
+     "city": "Munich",
+     "folios": "fol. 1r–228v",
+     "date": "s. XV vel XVI",
+     "note": "Codices Graeci commentariorum"
+    },
+    {
+     "siglum": {
+      "base": "Q",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Parisinus gr. 2174",
+     "normalized": "Par. gr. 2174",
+     "city": "Paris",
+     "folios": "fol. 1r–177v",
+     "date": "s. XVI",
+     "note": "Codices Graeci commentariorum"
+    },
+    {
+     "siglum": {
+      "base": "V",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Marcianus Venetus gr. 1053 (App. class. V 5)",
+     "normalized": "Marc. gr. App. cl. V 5",
+     "city": "Venice",
+     "folios": "fol. 249r–310v",
+     "date": "s. XV",
+     "note": "Codices Graeci commentariorum; printed also as gr. 1053"
+    },
+    {
+     "siglum": {
+      "base": "L",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Laurentianus Florentinus pl. 74, 25",
+     "normalized": "Laur. Plut. 74.25",
+     "city": "Florence",
+     "folios": "fol. 127r–152v",
+     "date": "s. XIV",
+     "note": "Codices Graeci commentariorum"
+    },
+    {
+     "siglum": {
+      "base": "U",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Marcianus Venetus gr. 283",
+     "normalized": "Marc. gr. 283",
+     "city": "Venice",
+     "folios": "fol. 1r–169r",
+     "date": "s. XV",
+     "note": "Codices Graeci commentariorum"
+    },
+    {
+     "siglum": {
+      "base": "O",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "group",
+     "printed": "archetypus prioris classis (MQV)",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    }
+   ]
+  },
+  {
+   "label": "Explicatio siglorum",
+   "pages": [
+    6
+   ],
+   "works": [],
+   "continues_on_next_page": false,
+   "entries": []
+  }
+ ],
+ "transcribed_by": "Claude agent, zoomed crops",
+ "uncertain": [
+  "p. 6 (second 'Explicatio siglorum' TOC entry) is the first page of the Index nominum, not a sigla list; written with empty entries",
+  "V printed 'Marcianus Venetus gr. 1053 (App. class. V 5)': normalized to the App. form Marc. gr. App. cl. V 5 (1053 is the collocation number); house form uncertain",
+  "H: Arabic translation, codex Escorial arab. 804/5 named in printed text only"
+ ]
+}

@@ -1,0 +1,304 @@
+{
+ "volume": "wa_dioscurides_mat_med_lib_1_2",
+ "editor": "Wellmann",
+ "series": "",
+ "year": "1907",
+ "sections": [
+  {
+   "label": "Conspectus codicum",
+   "pages": [
+    5
+   ],
+   "works": [
+    "Pedanii Dioscuridis Anazarbei De materia medica, libri I–II"
+   ],
+   "continues_on_next_page": false,
+   "entries": [
+    {
+     "siglum": {
+      "base": "P",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Parisinus gr. 2179 s. IX",
+     "normalized": "Par. gr. 2179",
+     "city": "Paris",
+     "folios": "",
+     "date": "s. IX",
+     "note": "in group O"
+    },
+    {
+     "siglum": {
+      "base": "V",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Marc. Venetus 273 s. XII (e P)",
+     "normalized": "Marc. gr. 273",
+     "city": "Venice",
+     "folios": "",
+     "date": "s. XII",
+     "note": "(e P) = copied from P; in group O"
+    },
+    {
+     "siglum": {
+      "base": "F",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Laurent. 74, 23 s. XIV",
+     "normalized": "Laur. Plut. 74.23",
+     "city": "Florence",
+     "folios": "",
+     "date": "s. XIV",
+     "note": "in groups Q and O"
+    },
+    {
+     "siglum": {
+      "base": "H",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Palat. gr. 77 s. XIV",
+     "normalized": "Vat. Pal. gr. 77",
+     "city": "Vatican City",
+     "folios": "",
+     "date": "s. XIV",
+     "note": "in groups Q and O"
+    },
+    {
+     "siglum": {
+      "base": "E",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Scorialensis III R 3 s. XI",
+     "normalized": "Scorial. III R 3",
+     "city": "El Escorial",
+     "folios": "",
+     "date": "s. XI",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "p",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Paris gr. 2183 s. XV",
+     "normalized": "Par. gr. 2183",
+     "city": "Paris",
+     "folios": "",
+     "date": "s. XV",
+     "note": "in group Di"
+    },
+    {
+     "siglum": {
+      "base": "v",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Marc. Venetus 271 s. XV",
+     "normalized": "Marc. gr. 271",
+     "city": "Venice",
+     "folios": "",
+     "date": "s. XV",
+     "note": "in group Di"
+    },
+    {
+     "siglum": {
+      "base": "C",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Cpolitanus Vindob. med. gr. 1 s. VI",
+     "normalized": "Vind. med. gr. 1",
+     "city": "Vienna",
+     "folios": "",
+     "date": "s. VI",
+     "note": "in group R"
+    },
+    {
+     "siglum": {
+      "base": "N",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Neapolitanus Vindob. suppl. gr. 28 s. VII",
+     "normalized": "Vind. suppl. gr. 28",
+     "city": "Vienna",
+     "folios": "",
+     "date": "s. VII",
+     "note": "in group R"
+    },
+    {
+     "siglum": {
+      "base": "Da",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Marc. Venetus 272 s. XV",
+     "normalized": "Marc. gr. 272",
+     "city": "Venice",
+     "folios": "",
+     "date": "s. XV",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Dl",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Diosc. lat. cod. Monacensis 337 s. IX",
+     "normalized": "Mon. lat. 337",
+     "city": "Munich",
+     "folios": "",
+     "date": "s. IX",
+     "note": "Dioscorides Latinus"
+    },
+    {
+     "siglum": {
+      "base": "Orib.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Oribasii libr. XI–XIII cod. Paris. gr. 2189 s. XVI",
+     "normalized": "Par. gr. 2189",
+     "city": "Paris",
+     "folios": "",
+     "date": "s. XVI",
+     "note": "Oribasius, Collectiones XI–XIII"
+    },
+    {
+     "siglum": {
+      "base": "Ps. Ap.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Ps. Apuleii cod. Laur. 73, 41 (L)",
+     "normalized": "Laur. Plut. 73.41",
+     "city": "Florence",
+     "folios": "",
+     "date": "",
+     "note": "Ps.-Apuleius manuscript, cited as L"
+    },
+    {
+     "siglum": {
+      "base": "Ps. Ap.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Ps. Apuleii cod. Laur. 73, 16 (L1)",
+     "normalized": "Laur. Plut. 73.16",
+     "city": "Florence",
+     "folios": "",
+     "date": "",
+     "note": "Ps.-Apuleius manuscript, cited as L with subscript 1"
+    },
+    {
+     "siglum": {
+      "base": "Ps. Ap.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Ps. Apuleii cod. Vind. 93 (V)",
+     "normalized": "Vind. lat. 93",
+     "city": "Vienna",
+     "folios": "",
+     "date": "",
+     "note": "Ps.-Apuleius manuscript, cited as V"
+    },
+    {
+     "siglum": {
+      "base": "O",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "group",
+     "printed": "P V F H",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "bracket joining P, V, F, H"
+    },
+    {
+     "siglum": {
+      "base": "Q",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "group",
+     "printed": "F H",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "bracket joining F, H"
+    },
+    {
+     "siglum": {
+      "base": "Di",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "group",
+     "printed": "p v",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "bracket joining p, v"
+    },
+    {
+     "siglum": {
+      "base": "R",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "group",
+     "printed": "C N",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "bracket joining C, N"
+    }
+   ]
+  },
+  {
+   "label": "Conspectus siglorum",
+   "pages": [
+    5,
+    6
+   ],
+   "works": [
+    "Pedanii Dioscuridis Anazarbei De materia medica, libri I–II"
+   ],
+   "continues_on_next_page": false,
+   "entries": []
+  }
+ ],
+ "transcribed_by": "Claude agent, zoomed crops",
+ "uncertain": [
+  "Conspectus siglorum (pp. V–VI) is a list of abbreviations for cited authors and editions (Ael. n. a., Ald., Asul., Marc., Lac., Sar., Spr., Gal., Orib., Plin. ...), not a list of manuscript sigla; entries left empty.",
+  "Dl: Munich Diosc. lat. 337 normalized as 'Mon. lat. 337' (Clm 337); Ps. Ap. 'Vind. 93' normalized as 'Vind. lat. 93' (printed without 'lat.').",
+  "E: 'Scorialensis III R 3' kept in printed order as 'Scorial. III R 3' (Escorial R III 3)."
+ ]
+}

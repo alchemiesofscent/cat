@@ -1,0 +1,207 @@
+{
+ "volume": "cmg_10_04",
+ "editor": "Renehan",
+ "series": "CMG X 4",
+ "year": "1969",
+ "sections": [
+  {
+   "label": "Conspectus siglorum",
+   "pages": [
+    14
+   ],
+   "works": [
+    "Leonis medici De natura hominum synopsis"
+   ],
+   "continues_on_next_page": false,
+   "entries": [
+    {
+     "siglum": {
+      "base": "S",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "cod. Scorial. Φ. III. 7",
+     "normalized": "Scorial. Φ III 7",
+     "city": "El Escorial",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "B",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "cod. Roe 14",
+     "normalized": "Oxon. Roe 14",
+     "city": "Oxford",
+     "folios": "",
+     "date": "",
+     "note": "Codices Meletii: manuscript of Meletius, De natura hominis"
+    },
+    {
+     "siglum": {
+      "base": "C",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "cod. Roe 15",
+     "normalized": "Oxon. Roe 15",
+     "city": "Oxford",
+     "folios": "",
+     "date": "",
+     "note": "Codices Meletii: manuscript of Meletius, De natura hominis"
+    },
+    {
+     "siglum": {
+      "base": "L",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "cod. Laurent. 86, 1",
+     "normalized": "Laur. Plut. 86.1",
+     "city": "Florence",
+     "folios": "",
+     "date": "",
+     "note": "Codices Meletii: manuscript of Meletius, De natura hominis"
+    },
+    {
+     "siglum": {
+      "base": "M",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "cod. Marcian. 297",
+     "normalized": "Marc. gr. 297",
+     "city": "Venice",
+     "folios": "",
+     "date": "",
+     "note": "Codices Meletii: manuscript of Meletius, De natura hominis"
+    },
+    {
+     "siglum": {
+      "base": "P",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "cod. Parisin. Gr. 2299",
+     "normalized": "Par. gr. 2299",
+     "city": "Paris",
+     "folios": "",
+     "date": "",
+     "note": "Codices Meletii: manuscript of Meletius, De natura hominis"
+    },
+    {
+     "siglum": {
+      "base": "α",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "group",
+     "printed": "consensus codicum BM",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "β",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "group",
+     "printed": "consensus codicum CLP",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Mel.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "Meletii De natura hominis",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "EM",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "Etymologicon Magnum (ed. Gaisford)",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "EG",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "Etymologicum Graecae linguae Gudianum (ed. Sturzius)",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Orion",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "Orionis Thebani Etymologicon (ed. Sturzius)",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "SVF",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "Stoicorum Veterum Fragmenta (ed. von Arnim)",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    }
+   ]
+  }
+ ],
+ "transcribed_by": "Claude agent, zoomed crops",
+ "uncertain": [
+  "p. 15 is the Greek/English half-title, no sigla; list is on p. 14 only.",
+  "'cod. Roe 14/15' (Bodleian, Oxford) normalized as Oxon. Roe 14/15; city inferred, not printed."
+ ]
+}

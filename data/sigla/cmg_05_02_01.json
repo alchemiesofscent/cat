@@ -1,0 +1,432 @@
+{
+ "volume": "cmg_05_02_01",
+ "editor": "Nickel",
+ "series": "CMG V 2,1",
+ "year": "1971",
+ "sections": [
+  {
+   "label": "Conspectus siglorum et compendiorum",
+   "pages": [
+    32,
+    33
+   ],
+   "works": [
+    "Galenus, De uteri dissectione"
+   ],
+   "continues_on_next_page": false,
+   "entries": [
+    {
+     "siglum": {
+      "base": "V",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Vaticanus 1845; s. XIII",
+     "normalized": "Vat. gr. 1845",
+     "city": "Vatican City",
+     "folios": "",
+     "date": "s. XIII",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "V",
+      "sup": "+",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "codex V eis locis, qui aut ex parte aut omnino tinearum impetu perditi sunt (cf. supra p. 14)",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "V where damaged by worms"
+    },
+    {
+     "siglum": {
+      "base": "C",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Coislinianus 228; s. XIV",
+     "normalized": "Par. Coisl. 228",
+     "city": "Paris",
+     "folios": "",
+     "date": "s. XIV",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "M",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Marcianus App. cl. V 9; s. XV",
+     "normalized": "Marc. gr. App. cl. V 9",
+     "city": "Venice",
+     "folios": "",
+     "date": "s. XV",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "R",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Parisinus 2270; s. XV/XVI",
+     "normalized": "Par. gr. 2270",
+     "city": "Paris",
+     "folios": "",
+     "date": "s. XV/XVI",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "L",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Marcianus App. cl. V 5; s. XV",
+     "normalized": "Marc. gr. App. cl. V 5",
+     "city": "Venice",
+     "folios": "",
+     "date": "s. XV",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "P",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Parisinus 2165; s. XVI",
+     "normalized": "Par. gr. 2165",
+     "city": "Paris",
+     "folios": "",
+     "date": "s. XVI",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "P",
+      "sup": "2",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "eiusdem codicis correctores",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "printed 'P², P³ = eiusdem codicis correctores'"
+    },
+    {
+     "siglum": {
+      "base": "P",
+      "sup": "3",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "eiusdem codicis correctores",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "printed 'P², P³ = eiusdem codicis correctores'"
+    },
+    {
+     "siglum": {
+      "base": "A",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Ambrosianus C 4 Sup.; s. XV",
+     "normalized": "Ambros. C 4 sup.",
+     "city": "Milan",
+     "folios": "",
+     "date": "s. XV",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Q",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Parisinus 2269; s. XV",
+     "normalized": "Par. gr. 2269",
+     "city": "Paris",
+     "folios": "",
+     "date": "s. XV",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "S",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Parisinus 2271; s. XV",
+     "normalized": "Par. gr. 2271",
+     "city": "Paris",
+     "folios": "",
+     "date": "s. XV",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "T",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Vaticanus 285; s. XVI",
+     "normalized": "Vat. gr. 285",
+     "city": "Vatican City",
+     "folios": "",
+     "date": "s. XVI",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "x",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "group",
+     "printed": "consensus codicum CMR",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "y",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "group",
+     "printed": "consensus codicum CM",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "z",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "group",
+     "printed": "consensus codicum AQ",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "r",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "group",
+     "printed": "consensus codicum ST",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Nic.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "translation",
+     "printed": "Nicolai versio Latina; s. XIV",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Nic.",
+      "sup": "a",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Nicolai versio codice Vaticano Palatino lat. 1211; s. XIV tradita",
+     "normalized": "Vat. Pal. lat. 1211",
+     "city": "Vatican City",
+     "folios": "",
+     "date": "s. XIV",
+     "note": "manuscript of Niccolò da Reggio's Latin translation"
+    },
+    {
+     "siglum": {
+      "base": "Nic.",
+      "sup": "b",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "Nicolai versio editione Latina Venetiis a. 1490 typis exscripta",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Ald.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "editio Aldina, Venetiis a. 1525",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Bas.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "editio Basileensis, a. 1538",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Kühn",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "editio Kühnii, Lipsiae a. 1821",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Corn.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "Cornarius in Aldinae exemplari suo nunc bibliothecae universitatis Ienensis proprio (cf. supra p. 28 adn. 3)",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Felic.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "translation",
+     "printed": "Feliciani versio Latina, Lugduni a. 1550",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Corn. vers.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "translation",
+     "printed": "Cornarii versio Latina, Basileae a. 1549",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Orib.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "excerpta ab Oribasio e Galeni libro sumpta",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Aët.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "excerpta ab Aëtio e Galeni libro sumpta",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Ṯābit",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "excerpta Arabica, quae Ṯābit ibn Qurra e Galeni libro sumpsit, codice Aya Sofya (= AS) 3631; s. XIII/XIV servata",
+     "normalized": "",
+     "city": "Istanbul",
+     "folios": "",
+     "date": "s. XIII/XIV",
+     "note": "Arabic excerpts by Thābit ibn Qurra in Istanbul, Aya Sofya 3631"
+    }
+   ]
+  }
+ ],
+ "transcribed_by": "Claude agent, zoomed crops",
+ "uncertain": [
+  "Siglum V^+ printed with a superscript plus sign.",
+  "Marcianus App. cl. V 9 / V 5 normalized as 'Marc. gr. App. cl. V 9' / 'Marc. gr. App. cl. V 5' (App. kept as printed)."
+ ]
+}

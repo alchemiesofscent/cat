@@ -1,0 +1,376 @@
+{
+ "volume": "cmg_08_02",
+ "editor": "Olivieri",
+ "series": "CMG VIII 2",
+ "year": "1950",
+ "sections": [
+  {
+   "label": "Signorum explicatio",
+   "pages": [
+    8
+   ],
+   "works": [
+    "Aetius, Libri medicinales V–VIII"
+   ],
+   "continues_on_next_page": false,
+   "entries": [
+    {
+     "siglum": {
+      "base": "A",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Codex Athous Λαύρας 718 Ω 63",
+     "normalized": "Athos, Lavra Ω 63",
+     "city": "Athos",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "A",
+      "sup": "t",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Codex Athous Λαύρας 719 Ω 64",
+     "normalized": "Athos, Lavra Ω 64",
+     "city": "Athos",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "B",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Codex Parisinus Graecus 2192",
+     "normalized": "Par. gr. 2192",
+     "city": "Paris",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "B",
+      "sup": "a",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Codex Parisinus Graecus 2237",
+     "normalized": "Par. gr. 2237",
+     "city": "Paris",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "C",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Codex Parisinus Graecus 1883",
+     "normalized": "Par. gr. 1883",
+     "city": "Paris",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "C",
+      "sup": "p",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Codex Parisinus Graecus 2228",
+     "normalized": "Par. gr. 2228",
+     "city": "Paris",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "D",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Codex Athous Βατοπεδίου Α 29",
+     "normalized": "Athos, Vatopedi Α 29",
+     "city": "Athos",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "E",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Codex Parisinus Graecus 2193",
+     "normalized": "Par. gr. 2193",
+     "city": "Paris",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "G",
+      "sup": "a",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Codex Parisinus Graecus 2194",
+     "normalized": "Par. gr. 2194",
+     "city": "Paris",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "H",
+      "sup": "a",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Codex Parisinus Graecus 2195",
+     "normalized": "Par. gr. 2195",
+     "city": "Paris",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "I",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Codex Parisinus Graecus 2230",
+     "normalized": "Par. gr. 2230",
+     "city": "Paris",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "L",
+      "sup": "a",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Codex Laurentianus LXXV, 20",
+     "normalized": "Laur. Plut. 75.20",
+     "city": "Florence",
+     "folios": "",
+     "date": "",
+     "note": "La = two codices (Laur. 75.20 and 75.5), one siglum"
+    },
+    {
+     "siglum": {
+      "base": "L",
+      "sup": "a",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Codex Laurentianus LXXV, 5",
+     "normalized": "Laur. Plut. 75.5",
+     "city": "Florence",
+     "folios": "",
+     "date": "",
+     "note": "La = two codices (Laur. 75.20 and 75.5), one siglum"
+    },
+    {
+     "siglum": {
+      "base": "M",
+      "sup": "o",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Codex Marcianus 291",
+     "normalized": "Marc. gr. 291",
+     "city": "Venice",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "P",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Codex Vaticanus 298",
+     "normalized": "Vat. gr. 298",
+     "city": "Vatican City",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "P",
+      "sup": "a",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Codex Parisinus Suppl. gr. 1240",
+     "normalized": "Par. Suppl. gr. 1240",
+     "city": "Paris",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "P",
+      "sup": "x",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Codex Vaticanus Palatinus 199",
+     "normalized": "Vat. Pal. gr. 199",
+     "city": "Vatican City",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Q",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Codex Marcianus 596",
+     "normalized": "Marc. gr. 596",
+     "city": "Venice",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "S",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Codex Scorialensis Ψ IV, 14",
+     "normalized": "Scorial. Ψ IV 14",
+     "city": "El Escorial",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "T",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Codex Scorialensis Τ II, 14",
+     "normalized": "Scorial. Τ II 14",
+     "city": "El Escorial",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "V",
+      "sup": "a",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Codex Vindobonensis 51",
+     "normalized": "Vind. 51",
+     "city": "Vienna",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "V",
+      "sup": "′",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Codex Vindobonensis 52",
+     "normalized": "Vind. 52",
+     "city": "Vienna",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "X",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Codex Parisinus Graecus 2199",
+     "normalized": "Par. gr. 2199",
+     "city": "Paris",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Y",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Codex Parisinus Graecus 2198",
+     "normalized": "Par. gr. 2198",
+     "city": "Paris",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "α",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "group",
+     "printed": "consensus codicum",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    }
+   ]
+  }
+ ],
+ "transcribed_by": "Claude agent, zoomed crops",
+ "uncertain": [
+  "V^a, V′ (Vindobonensis 51, 52): fonds not printed (probably med. gr.); normalized as 'Vind. 51' / 'Vind. 52'",
+  "V′: siglum printed as V with a prime/apostrophe, entered as sup '′'",
+  "Note under the list: 'Oribasii opera omnia ad fidem ed. Raederianae laudavi (V. Signorum explic. Vol. I.)' - Oribasius sigla not repeated here"
+ ]
+}

@@ -1,0 +1,526 @@
+{
+ "volume": "cmg_08_01",
+ "editor": "Olivieri",
+ "series": "CMG VIII 1",
+ "year": "1935",
+ "sections": [
+  {
+   "label": "Signorum explicatio",
+   "pages": [
+    17
+   ],
+   "works": [
+    "Aetius, Libri medicinales I–IV"
+   ],
+   "continues_on_next_page": false,
+   "entries": [
+    {
+     "siglum": {
+      "base": "A",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Codex Athous Λαύρας 718 Ω 63",
+     "normalized": "Athos, Lavra Ω 63",
+     "city": "Athos",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "A",
+      "sup": "t",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Codex Athous Λαύρας 719 Ω 64",
+     "normalized": "Athos, Lavra Ω 64",
+     "city": "Athos",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "B",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Codex Parisinus graecus 2192",
+     "normalized": "Par. gr. 2192",
+     "city": "Paris",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "C",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Codex Parisinus graecus 1883",
+     "normalized": "Par. gr. 1883",
+     "city": "Paris",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "D",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Codex Athous Βατοπεδίου Α 29",
+     "normalized": "Athos, Vatopedi Α 29",
+     "city": "Athos",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "E",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Codex Parisinus gr. 2193",
+     "normalized": "Par. gr. 2193",
+     "city": "Paris",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "F",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Codex Parisinus gr. 2256",
+     "normalized": "Par. gr. 2256",
+     "city": "Paris",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "G",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Codex Bononiensis 3632",
+     "normalized": "Bonon. 3632",
+     "city": "Bologna",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "H",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Codex Venet. Marcianus 289",
+     "normalized": "Marc. gr. 289",
+     "city": "Venice",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "K",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Codex Parisinus gr. 2191",
+     "normalized": "Par. gr. 2191",
+     "city": "Paris",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "L",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Codex Vaticanus gr. 2202",
+     "normalized": "Vat. gr. 2202",
+     "city": "Vatican City",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "L",
+      "sup": "a",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Codex Laurentianus LXXV, 20",
+     "normalized": "Laur. Plut. 75.20",
+     "city": "Florence",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "L",
+      "sup": "b",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Codex Laurentianus LXXV, 12",
+     "normalized": "Laur. Plut. 75.12",
+     "city": "Florence",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "M",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Codex Vaticanus 1911",
+     "normalized": "Vat. gr. 1911",
+     "city": "Vatican City",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "M",
+      "sup": "c",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Codex Messanensis 84",
+     "normalized": "Messan. 84",
+     "city": "Messina",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "M",
+      "sup": "o",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Codex Marcianus 291",
+     "normalized": "Marc. gr. 291",
+     "city": "Venice",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "N",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Codex Vaticanus 1904",
+     "normalized": "Vat. gr. 1904",
+     "city": "Vatican City",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "O",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Codex Vaticanus Ottobonianus 311",
+     "normalized": "Vat. Ottob. gr. 311",
+     "city": "Vatican City",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "P",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Codex Vaticanus 298",
+     "normalized": "Vat. gr. 298",
+     "city": "Vatican City",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "P",
+      "sup": "a",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Codex Parisinus Suppl. gr. 1240",
+     "normalized": "Par. Suppl. gr. 1240",
+     "city": "Paris",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "P",
+      "sup": "x",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Codex Vaticanus Palatinus 199",
+     "normalized": "Vat. Pal. gr. 199",
+     "city": "Vatican City",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Q",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Codex Marcianus 596",
+     "normalized": "Marc. gr. 596",
+     "city": "Venice",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "R",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Codex Vaticanus 297",
+     "normalized": "Vat. gr. 297",
+     "city": "Vatican City",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "S",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Codex Scorialensis Ψ IV, 14",
+     "normalized": "Scorial. Ψ IV 14",
+     "city": "El Escorial",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "T",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Codex Scorialensis Τ II, 14",
+     "normalized": "Scorial. Τ II 14",
+     "city": "El Escorial",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "U",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Codex Scorialensis Σ III, 17",
+     "normalized": "Scorial. Σ III 17",
+     "city": "El Escorial",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "V",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Codex Vindobonensis medic. 6",
+     "normalized": "Vind. med. gr. 6",
+     "city": "Vienna",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Y",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Codex Parisin. gr. 2198",
+     "normalized": "Par. gr. 2198",
+     "city": "Paris",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Z",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Codex Parisin. Suppl. gr. 630",
+     "normalized": "Par. Suppl. gr. 630",
+     "city": "Paris",
+     "folios": "",
+     "date": "",
+     "note": "Z = Suppl. gr. 630. 632 (one siglum for both)"
+    },
+    {
+     "siglum": {
+      "base": "Z",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Codex Parisin. Suppl. gr. 632",
+     "normalized": "Par. Suppl. gr. 632",
+     "city": "Paris",
+     "folios": "",
+     "date": "",
+     "note": "Z = Suppl. gr. 630. 632 (one siglum for both)"
+    },
+    {
+     "siglum": {
+      "base": "α",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "group",
+     "printed": "consensus codicum",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Gal.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "Galeni editionis Kuehnianae textus",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Or.",
+      "sup": "a",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "Oribasii Synopsis ad Eustathium CMG VI 3 ed. Raeder 1926",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Or.",
+      "sup": "e",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "Oribasii Libri ad Eunapium CMG VI 3 ed. Raeder 1926",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Or.",
+      "sup": "c",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "Oribasii Collectiones medicae I–IV CMG VI 1 ed. Raeder 1928",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Ald.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "ed. Aldina Aetii lib. I–VIII",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    }
+   ]
+  }
+ ],
+ "transcribed_by": "Claude (pilot, checked against zoomed crops)",
+ "uncertain": []
+}

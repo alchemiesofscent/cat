@@ -1,0 +1,306 @@
+{
+ "volume": "suppl_or_05_02",
+ "editor": "Vagelpohl/Swain",
+ "series": "CMG Suppl. Or. V 2",
+ "year": "2016",
+ "sections": [
+  {
+   "label": "Conspectus siglorum et compendiorum",
+   "pages": [
+    74,
+    75
+   ],
+   "works": [
+    "Galeni In Hippocratis Epidemiarum librum II commentariorum I–VI versio Arabica"
+   ],
+   "continues_on_next_page": false,
+   "entries": [
+    {
+     "siglum": {
+      "base": "A",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "codex Ayasofya 3642",
+     "normalized": "Istanbul, Ayasofya 3642",
+     "city": "Istanbul",
+     "folios": "",
+     "date": "s. XIV",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "E",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Scorialensis Arab. 804",
+     "normalized": "Scorial. arab. 804",
+     "city": "El Escorial",
+     "folios": "",
+     "date": "s. XIII",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "E",
+      "sup": "2",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "eiusdem codicis corrector primus",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "E",
+      "sup": "3",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "eiusdem codicis corrector secundus",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "K",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "codex Ayasofya 3592",
+     "normalized": "Istanbul, Ayasofya 3592",
+     "city": "Istanbul",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "K",
+      "sup": "2",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "eiusdem codicis corrector",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "M",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Ambrosianus B 135 sup.",
+     "normalized": "Ambros. B 135 sup.",
+     "city": "Milan",
+     "folios": "",
+     "date": "a. 1624",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Colv.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "eiusdem codicis corrector et annotator, David Colvillus",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "corrector of M"
+    },
+    {
+     "siglum": {
+      "base": "Hipp. Gr.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "Hippocratis Epidemiarum II editio Littré, Parisiis a. 1846",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Buqrāṭ, Fuṣūl",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "Hippocratis Aphorismorum versionis Arabicae editio Tytler, Calcuttae a. 1832",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Buqrāṭ, Ġiḏāʾ",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "Hippocratis De alimento versionis Arabicae editio Mattock, Cantabrigiae a. 1971",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Buqrāṭ, Taqdima",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "Hippocratis Prognosticorum versionis Arabicae editio Klamroth, a. 1886",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Ǧālīnūs, TIfiḏīmiyā I",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "Galeni In Hippocratis Epidemiarum librum I comm. versionis Arabicae editio Vagelpohl, Berolini a. 2014",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Ǧālīnūs, TIfiḏīmiyā III",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Tafsīr Ǧālīnūs li-k. al-Ifiḏīmiyā (al-maqāla al-ṯāliṯa), codex Scorialensis Arab. 804, fol. 124r–182v",
+     "normalized": "Scorial. arab. 804",
+     "city": "El Escorial",
+     "folios": "fol. 124r–182v",
+     "date": "",
+     "note": "parallel text (Galen, In Hipp. Epid. III, Arabic) cited from this manuscript"
+    },
+    {
+     "siglum": {
+      "base": "Ǧālīnūs, TIfiḏīmiyā VI",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Tafsīr Ǧālīnūs li-k. al-Ifiḏīmiyā (al-maqāla al-sādisa), codex Scorialensis Arab. 805, fol. 1v–195r",
+     "normalized": "Scorial. arab. 805",
+     "city": "El Escorial",
+     "folios": "fol. 1v–195r",
+     "date": "",
+     "note": "parallel text (Galen, In Hipp. Epid. VI, Arabic) cited from this manuscript"
+    },
+    {
+     "siglum": {
+      "base": "Ǧālīnūs, Ṭīmāwus",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "Galeni Compendii Timaei Platonis versionis Arabicae editio Kraus et Walzer, Londinii a. 1951",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Ḥunayn, Ǧawāmiʿ",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Ǧawāmiʿ maʿānī tafsīr al-maqāla al-ṯāniya min kitāb Ibīḏīmiyā ʿalā sabīl al-masʾala wa-l-ǧawāb codex Ambrosianus B 135 sup., fol. 119r–131v",
+     "normalized": "Ambros. B 135 sup.",
+     "city": "Milan",
+     "folios": "fol. 119r–131v",
+     "date": "",
+     "note": "parallel text (Ḥunayn's summary of Epid. II) cited from this manuscript"
+    },
+    {
+     "siglum": {
+      "base": "b. Maymūn, Fuṣūl",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "K. al-fuṣūl fī l-ṭibb li-Mūsā ibn ʿUbayd Allāh ibn Maymūn editio Bos, Provo, Utah a. 2004–",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Rāzī, Ḥāwī",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "K. al-ḥāwī fī l-ṭibb li-Abī Bakr Muḥammad ibn Zakarīyāʾ al-Rāzī editio, Ḥaydarābād a. 1955–1970",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "b. Riḍwān, Fawāʾid",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Taʿālīq ʿAlī ibn Riḍwān li-fawāʾid min kitāb Ibīḏīmiyā li-Abuqrāṭ tafsīr Ǧālīnūs codex Cantabrigiensis Dd. 12. 1, fol. 127v–197r",
+     "normalized": "Cambridge, UL Dd. 12. 1",
+     "city": "Cambridge",
+     "folios": "fol. 127v–197r",
+     "date": "",
+     "note": "parallel text (Ibn Riḍwān) cited from this manuscript"
+    }
+   ]
+  }
+ ],
+ "transcribed_by": "Claude agent, zoomed crops",
+ "uncertain": [
+  "Abbreviations for parallel texts that are cited from manuscripts (Ǧālīnūs TIfiḏīmiyā III/VI, Ḥunayn Ǧawāmiʿ, b. Riḍwān Fawāʾid) are typed 'manuscript' with that manuscript's shelfmark; the others are printed editions.",
+  "Superscript r/v in folio ranges written inline (124r–182v)."
+ ]
+}

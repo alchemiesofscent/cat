@@ -1,0 +1,429 @@
+{
+ "volume": "cml_03",
+ "editor": "Önnerfors",
+ "series": "CML III",
+ "year": "1964",
+ "sections": [
+  {
+   "label": "Sigla codicum et cetera compendia scripturae",
+   "pages": [
+    42
+   ],
+   "works": [
+    "Medicina Plinii (Med. Pl.)"
+   ],
+   "continues_on_next_page": false,
+   "entries": [
+    {
+     "siglum": {
+      "base": "G",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Sangallensis 752, saec. IX",
+     "normalized": "Sangall. 752",
+     "city": "St. Gallen",
+     "folios": "",
+     "date": "saec. IX",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "V",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Vossianus Lat. O. 92, saec. X in.",
+     "normalized": "Leid. Voss. lat. O 92",
+     "city": "Leiden",
+     "folios": "",
+     "date": "saec. X in.",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "H",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Hertensis med. 192, saec. XII, nunc deperditus",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "saec. XII",
+     "note": "lost (nunc deperditus)"
+    },
+    {
+     "siglum": {
+      "base": "A",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Bibl. Cathedr. Lincoloniensis Lat. 220 : 4, saec. XII, mutilus",
+     "normalized": "Lincoln Cathedral 220",
+     "city": "Lincoln",
+     "folios": "",
+     "date": "saec. XII",
+     "note": "mutilus; printed '220 : 4'"
+    },
+    {
+     "siglum": {
+      "base": "L",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Londiniensis Lat. Reg. 12 E. XX, saec. XII",
+     "normalized": "Royal 12 E XX",
+     "city": "London",
+     "folios": "",
+     "date": "saec. XII",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "D",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "(D Dresdensis Dc. 185, saec. XII, nunc deperditus)",
+     "normalized": "Dresd. Dc. 185",
+     "city": "Dresden",
+     "folios": "",
+     "date": "saec. XII",
+     "note": "lost (nunc deperditus); whole entry printed in round brackets"
+    },
+    {
+     "siglum": {
+      "base": "R",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Vaticanus Reginensis Lat. 1004, saec. XII uel in. XIII, mutilus",
+     "normalized": "Vat. Reg. lat. 1004",
+     "city": "Vatican City",
+     "folios": "",
+     "date": "saec. XII uel in. XIII",
+     "note": "mutilus"
+    },
+    {
+     "siglum": {
+      "base": "B",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Cantabrigiensis S. Petri 222 : III : 1, saec. XIV",
+     "normalized": "Cambridge, Peterhouse 222",
+     "city": "Cambridge",
+     "folios": "",
+     "date": "saec. XIV",
+     "note": "printed '222 : III : 1'"
+    },
+    {
+     "siglum": {
+      "base": "C",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Vaticanus Capponianus Lat. 129, a. 1501 scriptus",
+     "normalized": "Vat. Capp. lat. 129",
+     "city": "Vatican City",
+     "folios": "",
+     "date": "a. 1501",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Ω",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "group",
+     "printed": "consensus codicum GVALRBC ut quoque loco praesto sunt",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Z",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "group",
+     "printed": "consensus codicum GVALRB ut quoque loco praesto sunt",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "t",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "codex uetus Torini",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "old manuscript used by Torinus, not identified"
+    }
+   ]
+  },
+  {
+   "label": "Sigla codicum et cetera compendia scripturae",
+   "pages": [
+    42
+   ],
+   "works": [
+    "Physica Plinii (Phys. Pl.)"
+   ],
+   "continues_on_next_page": false,
+   "entries": [
+    {
+     "siglum": {
+      "base": "M",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Bambergensis med. 1, saec. IX",
+     "normalized": "Bamb. med. 1",
+     "city": "Bamberg",
+     "folios": "",
+     "date": "saec. IX",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Q",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Bambergensis med. 2, saec. IX uel in. X, mutilus",
+     "normalized": "Bamb. med. 2",
+     "city": "Bamberg",
+     "folios": "",
+     "date": "saec. IX uel in. X",
+     "note": "mutilus"
+    },
+    {
+     "siglum": {
+      "base": "S",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Sangallensis 751, saec. IX",
+     "normalized": "Sangall. 751",
+     "city": "St. Gallen",
+     "folios": "",
+     "date": "saec. IX",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "E",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Florentinus Strozzianus 70, saec. XIV",
+     "normalized": "Florent. Strozz. 70",
+     "city": "Florence",
+     "folios": "",
+     "date": "saec. XIV",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "F",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Florentinus Aedil. 165, a. 1433 exaratus",
+     "normalized": "Florent. Aedil. 165",
+     "city": "Florence",
+     "folios": "",
+     "date": "a. 1433",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "P",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Pragensis Lat. 2425, saec. XIV uel in. XV",
+     "normalized": "Prag. lat. 2425",
+     "city": "Prague",
+     "folios": "",
+     "date": "saec. XIV uel in. XV",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Θ",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "group",
+     "printed": "consensus codicum EFP",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    }
+   ]
+  },
+  {
+   "label": "Sigla codicum et cetera compendia scripturae",
+   "pages": [
+    42
+   ],
+   "works": [
+    "Medicina Plinii",
+    "Physica Plinii"
+   ],
+   "continues_on_next_page": false,
+   "entries": [
+    {
+     "siglum": {
+      "base": "G",
+      "sup": "2",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "G² (V² cett.) = textus correctus uel auctus",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "corrected or augmented text, applies likewise to the other sigla"
+    },
+    {
+     "siglum": {
+      "base": "etiam M",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "etiam M (Q cett.) significat hunc (hos) Physicae Plinii codicem (codices) cum iis Medicinae Plinii congruere qui quoque loco aut diserte laudantur aut e silentio intellegendi sunt.",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Epist. Pl.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "Epistula Plini Secundi ad amicos de medicina",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "N. H.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "Naturalis Historia",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Marc.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "Marcelli de medicamentis liber",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Pigh.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "editio Pighinuccii",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Rose",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "editio V. Rosei Medicinae Plinii",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Tor.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "editio Torini",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    }
+   ]
+  }
+ ],
+ "transcribed_by": "Claude agent, zoomed crops",
+ "uncertain": [
+  "One TOC section holds two lists (Medicina Plinii, Physica Plinii) plus shared abbreviations; written as three sections with the same label. Pure abbreviations (sim., tit. om. uac. sp. rel., u.) not transcribed.",
+  "Normalized forms outside the house list, city word kept: 'Sangall. 752/751', 'Leid. Voss. lat. O 92', 'Lincoln Cathedral 220' (printed 'Lat. 220 : 4'), 'Royal 12 E XX', 'Dresd. Dc. 185', 'Cambridge, Peterhouse 222' (printed 'S. Petri 222 : III : 1'), 'Vat. Capp. lat. 129', 'Bamb. med. 1/2', 'Florent. Strozz. 70', 'Florent. Aedil. 165', 'Prag. lat. 2425'.",
+  "H (Hertensis med. 192) is lost and has no normalized form; D is printed in round brackets (lost)."
+ ]
+}

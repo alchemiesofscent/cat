@@ -1,0 +1,358 @@
+{
+ "volume": "cmg_05_10_03",
+ "editor": "Wenkebach",
+ "series": "CMG V 10,3",
+ "year": "1951",
+ "sections": [
+  {
+   "label": "Adv.Lyc. – Conspectus codicum et editionum",
+   "pages": [
+    44
+   ],
+   "works": [
+    "Galenus, Adversus Lycum"
+   ],
+   "continues_on_next_page": false,
+   "entries": [
+    {
+     "siglum": {
+      "base": "L",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Laurentianus Florentinus gr. plut. LXXIV 3; s. XII/XIII; fol. 1r—12r",
+     "normalized": "Laur. Plut. 74.3",
+     "city": "Florence",
+     "folios": "fol. 1r—12r",
+     "date": "s. XII/XIII",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "L",
+      "sup": "1",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "corrector, nisi me fallit opinio, humanista Byzantinus",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "corrector of L"
+    },
+    {
+     "siglum": {
+      "base": "M",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Marcianus Venetus App. class. V 4; s. XV; fol. 246—253",
+     "normalized": "Marc. gr. App. cl. V 4",
+     "city": "Venice",
+     "folios": "fol. 246—253",
+     "date": "s. XV",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "P",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Parisinus gr. n. 2164, s. XVI, fol. 44 sqq., haud dubie unus ex libris mscr. Ioannis Clementis Londinensis",
+     "normalized": "Par. gr. 2164",
+     "city": "Paris",
+     "folios": "fol. 44 sqq.",
+     "date": "s. XVI",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "P",
+      "sup": "1",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "si non ipse Opizo Galeni Graeci editor princeps, at tamen eius in Aldina edenda adiutor Clemens medicus Britannus",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "annotator of P"
+    },
+    {
+     "siglum": {
+      "base": "Ald.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "editio Aldina Ioannis Baptistae Opizonis (ed. princeps a. 1525)",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Bas.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "editio Basileensis Hieronymi Gemusaei (a. 1538)",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Chart.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "editio Renati Charterii (Paris. a. 1679)",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "K.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "editio Car. Gottl. Kuehnii (Lips. 1829)",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Corn.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "Iani Cornarii medici Zviccaviensis adnotationes ad Aldinae exemplar in bibliotheca universitatis Ienensis adservatum",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Helmr.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "Georgius Helmreich",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Deichgr.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "Carolus Deichgräber",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    }
+   ]
+  },
+  {
+   "label": "Adv.Jul. – Conspectus codicum et editionum",
+   "pages": [
+    74
+   ],
+   "works": [
+    "Galenus, Adversus Iulianum"
+   ],
+   "continues_on_next_page": false,
+   "entries": [
+    {
+     "siglum": {
+      "base": "L",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Laurentianus Florentinus gr. plut. LXXIV 3; s. XII/XIII; fol. 12r—21v",
+     "normalized": "Laur. Plut. 74.3",
+     "city": "Florence",
+     "folios": "fol. 12r—21v",
+     "date": "s. XII/XIII",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "L",
+      "sup": "1",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "corrector, nisi fallor, humanista Byzantinus",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "corrector of L"
+    },
+    {
+     "siglum": {
+      "base": "M",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Marcianus Venetus App. class. V 4; s. XV; fol. 253r—254v",
+     "normalized": "Marc. gr. App. cl. V 4",
+     "city": "Venice",
+     "folios": "fol. 253r—254v",
+     "date": "s. XV",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Ald.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "editio Aldina Opizonis (ed. princeps a. 1525)",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Bas.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "editio Basileensis Hieronymi Gemusaei (a. 1538)",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Chart.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "editio Renati Charterii (Paris. a. 1679)",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "K.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "editio Car. Gottl. Kuehnii (Lips. a. 1829)",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Corn.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "Iani Cornarii medici Zviccaviensis adnotationes ad Aldinae exemplar in bibliotheca universitatis Ienensis adservatum",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Deichgr.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "Carolus Deichgräber",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Helm.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "Georgius Helmreich",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Schubr.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "Conradus Schubring",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    }
+   ]
+  }
+ ],
+ "transcribed_by": "Claude agent, zoomed crops",
+ "uncertain": [
+  "Marcianus Venetus App. class. V 4 normalized as 'Marc. gr. App. cl. V 4' (App. kept as printed)."
+ ]
+}

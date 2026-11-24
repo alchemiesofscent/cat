@@ -1,0 +1,303 @@
+{
+ "volume": "cmg_05_09_02",
+ "editor": "Diels/Mewaldt/Heeg",
+ "series": "CMG V 9,2",
+ "year": "1915",
+ "sections": [
+  {
+   "label": "Hipp.prorrh. – Conspectus codicum",
+   "pages": [
+    36
+   ],
+   "works": [
+    "Galen, In Hippocratis Prorrheticum I commentaria III"
+   ],
+   "continues_on_next_page": false,
+   "entries": [
+    {
+     "siglum": {
+      "base": "R",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Vaticanus Regius 175",
+     "normalized": "Vat. Reg. gr. 175",
+     "city": "Vatican City",
+     "folios": "f. 89r–179r",
+     "date": "s. XIV",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "T",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Trivultianus Mediolanensis 685",
+     "normalized": "Triv. 685",
+     "city": "Milan",
+     "folios": "f. 193r–230r",
+     "date": "s. XV in.",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "L",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Laurentianus Florentinus 75, 5",
+     "normalized": "Laur. Plut. 75.5",
+     "city": "Florence",
+     "folios": "f. 249r–311r",
+     "date": "s. XIV",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "A",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Ambrosianus gr. 659 (Q 3 sup.)",
+     "normalized": "Ambros. Q 3 sup.",
+     "city": "Milan",
+     "folios": "f. 129r–184v",
+     "date": "s. XIV",
+     "note": "ubi T desinit p. 93, 6, in eius vicem A plene adhibetur"
+    }
+   ]
+  },
+  {
+   "label": "Com.Hipp. – Conspectus codicum",
+   "pages": [
+    214
+   ],
+   "works": [
+    "Galen, De comate secundum Hippocratem"
+   ],
+   "continues_on_next_page": false,
+   "entries": [
+    {
+     "siglum": {
+      "base": "L",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Laurent. gr. 74, 3",
+     "normalized": "Laur. Plut. 74.3",
+     "city": "Florence",
+     "folios": "f. 188v–191v",
+     "date": "s. XII",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "P",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "translation",
+     "printed": "Parisin. lat. 6865",
+     "normalized": "",
+     "city": "Paris",
+     "folios": "f. 198vb–200va",
+     "date": "s. XIV",
+     "note": "Latin manuscript (Par. lat. 6865)"
+    }
+   ]
+  },
+  {
+   "label": "Hipp.prog. – Conspectus codicum",
+   "pages": [
+    230
+   ],
+   "works": [
+    "Galen, In Hippocratis Prognosticum commentaria III"
+   ],
+   "continues_on_next_page": false,
+   "entries": [
+    {
+     "siglum": {
+      "base": "V",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Vaticanus 1858",
+     "normalized": "Vat. gr. 1858",
+     "city": "Vatican City",
+     "folios": "f. 242r–249v",
+     "date": "s. XIII",
+     "note": "V = Vaticanus 1858 + Vaticanus 1063 (one siglum for both)"
+    },
+    {
+     "siglum": {
+      "base": "V",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Vaticanus 1063",
+     "normalized": "Vat. gr. 1063",
+     "city": "Vatican City",
+     "folios": "f. 1r–107v",
+     "date": "s. XIII",
+     "note": "V = Vaticanus 1858 + Vaticanus 1063 (one siglum for both)"
+    },
+    {
+     "siglum": {
+      "base": "V",
+      "sup": "1",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "corrector antiquus",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "V",
+      "sup": "2",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "correctores recentiores",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "V² V³ correctores recentiores"
+    },
+    {
+     "siglum": {
+      "base": "V",
+      "sup": "3",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "correctores recentiores",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "V² V³ correctores recentiores"
+    },
+    {
+     "siglum": {
+      "base": "R",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Reginensis 175",
+     "normalized": "Vat. Reg. gr. 175",
+     "city": "Vatican City",
+     "folios": "f. 1r–88v",
+     "date": "s. XIV",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "R",
+      "sup": "1",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "correctores",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "R¹ R² R³ correctores"
+    },
+    {
+     "siglum": {
+      "base": "R",
+      "sup": "2",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "correctores",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "R¹ R² R³ correctores"
+    },
+    {
+     "siglum": {
+      "base": "R",
+      "sup": "3",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "correctores",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "R¹ R² R³ correctores"
+    },
+    {
+     "siglum": {
+      "base": "P",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Palatinus 157",
+     "normalized": "Vat. Pal. gr. 157",
+     "city": "Vatican City",
+     "folios": "f. 2r–104v",
+     "date": "s. XIV",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "F",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Parisinus (Fontanebl.) 2266",
+     "normalized": "Par. gr. 2266",
+     "city": "Paris",
+     "folios": "f. 14r–92v",
+     "date": "s. XIII",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "F",
+      "sup": "p",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "supplementa",
+     "normalized": "",
+     "city": "Paris",
+     "folios": "f. 1r–13v",
+     "date": "s. XVI",
+     "note": "later supplements in Par. gr. 2266"
+    }
+   ]
+  }
+ ],
+ "transcribed_by": "Claude agent, zoomed crops",
+ "uncertain": [
+  "p. 36: first siglum R is printed with damaged type (reads like 'Ŗ'); taken as R, consistent with R = Vat. Reg. 175 in the Prognosticum list.",
+  "p. 36: end folio of A printed '184°'/'184v' (superscript blurred); given as 184v.",
+  "Trivultianus Mediolanensis 685 normalized as 'Triv. 685' (not in the house list).",
+  "Palatinus 157 and Reginensis 175 normalized as Vatican fonds (Vat. Pal. gr. 157, Vat. Reg. gr. 175); the volume says only 'Palatinus'/'Reginensis'."
+ ]
+}

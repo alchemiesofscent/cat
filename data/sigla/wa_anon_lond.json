@@ -1,0 +1,66 @@
+{
+ "volume": "wa_anon_lond",
+ "editor": "Diels",
+ "series": "Suppl. Aristot. III 1",
+ "year": "1893",
+ "sections": [
+  {
+   "label": "Signorum explicatio",
+   "pages": [
+    20
+   ],
+   "works": [
+    "Anonymi Londinensis ex Aristotelis Iatricis Menoniis et aliis medicis eclogae"
+   ],
+   "continues_on_next_page": false,
+   "entries": [
+    {
+     "siglum": {
+      "base": "P",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "papyrus",
+     "printed": "papyri Londinensis CXXXVII scriptor idemque corrector",
+     "normalized": "P.Lond. 137",
+     "city": "London",
+     "folios": "",
+     "date": "",
+     "note": "siglum denotes the papyrus' scribe, who is also its corrector"
+    },
+    {
+     "siglum": {
+      "base": "K",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "F. G. Kenyon",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "scholar (first editor of the papyrus)"
+    }
+   ]
+  },
+  {
+   "label": "Suppl. Aristotelicum vol. III 1 – Sigla",
+   "pages": [
+    137,
+    138
+   ],
+   "works": [
+    "Anonymi Londinensis ex Aristotelis Iatricis Menoniis et aliis medicis eclogae"
+   ],
+   "continues_on_next_page": false,
+   "entries": []
+  }
+ ],
+ "transcribed_by": "Claude agent, zoomed crops",
+ "uncertain": [
+  "Signorum explicatio (p. XX): the 'Editionis' part lists critical signs only; omitted. Only the 'Notarum' sigla P and K entered.",
+  "P: normalized as 'P.Lond. 137' from 'papyri Londinensis CXXXVII' (British Library Pap. 137).",
+  "Sigla plate (Tab. I, canvas 137) lists the papyrus's abbreviation symbols (αἴτιος, ἀλλά, γάρ ...) and sect names, not witness sigla; canvas 138 is blank. Section left empty."
+ ]
+}

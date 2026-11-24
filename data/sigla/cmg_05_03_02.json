@@ -1,0 +1,628 @@
+{
+ "volume": "cmg_05_03_02",
+ "editor": "Nutton",
+ "series": "CMG V 3,2",
+ "year": "1999",
+ "sections": [
+  {
+   "label": "Conspectus siglorum et compendiorum",
+   "pages": [
+    52,
+    53
+   ],
+   "works": [
+    "Galeni De propriis placitis"
+   ],
+   "continues_on_next_page": false,
+   "entries": [
+    {
+     "siglum": {
+      "base": "A",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Ambrosianus gr. 659; s. XIV/XV",
+     "normalized": "Ambros. gr. 659",
+     "city": "Milan",
+     "folios": "",
+     "date": "s. XIV/XV",
+     "note": "Codices textus Graeci"
+    },
+    {
+     "siglum": {
+      "base": "A",
+      "sup": "2",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "eiusdem codicis corrector",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "L",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Laurentianus gr. 74,5; s. XII",
+     "normalized": "Laur. Plut. 74.5",
+     "city": "Florence",
+     "folios": "",
+     "date": "s. XII",
+     "note": "Codices textus Graeci"
+    },
+    {
+     "siglum": {
+      "base": "P",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Parisinus gr. 2332; s. XV",
+     "normalized": "Par. gr. 2332",
+     "city": "Paris",
+     "folios": "",
+     "date": "s. XV",
+     "note": "Codices textus Graeci"
+    },
+    {
+     "siglum": {
+      "base": "Q",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Parisinus suppl. gr. 634; s. XII",
+     "normalized": "Par. Suppl. gr. 634",
+     "city": "Paris",
+     "folios": "",
+     "date": "s. XII",
+     "note": "Codices textus Graeci"
+    },
+    {
+     "siglum": {
+      "base": "Ad.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "codex Adelphi, nunc perditus",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "lost manuscript"
+    },
+    {
+     "siglum": {
+      "base": "C",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Malatestianus S. V 4; s. XIV",
+     "normalized": "Cesena, Malatest. S. V 4",
+     "city": "Cesena",
+     "folios": "",
+     "date": "s. XIV",
+     "note": "Codices versionum Latinarum"
+    },
+    {
+     "siglum": {
+      "base": "B",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Parisinus lat. 6865; s. XIV",
+     "normalized": "Par. lat. 6865",
+     "city": "Paris",
+     "folios": "",
+     "date": "s. XIV",
+     "note": "Codices versionum Latinarum"
+    },
+    {
+     "siglum": {
+      "base": "B",
+      "sup": "2",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "eiusdem codicis correctores",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "B², B³, B⁴ printed together"
+    },
+    {
+     "siglum": {
+      "base": "B",
+      "sup": "3",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "eiusdem codicis correctores",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "B², B³, B⁴ printed together"
+    },
+    {
+     "siglum": {
+      "base": "B",
+      "sup": "4",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "eiusdem codicis correctores",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "B², B³, B⁴ printed together"
+    },
+    {
+     "siglum": {
+      "base": "O",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Biturigensis 299; s. XIV",
+     "normalized": "Bourges 299",
+     "city": "Bourges",
+     "folios": "",
+     "date": "s. XIV",
+     "note": "Codices versionum Latinarum"
+    },
+    {
+     "siglum": {
+      "base": "O",
+      "sup": "2",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "eiusdem codicis corrector",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "D",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Dresdensis Db 92; s. XV",
+     "normalized": "Dresd. Db 92",
+     "city": "Dresden",
+     "folios": "",
+     "date": "s. XV",
+     "note": "Codices versionum Latinarum"
+    },
+    {
+     "siglum": {
+      "base": "D",
+      "sup": "2",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "eiusdem codicis corrector",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "E",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Parisinus Academicus 51; s. XV",
+     "normalized": "Paris, Acad. Méd. 51",
+     "city": "Paris",
+     "folios": "",
+     "date": "s. XV",
+     "note": "Codices versionum Latinarum"
+    },
+    {
+     "siglum": {
+      "base": "E",
+      "sup": "2",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "eiusdem codicis corrector",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "α",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "group",
+     "printed": "consensus codicum CBODE",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "β",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "group",
+     "printed": "consensus codicum BODE",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "γ",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "group",
+     "printed": "consensus codicum BO",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "ε",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "group",
+     "printed": "consensus codicum DE",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Nic.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "translation",
+     "printed": "Nicolai versio Latina; s. XIV",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "s. XIV",
+     "note": "Latin version of Niccolò da Reggio"
+    },
+    {
+     "siglum": {
+      "base": "Nic.",
+      "sup": "b",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Nicolai versio codice Parisino lat. 6865 s. XIV tradita",
+     "normalized": "Par. lat. 6865",
+     "city": "Paris",
+     "folios": "",
+     "date": "s. XIV",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Nic.",
+      "sup": "c",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Nicolai versio codice Malatestiano S. V 4 s. XIV tradita",
+     "normalized": "Cesena, Malatest. S. V 4",
+     "city": "Cesena",
+     "folios": "",
+     "date": "s. XIV",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Nic.",
+      "sup": "h",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Nicolai versio codice Matritensi lat. 1978 s. XIV tradita",
+     "normalized": "Matrit. lat. 1978",
+     "city": "Madrid",
+     "folios": "",
+     "date": "s. XIV",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Nic.",
+      "sup": "i",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Nicolai versio codice Monacensi lat. 490 a. 1488 tradita",
+     "normalized": "Mon. lat. 490",
+     "city": "Munich",
+     "folios": "",
+     "date": "a. 1488",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Nic.",
+      "sup": "j",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Nicolai versio codice Neapolitano VIII D 38 s. XIV tradita",
+     "normalized": "Neap. VIII D 38",
+     "city": "Naples",
+     "folios": "",
+     "date": "s. XIV",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Nic.",
+      "sup": "k",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Nicolai versio codice Wellcomensi 286 s. XIV tradita",
+     "normalized": "Wellcome 286",
+     "city": "London",
+     "folios": "",
+     "date": "s. XIV",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Fal.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "translation",
+     "printed": "excerptum Hebraeum, quod Ibn Falaquera e Galeni libro sumpsit",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "Fontes excerpti Hebraei"
+    },
+    {
+     "siglum": {
+      "base": "L",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Londiniensis Or. 1484",
+     "normalized": "London, BL Or. 1484",
+     "city": "London",
+     "folios": "",
+     "date": "",
+     "note": "Fontes excerpti Hebraei (Hebrew excerpt); distinct from Greek L"
+    },
+    {
+     "siglum": {
+      "base": "NY",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "New York, Jewish Theological Seminary, microfilm 2306",
+     "normalized": "New York, JTS mic. 2306",
+     "city": "New York",
+     "folios": "",
+     "date": "",
+     "note": "Fontes excerpti Hebraei"
+    },
+    {
+     "siglum": {
+      "base": "DH",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "editio Den Haag, a. 1778",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "Fontes excerpti Hebraei"
+    },
+    {
+     "siglum": {
+      "base": "Ald.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "editio Aldina, Venetiis, a. 1525",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Goulst.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "editio Goulstonii, Londinii, a. 1640",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Chart.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "editio Charterii, Lutetiae Parisiorum, a. 1679",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Kühn",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "editio Kühnii, Lipsiae, a. 1822",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Helmreich",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "Helmreich, Galeni fragmenta",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Zonta",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "editio excerpti Hebraei, quam Zonta, p. 103–105, curavit",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Arist.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "[Aristotelis] liber De pomo, ed. Plezia, p. 58sq.",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Caius",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "I. Caius in editionis Basileensis exemplari suo nunc bibliothecae collegii Etonensis proprio",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "annotated copy of the Basel edition"
+    },
+    {
+     "siglum": {
+      "base": "Corn.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "I. Cornarius in editionis Aldinae exemplari suo nunc bibliothecae universitatis Ienensis proprio",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "annotated copy of the Aldine"
+    },
+    {
+     "siglum": {
+      "base": "Gas",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "Petri de Sancto Floro (P. Gas) excerpta (v. supra, p. 26sq.)",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Goulst.",
+      "sup": "Bas.",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "Th. Goulston in editionis Basileensis exemplari suo (v. supra, p. 20)",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "annotated copy of the Basel edition"
+    }
+   ]
+  }
+ ],
+ "transcribed_by": "Claude agent, zoomed crops",
+ "uncertain": [
+  "Normalized forms outside the house list, kept close to the printed wording: 'Ambros. gr. 659' (Martini–Bassi number), 'Cesena, Malatest. S. V 4', 'Bourges 299', 'Dresd. Db 92', 'Paris, Acad. Méd. 51' (Parisinus Academicus 51), 'Matrit. lat. 1978', 'Mon. lat. 490', 'Neap. VIII D 38', 'Wellcome 286', 'London, BL Or. 1484', 'New York, JTS mic. 2306' (a microfilm number, not a shelfmark).",
+  "Nic.^b and Nic.^c are the same manuscripts as B and C."
+ ]
+}

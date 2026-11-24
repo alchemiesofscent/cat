@@ -74,7 +74,22 @@ _CITY_KEY = {"par": "paris", "paris": "paris", "vat": "vatican", "vatican": "vat
              "modena": "modena", "cambridge": "cambridge", "berlin": "berlin", "leipzig": "leipzig",
              "madrid": "madrid", "heidelberg": "heidelberg", "bologna": "bologna", "haven": "newhaven",
              "yale": "newhaven", "bamberg": "bamberg", "zwickau": "zwickau", "wolfenbüttel": "wolfenbuttel",
-             "leidensis": "leiden", "scal": "leiden", "vulc": "leiden"}
+             "leidensis": "leiden", "scal": "leiden", "vulc": "leiden",
+             "escorial": "escorial", "scorial": "escorial", "scor": "escorial", "athos": "athos", "athous": "athos",
+             "messan": "messina", "messina": "messina", "matrit": "madrid", "mosq": "moscow", "moscow": "moscow",
+             "taur": "turin", "turin": "turin", "torino": "turin", "bonon": "bologna", "lips": "leipzig",
+             "berol": "berlin", "oxon": "oxford", "neap": "naples", "leid": "leiden", "ambrosiana": "milan",
+             "laurentianus": "florence", "parisinus": "paris", "vaticanus": "vatican", "marcianus": "venice",
+             "vindobonensis": "vienna", "monacensis": "munich", "harley": "london", "sloane": "london", "arundel": "london",
+             "sangall": "stgallen", "sang": "stgallen", "gallen": "stgallen", "dresd": "dresden", "dresden": "dresden",
+             "cesena": "cesena", "malatest": "cesena", "istanbul": "istanbul", "haun": "copenhagen",
+             "kopenhagen": "copenhagen", "copenhagen": "copenhagen", "brux": "brussels", "bruxelles": "brussels",
+             "vindocin": "vendome", "laudun": "laon", "prag": "prague", "prague": "prague", "tolet": "toledo",
+             "casin": "montecassino", "patm": "patmos", "jena": "jena", "erfurt": "erfurt", "zürich": "zurich",
+             "wrocław": "wroclaw", "rehd": "wroclaw", "siena": "siena", "lincoln": "lincoln", "bourges": "bourges",
+             "avranches": "avranches", "bursa": "bursa", "alexandria": "alexandria", "tehran": "tehran",
+             "phillipps": "phillipps", "phill": "phillipps", "cheltenham": "phillipps", "hamburg": "hamburg",
+             "bodmer": "cologny", "cologny": "cologny", "gallipoli": "gallipoli", "york": "newyork"}
 _KEEP = {"suppl", "urb", "pal", "barb", "reg", "ottob", "coisl", "coislin", "barocc", "med", "hist", "phil", "theol",
          "harley", "add", "sloane", "lat", "chis", "ross"}
 
@@ -87,6 +102,15 @@ def ms_key(city_name, shelf):
                       "add" if w == "additional" else "barocc" if w == "barocci" else w)
     fonds = sorted({norm(w.lower()) for w in words if norm(w.lower()) in _KEEP})
     nums = [str(int(n)) for n in re.findall(r"\d+", shelf)]
+    if c == "milan":  # Ambrosiana: letter and sup./inf. belong to the shelfmark (C 80 inf. is not Q 80 sup.)
+        m = re.search(r"\b([A-Z])\s*[,.]?\s*0*(\d+)\s*(sup|inf)", shelf)
+        if m:
+            fonds, nums = [f"{m[1].lower()}{m[3]}"], [str(int(m[2]))]
+    if c == "escorial":  # Escorial: letter + Roman numeral + number (Ψ IV 14); Latin look-alikes read as Greek
+        m = re.search(r"(?<![A-Za-zΑ-Ωα-ω])([A-Za-zΑ-Ωα-ω])\s*[.,]?\s*([IVX]+)\s*[.,]?\s*0*(\d+)", shelf)
+        if m:
+            g = str.maketrans("ABEZHIKMNOPTYX", "ΑΒΕΖΗΙΚΜΝΟΡΤΥΧ")
+            fonds, nums = [m[1].upper().translate(g) + m[2]], [str(int(m[3]))]
     return f"{c}|{' '.join(fonds)}|{'.'.join(nums)}" if c and nums else None
 
 
@@ -162,6 +186,29 @@ for _a in DATA["authors"]:
         for _i, _m in enumerate(_w["mss"]):
             _first.setdefault(_m["city"], _i)
         _w["mss"].sort(key=lambda m: (_first[m["city"]], _nat(m["shelfmark"])))
+
+
+# sigla of the critical editions (scripts/sigla_check.py)
+SIFILE = ROOT / "data" / "sigla_index.json"
+SI = json.loads(SIFILE.read_text()) if SIFILE.exists() else {"by_work": {}, "by_ms": {}}
+
+
+def sig_html(s):
+    return (esc(s["base"]) + (f"<sup>{esc(s['sup'])}</sup>" if s.get("sup") else "")
+            + (f"<sub>{esc(s['sub'])}</sub>" if s.get("sub") else ""))
+
+
+def sig_cell(recs, tag="td"):
+    """'Lᵇ (Olivieri, CMG VIII 1)', one per edition, each linked to the edition's sigla page."""
+    seen, out = set(), []
+    for r in recs:
+        k = (r["edition"], r["siglum"]["base"], r["siglum"].get("sup", ""), r["siglum"].get("sub", ""))
+        if k in seen:
+            continue
+        seen.add(k)
+        out.append(f'<a class="sig" href="{esc(r["viewer"])}" title="{esc(r["printed"], quote=True)}">'
+                   f'<span class="sg">{sig_html(r["siglum"])}</span> <span class="mmt">({esc(r["edition"])})</span></a>')
+    return f"<{tag} class='sigc'>" + "<br>".join(out) + f"</{tag}>"
 
 
 def ms_date(city_name, shelf):
@@ -385,12 +432,13 @@ def page(title, body, depth=0):
 </body></html>"""
 
 
-def witness_rows(mss, show_work=None):
+def witness_rows(mss, show_work=None, sig=None):
     rows = []
     for m in mss:
+        sg = sig_cell(sig.get(ms_key(m["city"], m["shelfmark"]) or "-", [])) if sig is not None else ""
         view = go(m, f"view f. {esc(m['start'])}" if m["start"] else "view") if m["url"] else ""
         lead = f"<td>{show_work(m)}</td>" if show_work else ""
-        rows.append(f"<tr>{lead}<td>{esc(city(m['city']))}</td><td class='sm'>{esc(dash(m['shelfmark']))}</td>"
+        rows.append(f"<tr>{lead}<td>{esc(city(m['city']))}</td><td class='sm'>{esc(dash(m['shelfmark']))}</td>{sg}"
                     + date_cell(ms_date(m["city"], m["shelfmark"])) +
                     f"<td class='fol'>{esc(dash(m['folios']))}"
                     + (f" <span class='corr' title='Corrected: {esc(m['corrected'], quote=True)}'>†</span>" if m.get("corrected") else "")
@@ -420,10 +468,16 @@ def work_html(a, w):
         parts.append('<p class="refs">' + " · ".join(
             f'<span>{esc(k)} {rich(v)}</span>' for k, v in refs.items()) + "</p>")
 
+    sigs = defaultdict(list)
+    for r in SI["by_work"].get(w["id"], []):
+        if not (r["status"] == "indirect" and any(ms_key(m["city"], m["shelfmark"]) == r["key"] for m in w["mss"])):
+            sigs[r.get("key") or "?" + r["printed"]].append(r)  # unreadable shelfmarks are listed by their printed form
+    sig = sigs if sigs else None
+    sth = "<th>Siglum</th>" if sig is not None else ""
     if w["mss"]:
         parts.append(f'<h4>Manuscripts <span class="n">{len(w["mss"])} digitized</span></h4>'
-                     '<table class="mss sortable"><thead><tr><th>City</th><th>Shelfmark</th><th>Date</th><th>Folios</th><th>Digitization</th></tr></thead>'
-                     f'<tbody>{witness_rows(w["mss"])}</tbody></table>')
+                     f'<table class="mss sortable"><thead><tr><th>City</th><th>Shelfmark</th>{sth}<th>Date</th><th>Folios</th><th>Digitization</th></tr></thead>'
+                     f'<tbody>{witness_rows(w["mss"], sig=sig)}</tbody></table>')
     else:
         parts.append('<h4>Manuscripts</h4><p class="none">No digitized manuscripts recorded in the catalogue.</p>')
     mmw = MM_BY_WORK.get(w["id"], [])
@@ -448,12 +502,12 @@ def work_html(a, w):
                         f'CMG: f. {esc(", ".join(starts))}</span>')
             label = esc(x["title"]) if core_differs(x["title"], w["title_lat"]) else ""
             d = ms_date("", x["shelfmark"]) or ({"cs": x["centuries"], "date": "", "src": "MediManus"} if x.get("centuries") else None)
-            trs.append(f"<tr><td class='sm'>{esc(x['shelfmark'])}</td>" + date_cell(d) +
+            trs.append(f"<tr><td class='sm'>{esc(x['shelfmark'])}</td>" + (sig_cell(sigs.get(ms_key('', x['shelfmark']), [])) if sig is not None else "") + date_cell(d) +
                        f"<td class='fol'>{esc(x['unit'] if x['folios'] else '')} {esc(x['folios'])}</td>"
                        f"<td class='mmt'>{label}</td><td>{flag}</td>"
                        f"<td><a class='go' href='{esc(x['url'])}'>MediManus</a></td></tr>")
         parts.append(f'<h4>In MediManus <span class="n">{len(mmw)}</span></h4>'
-                     f'<table class="mss mm sortable"><thead><tr><th>Shelfmark</th><th>Date</th><th>Folios</th><th></th><th>CMG list</th><th></th></tr></thead><tbody>{"".join(trs)}</tbody></table>')
+                     f'<table class="mss mm sortable"><thead><tr><th>Shelfmark</th>{sth}<th>Date</th><th>Folios</th><th></th><th>CMG list</th><th></th></tr></thead><tbody>{"".join(trs)}</tbody></table>')
     # digitized manuscripts Pinakes lists for this work that are in neither list above
     seen = {ms_key(m["city"], m["shelfmark"]) for m in w["mss"]} | {ms_key("", x["shelfmark"]) for x in mmw}
     extra, done = [], set()
@@ -470,10 +524,36 @@ def work_html(a, w):
             d = {"cs": _pk_centuries(x["century"]), "part": _pk_part(x["century"]), "date": x["date"], "src": "Pinakes",
                  "url": f"https://pinakes.irht.cnrs.fr/notices/cote/{x['cote_id']}/"} if _pk_centuries(x["century"]) else None
             trs.append(f"<tr><td>{esc(city(x['city']))}</td><td class='sm'><a href='https://pinakes.irht.cnrs.fr/notices/cote/{x['cote_id']}/'>"
-                       f"{esc(x['fonds'])} {esc(x['cote'])}</a></td>" + date_cell(d) +
+                       f"{esc(x['fonds'])} {esc(x['cote'])}</a></td>"
+                       + (sig_cell(sigs.get(ms_key(x['city'], f"{x['fonds']} {x['cote']}"), [])) if sig is not None else "") + date_cell(d) +
                        f"<td class='fol'>{esc(x['folios'])}</td><td>{links}</td></tr>")
         parts.append(f'<h4>Also digitized, according to Pinakes <span class="n">{len(extra)}</span></h4>'
-                     '<table class="mss sortable"><thead><tr><th>City</th><th>Shelfmark</th><th>Date</th><th>Folios</th><th>Digitization</th></tr></thead>'
+                     f'<table class="mss sortable"><thead><tr><th>City</th><th>Shelfmark</th>{sth}<th>Date</th><th>Folios</th><th>Digitization</th></tr></thead>'
+                     f'<tbody>{"".join(trs)}</tbody></table>')
+    # the editions' other manuscripts (not in any table above): one row per manuscript, all its sigla
+    shown = seen | {ms_key(x["city"], f"{x['fonds']} {x['cote']}") for x in extra}
+    rest = {k: v for k, v in sigs.items() if k not in shown}
+    if rest:
+        trs = []
+        for k, recs in sorted(rest.items(), key=lambda kv: (kv[1][0]["city"], _nat(kv[1][0]["normalized"] or kv[1][0]["printed"]))):
+            r = recs[0]
+            pk = next((x.get("pinakes") for x in recs if x.get("pinakes")), None)
+            d = ({"cs": _pk_centuries(pk["century"]), "part": _pk_part(pk["century"]), "date": pk["date"], "src": "Pinakes",
+                  "url": f"https://pinakes.irht.cnrs.fr/notices/cote/{pk['cote_id']}/"} if pk and _pk_centuries(pk["century"])
+                 else ms_date(r["city"], r["normalized"]))
+            dig = PKDIG.get(pk["cote_id"]) if pk else None
+            link = (f'<a class="go" href="{esc(dig[0]["url"])}" title="Digitization linked by Pinakes">view ms.</a>' if dig else "")
+            unv = all(x["status"] == "unverified" for x in recs)
+            ind = all(x["status"] == "indirect" for x in recs)
+            flag = (' <span class="unv" title="Not listed for this work by Pinakes or MediManus; see SIGLA-CHECK.md">?</span>'
+                    if unv else ' <span class="mmt" title="Commentary, translation or parallel text cited in the edition">(indirect tradition)</span>'
+                    if ind else "")
+            shelf = r["normalized"] or r["printed"]
+            trs.append(f"<tr class='nd'><td>{esc(r['city'])}</td><td class='sm' title='{esc(r['printed'], quote=True)}'>{esc(shelf)}{flag}</td>"
+                       + sig_cell(recs) + date_cell(d)
+                       + f"<td class='fol'>{esc(r['folios'] or (pk['folios'] if pk else ''))}</td><td>{link}</td></tr>")
+        parts.append(f'<h4>Other manuscripts used in the critical editions <span class="n">{len(rest)}</span></h4>'
+                     '<table class="mss sortable"><thead><tr><th>City</th><th>Shelfmark</th><th>Siglum</th><th>Date</th><th>Folios</th><th></th></tr></thead>'
                      f'<tbody>{"".join(trs)}</tbody></table>')
     more = []
     pk = next((u for _, u in refs.get("Pinakes", []) if u), None)
@@ -639,6 +719,12 @@ def main():
                 f'<td>' + (go(m) if m["url"] else "") + "</td></tr>"
                 for a, w, m in items)
             d = ms_date(items[0][2]["city"], items[0][2]["shelfmark"])
+            sg = SI["by_ms"].get(ms_key(items[0][2]["city"], items[0][2]["shelfmark"]), [])
+            if sg:
+                trs += ("<tr><td class='fol'>Sigla</td><td colspan='2'>" + " · ".join(
+                    f'<a class="sig" href="{esc(r["viewer"])}" title="{esc(r["printed"], quote=True)}"><span class="sg">{sig_html(r["siglum"])}</span></a> '
+                    f'<span class="mmt">({esc(r["edition"])})</span>'
+                    for r in {(r["edition"], json.dumps(r["siglum"])): r for r in sg}.values()) + "</td></tr>")
             lis.append(f'<details data-c="{d["cs"][0] if d else 99:02d}"><summary><span class="sm">{esc(sm)}</span> '
                        f'<span class="mdate">{esc(roman_c(d["cs"])) if d else ""}</span> <span class="n">{len(items)}</span></summary>'
                        f'<table class="mss"><tbody>{trs}</tbody></table></details>')

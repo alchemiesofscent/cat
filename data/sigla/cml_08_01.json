@@ -1,0 +1,165 @@
+{
+ "volume": "cml_08_01",
+ "editor": "Liechtenhan",
+ "series": "CML VIII 1",
+ "year": "1963",
+ "sections": [
+  {
+   "label": "Siglorum explanatio",
+   "pages": [
+    24
+   ],
+   "works": [
+    "Anthimi De observatione ciborum ad Theodoricum regem Francorum epistula"
+   ],
+   "continues_on_next_page": false,
+   "entries": [
+    {
+     "siglum": {
+      "base": "G",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Sangallensis 762",
+     "normalized": "Sang. 762",
+     "city": "St. Gallen",
+     "folios": "",
+     "date": "saec. IX",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "A",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Londiniensis (Ayscough) 3107 chartaceus e uetusto codice accuratissime descriptus",
+     "normalized": "London, Ayscough 3107",
+     "city": "London",
+     "folios": "",
+     "date": "saec. XVII",
+     "note": "paper copy of an old manuscript"
+    },
+    {
+     "siglum": {
+      "base": "l",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Londiniensis Harleianus 4986 = 5294",
+     "normalized": "Harley 4986",
+     "city": "London",
+     "folios": "",
+     "date": "saec. XI",
+     "note": "l = Harleianus 4986 = 5294 (one siglum for both)"
+    },
+    {
+     "siglum": {
+      "base": "l",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Londiniensis Harleianus 4986 = 5294",
+     "normalized": "Harley 5294",
+     "city": "London",
+     "folios": "",
+     "date": "saec. XI",
+     "note": "l = Harleianus 4986 = 5294 (one siglum for both)"
+    },
+    {
+     "siglum": {
+      "base": "B",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Bambergensis L III 8",
+     "normalized": "Bamb. L III 8",
+     "city": "Bamberg",
+     "folios": "",
+     "date": "saec. IX",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "g",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Sangallensis 878",
+     "normalized": "Sang. 878",
+     "city": "St. Gallen",
+     "folios": "",
+     "date": "saec. IX",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "P",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Parisinus lat. 14935 olim S. Victor. 608",
+     "normalized": "Par. lat. 14935",
+     "city": "Paris",
+     "folios": "",
+     "date": "saec. XI",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "p",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Pragensis XIV A 12",
+     "normalized": "Prag. XIV A 12",
+     "city": "Prague",
+     "folios": "",
+     "date": "saec. XIV/XV",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "H",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Parisinus lat. 6842 B",
+     "normalized": "Par. lat. 6842 B",
+     "city": "Paris",
+     "folios": "",
+     "date": "saec. X",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "N",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Parisinus lat. nouv. acq. 229",
+     "normalized": "Par. nouv. acq. lat. 229",
+     "city": "Paris",
+     "folios": "",
+     "date": "saec. XI/XII",
+     "note": ""
+    }
+   ]
+  }
+ ],
+ "transcribed_by": "Claude agent, zoomed crops",
+ "uncertain": [
+  "A: 'Londiniensis (Ayscough) 3107' — Ayscough is the catalogue of the Sloane collection, so probably Sloane 3107, but normalized only as 'London, Ayscough 3107'.",
+  "l: siglum read as lowercase l (not numeral 1) from a zoomed crop; '4986 = 5294' read as one manuscript in two Harley numbers, entered twice."
+ ]
+}

@@ -1,0 +1,208 @@
+{
+ "volume": "cmg_11_01_03_03",
+ "editor": "Westerink",
+ "series": "CMG XI 1,3,3",
+ "year": "1995",
+ "sections": [
+  {
+   "label": "Conspectus siglorum",
+   "pages": [
+    13
+   ],
+   "works": [
+    "Stephani Atheniensis In Hippocratis Aphorismos commentaria V–VI"
+   ],
+   "continues_on_next_page": false,
+   "entries": [
+    {
+     "siglum": {
+      "base": "E",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Scorialensis Σ.II.10",
+     "normalized": "Scorial. Σ II 10",
+     "city": "El Escorial",
+     "folios": "",
+     "date": "s. X–XI",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "E",
+      "sup": "2",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "eiusdem codicis corrector prior",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "E",
+      "sup": "3",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "eiusdem codicis corrector alter",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "E",
+      "sup": "x",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "incertum quis corrector",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Hipp.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "group",
+     "printed": "Hippocratis codices (sec. Littré et Jones)",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "C′",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Parisinus Suppl. Gr. 446",
+     "normalized": "Par. Suppl. gr. 446",
+     "city": "Paris",
+     "folios": "",
+     "date": "s. X",
+     "note": "Hippocratis codex"
+    },
+    {
+     "siglum": {
+      "base": "M",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Marcianus Gr. 269",
+     "normalized": "Marc. gr. 269",
+     "city": "Venice",
+     "folios": "",
+     "date": "s. XI",
+     "note": "Hippocratis codex"
+    },
+    {
+     "siglum": {
+      "base": "V",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Vaticanus Gr. 276",
+     "normalized": "Vat. gr. 276",
+     "city": "Vatican City",
+     "folios": "",
+     "date": "s. XII",
+     "note": "Hippocratis codex"
+    },
+    {
+     "siglum": {
+      "base": "Theoph.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "group",
+     "printed": "Theophili codices",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "S",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Parisinus Gr. 2228",
+     "normalized": "Par. gr. 2228",
+     "city": "Paris",
+     "folios": "",
+     "date": "s. XIV/XI",
+     "note": "Theophili codex"
+    },
+    {
+     "siglum": {
+      "base": "U″",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Urbinas Gr. 64",
+     "normalized": "Vat. Urb. gr. 64",
+     "city": "Vatican City",
+     "folios": "",
+     "date": "s. X–XI",
+     "note": "Theophili codex"
+    },
+    {
+     "siglum": {
+      "base": "V″",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Vaticanus Gr. 2254",
+     "normalized": "Vat. gr. 2254",
+     "city": "Vatican City",
+     "folios": "",
+     "date": "s. X–XI",
+     "note": "Theophili codex"
+    },
+    {
+     "siglum": {
+      "base": "Dietz",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "F. R. Dietz, Scholia in Hippocratem et Galenum, Regimontii a. 1834, vol. II, p. 236-544",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    }
+   ]
+  }
+ ],
+ "transcribed_by": "Claude agent, zoomed crops",
+ "uncertain": [
+  "Primes in C′, U″, V″ kept in the base siglum (they are not superscript letters).",
+  "S (Par. gr. 2228) date printed 's. XIV/XI' as is.",
+  "Normalized Σ.II.10 as Scorial. Σ II 10 (the '10' is printed with a figure resembling 'l0')."
+ ]
+}

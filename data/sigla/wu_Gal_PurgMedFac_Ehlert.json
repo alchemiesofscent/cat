@@ -1,0 +1,503 @@
+{
+ "volume": "wu_Gal_PurgMedFac_Ehlert",
+ "editor": "Ehlert",
+ "series": "",
+ "year": "1960",
+ "sections": [
+  {
+   "label": "Conspectus Siglorum",
+   "pages": [
+    2
+   ],
+   "works": [
+    "Galenus, De purgantium medicamentorum facultate (textus Latinus)"
+   ],
+   "continues_on_next_page": false,
+   "entries": [
+    {
+     "siglum": {
+      "base": "B",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "cod. Malatest. D XXIII,1",
+     "normalized": "Malatest. D XXIII 1",
+     "city": "Cesena",
+     "folios": "",
+     "date": "s. XIII",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "F",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "cod. Palat. 1094",
+     "normalized": "Vat. Pal. lat. 1094",
+     "city": "Vatican City",
+     "folios": "",
+     "date": "s. XIV",
+     "note": "not used (non adhibentur)"
+    },
+    {
+     "siglum": {
+      "base": "K",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "cod. Palat. 1098",
+     "normalized": "Vat. Pal. lat. 1098",
+     "city": "Vatican City",
+     "folios": "",
+     "date": "s. XV",
+     "note": "used in a few places only"
+    },
+    {
+     "siglum": {
+      "base": "C",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "cod. Malatest. S V,4",
+     "normalized": "Malatest. S V 4",
+     "city": "Cesena",
+     "folios": "",
+     "date": "s. XIV",
+     "note": "used in a few places only"
+    },
+    {
+     "siglum": {
+      "base": "G",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "cod. Palat. 1096",
+     "normalized": "Vat. Pal. lat. 1096",
+     "city": "Vatican City",
+     "folios": "",
+     "date": "s. XIV",
+     "note": "not used (non adhibentur)"
+    },
+    {
+     "siglum": {
+      "base": "N",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "cod. Vatic. 2378, script. 1341",
+     "normalized": "Vat. lat. 2378",
+     "city": "Vatican City",
+     "folios": "",
+     "date": "a. 1341",
+     "note": "not used (non adhibentur)"
+    },
+    {
+     "siglum": {
+      "base": "O",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "cod. Vatic. 2385, m. s. XIV",
+     "normalized": "Vat. lat. 2385",
+     "city": "Vatican City",
+     "folios": "",
+     "date": "s. XIV",
+     "note": "not used (non adhibentur)"
+    },
+    {
+     "siglum": {
+      "base": "U",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "cod. Urb. 247",
+     "normalized": "Vat. Urb. lat. 247",
+     "city": "Vatican City",
+     "folios": "",
+     "date": "s. XIV",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "H",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "cod. Paris. 6865",
+     "normalized": "Par. lat. 6865",
+     "city": "Paris",
+     "folios": "",
+     "date": "s. XIV",
+     "note": "used in a few places only"
+    },
+    {
+     "siglum": {
+      "base": "D",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "cod. Dresd. Db 92.93",
+     "normalized": "Dresd. Db 92–93",
+     "city": "Dresden",
+     "folios": "",
+     "date": "s. XV",
+     "note": "not used (non adhibentur)"
+    },
+    {
+     "siglum": {
+      "base": "codd.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "group",
+     "printed": "omnes codices",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    }
+   ]
+  },
+  {
+   "label": "Conspectus Siglorum",
+   "pages": [
+    3
+   ],
+   "works": [
+    "Galenus, De purgantium medicamentorum facultate (textus Graecus)"
+   ],
+   "continues_on_next_page": false,
+   "entries": [
+    {
+     "siglum": {
+      "base": "L",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "cod. Laurent. plut. 74,3",
+     "normalized": "Laur. Plut. 74.3",
+     "city": "Florence",
+     "folios": "",
+     "date": "s. XII",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "L",
+      "sup": "1",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "librarius huius codicis",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "L",
+      "sup": "2",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "correctores codicis L",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "L",
+      "sup": "3",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "correctores codicis L",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "V",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "cod. Marcian. App. cl. V,4",
+     "normalized": "Marc. gr. App. cl. V 4",
+     "city": "Venice",
+     "folios": "",
+     "date": "s. XV",
+     "note": "used in a few places only"
+    },
+    {
+     "siglum": {
+      "base": "S",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "cod. Parisin. Suppl. 35",
+     "normalized": "Par. Suppl. gr. 35",
+     "city": "Paris",
+     "folios": "",
+     "date": "s. XV/XVI",
+     "note": "used in a few places only"
+    },
+    {
+     "siglum": {
+      "base": "w",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "group",
+     "printed": "codex Graecus e codicibus Latinis restitutus, s. XIII (?), v. p. XXIX, XLII sqq.",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "s. XIII (?)",
+     "note": "Greek exemplar reconstructed from the Latin manuscripts; used in a few places only"
+    },
+    {
+     "siglum": {
+      "base": "M",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "cod. Laurent. plut. 74,22",
+     "normalized": "Laur. Plut. 74.22",
+     "city": "Florence",
+     "folios": "",
+     "date": "s. XIV",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "X",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "cod. Marcian. App. cl. V,5",
+     "normalized": "Marc. gr. App. cl. V 5",
+     "city": "Venice",
+     "folios": "",
+     "date": "s. XV",
+     "note": "used in a few places only"
+    },
+    {
+     "siglum": {
+      "base": "E",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "cod. Mutinens. α O. 3. 12 = Gr. 213",
+     "normalized": "Mutin. gr. 213",
+     "city": "Modena",
+     "folios": "",
+     "date": "s. XV",
+     "note": "used in a few places only"
+    },
+    {
+     "siglum": {
+      "base": "A",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "cod. Ambr. Q. 3 Sup., mutilus",
+     "normalized": "Ambros. Q 3 sup.",
+     "city": "Milan",
+     "folios": "",
+     "date": "s. XV/XVI",
+     "note": "mutilus; used in a few places only"
+    },
+    {
+     "siglum": {
+      "base": "A",
+      "sup": "1",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "librarius huius codicis",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "A",
+      "sup": "2",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "corrector codicis A",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "P",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "cod. Parisin. 2165",
+     "normalized": "Par. gr. 2165",
+     "city": "Paris",
+     "folios": "",
+     "date": "s. XVI",
+     "note": "used in a few places only"
+    },
+    {
+     "siglum": {
+      "base": "a",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "editio Aldina, Venetiis 1525, Pars Secunda, p. 101b - 103a",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "b",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "editio Basiliensis, Basileae 1538, Pars Secunda, p. 484 - 487",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "c",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "editio Moreliana, Parisiis 1557, p. 209 - 220",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "d",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "editio Charteriana, Lutetiae Parisiorum 1679, Tom. X, p. 462 - 469",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "e",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "editio Kuehniana, Lipsiae 1826, Tom. XI, p. 323 - 342",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "edd.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "group",
+     "printed": "omnes editiones",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "printed 'odd.' (typewriter); read as edd."
+    },
+    {
+     "siglum": {
+      "base": "codd.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "group",
+     "printed": "omnes codices",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Deichgr.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "K. Deichgräber Gottingensis",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    }
+   ]
+  }
+ ],
+ "transcribed_by": "Claude agent, zoomed crops",
+ "uncertain": [
+  "E (Mutinensis): the shelfmark before '= Gr. 213' is typed with a hand-drawn Greek letter, read 'α O. 3. 12' (O could be G); normalized from the clear 'Gr. 213'",
+  "N date read 'script. 1341' (typewriter 3 is blurred)",
+  "'edd.' printed as 'odd.' in the typescript (= omnes editiones)",
+  "L²(?), L³(?): v. p. VII and E. Fränkel note and Kühn page reference omitted (not sigla)",
+  "p. 4 (given in sigla_pages) is the Argumentum of the Latin text, not sigla; only pp. 2–3 used",
+  "Latin manuscripts F G N O D are listed but 'non adhibentur'; C H K and Greek V S w X E A P used ad paucos locos (noted per entry)"
+ ]
+}

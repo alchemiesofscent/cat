@@ -1,0 +1,165 @@
+{
+ "volume": "cmg_10_01_01",
+ "editor": "Wellmann",
+ "series": "CMG X 1,1",
+ "year": "1908",
+ "sections": [
+  {
+   "label": "Sigla",
+   "pages": [
+    10
+   ],
+   "works": [
+    "Philumenus, De venenatis animalibus eorumque remediis"
+   ],
+   "continues_on_next_page": false,
+   "entries": [
+    {
+     "siglum": {
+      "base": "P",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Philumeni cod. Vatic. gr. 284",
+     "normalized": "Vat. gr. 284",
+     "city": "Vatican City",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "D",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "Pseudodioscuridis Περὶ ἰοβόλων editio Sprengelii",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "F",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "cod. Laur. 74, 23",
+     "normalized": "Laur. Plut. 74.23",
+     "city": "Florence",
+     "folios": "",
+     "date": "",
+     "note": "Pseudo-Dioscorides Περὶ ἰοβόλων, used alongside D"
+    },
+    {
+     "siglum": {
+      "base": "M",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "cod. Scor. Σ I 17",
+     "normalized": "Scorial. Σ I 17",
+     "city": "El Escorial",
+     "folios": "",
+     "date": "",
+     "note": "Pseudo-Dioscorides Περὶ ἰοβόλων, used alongside D"
+    },
+    {
+     "siglum": {
+      "base": "V",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "cod. Marc. Veneto 728",
+     "normalized": "Marc. gr. 728",
+     "city": "Venice",
+     "folios": "",
+     "date": "",
+     "note": "Pseudo-Dioscorides Περὶ ἰοβόλων, used alongside D"
+    },
+    {
+     "siglum": {
+      "base": "A",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "Pauli Aeginetae libri VII Bas. 1538",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Pr.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Aelii Promoti Περὶ ἰοβόλων θηρίων cod. Vatic. gr. 299",
+     "normalized": "Vat. gr. 299",
+     "city": "Vatican City",
+     "folios": "",
+     "date": "",
+     "note": "Aelius Promotus"
+    },
+    {
+     "siglum": {
+      "base": "Aet.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "Aetii tetrabiblon editio Cornarii 1549",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "Latin translation by Cornarius"
+    },
+    {
+     "siglum": {
+      "base": "O",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "Oribasii editio Darembergii",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Th.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "Theophanis Nonni editio Bernardi 1794",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    }
+   ]
+  }
+ ],
+ "transcribed_by": "Claude agent, zoomed crops",
+ "uncertain": [
+  "F, M, V are printed in parentheses inside the D entry (manuscripts of Pseudo-Dioscorides used besides Sprengel's edition), entered as separate manuscripts",
+  "Table of weight/measure signs below the sigla omitted (not sigla)"
+ ]
+}

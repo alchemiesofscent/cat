@@ -1,0 +1,250 @@
+{
+ "volume": "cml_06_01",
+ "editor": "Bendz",
+ "series": "CML VI 1",
+ "year": "1990",
+ "sections": [
+  {
+   "label": "Signorum explanatio",
+   "pages": [
+    19
+   ],
+   "works": [
+    "Caelius Aurelianus, Celerum passionum libri III, Tardarum passionum libri V"
+   ],
+   "continues_on_next_page": false,
+   "entries": [
+    {
+     "siglum": {
+      "base": "L",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "codicis Laureshamensis fragmenta, saec. IX",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "saec. IX",
+     "note": "Lorsch fragments; no shelfmark printed"
+    },
+    {
+     "siglum": {
+      "base": "Guint.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "editio Guinterii, Parisiis a. 1533",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Sich.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "editio Sichardi, Basileae a. 1529",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Sich.",
+      "sup": "m",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "lectiones uel emendationes in marginibus eiusdem editionis",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Rov.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "editio Rovilliana, Lugduni a. 1566",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Rov.",
+      "sup": "m",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "emendationes in marginibus eiusdem editionis",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Rov.",
+      "sup": "c",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "correctiones in ultimo fine eiusdem editionis",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Amm.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "I. C. Amman, Caelii Aureliani ... De morbis acutis et chronicis, Amstelaedami a. 1709",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Amm.",
+      "sup": "m",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "emendationes in marginibus eiusdem editionis",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Almel.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "Th. I. ab Almeloveen, In Caelium Aurelianum notae et animaduersiones, in editione Ammani, p. 601–658",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Haller",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "A. v. Haller, Caelii Aureliani ... Acutorum et Chronicorum morborum libri, Lausannae a. 1774",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Delattre",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "C. Delattre, Caelii Aureliani ... Celerum uel acutarum passionum libri, Parisiis a. 1826",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Drabkin",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "I. E. Drabkin, Caelius Aurelianus, On acute diseases, On chronic diseases, Chicago a. 1950",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Drabkin",
+      "sup": "app",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "emendationes in app. crit. eiusdem editionis",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Orib. Lat.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "translation",
+     "printed": "Œuvres d'Oribase, ed. U. C. Bussemaker et Ch. Daremberg, uol. V, Parisiis a. 1873",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "Latin Oribasius"
+    },
+    {
+     "siglum": {
+      "base": "Sor. Lat.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "translation",
+     "printed": "Sorani Gynaeciorum uetus translatio Latina, ed. V. Rose, Lipsiae a. 1882",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    }
+   ]
+  }
+ ],
+ "transcribed_by": "Claude agent, zoomed crops",
+ "uncertain": [
+  "L (Lorsch fragments): no shelfmark printed, normalized left empty",
+  "Drabkin superscript looks like 'upp' in print; read as 'app' (explained as 'in app. crit.')",
+  "Year: Pars I 1990, Pars II 1993 (2nd ed. 2002); '1990' entered"
+ ]
+}

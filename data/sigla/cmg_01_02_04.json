@@ -1,0 +1,739 @@
+{
+ "volume": "cmg_01_02_04",
+ "editor": "Joly/Byl",
+ "series": "CMG I 2,4",
+ "year": "2003",
+ "sections": [
+  {
+   "label": "Conspectus siglorum",
+   "pages": [
+    120
+   ],
+   "works": [
+    "Hippocratis De diaeta"
+   ],
+   "continues_on_next_page": false,
+   "entries": [
+    {
+     "siglum": {
+      "base": "M",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Marcianus gr. 269",
+     "normalized": "Marc. gr. 269",
+     "city": "Venice",
+     "folios": "",
+     "date": "s. X",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "M",
+      "sup": "2",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "manus posteriores",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "M",
+      "sup": "3",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "manus posteriores",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "ϑ",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Vindobonensis medicus gr. 4",
+     "normalized": "Vind. med. gr. 4",
+     "city": "Vienna",
+     "folios": "",
+     "date": "s. XI",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "ϑ",
+      "sup": "2",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "manus posterior",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "P",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "translation",
+     "printed": "primi libri versionis Latinae cod. Parisinus lat. 7027",
+     "normalized": "Par. lat. 7027",
+     "city": "Paris",
+     "folios": "",
+     "date": "s. IX",
+     "note": "Latin version, book I"
+    },
+    {
+     "siglum": {
+      "base": "B",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "translation",
+     "printed": "secundi libri versionis Latinae cod. Bodmerianus 84",
+     "normalized": "Bodmer 84",
+     "city": "Cologny",
+     "folios": "",
+     "date": "s. IX",
+     "note": "Latin version, book II"
+    },
+    {
+     "siglum": {
+      "base": "H",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Parisinus gr. 2142",
+     "normalized": "Par. gr. 2142",
+     "city": "Paris",
+     "folios": "",
+     "date": "s. XII–XIII",
+     "note": "raro memorantur"
+    },
+    {
+     "siglum": {
+      "base": "H",
+      "sup": "2",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "manus posterior",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "I",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Parisinus gr. 2140",
+     "normalized": "Par. gr. 2140",
+     "city": "Paris",
+     "folios": "",
+     "date": "s. XIII",
+     "note": "raro memorantur"
+    },
+    {
+     "siglum": {
+      "base": "I",
+      "sup": "2",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "manus posterior",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "R",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Vaticanus gr. 277",
+     "normalized": "Vat. gr. 277",
+     "city": "Vatican City",
+     "folios": "",
+     "date": "s. XIV",
+     "note": "raro memorantur"
+    },
+    {
+     "siglum": {
+      "base": "δ",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "group",
+     "printed": "consensus HIR",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "ε",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "group",
+     "printed": "consensus IR",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Ambr. B",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Ambrosianus B 108 sup.",
+     "normalized": "Ambros. B 108 sup.",
+     "city": "Milan",
+     "folios": "",
+     "date": "s. XIV",
+     "note": "raro memorantur"
+    },
+    {
+     "siglum": {
+      "base": "E",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Parisinus gr. 2255",
+     "normalized": "Par. gr. 2255",
+     "city": "Paris",
+     "folios": "",
+     "date": "s. XV",
+     "note": "raro memorantur"
+    },
+    {
+     "siglum": {
+      "base": "F",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Parisinus gr. 2144",
+     "normalized": "Par. gr. 2144",
+     "city": "Paris",
+     "folios": "",
+     "date": "s. XIV",
+     "note": "raro memorantur"
+    },
+    {
+     "siglum": {
+      "base": "G",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Parisinus gr. 2141",
+     "normalized": "Par. gr. 2141",
+     "city": "Paris",
+     "folios": "",
+     "date": "s. XV",
+     "note": "raro memorantur"
+    },
+    {
+     "siglum": {
+      "base": "Ha",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Hauniensis ant. fund. reg. 224",
+     "normalized": "Haun. ant. fund. reg. 224",
+     "city": "Copenhagen",
+     "folios": "",
+     "date": "s. XVI",
+     "note": "raro memorantur"
+    },
+    {
+     "siglum": {
+      "base": "K",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Parisinus gr. 2145",
+     "normalized": "Par. gr. 2145",
+     "city": "Paris",
+     "folios": "",
+     "date": "s. XV",
+     "note": "raro memorantur"
+    },
+    {
+     "siglum": {
+      "base": "J",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Parisinus gr. 2143",
+     "normalized": "Par. gr. 2143",
+     "city": "Paris",
+     "folios": "",
+     "date": "s. XIV",
+     "note": "raro memorantur"
+    },
+    {
+     "siglum": {
+      "base": "L",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Laurentianus plut. 74,1",
+     "normalized": "Laur. Plut. 74.1",
+     "city": "Florence",
+     "folios": "",
+     "date": "s. XV",
+     "note": "raro memorantur"
+    },
+    {
+     "siglum": {
+      "base": "W",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Vaticanus gr. 278",
+     "normalized": "Vat. gr. 278",
+     "city": "Vatican City",
+     "folios": "",
+     "date": "a. 1512",
+     "note": "raro memorantur"
+    },
+    {
+     "siglum": {
+      "base": "χ",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "group",
+     "printed": "consensus JLW",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Gal.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "group",
+     "printed": "Galeni libri De alim. facult. codices omnes",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "parallel tradition (Galen, De alimentorum facultatibus)"
+    },
+    {
+     "siglum": {
+      "base": "Gal. (A)",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Galeni Parisinus suppl. gr. 634",
+     "normalized": "Par. Suppl. gr. 634",
+     "city": "Paris",
+     "folios": "",
+     "date": "s. XIV",
+     "note": "manuscript of Galen, De alim. fac. (parallel tradition)"
+    },
+    {
+     "siglum": {
+      "base": "Gal. (C)",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Galeni Cheltenhamensis Phillipps 4614",
+     "normalized": "Phillipps 4614",
+     "city": "Cheltenham",
+     "folios": "",
+     "date": "s. XIV",
+     "note": "manuscript of Galen, De alim. fac. (parallel tradition)"
+    },
+    {
+     "siglum": {
+      "base": "Gal. (V)",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Galeni Marcianus gr. 279",
+     "normalized": "Marc. gr. 279",
+     "city": "Venice",
+     "folios": "",
+     "date": "s. XV",
+     "note": "manuscript of Galen, De alim. fac. (parallel tradition)"
+    },
+    {
+     "siglum": {
+      "base": "[Gal.]",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "Pseudo-Galeni De affectionum causa",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    }
+   ]
+  },
+  {
+   "label": "Conspectus siglorum",
+   "pages": [
+    121
+   ],
+   "works": [
+    "Hippocratis De diaeta"
+   ],
+   "continues_on_next_page": false,
+   "entries": [
+    {
+     "siglum": {
+      "base": "Ald.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "editio Aldina, Venetiis a. 1526",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Bernays",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "J. Bernays, Heraclitea I",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Bywater",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "I. Bywater, Heracliti Ephesii reliquiae, p. 61–67",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Calvus",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "translation",
+     "printed": "M. F. Calvi versio Latina, Romae a. 1525",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Coray",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "Ad. Corais ed. libri Περὶ ἀέρων ὑδάτων τόπων, Parisiis a. 1800",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Corn.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "Cornarii editio Frobeniana, Basileae a. 1538",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Corn. V.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "Frobenianae exemplar Vindobonense",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Diels",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "H. Diels, Hippokratische Forschungen I et II",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Diels-Kranz",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "H. Diels et W. Kranz, Die Fragmente der Vorsokratiker, vol. I, p. 182–188",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Erm.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "F. Z. Ermerins, Hippocratis ... reliquiae, vol. III, Traiecti ad Rhenum a. 1864",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Foes.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "A. Foesius, Magni Hippocratis ... opera omnia quae extant, Francofurti a. 1595",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Fredr.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "C. Fredrich, Hippokratische Untersuchungen",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Jones",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "Hippocrates, ed. W. H. S. Jones, vol. IV, a. 1953",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Jouanna",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "J. Jouanna in Hippocrate, Du régime, ed. R. Joly",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Lind.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "Van der Linden, Hippocratis Coi ... opera omnia, Lugduni Batavorum a. 1665, vol. I",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Littré",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "Œuvres complètes d'Hippocrate, ed. E. Littré, vol. VI, a. 1849",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Mack",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "Hippocratis ... opera omnia, ed. S. Mack, vol. II, Viennae a. 1749",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Peck",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "A. L. Peck apud Jones",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Wil.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "U. von Wilamowitz-Moellendorff apud Fredr.",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Zwing.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "Hippocratis Coi ... viginti duo commentarii tabulis illustrati, ed. Th. Zwingerus, Basileae a. 1579",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Zwing. (in mg.)",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "Zwingerus in margine",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    }
+   ]
+  }
+ ],
+ "transcribed_by": "Claude agent, zoomed crops",
+ "uncertain": [
+  "Two sub-lists, 'I. Codices' (canvas 120) and 'II. Editiones' (canvas 121), written as two sections with the same TOC label.",
+  "Year: 2003 is the reprint (editio altera curante S. Byl); the original edition is 1984 (not stated in the title).",
+  "Ha: 'Hauniensis ant. fund. reg. 224' kept close to print in normalized (Copenhagen, Gamle kongelige Samling 224).",
+  "B (Bodmerianus 84) normalized as 'Bodmer 84' (Cologny, Bibliotheca Bodmeriana)."
+ ]
+}

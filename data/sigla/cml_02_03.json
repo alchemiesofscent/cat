@@ -1,0 +1,293 @@
+{
+ "volume": "cml_02_03",
+ "editor": "Vollmer",
+ "series": "CML II 3",
+ "year": "1916",
+ "sections": [
+  {
+   "label": "Codices",
+   "pages": [
+    26
+   ],
+   "works": [
+    "Quinti Sereni Liber medicinalis"
+   ],
+   "continues_on_next_page": false,
+   "entries": [
+    {
+     "siglum": {
+      "base": "A",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Zürich, Stadtbibl. W 78, olim Sangallensis",
+     "normalized": "Zürich, Stadtbibl. W 78",
+     "city": "Zürich",
+     "folios": "",
+     "date": "saec. IX",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "B",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "group",
+     "printed": "archetypus codicum qui secuntur",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "b",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Leyden Voss. lat. 4° 33",
+     "normalized": "Leid. Voss. lat. Q 33",
+     "city": "Leiden",
+     "folios": "",
+     "date": "saec. IX",
+     "note": "descendant of archetype B"
+    },
+    {
+     "siglum": {
+      "base": "c",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Paris lat. 9347 olim Remensis",
+     "normalized": "Par. lat. 9347",
+     "city": "Paris",
+     "folios": "",
+     "date": "saec. IX",
+     "note": "descendant of archetype B"
+    },
+    {
+     "siglum": {
+      "base": "d",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Paris lat. 4839",
+     "normalized": "Par. lat. 4839",
+     "city": "Paris",
+     "folios": "",
+     "date": "saec. IX–X",
+     "note": "descendant of archetype B"
+    },
+    {
+     "siglum": {
+      "base": "e",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Paris lat. 2772",
+     "normalized": "Par. lat. 2772",
+     "city": "Paris",
+     "folios": "",
+     "date": "saec. IX",
+     "note": "descendant of archetype B"
+    },
+    {
+     "siglum": {
+      "base": "f",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Brüssel bibl. reg. 5658",
+     "normalized": "Brux. 5658",
+     "city": "Brussels",
+     "folios": "",
+     "date": "saec. IX–X",
+     "note": "descendant of archetype B"
+    },
+    {
+     "siglum": {
+      "base": "g",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Paris lat. 8048",
+     "normalized": "Par. lat. 8048",
+     "city": "Paris",
+     "folios": "",
+     "date": "saec. X",
+     "note": "descendant of archetype B"
+    },
+    {
+     "siglum": {
+      "base": "h",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Rom Vat. Barber. IX 29",
+     "normalized": "Vat. Barb. IX 29",
+     "city": "Vatican City",
+     "folios": "",
+     "date": "saec. XI",
+     "note": "descendant of archetype B; old Barberini press-mark"
+    },
+    {
+     "siglum": {
+      "base": "s",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "St. Gallen, Stift lat. 44",
+     "normalized": "St. Gallen, Stiftsbibl. 44",
+     "city": "St. Gallen",
+     "folios": "",
+     "date": "saec. X",
+     "note": "descendant of archetype B"
+    },
+    {
+     "siglum": {
+      "base": "Sen.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Siena bibl. comm. F V 8",
+     "normalized": "Siena, Bibl. Com. F V 8",
+     "city": "Siena",
+     "folios": "",
+     "date": "saec. XI",
+     "note": "descendant of archetype B"
+    },
+    {
+     "siglum": {
+      "base": "Mut.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Modena, bibl. Est. L 580",
+     "normalized": "Mutin. Est. L 580",
+     "city": "Modena",
+     "folios": "",
+     "date": "saec. XII",
+     "note": "descendant of archetype B"
+    },
+    {
+     "siglum": {
+      "base": "Pad.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Paderborn, deperditus",
+     "normalized": "",
+     "city": "Paderborn",
+     "folios": "",
+     "date": "saec. XIII",
+     "note": "descendant of archetype B; lost"
+    },
+    {
+     "siglum": {
+      "base": "Lips.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Leipzig, bibl. uniu. 1220",
+     "normalized": "Lips. 1220",
+     "city": "Leipzig",
+     "folios": "",
+     "date": "saec. XV",
+     "note": "descendant of archetype B"
+    },
+    {
+     "siglum": {
+      "base": "Wrat.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Breslau, bibl. urb., Rehd. 59",
+     "normalized": "Wrocław, Rehd. 59",
+     "city": "Wrocław",
+     "folios": "",
+     "date": "saec. XV",
+     "note": "descendant of archetype B"
+    },
+    {
+     "siglum": {
+      "base": "α",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "editio princeps s. l. et a.",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "β",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "Veneta 1488",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "δ",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "Lipsiensis 1515",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "ε",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "Aldina 1528",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    }
+   ]
+  }
+ ],
+ "transcribed_by": "Claude agent, zoomed crops",
+ "uncertain": [
+  "Latin codices: house list has no Latin forms; normalized forms (Leid. Voss. lat. Q 33, Brux. 5658, Vat. Barb. IX 29 [old Barberini press-mark, modern Barb. lat. number not printed], St. Gallen, Stiftsbibl. 44, Siena, Bibl. Com. F V 8, Mutin. Est. L 580, Lips. 1220, Wrocław, Rehd. 59) need checking against the catalogue",
+  "Pad.: Paderborn codex printed as deperditus (lost); normalized empty",
+  "b–Wrat. are printed indented under B (archetypus codicum qui secuntur), noted as its descendants",
+  "Editions: sigla α β δ ε (no γ printed)"
+ ]
+}

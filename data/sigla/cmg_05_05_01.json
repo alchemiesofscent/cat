@@ -1,0 +1,671 @@
+{
+ "volume": "cmg_05_05_01",
+ "editor": "Gundert",
+ "series": "CMG V 5,1",
+ "year": "2009",
+ "sections": [
+  {
+   "label": "Conspectus siglorum et compendiorum",
+   "pages": [
+    196,
+    197
+   ],
+   "works": [
+    "Galeni De symptomatum differentiis"
+   ],
+   "continues_on_next_page": false,
+   "entries": [
+    {
+     "siglum": {
+      "base": "L",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Laurentianus Gr. 74,16",
+     "normalized": "Laur. Plut. 74.16",
+     "city": "Florence",
+     "folios": "",
+     "date": "s. XII/XIII",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "L",
+      "sup": "2",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "eiusdem codicis corrector",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "C",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Cantabrigiensis Caius Coll. 355",
+     "normalized": "Cambridge, Gonville and Caius 355",
+     "city": "Cambridge",
+     "folios": "",
+     "date": "s. XVI",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "C",
+      "sup": "2",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "eiusdem codicis corrector",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Q",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Parisinus Gr. 2157",
+     "normalized": "Par. gr. 2157",
+     "city": "Paris",
+     "folios": "",
+     "date": "s. XV",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Q",
+      "sup": "2",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "eiusdem codicis corrector",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "A",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Ambrosianus Gr. 659",
+     "normalized": "Ambros. gr. 659",
+     "city": "Milan",
+     "folios": "",
+     "date": "s. XIV/XV",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "A",
+      "sup": "2",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "eiusdem codicis corrector",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "S",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Scorialensis 85",
+     "normalized": "Scorial. gr. 85",
+     "city": "El Escorial",
+     "folios": "",
+     "date": "s. XV",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "K",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Scorialensis 230",
+     "normalized": "Scorial. gr. 230",
+     "city": "El Escorial",
+     "folios": "",
+     "date": "s. XIV/XV",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "α",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "group",
+     "printed": "consensus codicum LQASK",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "β",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "group",
+     "printed": "consensus codicum QAS",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "δ",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "group",
+     "printed": "consensus codicum AS",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "M",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Marcianus Gr. 275",
+     "normalized": "Marc. gr. 275",
+     "city": "Venice",
+     "folios": "",
+     "date": "s. XV",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "P",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Parisinus Gr. 2165",
+     "normalized": "Par. gr. 2165",
+     "city": "Paris",
+     "folios": "",
+     "date": "s. XVI",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "P",
+      "sup": "2",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "eiusdem codicis corrector",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "N",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Parisinus Gr. 2332",
+     "normalized": "Par. gr. 2332",
+     "city": "Paris",
+     "folios": "",
+     "date": "s. XV",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "O",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Parisinus Gr. 2283",
+     "normalized": "Par. gr. 2283",
+     "city": "Paris",
+     "folios": "",
+     "date": "s. XVI",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "H",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Mosquensis Gr. 466",
+     "normalized": "Mosq. 466",
+     "city": "Moscow",
+     "folios": "",
+     "date": "s. XII–XIV",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "ε",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "group",
+     "printed": "consensus codicum MNOH",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "γ",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "group",
+     "printed": "consensus codicum MNO",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "ω",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "group",
+     "printed": "consensus codicum Graecorum",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "T",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Vindobonensis med. Gr. 16",
+     "normalized": "Vind. med. gr. 16",
+     "city": "Vienna",
+     "folios": "",
+     "date": "s. XIII",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Ar.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "translation",
+     "printed": "versio Arabica",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "BN",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "translation",
+     "printed": "versionis Arabicae codex Bibliothèque nationale 2859",
+     "normalized": "Par. arab. 2859",
+     "city": "Paris",
+     "folios": "",
+     "date": "s. X/XI",
+     "note": "manuscript of the Arabic version"
+    },
+    {
+     "siglum": {
+      "base": "TS",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "translation",
+     "printed": "versionis Arabicae codex Topkapi Saray Ahmet III, 2110",
+     "normalized": "Istanbul, Topkapı Ahmet III 2110",
+     "city": "Istanbul",
+     "folios": "",
+     "date": "s. XIV",
+     "note": "manuscript of the Arabic version"
+    },
+    {
+     "siglum": {
+      "base": "AS",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "translation",
+     "printed": "versionis Arabicae codex Istanbul, Aya Sofya 3591",
+     "normalized": "Istanbul, Ayasofya 3591",
+     "city": "Istanbul",
+     "folios": "",
+     "date": "s. XIII/XIV",
+     "note": "manuscript of the Arabic version"
+    },
+    {
+     "siglum": {
+      "base": "Scor. 798",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "translation",
+     "printed": "versionis Arabicae codex Scorialensis Arab. 798",
+     "normalized": "Scorial. arab. 798",
+     "city": "El Escorial",
+     "folios": "",
+     "date": "s. XIII",
+     "note": "manuscript of the Arabic version"
+    },
+    {
+     "siglum": {
+      "base": "Scor. 799",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "translation",
+     "printed": "versionis Arabicae codex Scorialensis Arab. 799",
+     "normalized": "Scorial. arab. 799",
+     "city": "El Escorial",
+     "folios": "",
+     "date": "a. 1190",
+     "note": "manuscript of the Arabic version"
+    },
+    {
+     "siglum": {
+      "base": "Scor. 800",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "translation",
+     "printed": "versionis Arabicae codex Scorialensis Arab. 800",
+     "normalized": "Scorial. arab. 800",
+     "city": "El Escorial",
+     "folios": "",
+     "date": "s. XIII",
+     "note": "manuscript of the Arabic version"
+    },
+    {
+     "siglum": {
+      "base": "Scor. 880",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "translation",
+     "printed": "versionis Arabicae codex Scorialensis Arab. 880",
+     "normalized": "Scorial. arab. 880",
+     "city": "El Escorial",
+     "folios": "",
+     "date": "a. 1361",
+     "note": "manuscript of the Arabic version"
+    },
+    {
+     "siglum": {
+      "base": "Lat.",
+      "sup": "Ar.",
+      "sub": ""
+     },
+     "type": "translation",
+     "printed": "translatio Latina ex versione Arabica confecta",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Lat.",
+      "sup": "Gr.",
+      "sub": ""
+     },
+     "type": "translation",
+     "printed": "versio Latina e Graeco confecta",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Lat.",
+      "sup": "Gr.Er",
+      "sub": ""
+     },
+     "type": "translation",
+     "printed": "versio Latina codice Amploniano F 278 tradita",
+     "normalized": "Erfurt, Ampl. F 278",
+     "city": "Erfurt",
+     "folios": "",
+     "date": "s. XIV",
+     "note": "manuscript of the Latin version from the Greek"
+    },
+    {
+     "siglum": {
+      "base": "Lat.",
+      "sup": "Gr.Va",
+      "sub": ""
+     },
+     "type": "translation",
+     "printed": "versio Latina codice Vaticano Barberiniano Lat. 179 tradita",
+     "normalized": "Vat. Barb. lat. 179",
+     "city": "Vatican City",
+     "folios": "",
+     "date": "s. XIV",
+     "note": "manuscript of the Latin version from the Greek"
+    },
+    {
+     "siglum": {
+      "base": "Lat.",
+      "sup": "Gr.Wc",
+      "sub": ""
+     },
+     "type": "translation",
+     "printed": "versio Latina codice Wellcomensi 286 tradita",
+     "normalized": "London, Wellcome 286",
+     "city": "London",
+     "folios": "",
+     "date": "s. XIV",
+     "note": "manuscript of the Latin version from the Greek"
+    },
+    {
+     "siglum": {
+      "base": "Ald.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "editio Aldina, Venetiis a. 1525",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Bas.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "editio Basileensis, a. 1538",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Chart.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "editio Charterii, Lutetiae Parisiorum a. 1679",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Kühn",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "editio Kühnii, Lipsiae a. 1824",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "edd.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "consensus editionum",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Cop.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "translation",
+     "printed": "Copi versio Latina, Parisiis a. 1523",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Lin.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "translation",
+     "printed": "Linacri versio Latina, Londini a. 1524 (Parisiis a. 1528)",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Caius",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "Caius in editionis Basileensis exemplari suo nunc bibliothecae collegii Etonensis proprio",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Clem.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "Clemens in editionis Aldinae exemplari suo nunc bibliothecae universitatis Leidensis proprio",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Corn.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "Cornarius in editionis Aldinae exemplari suo nunc bibliothecae universitatis Ienensis proprio",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    }
+   ]
+  }
+ ],
+ "transcribed_by": "Claude agent, zoomed crops",
+ "uncertain": [
+  "S, K: printed 'Scorialensis 85' / 'Scorialensis 230' (number only, no shelfmark letters); normalized as Scorial. gr. 85 / 230.",
+  "C: Cantabrigiensis Caius Coll. 355 normalized as 'Cambridge, Gonville and Caius 355' (no house form for Cambridge).",
+  "Arabic and Latin-version manuscripts (BN, TS, AS, Scor. 798-880, Lat.Gr.Er/Va/Wc) typed 'translation' but given normalized shelfmarks."
+ ]
+}

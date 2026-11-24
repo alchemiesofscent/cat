@@ -1,0 +1,166 @@
+{
+ "volume": "suppl_05",
+ "editor": "Kollesch",
+ "series": "CMG Suppl. V",
+ "year": "1964",
+ "sections": [
+  {
+   "label": "Conspectus codicum et editionum",
+   "pages": [
+    28,
+    29
+   ],
+   "works": [
+    "Galeni De instrumento odoratus"
+   ],
+   "continues_on_next_page": false,
+   "entries": [
+    {
+     "siglum": {
+      "base": "L",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Laurentianus 74,3",
+     "normalized": "Laur. Plut. 74.3",
+     "city": "Florence",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "L",
+      "sup": "2",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "eiusdem corrector",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "M",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Marcianus App. cl. V, 4",
+     "normalized": "Marc. gr. App. V 4",
+     "city": "Venice",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "P",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Parisinus gr. 2164",
+     "normalized": "Par. gr. 2164",
+     "city": "Paris",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Ald.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "editio Aldina 1525",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Bas.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "editio Basileensis 1538",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Chart.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "editio Charterii 1679",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Kühn",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "editio Kühnii 1821",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Corn.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "Jani Cornarii adnotationes ad Aldinae exemplar in bibliotheca universitatis Jenensis adversatum",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "annotated copy of the Aldine"
+    },
+    {
+     "siglum": {
+      "base": "Bellis.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "translation",
+     "printed": "versio Latina Ludovici Bellisarii, Lugduni 1550",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    }
+   ]
+  }
+ ],
+ "transcribed_by": "Claude agent, zoomed crops",
+ "uncertain": [
+  "Canvas 29 is the work's title page (no sigla); list complete on canvas 28.",
+  "M normalized 'Marc. gr. App. V 4' from 'Marcianus App. cl. V, 4'."
+ ]
+}

@@ -1,0 +1,292 @@
+{
+ "volume": "cmg_02",
+ "editor": "Hude",
+ "series": "CMG II",
+ "year": "1958",
+ "sections": [
+  {
+   "label": "Conspectus siglorum",
+   "pages": [
+    30
+   ],
+   "works": [
+    "Aretaeus"
+   ],
+   "continues_on_next_page": false,
+   "entries": [
+    {
+     "siglum": {
+      "base": "a",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Parisinus 2288 s. XVI.",
+     "normalized": "Par. gr. 2288",
+     "city": "Paris",
+     "folios": "",
+     "date": "s. XVI",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "a",
+      "sup": "m",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "a in margine; item in rell.",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "a",
+      "sup": "c",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "(1) a manu prima correctus; item in rell.",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "b",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Parisinus 2187 s. XVI.",
+     "normalized": "Par. gr. 2187",
+     "city": "Paris",
+     "folios": "",
+     "date": "s. XVI",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "V",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Vaticanus 286 s. XV.",
+     "normalized": "Vat. gr. 286",
+     "city": "Vatican City",
+     "folios": "",
+     "date": "s. XV",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "F",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Laurentianus LXXV 15 s. XV (l. I 5–6).",
+     "normalized": "Laur. Plut. 75.15",
+     "city": "Florence",
+     "folios": "",
+     "date": "s. XV",
+     "note": "l. I 5–6"
+    },
+    {
+     "siglum": {
+      "base": "H",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Harleianus 6326 s. XVI.",
+     "normalized": "Harley 6326",
+     "city": "London",
+     "folios": "",
+     "date": "s. XVI",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "A",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Ambrosianus B 157 sup. s. XV (l. I 6).",
+     "normalized": "Ambros. B 157 sup.",
+     "city": "Milan",
+     "folios": "",
+     "date": "s. XV",
+     "note": "l. I 6"
+    },
+    {
+     "siglum": {
+      "base": "c",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Parisinus 2334 s. XVI (passim).",
+     "normalized": "Par. gr. 2334",
+     "city": "Paris",
+     "folios": "",
+     "date": "s. XVI",
+     "note": "passim"
+    },
+    {
+     "siglum": {
+      "base": "d",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Parisinus 2186 s. XVI (passim).",
+     "normalized": "Par. gr. 2186",
+     "city": "Paris",
+     "folios": "",
+     "date": "s. XVI",
+     "note": "passim"
+    },
+    {
+     "siglum": {
+      "base": "e",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Parisinus 2289 s. XVI.",
+     "normalized": "Par. gr. 2289",
+     "city": "Paris",
+     "folios": "",
+     "date": "s. XVI",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "f",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Parisinus 2202 s. XVI.",
+     "normalized": "Par. gr. 2202",
+     "city": "Paris",
+     "folios": "",
+     "date": "s. XVI",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "g",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Parisinus 2220 s. XVI.",
+     "normalized": "Par. gr. 2220",
+     "city": "Paris",
+     "folios": "",
+     "date": "s. XVI",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "N",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Neapolitanus III D 21 s. XIV.",
+     "normalized": "Neap. III D 21",
+     "city": "Naples",
+     "folios": "",
+     "date": "s. XIV",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "L",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "group",
+     "printed": "libri omnes (vel saltem abHNV).",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "P",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "group",
+     "printed": "Parisini omnes (secundum Ermerinsium).",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "O",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "ed. Oxoniensis Wigani (1723).",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "Numeri in marginibus adscripti"
+    },
+    {
+     "siglum": {
+      "base": "K",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "ed. Kuehnii (1828).",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "Numeri in marginibus adscripti"
+    },
+    {
+     "siglum": {
+      "base": "E",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "ed. Ermerinsii (1847).",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "Numeri in marginibus adscripti"
+    }
+   ]
+  }
+ ],
+ "transcribed_by": "Claude agent, zoomed crops",
+ "uncertain": [
+  "Parisini printed without 'gr.'; normalized as Par. gr. (all Greek Aretaeus manuscripts).",
+  "a^c: printed 'a^c (1) a manu prima correctus'; the '(1)' is kept in printed.",
+  "'v. l. varia lectio' omitted (abbreviation, not a siglum). Year 1958 is the second edition (first ed. 1923)."
+ ]
+}

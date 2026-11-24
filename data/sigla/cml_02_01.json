@@ -1,0 +1,405 @@
+{
+ "volume": "cml_02_01",
+ "editor": "Sconocchia",
+ "series": "CML II 1",
+ "year": "2020",
+ "sections": [
+  {
+   "label": "Conspectus siglorum et compendiorum",
+   "pages": [
+    74,
+    75
+   ],
+   "works": [
+    "Scribonius Largus, Compositiones"
+   ],
+   "continues_on_next_page": false,
+   "entries": [
+    {
+     "siglum": {
+      "base": "T",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "codex Scribonii Toletanus Capit. 98.12 saec XVI in.",
+     "normalized": "Tolet. Capit. 98.12",
+     "city": "Toledo",
+     "folios": "",
+     "date": "saec XVI in.",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Ruell.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "editio princeps Ioannis Ruellii, Lutetiae Parisiorum 1528",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Marc.",
+      "sup": "P",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Marcelli codex Parisinus Lat. 6880 (olim Regius 4999) saec. IX",
+     "normalized": "Par. lat. 6880",
+     "city": "Paris",
+     "folios": "",
+     "date": "saec. IX",
+     "note": "Marcellus manuscript (indirect tradition: Epistula ad Callistum / compositions transmitted by Marcellus)"
+    },
+    {
+     "siglum": {
+      "base": "Marc.",
+      "sup": "L",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Marcelli codex Laudunensis 420 (olim 326) saec. IX",
+     "normalized": "Laudun. 420",
+     "city": "Laon",
+     "folios": "",
+     "date": "saec. IX",
+     "note": "Marcellus manuscript (indirect tradition: Epistula ad Callistum / compositions transmitted by Marcellus)"
+    },
+    {
+     "siglum": {
+      "base": "Marc.",
+      "sup": "Ar",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Marcelli codicis Arundeliani 166 Bibliothecae nationis Britannicae saec. X pars prior, habet tantum Epistulam ad Callistum",
+     "normalized": "Arundel 166",
+     "city": "London",
+     "folios": "",
+     "date": "saec. X",
+     "note": "Marcellus manuscript (indirect tradition: Epistula ad Callistum / compositions transmitted by Marcellus)"
+    },
+    {
+     "siglum": {
+      "base": "C",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "codex Bodmerianus 84 (olim Phillipps 386) saec. IX (exc. comp. 97–107; 214)",
+     "normalized": "Bodmer 84",
+     "city": "Cologny",
+     "folios": "",
+     "date": "saec. IX",
+     "note": "excerpts"
+    },
+    {
+     "siglum": {
+      "base": "A",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "codex Ambrosianus M sup. 19 saec. XII uel XIII (exc. comp. 97–107; 207–209; 211; 212)",
+     "normalized": "Ambros. M 19 sup.",
+     "city": "Milan",
+     "folios": "",
+     "date": "saec. XII uel XIII",
+     "note": "excerpts"
+    },
+    {
+     "siglum": {
+      "base": "A",
+      "sup": "1",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "idem altera manu emendatus",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "second hand in A"
+    },
+    {
+     "siglum": {
+      "base": "Ca",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "codex Casinensis 69 saec. IX (exc. comp. 101; 102; 106; 107; 156; 201; 203; 206–209; 211; 212; 214; 216; 220; 255; 257; 258; 260–267; 270)",
+     "normalized": "Casin. 69",
+     "city": "Montecassino",
+     "folios": "",
+     "date": "saec. IX",
+     "note": "excerpts"
+    },
+    {
+     "siglum": {
+      "base": "V",
+      "sup": "a",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "codex Vindocinensis 109 saec. XI ex. (exc. comp. 63; 98–101; 103; 106; 107; 113; 178–198; 199a; 200a; 208; 213; 220; 223; 231; 255; 260; 265; 267)",
+     "normalized": "Vindocin. 109",
+     "city": "Vendôme",
+     "folios": "",
+     "date": "saec. XI ex.",
+     "note": "excerpts"
+    },
+    {
+     "siglum": {
+      "base": "V",
+      "sup": "b",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "codex Vindocinensis 175 saec. XI ex. (exc. comp. 70b; 79; 95; 98–107^I; 97–101^II; 103–106^II; 120; 169; 176)",
+     "normalized": "Vindocin. 175",
+     "city": "Vendôme",
+     "folios": "",
+     "date": "saec. XI ex.",
+     "note": "excerpts"
+    },
+    {
+     "siglum": {
+      "base": "S",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "codex Sangallensis 751 saec. IX (exc. comp. 87; 89–92; 110; 159; 161; 170; 173; 198; 200)",
+     "normalized": "Sangall. 751",
+     "city": "St. Gallen",
+     "folios": "",
+     "date": "saec. IX",
+     "note": "excerpts"
+    },
+    {
+     "siglum": {
+      "base": "Ba",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "codex Bambergensis med. 1 (L. III. 8) saec IX in. (exc. comp. 1; 2; 6; 101–104; 106; 258; 268)",
+     "normalized": "Bamb. med. 1",
+     "city": "Bamberg",
+     "folios": "",
+     "date": "saec IX in.",
+     "note": "excerpts"
+    },
+    {
+     "siglum": {
+      "base": "Ald.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "Aldina editio, Venetiis 1547",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Cornarius",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "coniecturae nonnullae apud Marc.",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Plant.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "Christophe Plantin, coniecturae nonnullae apud Rhod.",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Stephanus",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "Stephani editio, Lutetiae Parisiorum 1567",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Rhod.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "Scribonii Largi Compositiones medicae, Patauii 1655",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Sperl.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "O. Sperlings Animaduersiones in Scribonium et notas Iohannis Rhodii. Einleitung und Edition, vorgelegt von W. Wuttke, Diss. Tübingen 1974",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Helmr.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "Scribonii Largi Conpositiones, edidit G. Helmreich, Lipsiae 1887",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Helmr.",
+      "sup": "1",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "Zu Scribonius Largus und Marcellus Empiricus, Bl. für das bayer. Gymn. 18, 1882, 385–395; 460–470",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Jourdan",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "P. Jourdan, Notes de critiques verbale sur Scribonius Largus, Paris 1919",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Helmr.",
+      "sup": "2",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "rec. libri Pauli Jourdan, in Berliner Philologische Wochenschrift 14, 1920, 316–321",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Deichgräber",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "K. Deichgräber, Professio medici. Zum Vorwort des Scribonius Largus, Wiesbaden 1950",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Marc.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "Marcelli de medicamentis liber. Post M. Niedermann iteratis curis edidit E. Liechtenhan. In linguam Germanicam transtulerunt J. Kollesch et D. Nickel, Berolini 1968 (= CML V)",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Fischer",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "K.-D. Fischer (olim apud Moguntinos professor), editor, medicorum Graecorum Latinorumque studiosus mihi priuatim communicauit",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Jouanna-Bouchet",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "Scribonius Largus. Compositiones médicales. Texte établi, traduit et commenté par Joelle Jouanna-Bouchet, Paris 2016",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    }
+   ]
+  }
+ ],
+ "transcribed_by": "Claude agent, zoomed crops",
+ "uncertain": [
+  "The 'Sigla ponderum' (weight signs) at the foot of p. 75 are not transcribed; they are not witness sigla.",
+  "Normalized forms 'Tolet. Capit. 98.12', 'Laudun. 420', 'Arundel 166', 'Bodmer 84', 'Casin. 69', 'Vindocin. 109/175', 'Sangall. 751', 'Bamb. med. 1' are outside the house list (city word kept).",
+  "Roman superscripts I/II in V^b's contents ('98–107^I; 97–101^II; 103–106^II') written with ^ in printed."
+ ]
+}

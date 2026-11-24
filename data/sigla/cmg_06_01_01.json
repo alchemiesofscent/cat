@@ -1,0 +1,165 @@
+{
+ "volume": "cmg_06_01_01",
+ "editor": "Raeder",
+ "series": "CMG VI 1,1",
+ "year": "1928",
+ "sections": [
+  {
+   "label": "Conspectus siglorum",
+   "pages": [
+    10
+   ],
+   "works": [
+    "Oribasius, Collectionum medicarum reliquiae, libri I–VIII"
+   ],
+   "continues_on_next_page": false,
+   "entries": [
+    {
+     "siglum": {
+      "base": "A",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Paris. gr. 2189",
+     "normalized": "Par. gr. 2189",
+     "city": "Paris",
+     "folios": "f. 1r—215v",
+     "date": "s. XVI",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "C",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Cantabr. Coll. S. Ioan. A 6",
+     "normalized": "Cantabr. Coll. S. Ioan. A 6",
+     "city": "Cambridge",
+     "folios": "p. 1—244",
+     "date": "s. XVI",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "N",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Neap. III D 20",
+     "normalized": "Neap. III D 20",
+     "city": "Naples",
+     "folios": "f. 1r—118r",
+     "date": "s. XV",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "G",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Paris. gr. 1883; Aetii libros ceteraque continens (paucis tantummodo locis)",
+     "normalized": "Par. gr. 1883",
+     "city": "Paris",
+     "folios": "",
+     "date": "s. XIV",
+     "note": "contains Aetius etc.; used in a few places only"
+    },
+    {
+     "siglum": {
+      "base": "D",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Paris. gr. 2291",
+     "normalized": "Par. gr. 2291",
+     "city": "Paris",
+     "folios": "",
+     "date": "s. XVI",
+     "note": "used only for cap. II 58 (in solo cap. II 58)"
+    },
+    {
+     "siglum": {
+      "base": "H",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Hamburg. philol. 313 fol.",
+     "normalized": "Hamburg. philol. 313 fol.",
+     "city": "Hamburg",
+     "folios": "f. 21—27",
+     "date": "s. XVII",
+     "note": "used only for cap. II 58 (in solo cap. II 58)"
+    },
+    {
+     "siglum": {
+      "base": "L",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Leidens. Voss. misc. 22",
+     "normalized": "Leid. Voss. misc. 22",
+     "city": "Leiden",
+     "folios": "f. 39—45",
+     "date": "s. XVI",
+     "note": "used only for cap. II 58 (in solo cap. II 58)"
+    },
+    {
+     "siglum": {
+      "base": "M",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Mosquensis II 25 fol.; quem adhibuit Matthaei in editione (Mosquae 1808)",
+     "normalized": "Mosq. II 25 fol.",
+     "city": "Moscow",
+     "folios": "",
+     "date": "s. XVI",
+     "note": "used only for cap. II 58 (in solo cap. II 58); used by Matthaei in his edition (Moscow 1808); old Matthaei numbering"
+    },
+    {
+     "siglum": {
+      "base": "Berol.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Berol. gr. fol. 35 (in solo cap. VII 26, 167—179)",
+     "normalized": "Berol. gr. fol. 35",
+     "city": "Berlin",
+     "folios": "",
+     "date": "s. X",
+     "note": "used only for cap. VII 26, 167—179"
+    },
+    {
+     "siglum": {
+      "base": "Dg",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "Editio Bussemakeri et Darembergii (voll. I—II, Paris. 1851—54); huius editionis paginae numeris in margine adscriptis indicantur",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    }
+   ]
+  }
+ ],
+ "transcribed_by": "Claude agent, zoomed crops",
+ "uncertain": [
+  "Page 11 (given in sigla_pages) is the chapter list of book I, not sigla; only p. 10 used",
+  "M 'Mosquensis II 25 fol.': old Moscow (Matthaei) numbering kept as printed; modern Synod. number not given"
+ ]
+}

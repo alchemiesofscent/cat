@@ -1,0 +1,209 @@
+{
+ "volume": "wa_Diss_Reedy",
+ "editor": "Reedy",
+ "series": "",
+ "year": "1968",
+ "sections": [
+  {
+   "label": "Conspectus codicum et editionum",
+   "pages": [
+    3
+   ],
+   "works": [
+    "Galen, De tumoribus praeter naturam"
+   ],
+   "continues_on_next_page": false,
+   "entries": [
+    {
+     "siglum": {
+      "base": "A",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Athos, Laura Ω 71",
+     "normalized": "Athos, Lavra Ω 71",
+     "city": "Athos",
+     "folios": "",
+     "date": "s. XIV",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "V",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Vaticanus gr. 283",
+     "normalized": "Vat. gr. 283",
+     "city": "Vatican City",
+     "folios": "",
+     "date": "s. XIV",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "W",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Parisinus 634",
+     "normalized": "",
+     "city": "Paris",
+     "folios": "",
+     "date": "s. XIV",
+     "note": "fonds not stated (gr. or Suppl. gr.)"
+    },
+    {
+     "siglum": {
+      "base": "L",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Laurentianus plut. 74.5",
+     "normalized": "Laur. Plut. 74.5",
+     "city": "Florence",
+     "folios": "",
+     "date": "s. XIV",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "L",
+      "sup": "2",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "eiusdem corrector",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "M",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Marcianus 281",
+     "normalized": "Marc. gr. 281",
+     "city": "Venice",
+     "folios": "",
+     "date": "s. XV",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "α",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "group",
+     "printed": "fons codicum LM",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "β",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "group",
+     "printed": "fons codicum Wγ",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "γ",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "group",
+     "printed": "fons codicum VA",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Ald.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "editio Aldina (ed. prin. 1525)",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Bas.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "editio Basileensis (1538)",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Chart.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "editio Renati Charterii (Paris., 1679)",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "K.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "editio Car. Gottl. Kuehnii (Lips., 1824)",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    }
+   ]
+  }
+ ],
+ "transcribed_by": "Claude agent, zoomed crops",
+ "uncertain": [
+  "W = 'Parisinus 634': typescript gives no fonds (gr. or Suppl. gr.); normalized left empty.",
+  "V = 'Vaticanus gr. 283': typescript faint, last digit read as 3 (typewriter 3 has a flat top like the 3 in 634).",
+  "W date typed 'XI7'/'XIV' (faint); read as s. XIV.",
+  "A handwritten marginal note 'Kühn' beside K. is not transcribed."
+ ]
+}

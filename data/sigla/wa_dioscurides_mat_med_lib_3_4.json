@@ -1,0 +1,829 @@
+{
+ "volume": "wa_dioscurides_mat_med_lib_3_4",
+ "editor": "Wellmann",
+ "series": "",
+ "year": "1907",
+ "sections": [
+  {
+   "label": "Index siglorum",
+   "pages": [
+    25,
+    26
+   ],
+   "works": [
+    "Pedanii Dioscuridis Anazarbei De materia medica, libri III et IV"
+   ],
+   "continues_on_next_page": true,
+   "entries": [
+    {
+     "siglum": {
+      "base": "A",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Vindob. med. gr. 16",
+     "normalized": "Vind. med. gr. 16",
+     "city": "Vienna",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "B",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Vindob. lat. 16",
+     "normalized": "Vind. lat. 16",
+     "city": "Vienna",
+     "folios": "",
+     "date": "",
+     "note": "Latin manuscript"
+    },
+    {
+     "siglum": {
+      "base": "C",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Constantinop. Vind. 1",
+     "normalized": "Vind. med. gr. 1",
+     "city": "Vienna",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Da",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Marc. Ven. 272",
+     "normalized": "Marc. gr. 272",
+     "city": "Venice",
+     "folios": "",
+     "date": "",
+     "note": "Da = Marc. Ven. 272. 597 (one siglum for two codices)"
+    },
+    {
+     "siglum": {
+      "base": "Da",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Marc. Ven. 597",
+     "normalized": "Marc. gr. 597",
+     "city": "Venice",
+     "folios": "",
+     "date": "",
+     "note": "Da = Marc. Ven. 272. 597 (one siglum for two codices)"
+    },
+    {
+     "siglum": {
+      "base": "Di",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "group",
+     "printed": "codices Mpv",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Dl",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Dioscurides lat. Monacensis 337",
+     "normalized": "Mon. lat. 337",
+     "city": "Munich",
+     "folios": "",
+     "date": "",
+     "note": "Latin Dioscorides"
+    },
+    {
+     "siglum": {
+      "base": "E",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Escor. III R 3",
+     "normalized": "Scorial. III R 3",
+     "city": "El Escorial",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "F",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Laurent. 74, 23",
+     "normalized": "Laur. Plut. 74.23",
+     "city": "Florence",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "H",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Palat. 77",
+     "normalized": "Vat. Pal. gr. 77",
+     "city": "Vatican City",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "L",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Laur. 73, 41 Ps. Apuleii",
+     "normalized": "Laur. Plut. 73.41",
+     "city": "Florence",
+     "folios": "",
+     "date": "",
+     "note": "manuscript of Ps.-Apuleius"
+    },
+    {
+     "siglum": {
+      "base": "L",
+      "sup": "",
+      "sub": "1"
+     },
+     "type": "manuscript",
+     "printed": "Laur. 73, 16 Ps. Apuleii",
+     "normalized": "Laur. Plut. 73.16",
+     "city": "Florence",
+     "folios": "",
+     "date": "",
+     "note": "manuscript of Ps.-Apuleius"
+    },
+    {
+     "siglum": {
+      "base": "M",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Matrit. pal. Reg. 44",
+     "normalized": "Matrit. Pal. Reg. 44",
+     "city": "Madrid",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "N",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Neapol. Vind. suppl. gr. 28",
+     "normalized": "Vind. Suppl. gr. 28",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "printed 'Neapol. Vind.' (the Neapolitanus, then in Vienna)"
+    },
+    {
+     "siglum": {
+      "base": "O",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "group",
+     "printed": "codices PVFH",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Orib.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "Oribasii libr. XI. XII (O¹ O² correctores Orib.)",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "O",
+      "sup": "1",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "corrector Orib.",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "from the Orib. entry: 'O¹ O² correctores Orib.'"
+    },
+    {
+     "siglum": {
+      "base": "O",
+      "sup": "2",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "corrector Orib.",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "from the Orib. entry: 'O¹ O² correctores Orib.'"
+    },
+    {
+     "siglum": {
+      "base": "P",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Paris. 2179",
+     "normalized": "Par. gr. 2179",
+     "city": "Paris",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "p",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Paris 2183",
+     "normalized": "Par. gr. 2183",
+     "city": "Paris",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "R",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "group",
+     "printed": "codices CN",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "V",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Marc. Ven. 273 Dioscuridis",
+     "normalized": "Marc. gr. 273",
+     "city": "Venice",
+     "folios": "",
+     "date": "",
+     "note": "V for Dioscorides"
+    },
+    {
+     "siglum": {
+      "base": "V",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Vind. 93 Ps. Apuleii",
+     "normalized": "Vind. 93",
+     "city": "Vienna",
+     "folios": "",
+     "date": "",
+     "note": "V for Ps.-Apuleius"
+    },
+    {
+     "siglum": {
+      "base": "v",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Marc. Ven. 271",
+     "normalized": "Marc. gr. 271",
+     "city": "Venice",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Aet.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "Aetii tetrabiblon",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Ald.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "Aldina, Venet. 1499",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Ps. Ap.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "Ps. Apuleius de med. herbarum librum ed. Ackermann",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Asul.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "Asulani editio Diosc. Venetiis 1518",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Boiss. an. gr.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "Anecdota graeca ed. Boissonade II 394 sq.",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Crat.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "Crateuas",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "D. cup.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "Diosc. περὶ εὐποριστων libellus",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "printed 'D. cup. vel cup.'"
+    },
+    {
+     "siglum": {
+      "base": "Diosc. gl.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "Dioscurides glossographus",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Ps. D. de h. f.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "Ps. Dioscuridis lib. de herbis femininis ed. H. F. Kästner Herm. XXXI 578 sq.",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "printed 'Ps. D. de h. f. vel Ps. D.'"
+    },
+    {
+     "siglum": {
+      "base": "F. M. Gr.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "M. Wellmann, Fragmentsammlung der Griech. Aerzte vol. I",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Gal.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "Galeni opera ed. Kühn",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Hyg.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "Hyginus",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "I. B.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "Iulius Bassus",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Lac.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "translation",
+     "printed": "Lacunae versio Diosc. Salam. 1566",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Löw",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "J. Löw, Aramaeische Pflanzennamen Leipzig 1881",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "A. Mai",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "Classici auctores ed. ab A. Mai tom. VII 399 sq.",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Marc.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "Marcellus Virgilius (editio Diosc. Coloniae 1529)",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "M. S.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "Matthaei Silvatici liber pandectarum medicinae Venet. 1488",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "printed 'M. S. vel Matth. Silv.'"
+    },
+    {
+     "siglum": {
+      "base": "Orib.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "Oribasii editio Darembergiana",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "second Orib. entry (p. XXVI)"
+    },
+    {
+     "siglum": {
+      "base": "Orib. lat.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "Oribasii Sardiani collecta ed. I. Bapt. Rasarius Basileae 1558 tom. II 479 sq.",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Ps. Orib.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "Ps. Oribasii de simplicibus libri V Argent. apud I. Schottum 1533",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Paul. Aeg.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "Pauli Aeginetae libri VII (Bas. 1538)",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Pl.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "Plinii natur. hist.",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Salm. Pl. exerc.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "Salmasius Plinianae exercitationes",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Salm. de hom.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "Salmasius Homonyma hyl. iatrices",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Sarac.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "Saraceni editio Diosc. Lugd. 1598",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "S. N.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "Sextius Niger",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Sim. Ian.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "Simon Ianuensis Clavis sanationis Venet. 1514",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Spr.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "Sprengelii editio Diosc. Lips. 1829",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Tomaschek",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "Die alten Thraker II. Sitzgsb. der Wiener Akad. d. Wiss. Bd. CXXX 22 sq.",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Wellmann I",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "Crateuas, Abhandlungen der Kgl. Gesellsch. d. W. II 1 (Berl. 1897)",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Wellmann II",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "Das älteste Kräuterbuch der Griechen, Festschrift für Susemihl p. 1 sq.",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Zop.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "Zopyri fragmenta (Orib. II 553 sq. Dar.)",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    }
+   ]
+  }
+ ],
+ "transcribed_by": "Claude agent, zoomed crops",
+ "uncertain": [
+  "The list continues on p. 26 (XXVI, image ped_diosc_mat_med_wellmann_bd2_0026), which was not in sigla_pages.json; its entries (M. S. … Zop.) are included.",
+  "L₁: the subscript is printed as a small 'ı'-like figure, read as 1.",
+  "A is printed 'Vindob. med. gr. 16' (zoomed, clear); C 'Constantinop. Vind. 1' normalized Vind. med. gr. 1.",
+  "N 'Neapol. Vind. suppl. gr. 28' normalized Vind. Suppl. gr. 28, city left empty (Naples/Vienna ambiguous).",
+  "V Ps.-Apuleius 'Vind. 93': printed without fonds; normalized as 'Vind. 93'.",
+  "'Marc. Ven.' numbers normalized as Marc. gr. N (Z. not printed). 'Da' = two codices (Marc. 272 and 597), entered twice.",
+  "Greek in D. cup. printed 'περὶ εὐποριστων' (accent on the second word not legible)."
+ ]
+}

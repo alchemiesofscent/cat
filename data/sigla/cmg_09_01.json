@@ -1,0 +1,376 @@
+{
+ "volume": "cmg_09_01",
+ "editor": "Heiberg",
+ "series": "CMG IX 1",
+ "year": "1921",
+ "sections": [
+  {
+   "label": "Conspectus codicum",
+   "pages": [
+    12
+   ],
+   "works": [
+    "Paulus Aegineta, Libri I–IV"
+   ],
+   "continues_on_next_page": false,
+   "entries": [
+    {
+     "siglum": {
+      "base": "A",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "cod. Paris. Gr. 2205, membr. s. XI",
+     "normalized": "Par. gr. 2205",
+     "city": "Paris",
+     "folios": "",
+     "date": "s. XI",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "B",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "cod. Paris. Gr. 2206, membr. s. XI",
+     "normalized": "Par. gr. 2206",
+     "city": "Paris",
+     "folios": "",
+     "date": "s. XI",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "B",
+      "sup": "2",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "eiusdem manus secunda",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "second hand of B; 'et similiter in ceteris'"
+    },
+    {
+     "siglum": {
+      "base": "B",
+      "sup": "3",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "eiusdem manus recens",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "recent hand of B; 'et similiter in ceteris'"
+    },
+    {
+     "siglum": {
+      "base": "C",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "cod. Paris. Gr. 2207, bombyc., scr. a. 1299 Michael Lulludes",
+     "normalized": "Par. gr. 2207",
+     "city": "Paris",
+     "folios": "",
+     "date": "a. 1299",
+     "note": "scribe Michael Lulludes"
+    },
+    {
+     "siglum": {
+      "base": "D",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "cod. Paris. Gr. 2208, bombyc. s. XIV",
+     "normalized": "Par. gr. 2208",
+     "city": "Paris",
+     "folios": "",
+     "date": "s. XIV",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "E",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "codd. Pariss. Gr. 2216 + 2217 membr. s. XI",
+     "normalized": "Par. gr. 2216",
+     "city": "Paris",
+     "folios": "",
+     "date": "s. XI",
+     "note": "E = codd. Pariss. Gr. 2216 + 2217 (one siglum for both)"
+    },
+    {
+     "siglum": {
+      "base": "E",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "codd. Pariss. Gr. 2216 + 2217 membr. s. XI",
+     "normalized": "Par. gr. 2217",
+     "city": "Paris",
+     "folios": "",
+     "date": "s. XI",
+     "note": "E = codd. Pariss. Gr. 2216 + 2217 (one siglum for both)"
+    },
+    {
+     "siglum": {
+      "base": "F",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "cod. Paris. Gr. 2292, bombyc. s. XIV",
+     "normalized": "Par. gr. 2292",
+     "city": "Paris",
+     "folios": "",
+     "date": "s. XIV",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "G",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "cod. Patmiacus 208, membr. s. XI",
+     "normalized": "Patm. 208",
+     "city": "Patmos",
+     "folios": "",
+     "date": "s. XI",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "H",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "cod. Laurent. Gr. LXXIV 29 + Florent. Bibl. national. 44 (Magliab. XV 160), membr. s. XI",
+     "normalized": "Laur. Plut. 74.29",
+     "city": "Florence",
+     "folios": "",
+     "date": "s. XI",
+     "note": "H = codd. Laurent. Gr. LXXIV 29 + Florent. Bibl. national. 44 (Magliab. XV 160) (one siglum for both)"
+    },
+    {
+     "siglum": {
+      "base": "H",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "cod. Laurent. Gr. LXXIV 29 + Florent. Bibl. national. 44 (Magliab. XV 160), membr. s. XI",
+     "normalized": "Florence, BNC Magliab. XV 160",
+     "city": "Florence",
+     "folios": "",
+     "date": "s. XI",
+     "note": "H = codd. Laurent. Gr. LXXIV 29 + Florent. Bibl. national. 44 (Magliab. XV 160) (one siglum for both); printed 'Florent. Bibl. national. 44 (Magliab. XV 160)'"
+    },
+    {
+     "siglum": {
+      "base": "J",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "cod. Laurent. Gr. LXXIV 2, membr. s. XI",
+     "normalized": "Laur. Plut. 74.2",
+     "city": "Florence",
+     "folios": "",
+     "date": "s. XI",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "K",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "cod. Athous Vatop. 535, membr. s. X",
+     "normalized": "Athos, Vatopedi 535",
+     "city": "Athos",
+     "folios": "",
+     "date": "s. X",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "L",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Fragmenta Mosquensia codd. Biblioth. S. Synodi 125, 379, 387, membr. s. IX",
+     "normalized": "Mosq. Synod. 125",
+     "city": "Moscow",
+     "folios": "",
+     "date": "s. IX",
+     "note": "L = Moscow fragments, Synodal Library codd. 125, 379, 387 (one siglum for all three)"
+    },
+    {
+     "siglum": {
+      "base": "L",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Fragmenta Mosquensia codd. Biblioth. S. Synodi 125, 379, 387, membr. s. IX",
+     "normalized": "Mosq. Synod. 379",
+     "city": "Moscow",
+     "folios": "",
+     "date": "s. IX",
+     "note": "L = Moscow fragments, Synodal Library codd. 125, 379, 387 (one siglum for all three)"
+    },
+    {
+     "siglum": {
+      "base": "L",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Fragmenta Mosquensia codd. Biblioth. S. Synodi 125, 379, 387, membr. s. IX",
+     "normalized": "Mosq. Synod. 387",
+     "city": "Moscow",
+     "folios": "",
+     "date": "s. IX",
+     "note": "L = Moscow fragments, Synodal Library codd. 125, 379, 387 (one siglum for all three)"
+    },
+    {
+     "siglum": {
+      "base": "M",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "cod. Athous Lawr. Γ 90, membr. s. XI",
+     "normalized": "Athos, Lavra Γ 90",
+     "city": "Athos",
+     "folios": "",
+     "date": "s. XI",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "N",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "cod. Matrit. Bibl. nat. 4581 (N 45), membr. s. XII",
+     "normalized": "Matrit. 4581",
+     "city": "Madrid",
+     "folios": "",
+     "date": "s. XII",
+     "note": "old shelfmark N 45"
+    },
+    {
+     "siglum": {
+      "base": "O",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "cod. Marcianus Gr. 292, bombyc., scr. a. 1306 Michael Lulludes",
+     "normalized": "Marc. gr. 292",
+     "city": "Venice",
+     "folios": "",
+     "date": "a. 1306",
+     "note": "scribe Michael Lulludes"
+    },
+    {
+     "siglum": {
+      "base": "P",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "cod. Laurent. Gr. LXXIV 17, membr. s. XII",
+     "normalized": "Laur. Plut. 74.17",
+     "city": "Florence",
+     "folios": "",
+     "date": "s. XII",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Q",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "cod. Coislinianus Gr. 8, membr. s. X",
+     "normalized": "Par. Coisl. 8",
+     "city": "Paris",
+     "folios": "",
+     "date": "s. X",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "a",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "translation",
+     "printed": "Pauli Aeginetae libri tertii interpretatio Latina antiqua, ed. Heiberg, Lipsiae 1912",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Or.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "Oribasius",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Diosc.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "Dioscurides",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    }
+   ]
+  }
+ ],
+ "transcribed_by": "Claude agent, zoomed crops",
+ "uncertain": [
+  "Moscow fragments (L) normalized as 'Mosq. Synod. 125/379/387' (Synodal numbers as printed; not the house 'Mosq. NNN' Vladimir numbering).",
+  "H's second part normalized 'Florence, BNC Magliab. XV 160' (printed 'Florent. Bibl. national. 44 (Magliab. XV 160)'); outside the house list.",
+  "Note on the page: sigla of codices cited only for their better readings are put in round brackets ( ) in the apparatus."
+ ]
+}

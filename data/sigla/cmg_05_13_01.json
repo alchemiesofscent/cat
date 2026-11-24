@@ -1,0 +1,712 @@
+{
+ "volume": "cmg_05_13_01",
+ "editor": "Perilli",
+ "series": "CMG V 13,1",
+ "year": "2017",
+ "sections": [
+  {
+   "label": "Conspectus siglorum",
+   "pages": [
+    140,
+    141
+   ],
+   "works": [
+    "Galeni Vocum Hippocratis glossarium"
+   ],
+   "continues_on_next_page": false,
+   "entries": [
+    {
+     "siglum": {
+      "base": "A",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Laurentianus plut. 74,3; s. XII ex.–XIII inc.",
+     "normalized": "Laur. Plut. 74.3",
+     "city": "Florence",
+     "folios": "",
+     "date": "s. XII ex.–XIII inc.",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "A",
+      "sup": "2",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "eiusdem codicis correctores",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "A², A³ printed together"
+    },
+    {
+     "siglum": {
+      "base": "A",
+      "sup": "3",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "eiusdem codicis correctores",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "A², A³ printed together"
+    },
+    {
+     "siglum": {
+      "base": "M",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Marcianus Gr. 269; s. X",
+     "normalized": "Marc. gr. 269",
+     "city": "Venice",
+     "folios": "",
+     "date": "s. X",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "M",
+      "sup": "2",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "eiusdem codicis corrector",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "B",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Baroccianus 204; s. XIV–XV",
+     "normalized": "Oxon. Barocc. 204",
+     "city": "Oxford",
+     "folios": "",
+     "date": "s. XIV–XV",
+     "note": "Raro memorantur"
+    },
+    {
+     "siglum": {
+      "base": "C",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Jenensis G.B. f. 31, olim Mosquensis; s. XIV med., vel potius XIV II",
+     "normalized": "Jena, G.B. f. 31",
+     "city": "Jena",
+     "folios": "",
+     "date": "s. XIV med., vel potius XIV^II",
+     "note": "Raro memorantur"
+    },
+    {
+     "siglum": {
+      "base": "D",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "D'Orville 3; s. XVI inc.",
+     "normalized": "Oxon. D'Orville 3",
+     "city": "Oxford",
+     "folios": "",
+     "date": "s. XVI inc.",
+     "note": "Raro memorantur"
+    },
+    {
+     "siglum": {
+      "base": "E",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Parisinus Gr. 2255; s. XIV ex., fort. XV inc.",
+     "normalized": "Par. gr. 2255",
+     "city": "Paris",
+     "folios": "",
+     "date": "s. XIV ex., fort. XV inc.",
+     "note": "Raro memorantur"
+    },
+    {
+     "siglum": {
+      "base": "F",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Parisinus Gr. 2144; s. XIV, ante 1345",
+     "normalized": "Par. gr. 2144",
+     "city": "Paris",
+     "folios": "",
+     "date": "s. XIV, ante 1345",
+     "note": "Raro memorantur"
+    },
+    {
+     "siglum": {
+      "base": "F",
+      "sup": "II",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "eiusdem codicis scribae duo qui initium Prooemii in fol. I bis add.",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "H",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Parisinus Gr. 2142; ca. 1310",
+     "normalized": "Par. gr. 2142",
+     "city": "Paris",
+     "folios": "",
+     "date": "ca. 1310",
+     "note": "Raro memorantur"
+    },
+    {
+     "siglum": {
+      "base": "H",
+      "sup": "2",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "eiusdem codicis corrector",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Ho",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Bodleianus Holkhamensis Graecus 92; s. XVI inc.",
+     "normalized": "Oxon. Holkham. gr. 92",
+     "city": "Oxford",
+     "folios": "",
+     "date": "s. XVI inc.",
+     "note": "Raro memorantur"
+    },
+    {
+     "siglum": {
+      "base": "I",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Parisinus Gr. 2140; s. XII, fort. XIII",
+     "normalized": "Par. gr. 2140",
+     "city": "Paris",
+     "folios": "",
+     "date": "s. XII, fort. XIII",
+     "note": "Raro memorantur"
+    },
+    {
+     "siglum": {
+      "base": "I",
+      "sup": "2",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "eiusdem codicis corrector",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "J",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Parisinus Gr. 2143; s. XIV I",
+     "normalized": "Par. gr. 2143",
+     "city": "Paris",
+     "folios": "",
+     "date": "s. XIV^I",
+     "note": "Raro memorantur"
+    },
+    {
+     "siglum": {
+      "base": "K",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Parisinus Gr. 2287; s. XV–XVI",
+     "normalized": "Par. gr. 2287",
+     "city": "Paris",
+     "folios": "",
+     "date": "s. XV–XVI",
+     "note": "Raro memorantur"
+    },
+    {
+     "siglum": {
+      "base": "L",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Laurentianus plut. 74,1; s. XV ex.",
+     "normalized": "Laur. Plut. 74.1",
+     "city": "Florence",
+     "folios": "",
+     "date": "s. XV ex.",
+     "note": "Raro memorantur"
+    },
+    {
+     "siglum": {
+      "base": "Li",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Bruxellensis 11345–48; s. XVI",
+     "normalized": "Brux. 11345–48",
+     "city": "Brussels",
+     "folios": "",
+     "date": "s. XVI",
+     "note": "Raro memorantur"
+    },
+    {
+     "siglum": {
+      "base": "Mo",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Monacensis Gr. 71; ca. 1480",
+     "normalized": "Mon. gr. 71",
+     "city": "Munich",
+     "folios": "",
+     "date": "ca. 1480",
+     "note": "Raro memorantur"
+    },
+    {
+     "siglum": {
+      "base": "Mut",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Mutinensis α. T. 1. 12; ca. 1500",
+     "normalized": "Mutin. α T 1 12",
+     "city": "Modena",
+     "folios": "",
+     "date": "ca. 1500",
+     "note": "Raro memorantur"
+    },
+    {
+     "siglum": {
+      "base": "N",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Hauniensis Gr. 224; s. XV I",
+     "normalized": "Haun. gr. 224",
+     "city": "Copenhagen",
+     "folios": "",
+     "date": "s. XV^I",
+     "note": "Raro memorantur"
+    },
+    {
+     "siglum": {
+      "base": "O",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Marcianus Gr. App. cl. V 15; s. XVI inc., ante 1525",
+     "normalized": "Marc. gr. App. V 15",
+     "city": "Venice",
+     "folios": "",
+     "date": "s. XVI inc., ante 1525",
+     "note": "Raro memorantur"
+    },
+    {
+     "siglum": {
+      "base": "P",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Parisinus Gr. 2145; s. XV, fort. XIV ex.",
+     "normalized": "Par. gr. 2145",
+     "city": "Paris",
+     "folios": "",
+     "date": "s. XV, fort. XIV ex.",
+     "note": "Raro memorantur"
+    },
+    {
+     "siglum": {
+      "base": "R",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Vaticanus Gr. 277; ca. 1360–1365",
+     "normalized": "Vat. gr. 277",
+     "city": "Vatican City",
+     "folios": "",
+     "date": "ca. 1360–1365",
+     "note": "Raro memorantur"
+    },
+    {
+     "siglum": {
+      "base": "R",
+      "sup": "2",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "eiusdem codicis corrector",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "U",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Urbinas Gr. 68; ca. 1360–80",
+     "normalized": "Vat. Urb. gr. 68",
+     "city": "Vatican City",
+     "folios": "",
+     "date": "ca. 1360–80",
+     "note": "Raro memorantur"
+    },
+    {
+     "siglum": {
+      "base": "Voss",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Vossianus Misc. I 13; XVI II",
+     "normalized": "Leid. Voss. Misc. I 13",
+     "city": "Leiden",
+     "folios": "",
+     "date": "XVI^II",
+     "note": "Raro memorantur"
+    },
+    {
+     "siglum": {
+      "base": "γ",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "group",
+     "printed": "consensus codicum R H",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "ρ",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "group",
+     "printed": "consensus codicum D Li O E",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "ι",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "group",
+     "printed": "consensus codicum F Mo L J",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Ald.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "editio Aldina, 1525–26",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Bas.",
+      "sup": "G",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "editio Basileensis operum Galeni, 1538 (cur. Gemusaeo)",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Bas.",
+      "sup": "H",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "editio Basileensis operum Hippocratis, 1538 (cur. Cornario)",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Bas.",
+      "sup": "G+H",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "editionum Basileensium consensus",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Corn.Lat.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "translation",
+     "printed": "versio Latina a Jano Cornario edita, 1549",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Steph.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "editio Henrici Stephani, 1564",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Foes",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "A. Foesius, Oeconomia Hippocratis, 1588",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Chart.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "editio R. Charterii, 1638",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Franz",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "editio Io. G. F. Franzii, 1780",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Kühn",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "editio C. G. Kuehnii, 1830",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "edd.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "editores ab Aldo usque ad Kuehnium",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "ESt",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "E. Nachmanson, Erotianstudien",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Fauth",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "editio W. Fauth, typis non impressa",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "IndHp",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "J.-H. Kühn, U. Fleischer et alii, Index Hippocraticus",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "LSJ",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "H. Liddell – R. Scott – H. S. Jones, A Greek–English Lexicon",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "TeCH",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "A. Anastassiou – D. Irmer, Testimonien zum Corpus Hippocraticum",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "ThGL",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "Thesaurus Graecae Linguae ab Henrico Stephano confectus",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    }
+   ]
+  }
+ ],
+ "transcribed_by": "Claude agent, zoomed crops",
+ "uncertain": [
+  "Normalized forms outside the house list, built from the printed wording: 'Jena, G.B. f. 31', 'Oxon. D'Orville 3', 'Oxon. Holkham. gr. 92', 'Brux. 11345–48', 'Mutin. α T 1 12', 'Haun. gr. 224', 'Marc. gr. App. V 15' (printed App. cl. V 15), 'Leid. Voss. Misc. I 13' (printed 'Vossianus Misc. I 13').",
+  "Superscript roman numerals in dates (XIV^II, XIV^I, XV^I, XVI^II) written with ^ in `date`."
+ ]
+}

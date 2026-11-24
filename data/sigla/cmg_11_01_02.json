@@ -1,0 +1,164 @@
+{
+ "volume": "cmg_11_01_02",
+ "editor": "Duffy",
+ "series": "CMG XI 1,2",
+ "year": "1983",
+ "sections": [
+  {
+   "label": "Conspectus siglorum",
+   "pages": [
+    25
+   ],
+   "works": [
+    "Stephani Philosophi In Hippocratis Prognosticum commentaria III"
+   ],
+   "continues_on_next_page": false,
+   "entries": [
+    {
+     "siglum": {
+      "base": "L",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Laurentianus Plut. 59,14",
+     "normalized": "Laur. Plut. 59.14",
+     "city": "Florence",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "S",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Vindobonensis med. Gr. 15",
+     "normalized": "Vind. med. gr. 15",
+     "city": "Vienna",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "M",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Ambrosianus L 30 sup.",
+     "normalized": "Ambros. L 30 sup.",
+     "city": "Milan",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "P",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Parisinus Gr. 2296",
+     "normalized": "Par. gr. 2296",
+     "city": "Paris",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "V",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Vaticanus Gr. 2154",
+     "normalized": "Vat. gr. 2154",
+     "city": "Vatican City",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Y",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Yale Medical Library 50 (olim Saragossa, Cabildo de la Santa Iglesia Mayor del Pilar, 1427)",
+     "normalized": "New Haven, Yale Medical Library 50",
+     "city": "New Haven",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "ζ",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "group",
+     "printed": "consensus VY",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "γ",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "group",
+     "printed": "consensus MPζ (MPV post p. 146,2)",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "G",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Gallipoli, Ἐκκλησία ἁγίου Νικολάου, 38",
+     "normalized": "Gallipoli, Ἐκκλησία ἁγίου Νικολάου 38",
+     "city": "Gallipoli",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Wk.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "L. G. Westerink",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    }
+   ]
+  }
+ ],
+ "transcribed_by": "Claude agent, zoomed crops",
+ "uncertain": [
+  "G: Gallipoli, Ἐκκλησία ἁγίου Νικολάου 38 has no house form; kept as printed."
+ ]
+}

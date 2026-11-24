@@ -1,0 +1,514 @@
+{
+ "volume": "cmg_05_01_01",
+ "editor": "Barigazzi",
+ "series": "CMG V 1,1",
+ "year": "1991",
+ "sections": [
+  {
+   "label": "Opt.doc. – Conspectus siglorum",
+   "pages": [
+    91
+   ],
+   "works": [
+    "Galeni De optimo docendi genere"
+   ],
+   "continues_on_next_page": false,
+   "entries": [
+    {
+     "siglum": {
+      "base": "L",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Laurentianus 74,3",
+     "normalized": "Laur. Plut. 74.3",
+     "city": "Florence",
+     "folios": "",
+     "date": "s. XII/XIII",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "L",
+      "sup": "2",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "eiusdem codicis corrector",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Nic.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "translation",
+     "printed": "Nicolai translatio Latina",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "s. XIV",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Ald.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "editio Aldina, Venetiis a. 1525",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Bas.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "editio Basileensis, a. 1538",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Go.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "editio Th. Goulstonii, Londini a. 1640",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Ad., Adelph.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "cod. Adelphi",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "indented under Go.: codex cited in Goulston's edition"
+    },
+    {
+     "siglum": {
+      "base": "Lond., Lon.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "cod. Londiniensis",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "indented under Go.: codex cited in Goulston's edition"
+    },
+    {
+     "siglum": {
+      "base": "Re.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "cod. Regius",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "indented under Go.: codex cited in Goulston's edition"
+    },
+    {
+     "siglum": {
+      "base": "Ven., Venet.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "cod. Venetus",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "indented under Go.: codex cited in Goulston's edition"
+    },
+    {
+     "siglum": {
+      "base": "Chart.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "editio R. Charterii, Lutetiae Parisiorum a. 1679",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Kay.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "editio C. L. Kayser, Heidelbergae a. 1838",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Ma.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "editio Io. Marquardt, Lipsiae a. 1884",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Br.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "editio A. Brinkmann, Bonnae a. 1914",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Corn.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "Cornarius in Aldinae exemplari suo nunc Bibliothecae universitatis Ienensis proprio",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "annotations in a copy of the Aldine"
+    },
+    {
+     "siglum": {
+      "base": "Caius",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "Io. Caius in Basileensis exemplari suo nunc Bibliothecae Collegii Etonensis proprio",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "annotations in a copy of the Basel edition"
+    },
+    {
+     "siglum": {
+      "base": "Er.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "translation",
+     "printed": "D. Erasmi versio Latina, a. 1526",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Corn. vers.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "translation",
+     "printed": "Cornarii versio Latina, Basileae a. 1549",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    }
+   ]
+  },
+  {
+   "label": "Conspectus siglorum",
+   "pages": [
+    113
+   ],
+   "works": [
+    "Galeni Exhortatio ad medicinam (Protrepticus)"
+   ],
+   "continues_on_next_page": false,
+   "entries": [
+    {
+     "siglum": {
+      "base": "Ald.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "editio Aldina, Venetiis a. 1525",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Bas.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "editio Basileensis, a. 1538",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Iam.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "editio Fr. Iamotii, Lutetiae Parisiorum a. 1583",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Go.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "editio Th. Goulstonii, Londini a. 1640",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Ad., Adel., Adelph.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "cod. Adelphi",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "indented under Go.: codex cited in Goulston's edition"
+    },
+    {
+     "siglum": {
+      "base": "Chart.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "editio R. Charterii, Lutetiae Parisiorum a. 1679",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Kühn",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "editio C. G. Kühn, Lipsiae a. 1821",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Ma.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "editio Io. Marquardt, Lipsiae a. 1884",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Kaibel",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "editio G. Kaibel, Berolini a. 1894",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Wenk.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "editio E. Wenkebach, Berolini a. 1935",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Corn.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "Cornarius in Aldinae exemplari suo nunc Bibliothecae universitatis Ienensis proprio",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "annotations in a copy of the Aldine"
+    },
+    {
+     "siglum": {
+      "base": "Caius",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "Io. Caius in Basileensis exemplari suo nunc Bibliothecae Collegii Etonensis proprio",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "annotations in a copy of the Basel edition"
+    },
+    {
+     "siglum": {
+      "base": "Lentz",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "I. F. Lentz annotationes manu scriptae (cf. supra, p. 85sq.)",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Er.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "translation",
+     "printed": "D. Erasmi versio Latina, a. 1526",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Bell.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "translation",
+     "printed": "L. Bellisarii versio Latina, Venetiis a. 1541/1542",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Polit.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "excerpta a Politiano e Galeni libello sumpta (cf. supra, p. 75–77)",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    }
+   ]
+  }
+ ],
+ "transcribed_by": "Claude agent, zoomed crops",
+ "uncertain": [
+  "Ad./Lond./Re./Ven. (p. 91) and Ad., Adel., Adelph. (p. 113) are printed indented under Go.: codices known through Goulston's edition, not identified with shelfmarks; typed 'other'",
+  "Protrepticus list (p. 113) has no manuscript entries, only editions, annotated copies and translations",
+  "sigla_pages.json lists p. 91 twice (Conspectus siglorum / Opt.doc. – Conspectus siglorum); one section written"
+ ]
+}

@@ -1,0 +1,316 @@
+{
+ "volume": "cmg_01_02_01",
+ "editor": "Grensemann",
+ "series": "CMG I 2,1",
+ "year": "1968",
+ "sections": [
+  {
+   "label": "Conspectus siglorum - De octimestri partu",
+   "pages": [
+    76
+   ],
+   "works": [
+    "Hippocrates, De octimestri partu"
+   ],
+   "continues_on_next_page": false,
+   "entries": [
+    {
+     "siglum": {
+      "base": "M",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Marcianus Venetus 269",
+     "normalized": "Marc. gr. 269",
+     "city": "Venice",
+     "folios": "",
+     "date": "s. XI",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "V",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Vaticanus Graecus 276",
+     "normalized": "Vat. gr. 276",
+     "city": "Vatican City",
+     "folios": "",
+     "date": "s. XII",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "ξ",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "group",
+     "printed": "Codices recentiores vel omnes vel plurimi",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Hb",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Pars recentior Parisini Graeci 2142",
+     "normalized": "Par. gr. 2142",
+     "city": "Paris",
+     "folios": "",
+     "date": "s. XIV",
+     "note": "raro citantur; siglum printed on the line as 'Hb' (recent part of the manuscript)"
+    },
+    {
+     "siglum": {
+      "base": "R",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Vaticanus Graecus 277",
+     "normalized": "Vat. gr. 277",
+     "city": "Vatican City",
+     "folios": "",
+     "date": "s. XIV",
+     "note": "raro citantur"
+    },
+    {
+     "siglum": {
+      "base": "K",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Parisinus Graecus 2145",
+     "normalized": "Par. gr. 2145",
+     "city": "Paris",
+     "folios": "",
+     "date": "s. XV",
+     "note": "raro citantur"
+    },
+    {
+     "siglum": {
+      "base": "O",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Baroccianus Graecus 204",
+     "normalized": "Oxon. Barocc. 204",
+     "city": "Oxford",
+     "folios": "",
+     "date": "s. XV",
+     "note": "raro citantur"
+    },
+    {
+     "siglum": {
+      "base": "D",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Parisinus Graecus 2254",
+     "normalized": "Par. gr. 2254",
+     "city": "Paris",
+     "folios": "",
+     "date": "s. XV",
+     "note": "raro citantur"
+    },
+    {
+     "siglum": {
+      "base": "P",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Vaticanus Palatinus 192",
+     "normalized": "Vat. Pal. gr. 192",
+     "city": "Vatican City",
+     "folios": "",
+     "date": "s. XV",
+     "note": "raro citantur"
+    },
+    {
+     "siglum": {
+      "base": "Ald.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "Aldina, editio princeps (1526)",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Calvus",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "translation",
+     "printed": "interpretatio Latina (1525)",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Corn.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "Janus Cornarius in exemplari suo Aldinae",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Erm.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "Franciscus Zacharias Ermerins (1864)",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Foes.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "Anutius Foesius (1595)",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Lind.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "Johann vander Linden (1665)",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Li.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "Emile Littré (1851)",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Zwing.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "Theodorus Zwinger (1579)",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    }
+   ]
+  },
+  {
+   "label": "Conspectus siglorum - De septimestri partu (spurium)",
+   "pages": [
+    120
+   ],
+   "works": [
+    "Hippocrates, De septimestri partu (spurium)"
+   ],
+   "continues_on_next_page": false,
+   "entries": [
+    {
+     "siglum": {
+      "base": "V",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Vaticanus Graecus 276",
+     "normalized": "Vat. gr. 276",
+     "city": "Vatican City",
+     "folios": "",
+     "date": "s. XII",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "W",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Vaticanus Graecus 278",
+     "normalized": "Vat. gr. 278",
+     "city": "Vatican City",
+     "folios": "",
+     "date": "s. XVI",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Lind.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "Johann vander Linden (1665)",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    }
+   ]
+  }
+ ],
+ "transcribed_by": "Claude agent, zoomed crops",
+ "uncertain": [
+  "The TOC gives four labels (two plain 'Conspectus siglorum' and two per work) for the same two pages; transcribed as one section per page/work."
+ ]
+}

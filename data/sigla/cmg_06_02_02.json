@@ -1,0 +1,174 @@
+{
+ "volume": "cmg_06_02_02",
+ "editor": "Raeder",
+ "series": "CMG VI 2,2",
+ "year": "1933",
+ "sections": [
+  {
+   "label": "Conspectus siglorum",
+   "pages": [
+    14
+   ],
+   "works": [
+    "Oribasii Collectionum medicarum reliquiae, libri XLIX–L"
+   ],
+   "continues_on_next_page": false,
+   "entries": [
+    {
+     "siglum": {
+      "base": "R",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Vatic. gr. 1885",
+     "normalized": "Vat. gr. 1885",
+     "city": "Vatican City",
+     "folios": "f. 47–50, 129–167",
+     "date": "s. XIV",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "U",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Laurent. 74, 7",
+     "normalized": "Laur. Plut. 74.7",
+     "city": "Florence",
+     "folios": "f. 3v–4r, 149v–180v",
+     "date": "s. IX–X",
+     "note": "in libro tantum XLIX"
+    },
+    {
+     "siglum": {
+      "base": "Dg",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "Editio Bussemakeri et Darembergii (vol. IV, Paris. 1862); huius editionis paginae numeris in margine adscriptis indicantur",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    }
+   ]
+  },
+  {
+   "label": "Libri incerti – Conspectus siglorum",
+   "pages": [
+    84
+   ],
+   "works": [
+    "Oribasii Collectionum medicarum libri incerti"
+   ],
+   "continues_on_next_page": false,
+   "entries": [
+    {
+     "siglum": {
+      "base": "F",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Paris. gr. 2237",
+     "normalized": "Par. gr. 2237",
+     "city": "Paris",
+     "folios": "f. 163, 165–203",
+     "date": "s. XIV",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "F",
+      "sup": "a",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "idem codex alio loco (in capite tantum 7.",
+     "normalized": "Par. gr. 2237",
+     "city": "Paris",
+     "folios": "",
+     "date": "",
+     "note": "same codex as F, text at another place; only in ch. 7"
+    },
+    {
+     "siglum": {
+      "base": "Vind.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Vindob. med. gr. 16",
+     "normalized": "Vind. med. gr. 16",
+     "city": "Vienna",
+     "folios": "f. 284r–287r",
+     "date": "s. XIV",
+     "note": "in capitibus tantum 61 et 62"
+    },
+    {
+     "siglum": {
+      "base": "Dg",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "Editio Bussemakeri et Darembergii (vol. III, Paris. 1858); huius editionis paginae numeris in margine adscriptis indicantur",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    }
+   ]
+  },
+  {
+   "label": "Ecl.med. – Conspectus siglorum",
+   "pages": [
+    194
+   ],
+   "works": [
+    "Oribasii Eclogae medicamentorum"
+   ],
+   "continues_on_next_page": false,
+   "entries": [
+    {
+     "siglum": {
+      "base": "X",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Paris. suppl. gr. 446",
+     "normalized": "Par. Suppl. gr. 446",
+     "city": "Paris",
+     "folios": "f. 168–261",
+     "date": "s. X",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Dg",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "Editio Bussemakeri et Darembergii (vol. IV, Paris 1862; partim vol. III, 1858); huius editionis paginae numeris in margine adscriptis indicantur",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    }
+   ]
+  }
+ ],
+ "transcribed_by": "Claude agent, zoomed crops",
+ "uncertain": [
+  "F^a (p. 84): 'idem codex alio loco' - a second copy of the text in Par. gr. 2237, entered as manuscript with the same shelfmark; closing parenthesis missing in print"
+ ]
+}

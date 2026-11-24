@@ -1,0 +1,334 @@
+{
+ "volume": "cmg_05_04_01_02",
+ "editor": "De Lacy",
+ "series": "CMG V 4,1,2",
+ "year": "1978",
+ "sections": [
+  {
+   "label": "Conspectus siglorum et compendiorum",
+   "pages": [
+    63
+   ],
+   "works": [
+    "Galeni De placitis Hippocratis et Platonis"
+   ],
+   "continues_on_next_page": false,
+   "entries": [
+    {
+     "siglum": {
+      "base": "H",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Hamilton 270",
+     "normalized": "Berol. Hamilton 270",
+     "city": "Berlin",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "H",
+      "sup": "2",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "eiusdem codicis correctores (cf. supra, pp. 14–17)",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "H",
+      "sup": "3",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "eiusdem codicis correctores (cf. supra, pp. 14–17)",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "H",
+      "sup": "s",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "eiusdem codicis correctores (cf. supra, pp. 14–17)",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "H",
+      "sup": "r",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "eiusdem codicis correctores (cf. supra, pp. 14–17)",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "C",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Cantabrigiensis Caius coll. 47/24",
+     "normalized": "Cambridge, Gonville and Caius 47/24",
+     "city": "Cambridge",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "L",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Laurentianus 74,22",
+     "normalized": "Laur. Plut. 74.22",
+     "city": "Florence",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "M",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Marcianus 284",
+     "normalized": "Marc. gr. 284",
+     "city": "Venice",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "R",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Mosquensis 467",
+     "normalized": "Mosq. 467",
+     "city": "Moscow",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Q",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Parisinus Suppl. Gr. 634",
+     "normalized": "Par. Suppl. gr. 634",
+     "city": "Paris",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "N",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Borbonicus Gr. 229 III D 15",
+     "normalized": "Neap. III D 15",
+     "city": "Naples",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "F",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Laurentianus 74,12",
+     "normalized": "Laur. Plut. 74.12",
+     "city": "Florence",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "P",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Parisinus Gr. 2277",
+     "normalized": "Par. gr. 2277",
+     "city": "Paris",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "p",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Parisinus Gr. 2283",
+     "normalized": "Par. gr. 2283",
+     "city": "Paris",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Ald.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "editio Aldina, Venetiis, a. 1525",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Bas.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "editio Basileensis, a. 1538",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Caius",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "editio Cai, Basileae, a. 1544",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Chart.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "editio Charterii, Lutetiae Parisiorum, a. 1679",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Kühn",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "editio Kühnii, Lipsiae, a. 1823",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Müller",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "editio Mülleri, Lipsiae, a. 1874",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Corn.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "Cornarius in Aldinae exemplari suo nunc bibliothecae universitatis Ienensis proprio",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Al. Just.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "Alexandri Justiniani lectiones vel emendationes in quarta editione Juntina",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    }
+   ]
+  }
+ ],
+ "transcribed_by": "Claude agent, zoomed crops",
+ "uncertain": [
+  "H: printed 'Hamilton 270' with no city; normalized as Berol. Hamilton 270 (Berlin).",
+  "Year: vol. I 1978 (volumes 1978–1984, reprints 2005); which volume canvas 63 belongs to is not checked.",
+  "Correctors H2, H3, Hs, Hr entered as four 'other' entries."
+ ]
+}

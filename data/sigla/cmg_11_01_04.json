@@ -1,0 +1,497 @@
+{
+ "volume": "cmg_11_01_04",
+ "editor": "Duffy/Bell/Carpenter/Schmidt/Sham/Vardon/Westerink",
+ "series": "CMG XI 1,4",
+ "year": "1997",
+ "sections": [
+  {
+   "label": "Jo.Alex. Hipp.Epid. – Conspectus siglorum",
+   "pages": [
+    27
+   ],
+   "works": [
+    "Ioannis Alexandrini In Hippocratis Epidemiarum librum VI commentarii fragmenta"
+   ],
+   "continues_on_next_page": false,
+   "entries": [
+    {
+     "siglum": {
+      "base": "V",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Vaticanus Gr. 300",
+     "normalized": "Vat. gr. 300",
+     "city": "Vatican City",
+     "folios": "",
+     "date": "s. XII",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "W",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Vindobonensis med. Gr. 20",
+     "normalized": "Vind. med. gr. 20",
+     "city": "Vienna",
+     "folios": "",
+     "date": "s. XIV",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "P",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Parisinus Gr. 2239",
+     "normalized": "Par. gr. 2239",
+     "city": "Paris",
+     "folios": "",
+     "date": "s. XIV",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "R",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Vaticanus Angel. Gr. 68",
+     "normalized": "Angel. gr. 68",
+     "city": "Rome",
+     "folios": "",
+     "date": "s. XV",
+     "note": "printed 'Vaticanus Angel.'; presumably Biblioteca Angelica, Rome"
+    },
+    {
+     "siglum": {
+      "base": "R",
+      "sup": "2",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "eiusdem codicis corrector",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "L",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Laurentianus Gr. 75,4",
+     "normalized": "Laur. Plut. 75.4",
+     "city": "Florence",
+     "folios": "",
+     "date": "s. XV",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "S",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Vaticanus Palat. Gr. 296",
+     "normalized": "Vat. Pal. gr. 296",
+     "city": "Vatican City",
+     "folios": "",
+     "date": "s. XV/XVI",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "N",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Parisinus Gr. 2224",
+     "normalized": "Par. gr. 2224",
+     "city": "Paris",
+     "folios": "",
+     "date": "s. XV",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "O",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Bodleianus Laud. Gr. 59",
+     "normalized": "Oxon. Laud. gr. 59",
+     "city": "Oxford",
+     "folios": "",
+     "date": "s. XV",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "β",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "group",
+     "printed": "consensus codicum WPR L SN O",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "γ",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "group",
+     "printed": "consensus codicum WPR",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "δ",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "group",
+     "printed": "consensus codicum L SN O",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "ε",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "group",
+     "printed": "consensus codicum SN O",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "ζ",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "group",
+     "printed": "consensus codicum SN",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Lat.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "translation",
+     "printed": "versio Latina Iohannis Alexandrini In Epid. VI commentariorum",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Bernard",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "J. St. Bernard in Synesii libri De febribus editione sua, Amstelodami et Lugduni Batavorum a. 1749",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Daremberg",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "Ch. Daremberg in Rufi Ephesii editione sua, Lutetiae Parisiorum a. 1879",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Pritchet",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "C. D. Pritchet in Iohannis Alexandrini In Epid. VI commentariorum editione sua, Lugduni Batavorum a. 1975",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    }
+   ]
+  },
+  {
+   "label": "Anon. Hipp.Epid. – Conspectus siglorum",
+   "pages": [
+    121
+   ],
+   "works": [
+    "Anonymi In Hippocratis Epidemiarum librum VI commentarii fragmenta"
+   ],
+   "continues_on_next_page": false,
+   "entries": [
+    {
+     "siglum": {
+      "base": "W",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Vindobonensis med. Gr. 20",
+     "normalized": "Vind. med. gr. 20",
+     "city": "Vienna",
+     "folios": "",
+     "date": "s. XIV",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "P",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Parisinus Gr. 2239",
+     "normalized": "Par. gr. 2239",
+     "city": "Paris",
+     "folios": "",
+     "date": "s. XIV",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "R",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Vaticanus Angel. Gr. 68",
+     "normalized": "Angel. gr. 68",
+     "city": "Rome",
+     "folios": "",
+     "date": "s. XV",
+     "note": "printed 'Vaticanus Angel.'; presumably Biblioteca Angelica, Rome"
+    },
+    {
+     "siglum": {
+      "base": "L",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Laurentianus Gr. 75,4",
+     "normalized": "Laur. Plut. 75.4",
+     "city": "Florence",
+     "folios": "",
+     "date": "s. XV",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "S",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Vaticanus Palat. Gr. 296",
+     "normalized": "Vat. Pal. gr. 296",
+     "city": "Vatican City",
+     "folios": "",
+     "date": "s. XV/XVI",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "N",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Parisinus Gr. 2224",
+     "normalized": "Par. gr. 2224",
+     "city": "Paris",
+     "folios": "",
+     "date": "s. XV",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "O",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Bodleianus Laud. Gr. 59",
+     "normalized": "Oxon. Laud. gr. 59",
+     "city": "Oxford",
+     "folios": "",
+     "date": "s. XV",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "β",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "group",
+     "printed": "consensus codicum WPR L SN O",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "γ",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "group",
+     "printed": "consensus codicum WPR",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "δ",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "group",
+     "printed": "consensus codicum L SN O",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "ε",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "group",
+     "printed": "consensus codicum SN O",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "ζ",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "group",
+     "printed": "consensus codicum SN",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    }
+   ]
+  },
+  {
+   "label": "Jo.Alex. Hipp.Nat.Puer. – Conspectus siglorum",
+   "pages": [
+    129
+   ],
+   "works": [
+    "Ioannis Alexandrini In Hippocratis De natura pueri commentarium"
+   ],
+   "continues_on_next_page": false,
+   "entries": [
+    {
+     "siglum": {
+      "base": "L",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Laurentianus Gr. 59,14",
+     "normalized": "Laur. Plut. 59.14",
+     "city": "Florence",
+     "folios": "",
+     "date": "s. XV",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Dietz",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "F. R. Dietz, Scholia in Hippocratem et Galenum, Regimontii a. 1834, vol. II, p. 205–235",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    }
+   ]
+  }
+ ],
+ "transcribed_by": "Claude agent, zoomed crops",
+ "uncertain": [
+  "R (p. 27, 121): printed 'Vaticanus Angel. Gr. 68'; normalized as Angel. gr. 68 (Rome, Biblioteca Angelica) - check against catalogue",
+  "sigla_pages.json lists p. 129 under two TOC labels (Jo.Alex. Hipp.Epid.Nat.Puer. and Jo.Alex. Hipp.Nat.Puer.); one section written"
+ ]
+}

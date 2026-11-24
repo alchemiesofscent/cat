@@ -1,0 +1,232 @@
+{
+ "volume": "cmg_01_02_03",
+ "editor": "Potter",
+ "series": "CMG I 2,3",
+ "year": "1980",
+ "sections": [
+  {
+   "label": "Conspectus siglorum",
+   "pages": [
+    69
+   ],
+   "works": [
+    "Hippocrates, De morbis III"
+   ],
+   "continues_on_next_page": false,
+   "entries": [
+    {
+     "siglum": {
+      "base": "Θ",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Vindobonensis Medicus Graecus 4; s. X/XI",
+     "normalized": "Vind. med. gr. 4",
+     "city": "Vienna",
+     "folios": "",
+     "date": "s. X/XI",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "M",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Marcianus Venetus Graecus 269; s. X/XI",
+     "normalized": "Marc. gr. 269",
+     "city": "Venice",
+     "folios": "",
+     "date": "s. X/XI",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "H",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Parisinus Graecus 2142; s. XIII",
+     "normalized": "Par. gr. 2142",
+     "city": "Paris",
+     "folios": "",
+     "date": "s. XIII",
+     "note": "raro citantur"
+    },
+    {
+     "siglum": {
+      "base": "I",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Parisinus Graecus 2140; s. XIV",
+     "normalized": "Par. gr. 2140",
+     "city": "Paris",
+     "folios": "",
+     "date": "s. XIV",
+     "note": "raro citantur"
+    },
+    {
+     "siglum": {
+      "base": "recc.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "group",
+     "printed": "codices recentiores",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "codd.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "group",
+     "printed": "codices vel omnes vel plurimi",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "m. p.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "manus posterior",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Ald.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "Aldina (1526)",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Frob.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "Frobeniana (1538)",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Foes.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "A. Foesius (1595)",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Chart.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "R. Charterius (1639)",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Lind.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "I. A. Vander Linden (1665)",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Ma.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "S. Mack (1749)",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Li.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "E. Littré (1851)",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Erm.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "F. Ermerins (1862)",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    }
+   ]
+  }
+ ],
+ "transcribed_by": "Claude agent, zoomed crops",
+ "uncertain": []
+}

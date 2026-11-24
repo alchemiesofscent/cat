@@ -1,0 +1,137 @@
+{
+ "volume": "cml_05",
+ "editor": "Niedermann/Liechtenhan",
+ "series": "CML V",
+ "year": "1968",
+ "sections": [
+  {
+   "label": "Signorum explanatio",
+   "pages": [
+    42
+   ],
+   "works": [
+    "Marcellus, De medicamentis liber"
+   ],
+   "continues_on_next_page": false,
+   "entries": [
+    {
+     "siglum": {
+      "base": "P",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "codex Parisinus Lat. 6880 membranaceus saec. IX",
+     "normalized": "Par. lat. 6880",
+     "city": "Paris",
+     "folios": "",
+     "date": "saec. IX",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "L",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "codex Laudunensis 420 membranaceus saec. IX/X",
+     "normalized": "Laudun. 420",
+     "city": "Laon",
+     "folios": "",
+     "date": "saec. IX/X",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "A",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "codex Arundelianus 166 membranaceus saec. X/XI",
+     "normalized": "Arundel 166",
+     "city": "London",
+     "folios": "",
+     "date": "saec. X/XI",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Co",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "Cornarii editio princeps Basiliensis anni 1536",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "He",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "Helmreichii editio Lipsiensis anni 1889",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Ni",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "Niedermanni editio Lipsiensis anni 1916",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Li",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "auctor huius editionis",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "Liechtenhan, editor of this volume"
+    },
+    {
+     "siglum": {
+      "base": "edd.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "group",
+     "printed": "editiones Cornarii, Helmreichii, Niedermanni",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    }
+   ]
+  }
+ ],
+ "transcribed_by": "Claude agent, zoomed crops",
+ "uncertain": [
+  "sigla_pages.json lists two TOC sections ('Siglorum explanatio' and 'Signorum explanatio') on the same pages 42-43; the page has one list headed SIGNORVM EXPLANATIO (followed by Compendia, not transcribed). Page 43 is the half-title, no sigla.",
+  "Normalized forms 'Laudun. 420' (Laon, Bibl. mun.) and 'Arundel 166' (London, BL) are not in the house list; city word kept."
+ ]
+}

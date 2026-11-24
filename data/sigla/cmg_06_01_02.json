@@ -1,0 +1,110 @@
+{
+ "volume": "cmg_06_01_02",
+ "editor": "Raeder",
+ "series": "CMG VI 1,2",
+ "year": "1929",
+ "sections": [
+  {
+   "label": "Conspectus siglorum",
+   "pages": [
+    8
+   ],
+   "works": [
+    "Oribasius, Collectionum medicarum reliquiae, libri IX–XVI"
+   ],
+   "continues_on_next_page": false,
+   "entries": [
+    {
+     "siglum": {
+      "base": "A",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Paris. gr. 2189",
+     "normalized": "Par. gr. 2189",
+     "city": "Paris",
+     "folios": "f. 216–406",
+     "date": "s. XVI",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "C",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Cantabr. Coll. S. Ioan. A 6",
+     "normalized": "Cambridge, St John's College A 6",
+     "city": "Cambridge",
+     "folios": "p. 245–485",
+     "date": "s. XVI",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "N",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Neap. III D 20",
+     "normalized": "Neap. III D 20",
+     "city": "Naples",
+     "folios": "f. 118–232",
+     "date": "s. XV",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "F",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Paris. gr. 2237",
+     "normalized": "Par. gr. 2237",
+     "city": "Paris",
+     "folios": "f. 1–6",
+     "date": "s. XIV",
+     "note": "in solis capp. IX 52–55 et X 19–36"
+    },
+    {
+     "siglum": {
+      "base": "Ras.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "translation",
+     "printed": "Oribasii Sardiani Collectorum medicinalium libri XVII Ioanne Baptista Rasario interprete (Parisiis 1555)",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Dg",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "Editio Bussemakeri et Darembergii (vol. II, Paris. 1854); huius editionis paginae numeris in margine adscriptis indicantur.",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    }
+   ]
+  }
+ ],
+ "transcribed_by": "Claude agent, zoomed crops",
+ "uncertain": [
+  "Canvas 9 (also given) is the start of the text (Κεφάλαια τοῦ θ βιβλίου), not part of the sigla list; the list is complete on canvas 8.",
+  "Correctors A1, A2 appear in the apparatus but are not listed in the conspectus; not entered.",
+  "F note 'IX 52–55': the second number is slightly blurred in print."
+ ]
+}

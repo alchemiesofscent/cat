@@ -1,0 +1,273 @@
+{
+ "volume": "cmg_01_03_01",
+ "editor": "Overwien",
+ "series": "CMG I 3,1",
+ "year": "2014",
+ "sections": [
+  {
+   "label": "Conspectus siglorum",
+   "pages": [
+    157
+   ],
+   "works": [
+    "Hippocrates, De humoribus"
+   ],
+   "continues_on_next_page": false,
+   "entries": []
+  },
+  {
+   "label": "Conspectus siglorum et compendiorum",
+   "pages": [
+    157
+   ],
+   "works": [
+    "Hippocrates, De humoribus"
+   ],
+   "continues_on_next_page": false,
+   "entries": [
+    {
+     "siglum": {
+      "base": "A",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Parisinus Gr. 2253",
+     "normalized": "Par. gr. 2253",
+     "city": "Paris",
+     "folios": "",
+     "date": "s. XI",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "A",
+      "sup": "2",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "manus posteriores",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "A2 A3 A4 = manus posteriores"
+    },
+    {
+     "siglum": {
+      "base": "A",
+      "sup": "3",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "manus posteriores",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "A2 A3 A4 = manus posteriores"
+    },
+    {
+     "siglum": {
+      "base": "A",
+      "sup": "4",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "manus posteriores",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "A2 A3 A4 = manus posteriores"
+    },
+    {
+     "siglum": {
+      "base": "M",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Marcianus Gr. 269",
+     "normalized": "Marc. gr. 269",
+     "city": "Venice",
+     "folios": "",
+     "date": "s. X",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "M",
+      "sup": "2",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "manus posterior",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Ar.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "translation",
+     "printed": "versio Arabica; s. IX",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "s. IX",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "H",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Parisinus Gr. 2142",
+     "normalized": "Par. gr. 2142",
+     "city": "Paris",
+     "folios": "",
+     "date": "s. XII",
+     "note": "raro citatur"
+    },
+    {
+     "siglum": {
+      "base": "H",
+      "sup": "p.c.",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "manus posterior",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "I",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Parisinus Gr. 2140",
+     "normalized": "Par. gr. 2140",
+     "city": "Paris",
+     "folios": "",
+     "date": "s. XII",
+     "note": "raro citatur"
+    },
+    {
+     "siglum": {
+      "base": "Aret.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "Aretaei libri De causis et signis diuturnorum morborum / De curatione acutorum morborum",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "GalA",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "Galeni In Hippocratis Aphorismos comm.",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "GalE",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "Galeni In Hippocratis Epidemiarum librum III comm.",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "GalL",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "Galeni Linguarum seu dictionum exoletarum Hippocratis explicatio",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Corn.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "Hippocratis Coi ... libri omnes ..., ed. Ianus Cornarius, Froben, Basileae 1538",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Littré",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "Œuvres complètes d'Hippocrate, par E. Littré, t. V, Paris 1846",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Erm.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "Hippocratis et aliorum ... reliquiae, ed. F. Z. Ermerins, Bd. I, Traiecti ad Rhenum 1859",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    }
+   ]
+  }
+ ],
+ "transcribed_by": "Claude agent, zoomed crops",
+ "uncertain": [
+  "The two TOC sections point to the same page 157, which has one list (headed 'Conspectus siglorum et compendiorum'); entries given once, under that section; the 'Conspectus siglorum' section is left empty to avoid duplicates"
+ ]
+}

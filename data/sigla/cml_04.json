@@ -1,0 +1,281 @@
+{
+ "volume": "cml_04",
+ "editor": "Howald/Sigerist",
+ "series": "CML IV",
+ "year": "1927",
+ "sections": [
+  {
+   "label": "Siglorum explanatio",
+   "pages": [
+    24
+   ],
+   "works": [
+    "Antonii Musae De herba Vettonica liber",
+    "Pseudoapulei Herbarius",
+    "Anonymi De taxone liber",
+    "Sexti Placiti Liber medicinae ex animalibus"
+   ],
+   "continues_on_next_page": false,
+   "entries": [
+    {
+     "siglum": {
+      "base": "M",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "fragmenta Monacensia (Emeranensia) saec. VII in.",
+     "normalized": "",
+     "city": "Munich",
+     "folios": "",
+     "date": "saec. VII in.",
+     "note": "Codices classis α; no shelfmark printed"
+    },
+    {
+     "siglum": {
+      "base": "Hal",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "fragmenta Haluarastatensia saec. VII",
+     "normalized": "",
+     "city": "Halberstadt",
+     "folios": "",
+     "date": "saec. VII",
+     "note": "Codices classis α; no shelfmark printed"
+    },
+    {
+     "siglum": {
+      "base": "Be",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "fragmentum Berolinense (Ms. lat. F 381, no. 1) saec. VIII",
+     "normalized": "Berol. lat. fol. 381",
+     "city": "Berlin",
+     "folios": "",
+     "date": "saec. VIII",
+     "note": "Codices classis α; no. 1"
+    },
+    {
+     "siglum": {
+      "base": "Ca",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "codex Casinensis 97 saec. IX",
+     "normalized": "Casin. 97",
+     "city": "Montecassino",
+     "folios": "",
+     "date": "saec. IX",
+     "note": "Codices classis α"
+    },
+    {
+     "siglum": {
+      "base": "L",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "codex Lucensis 236 saec. IX",
+     "normalized": "Luc. 236",
+     "city": "Lucca",
+     "folios": "",
+     "date": "saec. IX",
+     "note": "Codices classis α"
+    },
+    {
+     "siglum": {
+      "base": "Ha",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "codex Harleianus 4986 saec. XII",
+     "normalized": "Harley 4986",
+     "city": "London",
+     "folios": "",
+     "date": "saec. XII",
+     "note": "Codices classis α"
+    },
+    {
+     "siglum": {
+      "base": "V",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "codex Vindobonensis 187 saec. XII",
+     "normalized": "Vind. lat. 187",
+     "city": "Vienna",
+     "folios": "",
+     "date": "saec. XII",
+     "note": "Codices classis α"
+    },
+    {
+     "siglum": {
+      "base": "Orib.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "Oribasii de simplicibus libri V, Argent. 1533, apud J. Schott.",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "Codices classis α"
+    },
+    {
+     "siglum": {
+      "base": "A",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "codex Anglosaxonicus (Cotton Vitt. C III) saec. XI in.",
+     "normalized": "Cotton Vitell. C III",
+     "city": "London",
+     "folios": "",
+     "date": "saec. XI in.",
+     "note": "Codices classis α; Old English version"
+    },
+    {
+     "siglum": {
+      "base": "Hil",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "fragmentum Hildinense saec. VIII in.",
+     "normalized": "",
+     "city": "Hildesheim",
+     "folios": "",
+     "date": "saec. VIII in.",
+     "note": "Codices classis β; no shelfmark printed"
+    },
+    {
+     "siglum": {
+      "base": "Vr",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "codex Vratislauiensis bibl. uniu. III F 19 saec. IX",
+     "normalized": "Vratisl. III F 19",
+     "city": "Wrocław",
+     "folios": "",
+     "date": "saec. IX",
+     "note": "Codices classis β"
+    },
+    {
+     "siglum": {
+      "base": "Va",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "codex Vaticanus Barberinus 160 saec. XI",
+     "normalized": "Vat. Barb. lat. 160",
+     "city": "Vatican City",
+     "folios": "",
+     "date": "saec. XI",
+     "note": "Codices classis β"
+    },
+    {
+     "siglum": {
+      "base": "Vi",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "codex Vindobonensis 93 saec. XIII",
+     "normalized": "Vind. lat. 93",
+     "city": "Vienna",
+     "folios": "",
+     "date": "saec. XIII",
+     "note": "Codices classis β"
+    },
+    {
+     "siglum": {
+      "base": "B",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "codex Bambergensis med. 8 (L III. 15) saec. XIII",
+     "normalized": "Bamb. med. 8",
+     "city": "Bamberg",
+     "folios": "",
+     "date": "saec. XIII",
+     "note": "Codices classis β; old shelfmark L III. 15"
+    },
+    {
+     "siglum": {
+      "base": "Ber",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "codex Berolinensis Hamil. 307 saec. XV",
+     "normalized": "Berol. Hamilton 307",
+     "city": "Berlin",
+     "folios": "",
+     "date": "saec. XV",
+     "note": "Codices classis β"
+    },
+    {
+     "siglum": {
+      "base": "E",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "fragmentum Epporigiense saec. VII",
+     "normalized": "",
+     "city": "Ivrea",
+     "folios": "",
+     "date": "saec. VII",
+     "note": "Codices classis γ; no shelfmark printed"
+    },
+    {
+     "siglum": {
+      "base": "Vo",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "codex Vossianus latinus Q 9 saec. VII",
+     "normalized": "Leid. Voss. lat. Q 9",
+     "city": "Leiden",
+     "folios": "",
+     "date": "saec. VII",
+     "note": "Codices classis γ"
+    },
+    {
+     "siglum": {
+      "base": "C",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "codex Casselanus phys. et hist. nat. fol. 10 saec. X",
+     "normalized": "Cassel. phys. et hist. nat. fol. 10",
+     "city": "Kassel",
+     "folios": "",
+     "date": "saec. X",
+     "note": "Codices classis γ"
+    }
+   ]
+  }
+ ],
+ "transcribed_by": "Claude agent, zoomed crops",
+ "uncertain": [
+  "M, Hal, Hil, E: fragments with no shelfmark printed; normalized left empty, city inferred from the Latin place name (Munich/St Emmeram, Halberstadt, Hildesheim, Ivrea).",
+  "Normalized forms outside the house list: 'Berol. lat. fol. 381' (printed 'Ms. lat. F 381'), 'Casin. 97', 'Luc. 236', 'Vind. lat. 187', 'Vind. lat. 93' (printed without 'lat.'), 'Cotton Vitell. C III', 'Vratisl. III F 19', 'Vat. Barb. lat. 160', 'Bamb. med. 8', 'Berol. Hamilton 307', 'Leid. Voss. lat. Q 9', 'Cassel. phys. et hist. nat. fol. 10'.",
+  "Classes α/β/γ are headings, not sigla; recorded in each entry's note. The list of source editions ('Fontium et testimoniorum editiones') has no sigla and is omitted. The list does not say which of the four works each witness carries."
+ ]
+}

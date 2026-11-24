@@ -1,0 +1,484 @@
+{
+ "volume": "cmg_05_04_01_01",
+ "editor": "De Boer",
+ "series": "CMG V 4,1,1",
+ "year": "1937",
+ "sections": [
+  {
+   "label": "Conspectus siglorum",
+   "pages": [
+    18
+   ],
+   "works": [
+    "De propriorum animi cuiuslibet affectuum dignotione et curatione"
+   ],
+   "continues_on_next_page": false,
+   "entries": [
+    {
+     "siglum": {
+      "base": "L",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Laurent. gr. plut. 74, 3 s. XII; f. 159v–171v",
+     "normalized": "Laur. Plut. 74.3",
+     "city": "Florence",
+     "folios": "f. 159v–171v",
+     "date": "s. XII",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "L",
+      "sup": "1",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "ipse librarius",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "L",
+      "sup": "2",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "eius corrector",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Bri.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "Augustus Brinkmann",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "scholar (conjectures)"
+    },
+    {
+     "siglum": {
+      "base": "Deichgr.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "Carolus Deichgraeber",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "scholar (conjectures)"
+    },
+    {
+     "siglum": {
+      "base": "Helmr.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "Georgius Helmreich",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "scholar (conjectures)"
+    },
+    {
+     "siglum": {
+      "base": "Henn.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "Otto Hennicke",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "scholar (conjectures)"
+    },
+    {
+     "siglum": {
+      "base": "Hu.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "Fridericus Hultsch",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "scholar (conjectures)"
+    },
+    {
+     "siglum": {
+      "base": "Kalbfl.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "Carolus Kalbfleisch",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "scholar (conjectures)"
+    },
+    {
+     "siglum": {
+      "base": "Ma.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "Ioannes Marquardt",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "scholar (conjectures)"
+    },
+    {
+     "siglum": {
+      "base": "Pant.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "Ioannes Pantazidis",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "scholar (conjectures)"
+    },
+    {
+     "siglum": {
+      "base": "Sau.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "Hermannus Sauppe",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "scholar (conjectures)"
+    },
+    {
+     "siglum": {
+      "base": "Schoe.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "Hermannus Schoene",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "scholar (conjectures)"
+    }
+   ]
+  },
+  {
+   "label": "Conspectus siglorum",
+   "pages": [
+    56
+   ],
+   "works": [
+    "De animi cuiuslibet peccatorum dignotione et curatione"
+   ],
+   "continues_on_next_page": false,
+   "entries": [
+    {
+     "siglum": {
+      "base": "L",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Laurent. gr. plut. 74, 3 s. XII; f. 149v–159v",
+     "normalized": "Laur. Plut. 74.3",
+     "city": "Florence",
+     "folios": "f. 149v–159v",
+     "date": "s. XII",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "F",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Laurent. gr. plut. 74, 5 s. XIV; f. 92v",
+     "normalized": "Laur. Plut. 74.5",
+     "city": "Florence",
+     "folios": "f. 92v",
+     "date": "s. XIV",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "M",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Marcian. 281 s XV; f. 76v–77",
+     "normalized": "Marc. gr. 281",
+     "city": "Venice",
+     "folios": "f. 76v–77",
+     "date": "s. XV",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "IMa.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "Ioachimus Marquardt",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "scholar; 'Cetera vide supra p. 2'"
+    }
+   ]
+  },
+  {
+   "label": "Conspectus siglorum",
+   "pages": [
+    86
+   ],
+   "works": [
+    "De atra bile"
+   ],
+   "continues_on_next_page": false,
+   "entries": [
+    {
+     "siglum": {
+      "base": "V",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Vaticanus gr. 1845 s. XIII; f. 152v–171v",
+     "normalized": "Vat. gr. 1845",
+     "city": "Vatican City",
+     "folios": "f. 152v–171v",
+     "date": "s. XIII",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "V",
+      "sup": "1",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "eius corrector",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "M",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Marcianus gr. 276 s. XII; f. 261r–268r",
+     "normalized": "Marc. gr. 276",
+     "city": "Venice",
+     "folios": "f. 261r–268r",
+     "date": "s. XII",
+     "note": "in group B"
+    },
+    {
+     "siglum": {
+      "base": "β",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Marcianus gr. 284 s. XV; f. 223v–228v",
+     "normalized": "Marc. gr. 284",
+     "city": "Venice",
+     "folios": "f. 223v–228v",
+     "date": "s. XV",
+     "note": "in group B"
+    },
+    {
+     "siglum": {
+      "base": "γ",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Marc. gr. App. cl. V 5 s. XV; f. 322r–327v",
+     "normalized": "Marc. gr. App. V 5",
+     "city": "Venice",
+     "folios": "f. 322r–327v",
+     "date": "s. XV",
+     "note": "in group C"
+    },
+    {
+     "siglum": {
+      "base": "m",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Mutinensis gr. 213 s. XV; f. 161r–173r",
+     "normalized": "Mutin. gr. 213",
+     "city": "Modena",
+     "folios": "f. 161r–173r",
+     "date": "s. XV",
+     "note": "in group C"
+    },
+    {
+     "siglum": {
+      "base": "A",
+      "sup": "I",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Ambrosianus gr. Q 3 Sup. s. XV/XVI f. 231r–234v, 237rv, 220r–224v",
+     "normalized": "Ambros. Q 3 sup.",
+     "city": "Milan",
+     "folios": "f. 231r–234v, 237rv, 220r–224v",
+     "date": "s. XV/XVI",
+     "note": "in group C"
+    },
+    {
+     "siglum": {
+      "base": "A",
+      "sup": "I1",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "eius corrector",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "printed A with superscript I and a further superscript 1 (corrector of A^I)"
+    },
+    {
+     "siglum": {
+      "base": "B",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "group",
+     "printed": "M β",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "bracket joining M, β"
+    },
+    {
+     "siglum": {
+      "base": "C",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "group",
+     "printed": "γ m AI",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "bracket joining γ, m, A^I"
+    },
+    {
+     "siglum": {
+      "base": "Or.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "Oribasii Collectiones medicae ed. Raeder CMG VI 2, 1",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Ch",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "Chartier",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "K",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "Kuehn",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Mew.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "Joannes Mewaldt",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "scholar; other abbreviations as p. 2"
+    }
+   ]
+  }
+ ],
+ "transcribed_by": "Claude agent, zoomed crops",
+ "uncertain": [
+  "De atra bile: siglum printed as a gamma-like letter (Υ-shaped in this italic face), read as γ.",
+  "De atra bile: corrector siglum printed 'AI¹' (A, superscript I, superscript 1); encoded sup 'I1'.",
+  "Scholars' abbreviations (Bri., Ma. etc.) entered as type other; critical signs ([ ], < >, ( )) omitted."
+ ]
+}

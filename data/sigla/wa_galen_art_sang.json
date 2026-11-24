@@ -1,0 +1,208 @@
+{
+ "volume": "wa_galen_art_sang",
+ "editor": "Albrecht",
+ "series": "",
+ "year": "1911",
+ "sections": [
+  {
+   "label": "Tabula siglorum",
+   "pages": [
+    24
+   ],
+   "works": [
+    "Galeni libellus An in arteriis natura sanguis contineatur"
+   ],
+   "continues_on_next_page": false,
+   "entries": [
+    {
+     "siglum": {
+      "base": "L",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Laurentianus 74₃",
+     "normalized": "Laur. Plut. 74.3",
+     "city": "Florence",
+     "folios": "",
+     "date": "saec. XII",
+     "note": "ex his tota lectionum varietas annotatur praeter menda orthographica vel typothetica"
+    },
+    {
+     "siglum": {
+      "base": "V",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Marcianus app. cl. V₄",
+     "normalized": "Marc. gr. App. cl. V 4",
+     "city": "Venice",
+     "folios": "",
+     "date": "saec. XV",
+     "note": "ex his tota lectionum varietas annotatur praeter menda orthographica vel typothetica"
+    },
+    {
+     "siglum": {
+      "base": "a",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "editio aldina 1525",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "ex his tota lectionum varietas annotatur praeter menda orthographica vel typothetica"
+    },
+    {
+     "siglum": {
+      "base": "b",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "editio basileensis 1538",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "hae ibi tantum laudantur, ubi quid recte novaverunt"
+    },
+    {
+     "siglum": {
+      "base": "c",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "editio Charteriana 1679",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "hae ibi tantum laudantur, ubi quid recte novaverunt"
+    },
+    {
+     "siglum": {
+      "base": "k",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "editio Kuehniana 1824",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "hae ibi tantum laudantur, ubi quid recte novaverunt"
+    },
+    {
+     "siglum": {
+      "base": "w",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "translation",
+     "printed": "Guinterii interpretatio 1536",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "hae ibi tantum laudantur, ubi quid recte novaverunt"
+    },
+    {
+     "siglum": {
+      "base": "i",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "translation",
+     "printed": "iuntinae et basileensis interpr. 1541 sq.",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "hae ibi tantum laudantur, ubi quid recte novaverunt"
+    },
+    {
+     "siglum": {
+      "base": "t",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "translation",
+     "printed": "Trincavelii interpr. 1560",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "hae ibi tantum laudantur, ubi quid recte novaverunt"
+    },
+    {
+     "siglum": {
+      "base": "r",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "translation",
+     "printed": "Rasarii interpr. 1562",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "hae ibi tantum laudantur, ubi quid recte novaverunt"
+    },
+    {
+     "siglum": {
+      "base": "Corn",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "Cornarius",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Ka",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "Kalbfleisch",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Al",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "Albrecht",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    }
+   ]
+  }
+ ],
+ "transcribed_by": "Claude agent, zoomed crops",
+ "uncertain": [
+  "L 'Laurentianus 74₃' and V 'Marcianus app. cl. V₄': numbers after the plut./class printed as subscripts; read as 3 and 4 from zoomed crop",
+  "c and k printed with dashes (ditto for 'editio'); written out",
+  "Critical signs (—) and * after the list not entered"
+ ]
+}

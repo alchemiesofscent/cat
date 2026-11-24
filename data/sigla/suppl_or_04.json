@@ -1,0 +1,95 @@
+{
+ "volume": "suppl_or_04",
+ "editor": "Iskandar",
+ "series": "CMG Suppl. Or. IV",
+ "year": "1988",
+ "sections": [
+  {
+   "label": "Conspectus codicum et signorum",
+   "pages": [
+    39
+   ],
+   "works": [
+    "Galen, De optimo medico cognoscendo, versio Arabica"
+   ],
+   "continues_on_next_page": false,
+   "entries": [
+    {
+     "siglum": {
+      "base": "A",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Maktabat al-Baladiyya, Alexandria, Ms. 3813, jīm",
+     "normalized": "Alexandria, Baladiyya 3813 jīm",
+     "city": "Alexandria",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "T",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Bursa Haraççıoğlu, Turkey, Ms. 1120",
+     "normalized": "Bursa, Haraççıoğlu 1120",
+     "city": "Bursa",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "IAU",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "excerpta Arabica ab Ibn abī Uṣaybiʿa e Galeni libro sumpta",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "C.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "The Aphorisms of Hippocrates, translated into Arabic by Honain ben Ishak, ed. J. Tytler, Calcutta, 1832",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "D.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "Kitāb tadbīr al-amrāḍ al-ḥādda li-Buqrāṭ (Hippocrates: Regimen in acute diseases), ed. and transl. by M. C. Lyons, Cambridge, 1966",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    }
+   ]
+  }
+ ],
+ "transcribed_by": "Claude agent, zoomed crops",
+ "uncertain": [
+  "A and T normalized as 'Alexandria, Baladiyya 3813 jīm' and 'Bursa, Haraççıoğlu 1120' (no house form)",
+  "Critical signs ⟨ ⟩, [ ], † † on the same page are not entered as sigla"
+ ]
+}

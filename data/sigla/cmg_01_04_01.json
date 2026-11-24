@@ -1,0 +1,389 @@
+{
+ "volume": "cmg_01_04_01",
+ "editor": "Hanson",
+ "series": "CMG I 4,1",
+ "year": "1999",
+ "sections": [
+  {
+   "label": "Conspectus siglorum et compendiorum",
+   "pages": [
+    60,
+    61
+   ],
+   "works": [
+    "Hippocrates, De capitis vulneribus"
+   ],
+   "continues_on_next_page": false,
+   "entries": [
+    {
+     "siglum": {
+      "base": "B",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Laurentianus Gr. 74,7",
+     "normalized": "Laur. Plut. 74.7",
+     "city": "Florence",
+     "folios": "",
+     "date": "s. X",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "B",
+      "sup": "2",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "eiusdem codicis correctores",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "B², B³"
+    },
+    {
+     "siglum": {
+      "base": "B",
+      "sup": "3",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "eiusdem codicis correctores",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "B², B³"
+    },
+    {
+     "siglum": {
+      "base": "V",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Vaticanus Gr. 276",
+     "normalized": "Vat. gr. 276",
+     "city": "Vatican City",
+     "folios": "",
+     "date": "s. XII",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "N",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Parisinus Gr. 2248",
+     "normalized": "Par. gr. 2248",
+     "city": "Paris",
+     "folios": "",
+     "date": "s. XVI",
+     "note": "raro citantur"
+    },
+    {
+     "siglum": {
+      "base": "P",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Palatinus Gr. 192",
+     "normalized": "Vat. Pal. gr. 192",
+     "city": "Vatican City",
+     "folios": "",
+     "date": "s. XV",
+     "note": "raro citantur"
+    },
+    {
+     "siglum": {
+      "base": "C",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Parisinus Gr. 2146",
+     "normalized": "Par. gr. 2146",
+     "city": "Paris",
+     "folios": "",
+     "date": "s. XVI",
+     "note": "raro citantur"
+    },
+    {
+     "siglum": {
+      "base": "Ho",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Holkhamensis Gr. 92",
+     "normalized": "Holkham. gr. 92",
+     "city": "Oxford",
+     "folios": "",
+     "date": "s. XVI",
+     "note": "raro citantur; Holkham Hall manuscript, now Bodleian Library"
+    },
+    {
+     "siglum": {
+      "base": "Ho",
+      "sup": "2",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "eiusdem codicis corrector",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "E",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Parisinus Gr. 2255",
+     "normalized": "Par. gr. 2255",
+     "city": "Paris",
+     "folios": "",
+     "date": "s. XVI",
+     "note": "raro citantur"
+    },
+    {
+     "siglum": {
+      "base": "recc.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "group",
+     "printed": "codices recentiores",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Ald.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "editio Aldina, Venetiis, a. 1526",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Frob.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "editio Frobeniana, Basileae, a. 1538",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Foes.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "A. Foesius, Magni Hippocratis ... Opera omnia, Francofurti, a. 1595",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Maniaud",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "E. Maniaud, Hippocratis Coi Chirurgia, Lutetiae Parisiorum, a. 1619",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Lind.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "J. A. van der Linden, Hippocratis Coi ... Opera omnia, Lugduni Batavorum, a. 1665",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Littré",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "E. Littré, Œuvres complètes d'Hippocrate, Lutetiae Parisiorum, a. 1841",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Erm.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "F. Z. Ermerins, Hippocratis ... reliquiae, Traiecti ad Rhenum, a. 1859",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Reinh.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "K. H. Th. Reinhold, Ἱπποκράτης κομιδῇ, Athenis, a. 1865",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Petrequin",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "J. E. Petrequin, Chirurgie d'Hippocrate, Lutetiae Parisiorum, a. 1877",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Kühlewein",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "H. Kühlewein, Hippocratis Opera, Lipsiae, a. 1902",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Withington",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "E. T. Withington, Hippocrates with an English translation, Londinii et Cantabrigiae, Mass., a. 1928",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Corn.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "Cornarius in editionis Aldinae exemplari suo nunc bibliothecae universitatis Goettingensis proprio",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Scal.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "emendationes J. J. Scaligeri in editione Hippocratis ... De capitis vulneribus libri a F. Vertuniano curata, Lutetiae Parisiorum, a. 1578, typis expressae",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Portus",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "emendationes Ae. Porti in editione Foesii typis expressae",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Mart.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "emendationes J. Martini in editione Foesii, col. 252sq., typis expressae",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    }
+   ]
+  }
+ ],
+ "transcribed_by": "Claude agent, zoomed crops",
+ "uncertain": [
+  "Ho = Holkhamensis Gr. 92: normalized as 'Holkham. gr. 92' (not in house list; the manuscript is now in the Bodleian, Oxford)."
+ ]
+}

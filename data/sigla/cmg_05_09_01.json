@@ -1,0 +1,428 @@
+{
+ "volume": "cmg_05_09_01",
+ "editor": "Mewaldt/Helmreich/Westenberger",
+ "series": "CMG V 9,1",
+ "year": "1914",
+ "sections": [
+  {
+   "label": "Hipp.nat.hom. – Conspectus codicum",
+   "pages": [
+    50
+   ],
+   "works": [
+    "Galeni In Hippocratis De natura hominis commentaria III"
+   ],
+   "continues_on_next_page": false,
+   "entries": [
+    {
+     "siglum": {
+      "base": "L",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Laurent. gr. 59, 14",
+     "normalized": "Laur. Plut. 59.14",
+     "city": "Florence",
+     "folios": "f. 101r–161v",
+     "date": "s. XV",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "L",
+      "sup": "1",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "eiusdem corrector",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "V",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Marcian. gr. 282",
+     "normalized": "Marc. gr. 282",
+     "city": "Venice",
+     "folios": "f. 153v–176v",
+     "date": "s. XV",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "V",
+      "sup": "1",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "eiusdem corrector",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "R",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Reginens. gr. 173",
+     "normalized": "Vat. Reg. gr. 173",
+     "city": "Vatican City",
+     "folios": "f. 185r–231v",
+     "date": "s. XV",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "R",
+      "sup": "2",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "codex deperditus ab Opizone, Aldinae auctore, excussus",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "lost manuscript used for the Aldine"
+    },
+    {
+     "siglum": {
+      "base": "U",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Marcian. gr. 278 (continet librum III solum)",
+     "normalized": "Marc. gr. 278",
+     "city": "Venice",
+     "folios": "f. 146r–156v",
+     "date": "s. XIII/XIV",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "U",
+      "sup": "1",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "eiusdem corrector",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "H",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "translation",
+     "printed": "Laurent. arab. 226 (Hunaini versio)",
+     "normalized": "Laur. arab. 226",
+     "city": "Florence",
+     "folios": "f. 1r–61r",
+     "date": "s. XIII",
+     "note": ""
+    }
+   ]
+  },
+  {
+   "label": "Hipp.vict.acut. – Conspectus codicum",
+   "pages": [
+    164
+   ],
+   "works": [
+    "Galeni In Hippocratis De victu acutorum commentaria IV"
+   ],
+   "continues_on_next_page": false,
+   "entries": [
+    {
+     "siglum": {
+      "base": "A",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Athous Laurae Ω 70",
+     "normalized": "Athos, Lavra Ω 70",
+     "city": "Athos",
+     "folios": "f. 1r–120r",
+     "date": "s. XIV",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "M",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Monacensis 469",
+     "normalized": "Mon. gr. 469",
+     "city": "Munich",
+     "folios": "f. 1r–76v",
+     "date": "s. XIV",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "S",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Scorialensis Σ II 5",
+     "normalized": "Scorial. Σ II 5",
+     "city": "El Escorial",
+     "folios": "f. 73r–183v",
+     "date": "s. XV",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "B",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Athous Iberon 4304. 184",
+     "normalized": "Athos, Iviron 184",
+     "city": "Athos",
+     "folios": "f. 130r–266r",
+     "date": "s. XIV",
+     "note": "4304 = Lambros number"
+    },
+    {
+     "siglum": {
+      "base": "T",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Trivultianus 685",
+     "normalized": "Trivult. 685",
+     "city": "Milan",
+     "folios": "f. 122v–193r",
+     "date": "s. XIV",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "C",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Athous Iberon 4309. 189",
+     "normalized": "Athos, Iviron 189",
+     "city": "Athos",
+     "folios": "f. 42r–173v",
+     "date": "s. XIV",
+     "note": "4309 = Lambros number"
+    },
+    {
+     "siglum": {
+      "base": "D",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Mosquensis 465, olim Athous",
+     "normalized": "Mosq. 465",
+     "city": "Moscow",
+     "folios": "f. 33r–80v",
+     "date": "s. XV",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "R",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Reginensis 173",
+     "normalized": "Vat. Reg. gr. 173",
+     "city": "Vatican City",
+     "folios": "f. 73v–184v. 353r–355v",
+     "date": "s. XV",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "U",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Marcianus App. class. V 5",
+     "normalized": "Marc. gr. App. V 5",
+     "city": "Venice",
+     "folios": "f. 89r–243v",
+     "date": "s. XV",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "V",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Marcianus 281",
+     "normalized": "Marc. gr. 281",
+     "city": "Venice",
+     "folios": "f. 2r–46v",
+     "date": "s. XV",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "P",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Parisinus 2165",
+     "normalized": "Par. gr. 2165",
+     "city": "Paris",
+     "folios": "f. 258r–327r",
+     "date": "s. XVI",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "A",
+      "sup": "1",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "A1, B1, C1 ... V1 correctoris manus",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "correctors' hands of any manuscript (A1, B1, C1 ... V1)"
+    }
+   ]
+  },
+  {
+   "label": "Hipp.morb.acut. – Conspectus codicum",
+   "pages": [
+    416
+   ],
+   "works": [
+    "Galeni De diaeta Hippocratis in morbis acutis"
+   ],
+   "continues_on_next_page": false,
+   "entries": [
+    {
+     "siglum": {
+      "base": "L",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Laurentianus gr. 74, 3",
+     "normalized": "Laur. Plut. 74.3",
+     "city": "Florence",
+     "folios": "f. 141v–149v",
+     "date": "s. XIII",
+     "note": "Codices Galeniani"
+    },
+    {
+     "siglum": {
+      "base": "M",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Marcianus gr. App. class. V 4",
+     "normalized": "Marc. gr. App. V 4",
+     "city": "Venice",
+     "folios": "f. 223r–227v",
+     "date": "s. XV",
+     "note": "Codices Galeniani"
+    },
+    {
+     "siglum": {
+      "base": "ϑ",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Vindobonensis gr. med. 4",
+     "normalized": "Vind. med. gr. 4",
+     "city": "Vienna",
+     "folios": "",
+     "date": "s. X",
+     "note": "Codices Hippocratici"
+    },
+    {
+     "siglum": {
+      "base": "M",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Venetus gr. 269",
+     "normalized": "Marc. gr. 269",
+     "city": "Venice",
+     "folios": "",
+     "date": "s. XI",
+     "note": "Codices Hippocratici; siglum printed in italic (Galenic M is upright)"
+    },
+    {
+     "siglum": {
+      "base": "V",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Vaticanus gr. 276",
+     "normalized": "Vat. gr. 276",
+     "city": "Vatican City",
+     "folios": "",
+     "date": "s. XII",
+     "note": "Codices Hippocratici; siglum printed in italic"
+    },
+    {
+     "siglum": {
+      "base": "A",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Parisinus gr. 2253",
+     "normalized": "Par. gr. 2253",
+     "city": "Paris",
+     "folios": "",
+     "date": "s. XI",
+     "note": "Codices Hippocratici; siglum printed in italic"
+    }
+   ]
+  }
+ ],
+ "transcribed_by": "Claude agent, zoomed crops",
+ "uncertain": [
+  "Hipp.vict.acut.: 'A1, B1, C1 ... V1 correctoris manus' recorded as one 'other' entry under A1.",
+  "Hipp.vict.acut.: B and C printed 'Athous Iberon 4304. 184' / '4309. 189'; normalized as Athos, Iviron 184 / 189 (taking 4304/4309 as Lambros numbers).",
+  "Hipp.morb.acut.: the Hippocratic codices M, V, A are printed in italic, distinct from the upright Galenic L, M; the siglum fields cannot show italics (noted on each entry)."
+ ]
+}

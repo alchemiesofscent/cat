@@ -1,0 +1,109 @@
+{
+ "volume": "wa_galen_ut_resp",
+ "editor": "Noll",
+ "series": "",
+ "year": "1915",
+ "sections": [
+  {
+   "label": "Conspectus codicum",
+   "pages": [
+    32
+   ],
+   "works": [
+    "Galeni Περὶ χρείας ἀναπνοῆς libellus (De utilitate respirationis)"
+   ],
+   "continues_on_next_page": false,
+   "entries": [
+    {
+     "siglum": {
+      "base": "F",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Laurent. gr. 74,5; s. XIV. f. 94v–103v.",
+     "normalized": "Laur. Plut. 74.5",
+     "city": "Florence",
+     "folios": "f. 94v–103v",
+     "date": "s. XIV",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "M",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Marcian. gr. 281; s. XV. f. 77v–81v.",
+     "normalized": "Marc. gr. 281",
+     "city": "Venice",
+     "folios": "f. 77v–81v",
+     "date": "s. XV",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "N",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "group",
+     "printed": "versionis Latinae codicum consensus.",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "consensus of p, e, d"
+    },
+    {
+     "siglum": {
+      "base": "p",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Parisin. lat. 6865; s. XIV. f. 67b–70b.",
+     "normalized": "Par. lat. 6865",
+     "city": "Paris",
+     "folios": "f. 67b–70b",
+     "date": "s. XIV",
+     "note": "Latin version (in N)"
+    },
+    {
+     "siglum": {
+      "base": "e",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Amplonian. lat. f. 77a; s. XIV. f. 108a–110d.",
+     "normalized": "Erfurt, Ampl. F 77a",
+     "city": "Erfurt",
+     "folios": "f. 108a–110d",
+     "date": "s. XIV",
+     "note": "Latin version (in N)"
+    },
+    {
+     "siglum": {
+      "base": "d",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Dresdens. lat. Db. 92; s. XV. f. 20d–24b.",
+     "normalized": "Dresd. Db 92",
+     "city": "Dresden",
+     "folios": "f. 20d–24b",
+     "date": "s. XV",
+     "note": "Latin version (in N)"
+    }
+   ]
+  }
+ ],
+ "transcribed_by": "Claude agent, zoomed crops",
+ "uncertain": [
+  "e normalized 'Erfurt, Ampl. F 77a' from 'Amplonian. lat. f. 77a' (f. = folio format); d 'Dresd. Db 92'.",
+  "Folio letters a–d (column references) printed as superscripts after folio numbers; kept inline in `folios`."
+ ]
+}

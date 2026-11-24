@@ -1,0 +1,248 @@
+{
+ "volume": "cmg_04",
+ "editor": "Ilberg",
+ "series": "CMG IV",
+ "year": "1927",
+ "sections": [
+  {
+   "label": "Gyn. - Conspectus siglorum et compendiorum",
+   "pages": [
+    24
+   ],
+   "works": [
+    "Sorani Gynaeciorum libri IV"
+   ],
+   "continues_on_next_page": false,
+   "entries": [
+    {
+     "siglum": {
+      "base": "P",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "codex Parisin. Gr. 2153",
+     "normalized": "Par. gr. 2153",
+     "city": "Paris",
+     "folios": "218r–284r",
+     "date": "s. XV",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "p",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "papyrus",
+     "printed": "papyrus Pistelli a Ludovico De Stefani edita Florentiae 1913",
+     "normalized": "",
+     "city": "Florence",
+     "folios": "",
+     "date": "",
+     "note": "(p. 94 sq.)"
+    }
+   ]
+  },
+  {
+   "label": "Vit.Hipp. - Conspectus codicum",
+   "pages": [
+    196
+   ],
+   "works": [
+    "Vita Hippocratis secundum Soranum"
+   ],
+   "continues_on_next_page": false,
+   "entries": [
+    {
+     "siglum": {
+      "base": "M",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "cod. Marcianus Venetus 269",
+     "normalized": "Marc. gr. 269",
+     "city": "Venice",
+     "folios": "11r–v",
+     "date": "s. XI",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "R",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "cod. Vaticanus Gr. 277",
+     "normalized": "Vat. gr. 277",
+     "city": "Vatican City",
+     "folios": "24v–25r",
+     "date": "s. XIV",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "U",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "cod. Urbinas 68",
+     "normalized": "Vat. Urb. gr. 68",
+     "city": "Vatican City",
+     "folios": "13v–14r",
+     "date": "s. XIV",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "E",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "cod. Parisinus Gr. 2255",
+     "normalized": "Par. gr. 2255",
+     "city": "Paris",
+     "folios": "53v–54v",
+     "date": "s. XV",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "H",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "cod. Parisinus Gr. 2142",
+     "normalized": "Par. gr. 2142",
+     "city": "Paris",
+     "folios": "12r–v",
+     "date": "s. XIV",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "β",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "cod. Parisinus Gr. 2596",
+     "normalized": "Par. gr. 2596",
+     "city": "Paris",
+     "folios": "184r–185v",
+     "date": "s. XIV",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "F",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "cod. Parisinus Gr. 2144",
+     "normalized": "Par. gr. 2144",
+     "city": "Paris",
+     "folios": "11r–v",
+     "date": "s. XIV",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "I",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "cod. Parisinus Gr. 2140",
+     "normalized": "Par. gr. 2140",
+     "city": "Paris",
+     "folios": "8v",
+     "date": "s. XIII",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "J",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "cod. Parisinus Gr. 2143",
+     "normalized": "Par. gr. 2143",
+     "city": "Paris",
+     "folios": "10r–11r",
+     "date": "s. XIV",
+     "note": ""
+    }
+   ]
+  },
+  {
+   "label": "Sigla",
+   "pages": [
+    206
+   ],
+   "works": [
+    "De signis fracturarum",
+    "De fasciis",
+    "Vita Hippocratis"
+   ],
+   "continues_on_next_page": false,
+   "entries": [
+    {
+     "siglum": {
+      "base": "S",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "De signis fracturarum",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "siglum for the work, not a witness"
+    },
+    {
+     "siglum": {
+      "base": "F",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "De fasciis",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "siglum for the work, not a witness"
+    },
+    {
+     "siglum": {
+      "base": "V",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "Vita Hippocratis",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "siglum for the work, not a witness; 'Gynaecia non signantur'"
+    }
+   ]
+  }
+ ],
+ "transcribed_by": "Claude agent, zoomed crops",
+ "uncertain": [
+  "Gyn.: p = 'papyrus Pistelli a Ludovico De Stefani edita Florentiae 1913'; no inventory number printed, so normalized left empty.",
+  "Sigla (p. 206) is a key of work abbreviations (S, F, V) used in the index, not a list of witnesses; entered as type 'other'.",
+  "Vit.Hipp.: 'Marcianus Venetus 269' normalized as Marc. gr. 269 (the volume does not print Z.)."
+ ]
+}

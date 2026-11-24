@@ -1,0 +1,264 @@
+{
+ "volume": "cmg_11_01_03_01",
+ "editor": "Westerink",
+ "series": "CMG XI 1,3,1",
+ "year": "1985",
+ "sections": [
+  {
+   "label": "Conspectus siglorum",
+   "pages": [
+    27
+   ],
+   "works": [
+    "Stephanus Atheniensis, In Hippocratis Aphorismos commentaria I–II"
+   ],
+   "continues_on_next_page": false,
+   "entries": [
+    {
+     "siglum": {
+      "base": "A",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Ambrosianus S 19 sup.",
+     "normalized": "Ambros. S 19 sup.",
+     "city": "Milan",
+     "folios": "",
+     "date": "a. 1348",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "A",
+      "sup": "2",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "eiusdem codicis corrector",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "P",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Parisinus Gr. 2222",
+     "normalized": "Par. gr. 2222",
+     "city": "Paris",
+     "folios": "",
+     "date": "s. XIV",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "P",
+      "sup": "2",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "eiusdem codicis corrector",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Z",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Vaticanus Gr. 279",
+     "normalized": "Vat. gr. 279",
+     "city": "Vatican City",
+     "folios": "",
+     "date": "s. XIV",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Z",
+      "sup": "2",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "eiusdem codicis corrector",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "ω",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "group",
+     "printed": "consensus codicum APZ",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "α",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "group",
+     "printed": "consensus codicum AP",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Hipp.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "Hippocratis codices (sec. Littré et Jones)",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Hipp. C",
+      "sup": "′",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Parisinus Suppl. Gr. 446",
+     "normalized": "Par. Suppl. gr. 446",
+     "city": "Paris",
+     "folios": "",
+     "date": "s. X",
+     "note": "Hippocratic manuscript (Hipp. = Hippocratis codices sec. Littré et Jones), printed under 'Hipp.' without prefix"
+    },
+    {
+     "siglum": {
+      "base": "Hipp. M",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Marcianus Gr. 269",
+     "normalized": "Marc. gr. 269",
+     "city": "Venice",
+     "folios": "",
+     "date": "s. XI",
+     "note": "Hippocratic manuscript (Hipp. = Hippocratis codices sec. Littré et Jones), printed under 'Hipp.' without prefix"
+    },
+    {
+     "siglum": {
+      "base": "Hipp. V",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Vaticanus Gr. 276",
+     "normalized": "Vat. gr. 276",
+     "city": "Vatican City",
+     "folios": "",
+     "date": "s. XII",
+     "note": "Hippocratic manuscript (Hipp. = Hippocratis codices sec. Littré et Jones), printed under 'Hipp.' without prefix"
+    },
+    {
+     "siglum": {
+      "base": "Theoph.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "Theophili codices",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Theoph. S",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Parisinus Gr. 2228",
+     "normalized": "Par. gr. 2228",
+     "city": "Paris",
+     "folios": "",
+     "date": "s. XIV/XI",
+     "note": "Theophilus manuscript (Theoph. = Theophili codices), printed under 'Theoph.' without prefix"
+    },
+    {
+     "siglum": {
+      "base": "Theoph. U",
+      "sup": "″",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Urbinas Gr. 64",
+     "normalized": "Vat. Urb. gr. 64",
+     "city": "Vatican City",
+     "folios": "",
+     "date": "s. X–XI",
+     "note": "Theophilus manuscript (Theoph. = Theophili codices), printed under 'Theoph.' without prefix"
+    },
+    {
+     "siglum": {
+      "base": "Theoph. V",
+      "sup": "″",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Vaticanus Gr. 2254",
+     "normalized": "Vat. gr. 2254",
+     "city": "Vatican City",
+     "folios": "",
+     "date": "s. X–XI",
+     "note": "Theophilus manuscript (Theoph. = Theophili codices), printed under 'Theoph.' without prefix"
+    },
+    {
+     "siglum": {
+      "base": "Dietz",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "F. R. Dietz, Scholia in Hippocratem et Galenum, Regimontii a. 1834, vol. II, p. 236–544",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    }
+   ]
+  }
+ ],
+ "transcribed_by": "Claude agent, zoomed crops",
+ "uncertain": [
+  "Hipp. C′/M/V and Theoph. S/U″/V″ are printed indented under 'Hipp.' / 'Theoph.' without the prefix; base given here with prefix to keep them apart from the main sigla; primes put in 'sup'",
+  "Theoph. S date printed 's. XIV/XI' (sic)",
+  "Year: 1985 first edition (reprint 1998 per title)"
+ ]
+}

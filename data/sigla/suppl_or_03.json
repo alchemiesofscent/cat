@@ -1,0 +1,53 @@
+{
+ "volume": "suppl_or_03",
+ "editor": "Strohmaier",
+ "series": "CMG Suppl. Or. III",
+ "year": "1970",
+ "sections": [
+  {
+   "label": "Conspectus codicum et signorum",
+   "pages": [
+    42
+   ],
+   "works": [
+    "Galenus, De partium homoeomerium differentia (versio Arabica)"
+   ],
+   "continues_on_next_page": false,
+   "entries": [
+    {
+     "siglum": {
+      "base": "A",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Aya Sofya cod. 3631",
+     "normalized": "Istanbul, Ayasofya 3631",
+     "city": "Istanbul",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "U",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Bibliotheca universitatis Istanbulensis cod. 6177",
+     "normalized": "Istanbul, Üniversite Kütüphanesi 6177",
+     "city": "Istanbul",
+     "folios": "",
+     "date": "",
+     "note": ""
+    }
+   ]
+  }
+ ],
+ "transcribed_by": "Claude agent, zoomed crops",
+ "uncertain": [
+  "Critical signs ([ ], ⟨ ⟩, † †) omitted; p. 43 is the title page of the text, not sigla",
+  "Normalized forms for Istanbul shelfmarks not in the house list: 'Istanbul, Ayasofya 3631', 'Istanbul, Üniversite Kütüphanesi 6177'"
+ ]
+}

@@ -1,0 +1,208 @@
+{
+ "volume": "wa_prisc_eupor",
+ "editor": "Rose",
+ "series": "",
+ "year": "1894",
+ "sections": [
+  {
+   "label": "Conspectus codicum",
+   "pages": [
+    24
+   ],
+   "works": [
+    "Theodori Prisciani Euporiston libri III (incl. Logicus excerpts and Gynaecia)"
+   ],
+   "continues_on_next_page": false,
+   "entries": [
+    {
+     "siglum": {
+      "base": "Gel.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "Gelenii trium librorum deperdito (ed. Bas. 1532)",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "lost codex of Gelenius, known through the Basel edition of 1532"
+    },
+    {
+     "siglum": {
+      "base": "V",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Vaticanus reginae 1143 membr. saec. IX.",
+     "normalized": "Vat. Reg. lat. 1143",
+     "city": "Vatican City",
+     "folios": "",
+     "date": "saec. IX",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "r",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Romano principis Barberini IX. 29 saec. XI/XII.",
+     "normalized": "Barberini IX 29",
+     "city": "Rome",
+     "folios": "",
+     "date": "saec. XI/XII",
+     "note": "old Barberini shelfmark as printed; modern Vat. Barb. lat. number not given"
+    },
+    {
+     "siglum": {
+      "base": "B",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Bruxellensi 1342—50 membr. saec. XII.",
+     "normalized": "Brux. 1342–1350",
+     "city": "Brussels",
+     "folios": "",
+     "date": "saec. XII",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "b",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Berolinensi (Pseudo-Theodori) lat. qu. 198 membr. saec XII¹.",
+     "normalized": "Berol. lat. qu. 198",
+     "city": "Berlin",
+     "folios": "",
+     "date": "saec. XII¹",
+     "note": "Pseudo-Theodorus"
+    },
+    {
+     "siglum": {
+      "base": "c",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Romano principis Chigi (Pseudo-Theodori) F. IV. 57 membr. saec. XII.",
+     "normalized": "Vat. Chig. F IV 57",
+     "city": "Rome",
+     "folios": "",
+     "date": "saec. XII",
+     "note": "Pseudo-Theodorus"
+    },
+    {
+     "siglum": {
+      "base": "g",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "(Excerptorum libri Logici, unde Gar. = Garipotus) = Vindocin. 109 m. s. XII (f. 50—57)",
+     "normalized": "Vindocin. 109",
+     "city": "Vendôme",
+     "folios": "f. 50—57",
+     "date": "s. XII",
+     "note": "for the excerpts of the Logicus (Gar. = Garipotus); Vindobon. 68 also inspected passim"
+    },
+    {
+     "siglum": {
+      "base": "g",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "passim inspecto etiam Vindobon. 68 m. s. IX f. 1 sqq.",
+     "normalized": "Vind. lat. 68",
+     "city": "Vienna",
+     "folios": "f. 1 sqq.",
+     "date": "s. IX",
+     "note": "inspected passim alongside g (Vindocin. 109) for the Logicus excerpts; not given its own siglum"
+    },
+    {
+     "siglum": {
+      "base": "f",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "(Gyn.) = Florent. Laur. 73, 1 m. s. XI (f. 214b—218b).",
+     "normalized": "Laur. Plut. 73.1",
+     "city": "Florence",
+     "folios": "f. 214b—218b",
+     "date": "s. XI",
+     "note": "Gynaecia"
+    },
+    {
+     "siglum": {
+      "base": "v",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "(Gyn.) = Vindocin. 109 (eodem qui supra f. 88b—91b).",
+     "normalized": "Vindocin. 109",
+     "city": "Vendôme",
+     "folios": "f. 88b—91b",
+     "date": "",
+     "note": "Gynaecia; same codex as g above"
+    },
+    {
+     "siglum": {
+      "base": "g",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "(Gyn.) = Bamberg. L. III. 11. m. s. XII.",
+     "normalized": "Bamb. L III 11",
+     "city": "Bamberg",
+     "folios": "",
+     "date": "s. XII",
+     "note": "Gynaecia; distinct from g of the Logicus excerpts"
+    },
+    {
+     "siglum": {
+      "base": "a",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "(Gyn.) = Vatican. regin. 1756 membr. s. XII.",
+     "normalized": "Vat. Reg. lat. 1756",
+     "city": "Vatican City",
+     "folios": "",
+     "date": "s. XII",
+     "note": "Gynaecia"
+    },
+    {
+     "siglum": {
+      "base": "e",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "(Gyn. epit.) = Bamberg. L. III. 6. m. s. X.",
+     "normalized": "Bamb. L III 6",
+     "city": "Bamberg",
+     "folios": "",
+     "date": "s. X",
+     "note": "Gynaecia epitome"
+    }
+   ]
+  }
+ ],
+ "transcribed_by": "Claude agent, zoomed crops",
+ "uncertain": [
+  "Vindobon. 68 (Vienna) has no siglum of its own: entered under g with a note; normalized 'Vind. lat. 68' assumes the Latin fonds",
+  "r: old Barberini shelfmark 'IX. 29' kept; modern Vat. Barb. lat. number not printed",
+  "g is used twice (Logicus excerpts = Vindocin. 109; Gynaecia = Bamberg. L. III. 11)"
+ ]
+}

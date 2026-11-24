@@ -1,0 +1,228 @@
+{
+ "volume": "suppl_or_02",
+ "editor": "Lyons/Schöne/Kalbfleisch/Kollesch/Nickel/Strohmaier",
+ "series": "CMG Suppl. Or. II",
+ "year": "1969",
+ "sections": [
+  {
+   "label": "Conspectus siglorum",
+   "pages": [
+    22
+   ],
+   "works": [
+    "Galen, De partibus artis medicativae (versio Arabica)"
+   ],
+   "continues_on_next_page": false,
+   "entries": [
+    {
+     "siglum": {
+      "base": "Ms.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Aya Sofya 3725",
+     "normalized": "Istanbul, Ayasofya 3725",
+     "city": "Istanbul",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "S",
+      "sup": "'",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "correctiones primae manus",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "printed S' (prime); corrections by the first hand of Ms."
+    }
+   ]
+  },
+  {
+   "label": "Conspectus siglorum",
+   "pages": [
+    50
+   ],
+   "works": [
+    "Galen, De causis contentivis (versio Arabica)"
+   ],
+   "continues_on_next_page": false,
+   "entries": [
+    {
+     "siglum": {
+      "base": "Ms.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Aya Sofya 3725",
+     "normalized": "Istanbul, Ayasofya 3725",
+     "city": "Istanbul",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "S",
+      "sup": "'",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "correctiones primae manus",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "printed S' (prime); corrections by the first hand of Ms."
+    }
+   ]
+  },
+  {
+   "label": "Conspectus siglorum",
+   "pages": [
+    74
+   ],
+   "works": [
+    "Galen, De diaeta in morbis acutis secundum Hippocratem (versio Arabica)"
+   ],
+   "continues_on_next_page": false,
+   "entries": [
+    {
+     "siglum": {
+      "base": "A",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Aya Sofya 3631",
+     "normalized": "Istanbul, Ayasofya 3631",
+     "city": "Istanbul",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "B",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Aya Sofya 3590",
+     "normalized": "Istanbul, Ayasofya 3590",
+     "city": "Istanbul",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "B",
+      "sup": "'",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "correctiones primae manus eiusdem codicis",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "printed B' (prime)"
+    }
+   ]
+  },
+  {
+   "label": "Conspectus siglorum",
+   "pages": [
+    118
+   ],
+   "works": [
+    "Galeni De partibus artis medicative (versio Latina)"
+   ],
+   "continues_on_next_page": false,
+   "entries": [
+    {
+     "siglum": {
+      "base": "A",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "Galeni Opera, Venetiis 1490, t. I",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "B",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "Galeni Opera, Venetiis 1541",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    }
+   ]
+  },
+  {
+   "label": "Conspectus siglorum",
+   "pages": [
+    132
+   ],
+   "works": [
+    "Galeni De causis contentivis (versio Latina)"
+   ],
+   "continues_on_next_page": false,
+   "entries": [
+    {
+     "siglum": {
+      "base": "P",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Parisinus lat. 6865",
+     "normalized": "Par. lat. 6865",
+     "city": "Paris",
+     "folios": "f. 5r–6v",
+     "date": "s. XIV",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "D",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Dresdensis Db 93",
+     "normalized": "Dresd. Db 93",
+     "city": "Dresden",
+     "folios": "f. 443r–445r",
+     "date": "s. XV",
+     "note": ""
+    }
+   ]
+  }
+ ],
+ "transcribed_by": "Claude agent, zoomed crops",
+ "uncertain": [
+  "S' (pp. 22, 50) and B' (p. 74) are printed with a prime mark, entered as sup \"'\"; S' presumably refers to the single manuscript Ms. (no S siglum in the list)",
+  "pp. 23, 51, 75 (given in sigla_pages) are work title pages, not sigla; works for pp. 118 and 132 confirmed from the following text pages (119, 133)",
+  "Istanbul shelfmarks normalized as 'Istanbul, Ayasofya NNNN' (not in the house list)"
+ ]
+}

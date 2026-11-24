@@ -1,0 +1,502 @@
+{
+ "volume": "cmg_05_03_03",
+ "editor": "Nickel",
+ "series": "CMG V 3,3",
+ "year": "2001",
+ "sections": [
+  {
+   "label": "Conspectus siglorum et compendiorum",
+   "pages": [
+    52,
+    53
+   ],
+   "works": [
+    "Galenus, De foetuum formatione"
+   ],
+   "continues_on_next_page": false,
+   "entries": [
+    {
+     "siglum": {
+      "base": "L",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Laurentianus Gr. 74,3",
+     "normalized": "Laur. Plut. 74.3",
+     "city": "Florence",
+     "folios": "",
+     "date": "s. XII",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "L",
+      "sup": "2",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "eiusdem codicis correctores",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "L",
+      "sup": "3",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "eiusdem codicis correctores",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "L",
+      "sup": "4",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "eiusdem codicis correctores",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "F",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Laurentianus Gr. 59,14",
+     "normalized": "Laur. Plut. 59.14",
+     "city": "Florence",
+     "folios": "",
+     "date": "s. XV",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "F",
+      "sup": "+",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "eiusdem codicis loci perditi",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "M",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Marcianus App. cl. V 4",
+     "normalized": "Marc. gr. App. cl. V 4",
+     "city": "Venice",
+     "folios": "",
+     "date": "s. XVI in.",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "P",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Parisinus Gr. 2164",
+     "normalized": "Par. gr. 2164",
+     "city": "Paris",
+     "folios": "",
+     "date": "s. XVI",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "P",
+      "sup": "2",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "eiusdem codicis correctores",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "P",
+      "sup": "3",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "eiusdem codicis correctores",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "P",
+      "sup": "4",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "eiusdem codicis correctores",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "α",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "group",
+     "printed": "consensus codicum LF",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Ald.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "editio Aldina, Venetiis a. 1525",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Bas.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "editio Basileensis, a. 1538",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Chart.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "editio Charterii, Lutetiae Parisiorum a. 1679",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Kühn",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "editio Kühnii, Lipsiae a. 1822",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Felic.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "translation",
+     "printed": "Feliciani versio Latina, Lugduni a. 1550",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Corn. vers.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "translation",
+     "printed": "Cornarii versio Latina, Basileae a. 1549",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Guint.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "translation",
+     "printed": "Guinterii versio Latina, Lutetiae Parisiorum a. 1536",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Orib.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "excerptum ab Oribasio e Galeni libro sumptum",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "F",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Oribasii codex Parisinus Gr. 2237",
+     "normalized": "Par. gr. 2237",
+     "city": "Paris",
+     "folios": "",
+     "date": "s. XIV",
+     "note": "witness of the Oribasius excerpt (sub Orib.), not of Galen's text"
+    },
+    {
+     "siglum": {
+      "base": "Daremberg",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "Œuvres d'Oribase, ed. et vert. U. C. Bussemaker et Ch. Daremberg, vol. III, Lutetiae Parisiorum a. 1858",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "sub Orib."
+    },
+    {
+     "siglum": {
+      "base": "Hipp.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "Hippocratis lectiones",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "M",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Hippocratis codex Marcianus Gr. 269",
+     "normalized": "Marc. gr. 269",
+     "city": "Venice",
+     "folios": "",
+     "date": "s. X",
+     "note": "Hippocratic manuscript (sub Hipp.)"
+    },
+    {
+     "siglum": {
+      "base": "V",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Hippocratis codex Vaticanus Gr. 276",
+     "normalized": "Vat. gr. 276",
+     "city": "Vatican City",
+     "folios": "",
+     "date": "s. XII",
+     "note": "Hippocratic manuscript (sub Hipp.)"
+    },
+    {
+     "siglum": {
+      "base": "Gal. De sem.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "lectiones loci Hippocratici a Galeno in De semine libro primo citati",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "M",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Galeni codex Mosquensis Gr. 466",
+     "normalized": "Mosq. 466",
+     "city": "Moscow",
+     "folios": "",
+     "date": "s. XV",
+     "note": "witness of Galen, De semine (sub Gal. De sem.)"
+    },
+    {
+     "siglum": {
+      "base": "P",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Galeni codex Parisinus Gr. 2279",
+     "normalized": "Par. gr. 2279",
+     "city": "Paris",
+     "folios": "",
+     "date": "s. XVI",
+     "note": "witness of Galen, De semine (sub Gal. De sem.)"
+    },
+    {
+     "siglum": {
+      "base": "Ad.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "codex Adelphi qui vocatur",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "annotated copy (Adelphus), no shelfmark printed"
+    },
+    {
+     "siglum": {
+      "base": "v. Arnim",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "Stoicorum Veterum Fragmenta, ed. v. Arnim",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Caius",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "Caius in editionis Basileensis exemplari suo nunc bibliothecae collegii Etonensis proprio",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "annotated copy of the Basel edition, Eton College"
+    },
+    {
+     "siglum": {
+      "base": "Cobet",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "C. G. Cobet, Mnemosyne, N.S. 3, a. 1875, p. 377",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Corn.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "Cornarius in editionis Aldinae exemplari suo nunc bibliothecae universitatis Ienensis proprio",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "annotated copy of the Aldine, Jena University Library"
+    },
+    {
+     "siglum": {
+      "base": "Usener",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "Usener, Epicurea",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    }
+   ]
+  }
+ ],
+ "transcribed_by": "Claude agent, zoomed crops",
+ "uncertain": [
+  "Sigla F, M, P recur in sub-lists for Oribasius (F = Par. gr. 2237), Hippocrates (M = Marc. gr. 269, V = Vat. gr. 276) and Galen De semine (M = Mosq. 466, P = Par. gr. 2279); noted per entry",
+  "Ad. (codex Adelphi) typed as other: not a shelfmarked manuscript in the list"
+ ]
+}

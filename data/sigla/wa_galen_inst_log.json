@@ -1,0 +1,108 @@
+{
+ "volume": "wa_galen_inst_log",
+ "editor": "Kalbfleisch",
+ "series": "",
+ "year": "1896",
+ "sections": [
+  {
+   "label": "Signorum explicatio",
+   "pages": [
+    14
+   ],
+   "works": [
+    "Galenus, Institutio logica"
+   ],
+   "continues_on_next_page": false,
+   "entries": [
+    {
+     "siglum": {
+      "base": "P",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "P vel P¹ codicis Parisini Suppl. Gr. 635 manus prior",
+     "normalized": "Par. Suppl. gr. 635",
+     "city": "Paris",
+     "folios": "",
+     "date": "",
+     "note": "printed 'P vel P¹': the first hand of the codex"
+    },
+    {
+     "siglum": {
+      "base": "P",
+      "sup": "1",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "P vel P¹ codicis Parisini Suppl. Gr. 635 manus prior",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "same as P: first hand of Par. Suppl. gr. 635"
+    },
+    {
+     "siglum": {
+      "base": "P",
+      "sup": "2",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "eiusdem manus altera emendatrix",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "correcting second hand of P"
+    },
+    {
+     "siglum": {
+      "base": "My",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "Mynas in editione Paris. 1844",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "My in P",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "Mynas codicis P litteras evanidas renovans",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "Mynas' retracing of faded letters in P"
+    },
+    {
+     "siglum": {
+      "base": "Pr",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "Prantl in Historia artis logicae I 591 sqq.",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    }
+   ]
+  }
+ ],
+ "transcribed_by": "Claude agent, zoomed crops",
+ "uncertain": [
+  "Critical signs (...) situ deleta, [...] delenda, <...> addenda not transcribed as entries."
+ ]
+}

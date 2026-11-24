@@ -1,0 +1,306 @@
+{
+ "volume": "cmg_01_02_02",
+ "editor": "Lienau",
+ "series": "CMG I 2,2",
+ "year": "1973",
+ "sections": [
+  {
+   "label": "Conspectus siglorum",
+   "pages": [
+    71
+   ],
+   "works": [
+    "Hippocratis De superfetatione"
+   ],
+   "continues_on_next_page": false,
+   "entries": [
+    {
+     "siglum": {
+      "base": "Pap.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "papyrus",
+     "printed": "Antinoopolis-Papyrus",
+     "normalized": "",
+     "city": "Antinoopolis",
+     "folios": "",
+     "date": "s. VI",
+     "note": "no inventory number printed"
+    },
+    {
+     "siglum": {
+      "base": "M",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Marcianus Venetus Gr. 269",
+     "normalized": "Marc. gr. 269",
+     "city": "Venice",
+     "folios": "",
+     "date": "s. XI",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Va",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Vaticanus Gr. 276, fol. 119r–122v",
+     "normalized": "Vat. gr. 276",
+     "city": "Vatican City",
+     "folios": "fol. 119r–122v",
+     "date": "s. XII",
+     "note": "first copy of the text in Vat. gr. 276"
+    },
+    {
+     "siglum": {
+      "base": "Vb",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Vaticanus Gr. 276, fol. 184v–187r",
+     "normalized": "Vat. gr. 276",
+     "city": "Vatican City",
+     "folios": "fol. 184v–187r",
+     "date": "s. XII",
+     "note": "second copy of the text in Vat. gr. 276"
+    },
+    {
+     "siglum": {
+      "base": "Ω",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "group",
+     "printed": "consensus codd. VaVbM",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Ar.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "translation",
+     "printed": "versio Arabica, codex Aya Sofya 3632",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "s. XIII",
+     "note": "Arabic translation; codex Istanbul, Aya Sofya 3632"
+    },
+    {
+     "siglum": {
+      "base": "m",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Marcianus Venetus Gr. 269",
+     "normalized": "Marc. gr. 269",
+     "city": "Venice",
+     "folios": "",
+     "date": "",
+     "note": "for Hp. Steril. (De sterilibus), parallel text"
+    },
+    {
+     "siglum": {
+      "base": "v",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Vaticanus Gr. 276",
+     "normalized": "Vat. gr. 276",
+     "city": "Vatican City",
+     "folios": "",
+     "date": "",
+     "note": "for Hp. Steril. (De sterilibus), parallel text"
+    },
+    {
+     "siglum": {
+      "base": "I",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Parisinus Gr. 2140",
+     "normalized": "Par. gr. 2140",
+     "city": "Paris",
+     "folios": "",
+     "date": "s. XIII/XIV",
+     "note": "Raro citantur"
+    },
+    {
+     "siglum": {
+      "base": "R",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Vaticanus Gr. 277",
+     "normalized": "Vat. gr. 277",
+     "city": "Vatican City",
+     "folios": "",
+     "date": "s. XIV",
+     "note": "Raro citantur"
+    },
+    {
+     "siglum": {
+      "base": "O",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Baroccianus Gr. 204",
+     "normalized": "Oxon. Barocc. 204",
+     "city": "Oxford",
+     "folios": "",
+     "date": "s. XV",
+     "note": "Raro citantur"
+    },
+    {
+     "siglum": {
+      "base": "K",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Parisinus Gr. 2145",
+     "normalized": "Par. gr. 2145",
+     "city": "Paris",
+     "folios": "",
+     "date": "s. XV",
+     "note": "Raro citantur"
+    },
+    {
+     "siglum": {
+      "base": "P",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Vaticanus Palatinus Gr. 192",
+     "normalized": "Vat. Pal. gr. 192",
+     "city": "Vatican City",
+     "folios": "",
+     "date": "s. XV",
+     "note": "Raro citantur"
+    },
+    {
+     "siglum": {
+      "base": "L",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Laurentianus plut. Gr. 74,1",
+     "normalized": "Laur. Plut. 74.1",
+     "city": "Florence",
+     "folios": "",
+     "date": "s. XV",
+     "note": "Raro citantur"
+    },
+    {
+     "siglum": {
+      "base": "ξ",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "group",
+     "printed": "Codices recentiores vel omnes vel plurimi",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "Raro citantur"
+    },
+    {
+     "siglum": {
+      "base": "Corn.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "J. Cornarius in exemplari suo Aldinae",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "annotations in a copy of the Aldine"
+    },
+    {
+     "siglum": {
+      "base": "Merc.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "H. Mercurialis (1588)",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Foes.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "A. Foesius (1595)",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Erm.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "F. Z. Ermerins (1864)",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Li.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "E. Littré (1839–61)",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    }
+   ]
+  }
+ ],
+ "transcribed_by": "Claude agent, zoomed crops",
+ "uncertain": [
+  "Pap.: Antinoopolis papyrus printed without inventory number; normalized left empty",
+  "Va and Vb are two copies of the text in the same codex Vat. gr. 276 (both normalized to it); Va/Vb printed on the line, not as sub/superscripts",
+  "m, v: manuscripts cited for Hp. Steril. (bracketed in print), same codices as M and Vat. gr. 276"
+ ]
+}

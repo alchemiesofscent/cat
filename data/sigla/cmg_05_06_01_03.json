@@ -1,0 +1,612 @@
+{
+ "volume": "cmg_05_06_01_03",
+ "editor": "Brunschön",
+ "series": "CMG V 6,1,3",
+ "year": "2021",
+ "sections": [
+  {
+   "label": "Conspectus siglorum et compendiorum",
+   "pages": [
+    281
+   ],
+   "works": [
+    "Galen, De locis affectis V–VI"
+   ],
+   "continues_on_next_page": false,
+   "entries": []
+  },
+  {
+   "label": "Conspectus siglorum et compendiorum",
+   "pages": [
+    282,
+    283
+   ],
+   "works": [
+    "Galen, De locis affectis V–VI"
+   ],
+   "continues_on_next_page": false,
+   "entries": [
+    {
+     "siglum": {
+      "base": "F",
+      "sup": "",
+      "sub": "c"
+     },
+     "type": "manuscript",
+     "printed": "codicis F (= Laurentiani Plut. 74,30) prisca pars, ff. 25r–144v",
+     "normalized": "Laur. Plut. 74.30",
+     "city": "Florence",
+     "folios": "25r–144v",
+     "date": "s. XII",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "F",
+      "sup": "2",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "eiusdem codicis corrector; s. XII",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "s. XII",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "F",
+      "sup": "3",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "eiusdem codicis corrector, Johannes Rhosus; a. 1470",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "a. 1470",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "L",
+      "sup": "",
+      "sub": "b"
+     },
+     "type": "manuscript",
+     "printed": "codicis L (= Laurentiani Plut. 74,16) prisca pars, ff. 90r–163v",
+     "normalized": "Laur. Plut. 74.16",
+     "city": "Florence",
+     "folios": "90r–163v",
+     "date": "s. XII/XIII",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "L",
+      "sup": "2",
+      "sub": "b"
+     },
+     "type": "other",
+     "printed": "eiusdam partis scriptor; s. XII/XIII",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "s. XII/XIII",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "L",
+      "sup": "",
+      "sub": "a"
+     },
+     "type": "other",
+     "printed": "eiusdem codicis corrector; s. XIII/XIV",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "s. XIII/XIV",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Y",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Yalensis 1121",
+     "normalized": "New Haven, Yale 1121",
+     "city": "New Haven",
+     "folios": "106v",
+     "date": "s. XII4/4",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "C",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Oxoniensis Canon. gr. 44",
+     "normalized": "Oxon. Canon. gr. 44",
+     "city": "Oxford",
+     "folios": "",
+     "date": "s. XIII/XIV",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "C",
+      "sup": "2",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "eiusdem codicis scriptor et corrector; s. XIII/XIV",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "s. XIII/XIV",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "A",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Ambrosianus Q 3 sup. (gr. 659)",
+     "normalized": "Ambros. Q 3 sup.",
+     "city": "Milan",
+     "folios": "",
+     "date": "ca. a. 1320–1380",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "A",
+      "sup": "2",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "eiusdem codicis scriptor et corrector, Demetrius Angelus medicus; post mensem Maium 1466",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "post mensem Maium 1466",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Q",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Ambrosianus Q 52 sup. (gr. 679)",
+     "normalized": "Ambros. Q 52 sup.",
+     "city": "Milan",
+     "folios": "",
+     "date": "s. XIV",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Q",
+      "sup": "2",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "eiusdem codicis correctores",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "Q2, Q3, Qlat. = eiusdem codicis correctores"
+    },
+    {
+     "siglum": {
+      "base": "Q",
+      "sup": "3",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "eiusdem codicis correctores",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "Q2, Q3, Qlat. = eiusdem codicis correctores"
+    },
+    {
+     "siglum": {
+      "base": "Q",
+      "sup": "lat.",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "eiusdem codicis correctores",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "Q2, Q3, Qlat. = eiusdem codicis correctores"
+    },
+    {
+     "siglum": {
+      "base": "N",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Parisinus gr. 2332",
+     "normalized": "Par. gr. 2332",
+     "city": "Paris",
+     "folios": "",
+     "date": "s. XIV/XV",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "ε",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "group",
+     "printed": "consensus codicum LbCAQN",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "ζ",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "group",
+     "printed": "consensus codicum CAQN",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "ν",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "group",
+     "printed": "consensus codicum QN",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "ω",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "group",
+     "printed": "consensus codicum Graecorum",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "P",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Parisinus gr. 2157",
+     "normalized": "Par. gr. 2157",
+     "city": "Paris",
+     "folios": "",
+     "date": "s. XV2/2",
+     "note": "raro memorantur"
+    },
+    {
+     "siglum": {
+      "base": "R",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Vaticanus Palatinus gr. 54",
+     "normalized": "Vat. Pal. gr. 54",
+     "city": "Vatican City",
+     "folios": "",
+     "date": "s. XV/XVI",
+     "note": "raro memorantur"
+    },
+    {
+     "siglum": {
+      "base": "Ald.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "editio Aldina, Venetiis a. 1525",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Bas.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "editio Basileensis, a. 1538",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Chart.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "editio Charterii, Lutetiae Parisiorum a. 1679",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Kühn",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "editio Kühnii, Lipsiae a. 1824",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "edd.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "group",
+     "printed": "consensus editionum",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Orib.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "excerpta ab Oribasio e Galeni De locis affectis libris sumpta, lectiones ex editionibus Raederis",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Orib. A",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Oribasii codex Laurentianus Gr. 74,17",
+     "normalized": "Laur. Plut. 74.17",
+     "city": "Florence",
+     "folios": "",
+     "date": "s. XII/XIII",
+     "note": "indirect tradition (Oribasius)"
+    },
+    {
+     "siglum": {
+      "base": "Orib. F",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Oribasii codex Laurentianus Gr. 74,15",
+     "normalized": "Laur. Plut. 74.15",
+     "city": "Florence",
+     "folios": "",
+     "date": "s. XIV",
+     "note": "indirect tradition (Oribasius)"
+    },
+    {
+     "siglum": {
+      "base": "Orib. P",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Oribasii codex Parisinus Gr. 2188",
+     "normalized": "Par. gr. 2188",
+     "city": "Paris",
+     "folios": "",
+     "date": "s. XV",
+     "note": "indirect tradition (Oribasius)"
+    },
+    {
+     "siglum": {
+      "base": "Hipp.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "Hippocratis lectiones selecti ex editionibus",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Hipp. M",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Hippocratis codex Marcianus gr. 269",
+     "normalized": "Marc. gr. 269",
+     "city": "Venice",
+     "folios": "",
+     "date": "s. X",
+     "note": "Hippocratic tradition"
+    },
+    {
+     "siglum": {
+      "base": "Hipp. V",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Hippocratis codex Vaticanus gr. 276",
+     "normalized": "Vat. gr. 276",
+     "city": "Vatican City",
+     "folios": "",
+     "date": "s. XII",
+     "note": "Hippocratic tradition"
+    },
+    {
+     "siglum": {
+      "base": "Hipp. H",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Hippocratis codex Parisinus gr. 2142",
+     "normalized": "Par. gr. 2142",
+     "city": "Paris",
+     "folios": "",
+     "date": "s. XII/XIII",
+     "note": "Hippocratic tradition"
+    },
+    {
+     "siglum": {
+      "base": "Gal. De artic.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "lectiones loci Hippocratici a Galeno in In Hippocratis De articulis commentaria libris citatae",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Apol. De artic.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "lectiones loci Hippocratici ab Apollonio Citensi in In Hippocratis De articulis commentario libro citatae",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Anon. in Chart.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "Anonymus in editionis Charterii exemplari suo nunc bibliothecae Lutetiae Parisiorum proprio",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Caius",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "I. Caius in editionis Basileensis exemplari suo nunc bibliothecae collegii Etonensis proprio",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Clem.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "I. Clement in editionis Aldinae exemplari suo nunc bibliothecae universitatis Leidensis proprio",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Corn.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "I. Cornarius in editionis Aldinae exemplari suo nunc bibliothecae universitatis Ienensis proprio",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    }
+   ]
+  }
+ ],
+ "transcribed_by": "Claude agent, zoomed crops",
+ "uncertain": [
+  "Section 1 (p. 281) is the half-title page of the Greek text, no sigla list; the list is on pp. 282–283 (section 2)",
+  "Fc: the c is printed small at baseline level, taken as subscript (cf. Lb, La); F2/F3 printed small, taken as superscript",
+  "Y: Yalensis 1121 normalized 'New Haven, Yale 1121' (no house form)"
+ ]
+}

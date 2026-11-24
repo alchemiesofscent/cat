@@ -1,0 +1,447 @@
+{
+ "volume": "cmg_01_01_02",
+ "editor": "Diller",
+ "series": "CMG I 1,2",
+ "year": "1999",
+ "sections": [
+  {
+   "label": "Conspectus siglorum",
+   "pages": [
+    22,
+    23
+   ],
+   "works": [
+    "Hippocrates, De aere aquis locis"
+   ],
+   "continues_on_next_page": false,
+   "entries": [
+    {
+     "siglum": {
+      "base": "V",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Vaticanus Graecus 276",
+     "normalized": "Vat. gr. 276",
+     "city": "Vatican City",
+     "folios": "",
+     "date": "s. XII",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Barb.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Vaticanus Barberinus I 5",
+     "normalized": "Vat. Barb. gr. I 5",
+     "city": "Vatican City",
+     "folios": "",
+     "date": "s. XVI",
+     "note": "old Barberini shelfmark as printed"
+    },
+    {
+     "siglum": {
+      "base": "Gad.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "adnotationes Gadaldini in editionibus Hippocratis Aldina Ambros. SQE VIII 14 (Gad.Ald.) et Basileensi Ambros. SQT VIII 9 (Gad.Bas.)",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Gad.",
+      "sup": "Ald.",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "adnotationes Gadaldini in editione Hippocratis Aldina Ambros. SQE VIII 14",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "annotated printed copy, Milan, Ambrosiana"
+    },
+    {
+     "siglum": {
+      "base": "Gad.",
+      "sup": "Bas.",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "adnotationes Gadaldini in editione Hippocratis Basileensi Ambros. SQT VIII 9",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "annotated printed copy, Milan, Ambrosiana"
+    },
+    {
+     "siglum": {
+      "base": "Lat.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "translation",
+     "printed": "translatio vetusta Latina in codd. Paris. Lat. 7027 s. X (Lat.p) et Ambros. Lat. G 108 Inf. s. X (Lat.a)",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Lat.",
+      "sup": "p",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "cod. Paris. Lat. 7027",
+     "normalized": "Par. lat. 7027",
+     "city": "Paris",
+     "folios": "",
+     "date": "s. X",
+     "note": "manuscript of the old Latin translation"
+    },
+    {
+     "siglum": {
+      "base": "Lat.",
+      "sup": "a",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "cod. Ambros. Lat. G 108 Inf.",
+     "normalized": "Ambros. G 108 inf.",
+     "city": "Milan",
+     "folios": "",
+     "date": "s. X",
+     "note": "manuscript of the old Latin translation"
+    },
+    {
+     "siglum": {
+      "base": "Ḥun.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "translation",
+     "printed": "translatio Arabica in codd. Aya Sofya 4838 (Ḥun.x), Aya Sofya 3572 (Ḥun.y), Aya Sofya 3632 (Ḥun.z), collata cum translatione Latina recentiore s. XII (Ḥun.Lat.)",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Ḥun.",
+      "sup": "x",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "cod. Aya Sofya 4838",
+     "normalized": "Istanbul, Aya Sofya 4838",
+     "city": "Istanbul",
+     "folios": "",
+     "date": "",
+     "note": "manuscript of the Arabic translation"
+    },
+    {
+     "siglum": {
+      "base": "Ḥun.",
+      "sup": "y",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "cod. Aya Sofya 3572",
+     "normalized": "Istanbul, Aya Sofya 3572",
+     "city": "Istanbul",
+     "folios": "",
+     "date": "",
+     "note": "manuscript of the Arabic translation"
+    },
+    {
+     "siglum": {
+      "base": "Ḥun.",
+      "sup": "z",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "cod. Aya Sofya 3632",
+     "normalized": "Istanbul, Aya Sofya 3632",
+     "city": "Istanbul",
+     "folios": "",
+     "date": "",
+     "note": "manuscript of the Arabic translation"
+    },
+    {
+     "siglum": {
+      "base": "Ḥun.",
+      "sup": "Lat.",
+      "sub": ""
+     },
+     "type": "translation",
+     "printed": "translatio Latina recentior s. XII",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "s. XII",
+     "note": "Latin translation from the Arabic, collated with Ḥun."
+    },
+    {
+     "siglum": {
+      "base": "Gal.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "commentarius Galeni restitutus ex cod. Bodl. Oppenh. Add. Fol. 18",
+     "normalized": "Oxon. Oppenh. Add. fol. 18",
+     "city": "Oxford",
+     "folios": "",
+     "date": "s. XV",
+     "note": "Galen's commentary, reconstructed from this manuscript"
+    },
+    {
+     "siglum": {
+      "base": "Gal. Scr. min.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "Galeni Scripta minora, vol. I–III, edd. J. Marquardt-I. Müller-G. Helmreich. Lipsiae 1884–1893.",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Gal. CMG",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "Galeni Commentaria In Hippocratis Epidemias, edd. E. Wenkebach-Fr. Pfaff, CMG V 10, 1; 2, 1; 2, 2. Lipsiae et Berolini 1934–1940.",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Gal. ... K.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "Galeni Opera omnia, ed. C. G. Kühn. Lipsiae 1821–1833.",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Ald.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "editio Aldina 1526.",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Corn.",
+      "sup": "1",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "editio Cornarii 1529.",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Corn.",
+      "sup": "2",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "editio Cornarii 1538.",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "L.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "editio Littraei 1840.",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Aët.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "Aëtii Amideni Libri medicinales I–IV. V–VIII, ed. A. Olivieri CMG VIII 1. 2. Lipsiae et Berolini 1935. Berolini 1950.",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Aristot.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "Aristotelis Problemata physica, edd. Ruelle–Knoellinger-Klek. Lipsiae 1922.",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Athen.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "Athenaei Dipnosophistae, ed. G. Kaibel. Berolini 1887/1890.",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Erotian.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "Erotiani Vocum Hippocraticarum collectio, ed. E. Nachmanson. Upsaliae 1918.",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Gell.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "A. Gellii Noctes Atticae, ed. C. Hosius. Lipsiae 1903.",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Macrob.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "Macrobii Saturnalia, ed. J. Willis. Lipsiae 1963.",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Oribas.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "Oribasii Coll. med. rel., ed. J. Raeder CMG VI 1, 1.2; 2, 1. 2. Lipsiae et Berolini 1928–1933. Synopsis ad Eustathium. Libri ad Eunapium, ed. J. Raeder CMG VI 3. Lipsiae et Berolini 1926.",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Porph.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "Porphyrii Quaestiones Homericae ad Iliadem pertinentes, ed. H. Schrader. Lipsiae 1880.",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Ruf.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "Rufi Ephesii Quaestiones medicinales, ed., in linguam Germanicam vertit, commentatus est H. Gärtner CMG Suppl. IV. Berolini 1962.",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    }
+   ]
+  }
+ ],
+ "transcribed_by": "Claude agent, zoomed crops",
+ "uncertain": [
+  "Barb.: 'Vaticanus Barberinus I 5' is an old Barberini press-mark; normalized kept as printed ('Vat. Barb. gr. I 5'), modern number not given",
+  "Gal.: Bodl. Oppenh. Add. Fol. 18 (language of the manuscript not stated on the page); normalized 'Oxon. Oppenh. Add. fol. 18'",
+  "Year: 1999 is the reprint (editio altera lucis ope expressa); first edition 1970 not stated on the sigla pages"
+ ]
+}

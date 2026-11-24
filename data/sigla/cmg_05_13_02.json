@@ -1,0 +1,881 @@
+{
+ "volume": "cmg_05_13_02",
+ "editor": "Kollesch",
+ "series": "CMG V 13,2",
+ "year": "2023",
+ "sections": [
+  {
+   "label": "Conspectus siglorum et compendiorum",
+   "pages": [
+    44,
+    45
+   ],
+   "works": [
+    "[Galeni] Definitiones medicae"
+   ],
+   "continues_on_next_page": false,
+   "entries": [
+    {
+     "siglum": {
+      "base": "P",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Parisinus suppl. gr. 446",
+     "normalized": "Par. Suppl. gr. 446",
+     "city": "Paris",
+     "folios": "",
+     "date": "s. X 1/2",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "P",
+      "sup": "2",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "eiusdem codicis corrector",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Bon",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Bononiensis 3632",
+     "normalized": "Bonon. 3632",
+     "city": "Bologna",
+     "folios": "",
+     "date": "s. XV",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "W",
+      "sup": "",
+      "sub": "a"
+     },
+     "type": "manuscript",
+     "printed": "Vindobonensis med. gr. 16, fol. 287r–290r",
+     "normalized": "Vind. med. gr. 16",
+     "city": "Vienna",
+     "folios": "287r–290r",
+     "date": "s. XIII",
+     "note": "same codex as Wb, different folios"
+    },
+    {
+     "siglum": {
+      "base": "W",
+      "sup": "",
+      "sub": "b"
+     },
+     "type": "manuscript",
+     "printed": "Vindobonensis med. gr. 16, fol. 290v–309r",
+     "normalized": "Vind. med. gr. 16",
+     "city": "Vienna",
+     "folios": "290v–309r",
+     "date": "s. XIII",
+     "note": "same codex as Wa, different folios"
+    },
+    {
+     "siglum": {
+      "base": "O",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Vaticanus Ottobonianus gr. 311",
+     "normalized": "Vat. Ottob. gr. 311",
+     "city": "Vatican City",
+     "folios": "",
+     "date": "s. XV 4/4",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "X",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Mosquensis Synod. gr. 51",
+     "normalized": "Mosq. Synod. gr. 51",
+     "city": "Moscow",
+     "folios": "",
+     "date": "s. XIV",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Q",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Parisinus gr. 2153",
+     "normalized": "Par. gr. 2153",
+     "city": "Paris",
+     "folios": "",
+     "date": "s. XV 1/2",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Q",
+      "sup": "2",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "eiusdem codicis corrector",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "H",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Marcianus gr. V 9",
+     "normalized": "Marc. gr. V 9",
+     "city": "Venice",
+     "folios": "",
+     "date": "s. XV",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "J",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Monacensis gr. 469",
+     "normalized": "Mon. gr. 469",
+     "city": "Munich",
+     "folios": "",
+     "date": "s. XII/XIII",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "δ",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "group",
+     "printed": "consensus codicum Wa B",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "printed 'Wa B' (B perhaps for Bon)"
+    },
+    {
+     "siglum": {
+      "base": "ϑ",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "group",
+     "printed": "consensus codicum Wb O",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "λ",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "group",
+     "printed": "consensus codicum Q X",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "ζ",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "group",
+     "printed": "consensus codicum H λ",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "η",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "group",
+     "printed": "consensus J ζ",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "φ",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "group",
+     "printed": "consensus δ η (p. 1,1–28,8); ϑ η (p. 30,1–178,10)",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Z",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Marcianus gr. V 10",
+     "normalized": "Marc. gr. V 10",
+     "city": "Venice",
+     "folios": "",
+     "date": "s. XVI 1/4",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "R",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Parisinus gr. 2282",
+     "normalized": "Par. gr. 2282",
+     "city": "Paris",
+     "folios": "",
+     "date": "s. XVI 4/4",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "S",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Londiniensis Additional 11888",
+     "normalized": "Add. 11888",
+     "city": "London",
+     "folios": "",
+     "date": "s. XV 4/4",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "A",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Ambrosianus B 90 sup.",
+     "normalized": "Ambros. B 90 sup.",
+     "city": "Milan",
+     "folios": "",
+     "date": "s. XVI 1/4",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "A",
+      "sup": "2",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "eiusdem codicis corrector",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "E",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Mutinensis α V.6.12",
+     "normalized": "Mutin. α V.6.12",
+     "city": "Modena",
+     "folios": "",
+     "date": "s. XVI",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "V",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Vaticanus gr. 1614",
+     "normalized": "Vat. gr. 1614",
+     "city": "Vatican City",
+     "folios": "",
+     "date": "s. XVI",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "F",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Laurentianus plut. 74,14",
+     "normalized": "Laur. Plut. 74.14",
+     "city": "Florence",
+     "folios": "",
+     "date": "s. XV 4/4",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "G",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Parisinus suppl. gr. 35",
+     "normalized": "Par. Suppl. gr. 35",
+     "city": "Paris",
+     "folios": "",
+     "date": "s. XV 4/4",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "G",
+      "sup": "2",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "eiusdem codicis corrector",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "N",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Oxoniensis Bodl. d’Orville 3",
+     "normalized": "Oxon. Bodl. d’Orville 3",
+     "city": "Oxford",
+     "folios": "",
+     "date": "s. XV/XVI",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "N",
+      "sup": "2",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "eiusdem codicis corrector",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "M",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Monacensis gr. 109",
+     "normalized": "Mon. gr. 109",
+     "city": "Munich",
+     "folios": "",
+     "date": "s. XVI 1/2",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "M",
+      "sup": "2",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "eiusdem codicis corrector",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "C",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Parisinus gr. 2175",
+     "normalized": "Par. gr. 2175",
+     "city": "Paris",
+     "folios": "",
+     "date": "s. XVI",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "D",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Parisinus gr. 2167",
+     "normalized": "Par. gr. 2167",
+     "city": "Paris",
+     "folios": "",
+     "date": "s. XVI",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "B",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Berolinensis Phillipps 1526",
+     "normalized": "Berol. Phill. 1526",
+     "city": "Berlin",
+     "folios": "",
+     "date": "s. XVI",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "L",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Lipsiensis gr. 52",
+     "normalized": "Lips. gr. 52",
+     "city": "Leipzig",
+     "folios": "",
+     "date": "s. XVI",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "K",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Parisinus suppl. gr. 1328",
+     "normalized": "Par. Suppl. gr. 1328",
+     "city": "Paris",
+     "folios": "",
+     "date": "s. XVI",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "K",
+      "sup": "2",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "eiusdem codicis corrector",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Marc",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Marcianus gr. Z. 521",
+     "normalized": "Marc. gr. Z. 521",
+     "city": "Venice",
+     "folios": "",
+     "date": "s. XIII 2/2",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Haun",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Hauniensis GkS 1648,4°",
+     "normalized": "Haun. GkS 1648 4°",
+     "city": "Copenhagen",
+     "folios": "",
+     "date": "s. XV 4/4",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "ε",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "group",
+     "printed": "consensus codicum S A",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "υ",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "group",
+     "printed": "consensus R ε",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "σ",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "group",
+     "printed": "consensus codicum Marc Haun E V",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "γ",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "group",
+     "printed": "consensus codicum N M",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "β",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "group",
+     "printed": "consensus F γ",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "κ",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "group",
+     "printed": "consensus codicum B L K",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "ρ",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "group",
+     "printed": "consensus G β",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "π",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "group",
+     "printed": "consensus C D κ",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "μ",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "group",
+     "printed": "consensus Z υ σ",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "τ",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "group",
+     "printed": "consensus ρ π",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "χ",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "group",
+     "printed": "consensus μ τ",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "ψ",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "group",
+     "printed": "consensus φ χ",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "ω",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "group",
+     "printed": "consensus codicum Graecorum",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "T",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Londiniensis Wellc. Hist. Med. 289",
+     "normalized": "Wellcome Hist. Med. 289",
+     "city": "London",
+     "folios": "",
+     "date": "s. XVI",
+     "note": "raro citatur"
+    },
+    {
+     "siglum": {
+      "base": "Ald.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "editio Aldina, Venetiis a. 1525",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Bas.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "editio Basileensis, a. 1538",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Chart.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "editio Charterii, Lutetiae Parisiorum a. 1679",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "v. Arnim",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "Stoicorum Veterum Fragmenta collegit Ioannes ab Arnim, Lipsiae 1903–1905",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Corn.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "I. Cornarius in editionis Aldinae exemplari suo nunc bibliothecae universitatis Ienensis proprio",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Sylv.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "translation",
+     "printed": "C. Galeno ascriptae Finitiones medicae, Bartholomaeo Sylvanio Salonensi interprete, in: Operum Galeni Libri isagogici, Basileae 1549",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Daremberg",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "Oribasii editio Bussemakeri et Darembergii, vol. III/IV, Lutetiae Parisiorum 1858/1862",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Nickel",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "Diethard Nickel mihi privatim communicavit",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    }
+   ]
+  }
+ ],
+ "transcribed_by": "Claude agent, zoomed crops",
+ "uncertain": [
+  "sigla_pages.json lists two TOC sections (Conspectus siglorum; Conspectus siglorum et compendiorum) for the same pages 44–45; transcribed once, under the printed heading.",
+  "δ is printed 'consensus codicum Wa B': B here is perhaps a misprint for Bon (B = Berolinensis Phillipps 1526 belongs to κ); transcribed as printed.",
+  "Fractional century dates (X1/2, XV4/4 etc.) are printed as superscripts; written 's. X 1/2' etc."
+ ]
+}

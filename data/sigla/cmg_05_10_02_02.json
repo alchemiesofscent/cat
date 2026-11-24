@@ -1,0 +1,233 @@
+{
+ "volume": "cmg_05_10_02_02",
+ "editor": "Wenkebach/Pfaff",
+ "series": "CMG V 10,2,2",
+ "year": "1956",
+ "sections": [
+  {
+   "label": "Conspectus codicum",
+   "pages": [
+    32
+   ],
+   "works": [
+    "Galeni In Hippocratis Epidemiarum librum VI commentaria I–VIII"
+   ],
+   "continues_on_next_page": false,
+   "entries": [
+    {
+     "siglum": {
+      "base": "U",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Marcianus Venetus gr. 283",
+     "normalized": "Marc. gr. 283",
+     "city": "Venice",
+     "folios": "1r–169r",
+     "date": "s. XV",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "U",
+      "sup": "1",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "medicus Italicus aetatis litterarum renatarum, fort. s. XV",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "hand in U"
+    },
+    {
+     "siglum": {
+      "base": "U",
+      "sup": "2",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "corrector Aldinus, Ioannes Clemens medicus Londinensis",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "hand in U"
+    },
+    {
+     "siglum": {
+      "base": "H",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Scorialensis arab. 805",
+     "normalized": "Scorial. arab. 805",
+     "city": "El Escorial",
+     "folios": "",
+     "date": "s. XIII",
+     "note": "Hunaini versio in linguam Germanicam translata a Francisco Pfaff (Arabic version, used through Pfaff's German translation)"
+    },
+    {
+     "siglum": {
+      "base": "Hipp.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "group",
+     "printed": "Codices Hippocratis ad editionem Littraei adhibiti",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Orib.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "group",
+     "printed": "Codices in Oribasii Collectionibus medicis eiusdemque in Synopsi ad Eustathium et in libris ad Eunapium edendis adhibiti ab Ioanne Raeder CMG VI 1. 2. 3, Lipsiae 1926–1933",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Pall.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "group",
+     "printed": "Codices in Palladii in Hippocratem et Galenum Scholiis edendis primum excussi a Frid. Reinh. Dietz, vol. II Regim. Pruss. MDCCCXXXIV",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    }
+   ]
+  },
+  {
+   "label": "Conspectus siglorum",
+   "pages": [
+    32
+   ],
+   "works": [
+    "Galeni In Hippocratis Epidemiarum librum VI commentaria I–VIII"
+   ],
+   "continues_on_next_page": false,
+   "entries": [
+    {
+     "siglum": {
+      "base": "Ald.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "editio Aldina ab Opizone et Clemente curata Venetiis a. 1525",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Bas.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "editio Basileensis Hieronymi Gemusaei a. 1538",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Chart.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "Renatus Charterius in editione Parisina a. 1679",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Corn.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "Ianus Cornarius in Aldinae exemplari suo nunc bibliothecae Ienensis proprio",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Deichgr.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "Carolus Deichgräber",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Sch.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "Hermannus Schöne",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Wenk. 1928",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "dissertationis meae in Actis Acad. Berol. a. 1928 nr. 9 editae pars II, quae inscribitur Beiträge zur Textgeschichte der Epidemienkommentare Galens. II. Teil.",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    }
+   ]
+  }
+ ],
+ "transcribed_by": "Claude agent, zoomed crops",
+ "uncertain": [
+  "H (Scorialensis arab. 805) is the Arabic manuscript of Hunain's version, entered as manuscript with a note; 'Hipp.', 'Orib.', 'Pall.' denote sets of codices used by other editors, entered as group.",
+  "Year 1956 is the second (photomechanical) edition given in the title."
+ ]
+}

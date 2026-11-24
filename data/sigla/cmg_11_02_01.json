@@ -1,0 +1,55 @@
+{
+ "volume": "cmg_11_02_01",
+ "editor": "Bergsträßer",
+ "series": "CMG XI 2,1",
+ "year": "1914",
+ "sections": [
+  {
+   "label": "Conspectus codicum",
+   "pages": [
+    26,
+    27
+   ],
+   "works": [
+    "Pseudogaleni In Hippocratis De septimanis commentarium ab Hunaino q. f. Arabice versum"
+   ],
+   "continues_on_next_page": false,
+   "entries": [
+    {
+     "siglum": {
+      "base": "",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Monacens. arab. 802 (Aumer)",
+     "normalized": "Mon. arab. 802",
+     "city": "Munich",
+     "folios": "f. 1r–64r",
+     "date": "s. XI",
+     "note": "no siglum printed; Aumer = catalogue number"
+    },
+    {
+     "siglum": {
+      "base": "",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Cantabrig. Bibl. Univ. 1386 (Browne)",
+     "normalized": "Cambridge, UL 1386",
+     "city": "Cambridge",
+     "folios": "f. 34v–36r",
+     "date": "s. XIII–XIV",
+     "note": "no siglum printed; Browne = catalogue number"
+    }
+   ]
+  }
+ ],
+ "transcribed_by": "Claude agent, zoomed crops",
+ "uncertain": [
+  "No sigla are printed: the Conspectus codicum lists two Arabic manuscripts without sigla; siglum base left empty",
+  "p. 27 is blank",
+  "normalized forms for Arabic codices (Mon. arab. 802; Cambridge, UL 1386 = Browne catalogue no.) are not in the house list; check against catalogue"
+ ]
+}

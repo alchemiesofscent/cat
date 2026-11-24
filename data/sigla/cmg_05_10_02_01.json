@@ -1,0 +1,402 @@
+{
+ "volume": "cmg_05_10_02_01",
+ "editor": "Wenkebach",
+ "series": "CMG V 10,2,1",
+ "year": "1936",
+ "sections": [
+  {
+   "label": "Conspectus codicum",
+   "pages": [
+    30
+   ],
+   "works": [
+    "Galen, In Hippocratis Epidemiarum librum III commentaria III"
+   ],
+   "continues_on_next_page": false,
+   "entries": [
+    {
+     "siglum": {
+      "base": "E",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Estensis Mutinensis gr. 211",
+     "normalized": "Mutin. gr. 211",
+     "city": "Modena",
+     "folios": "usque ad fol. 161r",
+     "date": "s. XV",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "L",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Laurentianus Florentinus pl. 74, 25",
+     "normalized": "Laur. Plut. 74.25",
+     "city": "Florence",
+     "folios": "fol. 127r–152v",
+     "date": "s. XIV",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "L",
+      "sup": "2",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "corrector codicis, fort. s. XV",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "M",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Monacensis 231",
+     "normalized": "Mon. gr. 231",
+     "city": "Munich",
+     "folios": "fol. 106v–228v",
+     "date": "s. XV vel XVI",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "M",
+      "sup": "2",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "corrector medicus aetatis litterarum renatarum; cf. p. IX. X. XVII",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "m",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Marcianus Venetus 285",
+     "normalized": "Marc. gr. 285",
+     "city": "Venice",
+     "folios": "fol. 216r–243v",
+     "date": "s. XV",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "P",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Parisinus 2165",
+     "normalized": "Par. gr. 2165",
+     "city": "Paris",
+     "folios": "fol. 59v–117v",
+     "date": "s. XVI",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "P",
+      "sup": "2",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "eiusdem corrector Aldinus, Ioannes Clemens medicus Londinensis",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Q",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Parisinus 2174",
+     "normalized": "Par. gr. 2174",
+     "city": "Paris",
+     "folios": "fol. 106r–177v",
+     "date": "s. XVI",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "V",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Marcianus Venetus App. class. V 5",
+     "normalized": "Marc. gr. App. cl. V 5",
+     "city": "Venice",
+     "folios": "a fol. 282v usque ad fol. 310v",
+     "date": "s. XV",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "w",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Marcianus Venetus App. class. V 15",
+     "normalized": "Marc. gr. App. cl. V 15",
+     "city": "Venice",
+     "folios": "usque ad fol. 119v",
+     "date": "s. XVI",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "O",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "group",
+     "printed": "archetypus prioris classis codd. (MQV); s. fort. XIV/XV, deperditus",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "s. fort. XIV/XV",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "H",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "translation",
+     "printed": "Scorialensis arab. 804 (Hunaini versio in Germanicum translata a Francisco Pfaff)",
+     "normalized": "",
+     "city": "El Escorial",
+     "folios": "",
+     "date": "s. XIII",
+     "note": "Arabic translation by Ḥunayn, used in F. Pfaff's German translation"
+    },
+    {
+     "siglum": {
+      "base": "Hipp.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "group",
+     "printed": "Codices Hippocratis ad ed. Kühleweinianam (Lipsiae 1894) adhibiti",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    }
+   ]
+  },
+  {
+   "label": "Conspectus siglorum",
+   "pages": [
+    30
+   ],
+   "works": [
+    "Galen, In Hippocratis Epidemiarum librum III commentaria III"
+   ],
+   "continues_on_next_page": false,
+   "entries": [
+    {
+     "siglum": {
+      "base": "Ald.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "editio Aldina ab Opizone et Clemente curata Venetiis a. 1525",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Bas.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "editio Basileensis Hieronymi Gemusaei a. 1538",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Chart.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "Renatus Charterius in editione Parisina a. 1679",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Corn.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "Ianus Cornarius in Aldinae exemplari suo nunc bibliothecae universitatis Ienensis proprio",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Deichgr.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "Carolus Deichgräber",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Helmr.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "Georgius Helmreich",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Mew.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "Ioannes Mewaldt",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Sch.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "Hermannus Schoene",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Wellm.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "Maximilianus Wellmann",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Wenk. 1925",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "dissert. mea in Actis Acad. Berol. nr. 1 a. 1925 edita, quae inscribitur Untersuchungen über Galens Kommentare zu den Epidemien des Hippokrates",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Wenk. 1927",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "dissert. ibid. a. 1928 nr. 4 a me edita, quam inscripsi Beiträge zur Textgeschichte der Epidemienkommentare Galens. I. Teil",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "siglum says 1927, text says a. 1928 (as printed)"
+    },
+    {
+     "siglum": {
+      "base": "Wenk. 1928",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "eiusdem dissertationis ibid. a. 1928 nr. 9 a me editae II pars.",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    }
+   ]
+  }
+ ],
+ "transcribed_by": "Claude agent, zoomed crops",
+ "uncertain": [
+  "V: end folio 'fol. 310v' is partly cut at the page edge; superscript v read from context.",
+  "Wenk. 1927 is printed with 'a. 1928' in its description (kept as printed).",
+  "Estensis Mutinensis normalized 'Mutin. gr. 211'; Marc. App. class. V 5 / V 15 normalized 'Marc. gr. App. cl. V 5 / V 15' (not in house list)."
+ ]
+}

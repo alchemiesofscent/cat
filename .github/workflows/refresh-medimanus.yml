@@ -19,12 +19,13 @@ jobs:
           python3 scripts/medimanus.py | tee refresh.log
           python3 scripts/graeco_arabic.py | tee -a refresh.log || echo "graeco-arabic refresh failed; keeping last list"
           python3 scripts/pinakes_check.py
+          python3 scripts/sigla_check.py
           python3 scripts/build.py
       - name: Commit if the data changed
         run: |
           if git diff --quiet -I '"retrieved"' -- data/medimanus.json data/graeco_arabic.json; then echo "no change"; exit 0; fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/medimanus.json data/graeco_arabic.json data/pinakes_check.json PINAKES-CHECK.md docs
+          git add data/medimanus.json data/graeco_arabic.json data/pinakes_check.json PINAKES-CHECK.md data/sigla_index.json SIGLA-CHECK.md docs
           git commit -m "Refresh MediManus data ($(head -1 refresh.log))"
           git push

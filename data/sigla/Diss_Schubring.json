@@ -1,0 +1,209 @@
+{
+ "volume": "Diss_Schubring",
+ "editor": "Schubring",
+ "series": "",
+ "year": "1963",
+ "sections": [
+  {
+   "label": "Conspectus siglorum",
+   "pages": [
+    3
+   ],
+   "works": [
+    "[Galeni] De fasciis (Die pseudogalenische Schrift über die Verbände)"
+   ],
+   "continues_on_next_page": false,
+   "entries": [
+    {
+     "siglum": {
+      "base": "L",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Laurentianus Florentinus 74,7",
+     "normalized": "Laur. Plut. 74.7",
+     "city": "Florence",
+     "folios": "286v–301v",
+     "date": "s. X",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "R",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Parisinus gr. 2248 (olim Med. Reg. 2149)",
+     "normalized": "Par. gr. 2248",
+     "city": "Paris",
+     "folios": "398ar–421r",
+     "date": "s. XVI",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "R",
+      "sup": "2",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "corrector (Vidius ut videtur)",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "typescript 'ϕt', corrected by hand, read as 'ut'"
+    },
+    {
+     "siglum": {
+      "base": "Chart.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "R. Charterius",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "Editores traductoresque"
+    },
+    {
+     "siglum": {
+      "base": "Rab.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "P. Rabehl",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "Editores traductoresque"
+    },
+    {
+     "siglum": {
+      "base": "Sg.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "K. Schubring",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "Editores traductoresque"
+    },
+    {
+     "siglum": {
+      "base": "Vid.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "translation",
+     "printed": "V. Vidius",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "Editores traductoresque"
+    },
+    {
+     "siglum": {
+      "base": "A",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Parisinus gr. 2252",
+     "normalized": "Par. gr. 2252",
+     "city": "Paris",
+     "folios": "",
+     "date": "",
+     "note": "Codices Hippocratis"
+    },
+    {
+     "siglum": {
+      "base": "B",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Laurentianus 74,7 (= L nostri libelli)",
+     "normalized": "Laur. Plut. 74.7",
+     "city": "Florence",
+     "folios": "",
+     "date": "",
+     "note": "Codices Hippocratis; same codex as L"
+    },
+    {
+     "siglum": {
+      "base": "M",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Marcianus gr. 269",
+     "normalized": "Marc. gr. 269",
+     "city": "Venice",
+     "folios": "",
+     "date": "",
+     "note": "Codices Hippocratis"
+    },
+    {
+     "siglum": {
+      "base": "V",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Vaticanus gr. 276",
+     "normalized": "Vat. gr. 276",
+     "city": "Vatican City",
+     "folios": "",
+     "date": "",
+     "note": "Codices Hippocratis"
+    },
+    {
+     "siglum": {
+      "base": "Heliod.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "Oribasii excerpta ex Heliodori libello De fasciis (CMG VI 2,1, p. 273–291 Raeder)",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Sor.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "Sorani De fasciis libellus (CMG IV, p. 159–171 Ilberg)",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    }
+   ]
+  }
+ ],
+ "transcribed_by": "Claude agent, zoomed crops",
+ "uncertain": [
+  "Typescript. Hippocratic A is clearly typed 'Parisinus gr. 2252' (zoomed); transcribed as printed, though Hippocrates' A is usually Par. gr. 2253.",
+  "R folios typed 'f. 398ar–421r' (398a recto).",
+  "R² 'Vidius ϕt videtur': the typed letter is overstruck; read as 'ut'.",
+  "Rab., Sg. and Vid. are under 'Editores traductoresque'; Vid. (Vidius) entered as translation, Rab. and Sg. as other (conjectures)."
+ ]
+}

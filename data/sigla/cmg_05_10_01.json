@@ -1,0 +1,370 @@
+{
+ "volume": "cmg_05_10_01",
+ "editor": "Wenkebach/Pfaff",
+ "series": "CMG V 10,1",
+ "year": "1934",
+ "sections": [
+  {
+   "label": "Conspectus codicum",
+   "pages": [
+    32,
+    33
+   ],
+   "works": [
+    "Galeni In Hippocratis Epidemiarum librum II commentaria V (Pfaff)"
+   ],
+   "continues_on_next_page": false,
+   "entries": []
+  },
+  {
+   "label": "Conspectus siglorum",
+   "pages": [
+    32,
+    33
+   ],
+   "works": [
+    "Galeni In Hippocratis Epidemiarum librum II commentaria V (Pfaff)"
+   ],
+   "continues_on_next_page": false,
+   "entries": []
+  },
+  {
+   "label": "Conspectus codicum",
+   "pages": [
+    34
+   ],
+   "works": [
+    "Galeni In Hippocratis Epidemiarum librum I commentaria III"
+   ],
+   "continues_on_next_page": false,
+   "entries": [
+    {
+     "siglum": {
+      "base": "E",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Estensis Mutinensis gr. 211",
+     "normalized": "Mutin. gr. 211",
+     "city": "Modena",
+     "folios": "inde a fol. 1r",
+     "date": "s. XV",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "M",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Monacensis 231",
+     "normalized": "Mon. gr. 231",
+     "city": "Munich",
+     "folios": "fol. 1r–107r",
+     "date": "s. XV vel XVI",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "P",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Parisinus 2165",
+     "normalized": "Par. gr. 2165",
+     "city": "Paris",
+     "folios": "fol. 3r–59v",
+     "date": "s. XVI",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "P",
+      "sup": "2",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "eiusdem corrector Aldinus, Ioannes Clemens medicus Londinensis",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "corrector of P"
+    },
+    {
+     "siglum": {
+      "base": "Q",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Parisinus 2174",
+     "normalized": "Par. gr. 2174",
+     "city": "Paris",
+     "folios": "fol. 1r–105v",
+     "date": "s. XVI",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "V",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Marcianus Venetus 1053 (App. class. V 5)",
+     "normalized": "Marc. gr. App. V 5",
+     "city": "Venice",
+     "folios": "inde a fol. 249r",
+     "date": "s. XV",
+     "note": "coll. 1053"
+    },
+    {
+     "siglum": {
+      "base": "w",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "manuscript",
+     "printed": "Marcianus Venetus App. class. V 15",
+     "normalized": "Marc. gr. App. V 15",
+     "city": "Venice",
+     "folios": "a fol. 19r ad fol. 102v",
+     "date": "s. XVI",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "O",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "group",
+     "printed": "Archetypus codicum Graecorum; cf. p. IX",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "H",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "translation",
+     "printed": "Scorialensis arab. 804 (Hunaini versio in Germanicum translata a F. Pfaff)",
+     "normalized": "Scorial. arab. 804",
+     "city": "El Escorial",
+     "folios": "",
+     "date": "s. XIII",
+     "note": "siglum printed as H with a bar along the top; Arabic version of Hunain"
+    },
+    {
+     "siglum": {
+      "base": "Hipp.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "Codices Hippocratis in ed. Kühleweiniana (Lipsiae 1894) adhibiti",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    }
+   ]
+  },
+  {
+   "label": "Conspectus siglorum",
+   "pages": [
+    34
+   ],
+   "works": [
+    "Galeni In Hippocratis Epidemiarum librum I commentaria III"
+   ],
+   "continues_on_next_page": false,
+   "entries": [
+    {
+     "siglum": {
+      "base": "Ald.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "editio Aldina ab Opizone et Clemente curata Venetiis a. 1525",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Bas.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "editio Basileensis Hieronymi Gemusaei a. 1538",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Chart.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "edition",
+     "printed": "Renatus Charterius in editione Parisina a. 1679",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Corn.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "Ianus Cornarius in Aldinae exemplari suo nunc bibliothecae universitatis Ienensis proprio",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Deichgr.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "Carolus Deichgräber",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Helmr.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "Georgius Helmreich",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Mew.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "Ioannes Mewaldt",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Sch.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "Hermannus Schoene",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Wellm.",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "Maximilianus Wellmann",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Wenk. 1918",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "dissert. mea in Actis Acad. Berol. nr. 8 edita a. 1918, quam inscripsi Das Proömium der Kommentare Galens zu den Epidemien des Hippokrates",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Wenk. 1925",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "dissert. ibid. nr. 1 a. 1925 a me edita, quae inscribitur Untersuchungen über Galens Kommentare zu den Epidemien des Hippokrates",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": ""
+    },
+    {
+     "siglum": {
+      "base": "Wenk. 1927",
+      "sup": "",
+      "sub": ""
+     },
+     "type": "other",
+     "printed": "dissert. ibid. a. 1928 nr. 4 a me edita, quam inscripsimus Beiträge zur Textgeschichte der Epidemienkommentare Galens. I. Teil.",
+     "normalized": "",
+     "city": "",
+     "folios": "",
+     "date": "",
+     "note": "siglum says 1927, text says a. 1928, as printed"
+    }
+   ]
+  }
+ ],
+ "transcribed_by": "Claude agent, zoomed crops",
+ "uncertain": [
+  "Canvases 32-33 (given for the first Conspectus codicum / Conspectus siglorum) are the end of Pfaff's German preface (Einleitung XXXII-XXXIII), prose only, no sigla list; written as empty sections. The only list is on canvas 34 (before Epid. I title, canvas 35). Its H (Scorialensis arab. 804, Hunain's Arabic version) serves the Epid. II translation.",
+  "H: printed as a capital H with a bar across the top (special type for Hunain); transcribed as H.",
+  "V/w: Marcianus Venetus 1053 (App. class. V 5) and App. class. V 15 normalized as Marc. gr. App. V 5 / App. V 15."
+ ]
+}
