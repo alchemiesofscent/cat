@@ -1,7 +1,9 @@
+@font-face{font-family:"GFS Porson";src:url("fonts/GFSPorson.woff2") format("woff2");font-display:swap;
+  unicode-range:U+0370-03FF,U+1F00-1FFF,U+0300-036F}
 :root{--ink:#22201c;--muted:#6d665c;--rule:#e4ddd2;--bg:#fbf9f5;--accent:#8a3b1f;--soft:#f3eee5}
 @media (prefers-color-scheme:dark){:root{--ink:#ece6dc;--muted:#a89f92;--rule:#3a352e;--bg:#1b1916;--accent:#e08a5e;--soft:#26231f}}
 *{box-sizing:border-box}
-body{margin:0;background:var(--bg);color:var(--ink);font:17px/1.55 "Iowan Old Style","Palatino Linotype",Palatino,"Gentium Plus",Georgia,serif}
+body{margin:0;background:var(--bg);color:var(--ink);font:17px/1.55 "GFS Porson","Iowan Old Style","Palatino Linotype",Palatino,"Gentium Plus",Georgia,serif}
 a{color:var(--accent);text-decoration-thickness:1px;text-underline-offset:2px}
 header.site{display:flex;flex-wrap:wrap;align-items:baseline;gap:.4rem 1.2rem;padding:1rem 1.5rem;border-bottom:1px solid var(--rule)}
 .brand{font-size:1.3rem;font-weight:600;color:var(--ink);text-decoration:none;letter-spacing:.02em}
@@ -51,3 +53,4 @@ a.go.stale{color:var(--muted);font-weight:400;text-decoration:line-through}
 .corr{color:var(--accent);cursor:help;font-size:.8rem}
 .ok{color:#3a7d44}.new{font:600 .7rem system-ui,sans-serif;color:var(--accent);border:1px solid var(--accent);border-radius:3px;padding:0 .25rem}.diff{font:.8rem system-ui,sans-serif;color:#b35c00}.mmt{color:var(--muted);font-size:.85rem}
 @media (prefers-color-scheme:dark){.ok{color:#7cc487}.diff{color:#f0a55a}}
+.gr,[lang=grc]{font-family:"GFS Porson",serif;font-size:1.2rem;letter-spacing:.01em}

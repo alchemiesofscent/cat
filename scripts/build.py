@@ -218,6 +218,7 @@ def main():
     (OUT / "authors").mkdir(parents=True)
     shutil.copy(ROOT / "site" / "style.css", OUT / "style.css")
     shutil.copy(ROOT / "site" / "search.js", OUT / "search.js")
+    shutil.copytree(ROOT / "site" / "fonts", OUT / "fonts")
     (OUT / ".nojekyll").write_text("")
     shutil.copy(ROOT / "data" / "catalogue.json", OUT / "catalogue.json")
 
