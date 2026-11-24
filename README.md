@@ -21,3 +21,7 @@ python3 scripts/build.py
 
 Witness lists cover digitized manuscripts only. For the full tradition, see Pinakes, Biblissima and MediManus,
 which each work page links to.
+
+## Style rules
+
+- Greek is set in GFS Porson and is never italic. Porson has no italic face, and the stylesheet stops browsers from faking one (`font-synthesis-style: none`), so Greek inside italic text stays upright.
