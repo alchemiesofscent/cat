@@ -134,6 +134,24 @@ def ed_key(w, editor):
     return (_roman(m[1]) * 10 + (1 if m[2] == "B" else 0)) * 10000 + int(m[3])
 
 
+def author_date(name):
+    """Pinakes author record -> (label, sort year) e.g. ('s. V–IV BCE (460–377 BCE)', -460)."""
+    a = (PK.get("authors") or {}).get(name)
+    if not a or not re.search(r"\d", a["century"]):
+        return "", None
+    bce = "av. J.-C." in a["century"]
+    cs = [int(n) for n in re.findall(r"\d+", a["century"].split("Remarque")[0])]
+    label = "s. " + "–".join(ROMAN[c] for c in cs if c < len(ROMAN)) + (" BCE" if bce else " CE") + ("?" if "?" in a["century"] else "")
+    ys = [int(y) for y in re.findall(r"\d{3,4}", a["date"])]
+    if ys:
+        dbce = "av" in a["date"]
+        label += f" ({'–'.join(str(y) for y in ys[:2])}{' BCE' if dbce else ''})"
+        year = -ys[0] if dbce else ys[0]
+    else:
+        year = -(cs[0] * 100 - 50) if bce else cs[0] * 100 - 50
+    return label, year
+
+
 def fol_key(f):
     m = re.match(r"(\d+)\s*([rv]?)", f or "")
     return (int(m[1]), m[2] or "r") if m else None
@@ -392,8 +410,11 @@ def main():
         dated = sum(1 for w in a["works"] if w["id"] in WD)
         toc = "".join(f'<li data-for="{w["id"]}"><a href="#{w["id"]}">{esc(w["title_lat"])}</a>'
                       f'<span class="n">{len(w["mss"]) or ""}</span></li>' for w in a["works"])
+        _lab, _ = author_date(a["name"])
+        _pk = (PK.get("authors") or {}).get(a["name"])
         body = (f'<p class="crumb"><a href="../index.html">Authors</a></p><h1>{esc(a["name"])}</h1>'
-                f'<p class="meta">{len(a["works"])} works · {sum(len(w["mss"]) for w in a["works"])} manuscript witnesses'
+                + (f'<p class="wdate">{esc(_lab)} <span class="mmt">(<a href="{esc(_pk["url"])}">Pinakes</a>)</span></p>' if _lab else "")
+                + f'<p class="meta">{len(a["works"])} works · {sum(len(w["mss"]) for w in a["works"])} manuscript witnesses'
                 f' · catalogue state {esc(a["source_date"][:4])}-{esc(a["source_date"][4:6])}-{esc(a["source_date"][6:])}</p>'
                 + (f'<p class="sortsw" data-target="works">Order: <button data-mode="cat" class="on">catalogue</button>'
                    + (f'<button data-mode="chron">chronological</button>' if dated else "")
@@ -406,8 +427,11 @@ def main():
         (OUT / "authors" / f"{a['id']}.html").write_text(page(a["name"], body, 1))
 
     # index
+    def _adate(a):
+        lab, y = author_date(a["name"])
+        return f"<td class='dt' data-v='{(y if y is not None else 9999) + 10000:05d}'>{esc(lab)}</td>"
     rows = "".join(
-        f'<tr><td><a href="authors/{a["id"]}.html">{esc(a["name"])}</a></td><td class="num">{len(a["works"])}</td>'
+        f'<tr><td><a href="authors/{a["id"]}.html">{esc(a["name"])}</a></td>{_adate(a)}<td class="num">{len(a["works"])}</td>'
         f'<td class="num">{sum(len(w["mss"]) for w in a["works"])}</td></tr>' for a in authors)
     nw = sum(len(a["works"]) for a in authors)
     nm = sum(len(w["mss"]) for a in authors for w in a["works"])
@@ -416,7 +440,8 @@ def main():
             f'and a link straight to that page of the digitized manuscript, along with early printed editions, '
             f'authoritative modern editions and translations. {len(authors)} authors, {nw} works, {nm} manuscript witnesses.</p>'
             '<ul id="hits"></ul>'
-            '<table class="authors"><thead><tr><th>Author</th><th class="num">Works</th><th class="num">Witnesses</th></tr></thead>'
+            '<p class="mmt">Click a column heading to sort, e.g. by date. Author dates from Pinakes.</p>'
+            '<table class="authors sortable"><thead><tr><th>Author</th><th>Date</th><th class="num">Works</th><th class="num">Witnesses</th></tr></thead>'
             f'<tbody>{rows}</tbody></table>')
     (OUT / "index.html").write_text(page("Medici Graeci: works, manuscripts, editions", body))
     (OUT / "search.json").write_text(json.dumps(search, ensure_ascii=False))

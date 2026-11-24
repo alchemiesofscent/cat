@@ -21,6 +21,11 @@ python3 scripts/build.py
 `scripts/medimanus.py` imports MediManus (CHS) witnesses and start folios into `data/medimanus.json` (used with CHS permission). Titles are mapped to catalogue works through the reviewed concordance `data/medimanus_titles.json`.
 `scripts/galenus_verbatim.py` imports the Galenus Verbatim edition index into `data/galenus_verbatim.json` (Galen works → online Greek text by TLG number).
 
+- `scripts/pinakes.py` fetches the Pinakes (IRHT) work and author pages slowly (one request every 12 s, cached, stops at the bot guard) and writes `data/pinakes.json`: dated witnesses and author dates.
+- `scripts/work_dates.py` writes `data/work_dates.json`: Galen (Coughlin chronology table, 2019: Ilberg, Bardong, Peterson, Hankinson) and Hippocrates (Craik).
+- `scripts/cmg_viewer.py` lists the volumes in the CMG viewer; links to old BBAW scan pages open there instead.
+- `data/relocations.csv` maps dead digitization links to the libraries' current viewers.
+
 Witness lists cover digitized manuscripts only. For the full tradition, see Pinakes, Biblissima and MediManus,
 which each work page links to.
 

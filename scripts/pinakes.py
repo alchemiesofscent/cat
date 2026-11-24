@@ -108,9 +108,27 @@ def parse(ids):
                          "cote": tds[4], "cote_id": cote[1], "folios": tds[5],
                          "century": tds[6], "date": tds[7]})
         out[i] = {"works": works, "witnesses": wits}
+    authors = {}
+    for name, i in author_ids().items():
+        f = CACHE / f"auteur_{i}.html"
+        if not f.exists():
+            continue
+        t = cell(re.sub(r"<(script|style)[^>]*>.*?</\1>", "", f.read_text(), flags=re.S))
+        cen = re.search(r"Siècle\s*:\s*(.*?)\s*(?:Date\s*:|Identifiants|Oeuvres)", t)
+        dat = re.search(r"Date\s*:\s*(.*?)\s*(?:Identifiants|Oeuvres|Lien)", t)
+        title = re.search(r"Notice\s*:\s*([^<|]+)", f.read_text())
+        pname = html.unescape(title[1]).strip() if title else ""
+        norm = lambda x: x[:4].lower().replace("j", "i").replace("u", "v")
+        same = norm(pname) == norm(name.replace("Ps.-", ""))
+        if not same:
+            print(f"  skip {name}: Pinakes number in the catalogue leads to '{pname}'")
+            continue
+        authors[name] = {"pinakes_id": i, "pinakes_name": pname, "century": cen[1] if cen else "", "date": dat[1] if dat else "",
+                         "url": f"https://pinakes.irht.cnrs.fr/notices/auteur/{i}/"}
     (ROOT / "data" / "pinakes.json").write_text(json.dumps(
         {"source": "Pinakes, IRHT (pinakes.irht.cnrs.fr)", "retrieved": date.today().isoformat(),
-         "oeuvres": out}, ensure_ascii=False, indent=1))
+         "oeuvres": out, "authors": authors}, ensure_ascii=False, indent=1))
+    print(f"{len(authors)} author records")
     print(f"parsed {len(out)} Pinakes works, {sum(len(v['witnesses']) for v in out.values())} witnesses")
 
 
