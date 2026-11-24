@@ -158,12 +158,18 @@ def ed_key(w, editor):
 
 
 _WPFILE = ROOT / "data" / "author_dates_wikipedia.json"
-WP_AUTH = json.loads(_WPFILE.read_text())["authors"] if _WPFILE.exists() else {}
+_WPD = json.loads(_WPFILE.read_text()) if _WPFILE.exists() else {}
+WP_AUTH = _WPD.get("authors", {})
+COMPILER_AUTH = _WPD.get("compiler", {})
 
 
 def author_source(name):
     """(source name, url, note) for an author's date."""
     a = (PK.get("authors") or {}).get(name)
+    if name in COMPILER_AUTH:
+        return "S. Coughlin", "", "Date supplied by the compiler"
+    if WP_AUTH.get(name, {}).get("override_pinakes"):
+        return "Wikipedia", WP_AUTH[name]["url"], WP_AUTH[name]["quote"]
     if a and re.search(r"\d", a["century"]):
         return "Pinakes", a["url"], ""
     if name in WP_AUTH:
@@ -175,6 +181,10 @@ def author_date(name):
     """Pinakes author record -> (label, sort year) e.g. ('s. V–IV BCE (460–377 BCE)', -460);
     Wikipedia (data/author_dates_wikipedia.json) where Pinakes has no usable date."""
     a = (PK.get("authors") or {}).get(name)
+    if name in COMPILER_AUTH:
+        return COMPILER_AUTH[name]["label"], COMPILER_AUTH[name]["year"]
+    if WP_AUTH.get(name, {}).get("override_pinakes"):
+        return WP_AUTH[name]["label"], WP_AUTH[name]["year"]
     if not a or not re.search(r"\d", a["century"]):
         w = WP_AUTH.get(name)
         return (w["label"], w["year"]) if w else ("", None)
@@ -456,8 +466,13 @@ def main():
                       f'<span class="n">{len(w["mss"]) or ""}</span></li>' for w in a["works"])
         _lab, _ = author_date(a["name"])
         _src, _url, _quote = author_source(a["name"])
+        _pkr = (PK.get("authors") or {}).get(a["name"])
         body = (f'<p class="crumb"><a href="../index.html">Authors</a></p><h1>{esc(a["name"])}</h1>'
-                + (f'<p class="wdate">{esc(_lab)} <span class="mmt" title="{esc(_quote, quote=True)}">(<a href="{esc(_url)}">{_src}</a>)</span></p>' if _lab else "")
+                + (f'<p class="wdate">{esc(_lab)} <span class="mmt" title="{esc(_quote, quote=True)}">('
+                   + (f'<a href="{esc(_url)}">{_src}</a>' if _url else esc(_src)) + ')</span>'
+                   + (f' <span class="mmt">· Pinakes: <a href="{esc(_pkr["url"])}">{esc(_pkr["century"])}{(", " + esc(_pkr["date"])) if _pkr["date"] else ""}</a></span>'
+                      if _src != "Pinakes" and _pkr and re.search(r"\d", _pkr["century"]) else "")
+                   + '</p>' if _lab else "")
                 + f'<p class="meta">{len(a["works"])} works · {sum(len(w["mss"]) for w in a["works"])} manuscript witnesses'
                 f' · catalogue state {esc(a["source_date"][:4])}-{esc(a["source_date"][4:6])}-{esc(a["source_date"][6:])}</p>'
                 + (f'<p class="sortsw" data-target="works">Order: <button data-mode="cat" class="on">catalogue</button>'
@@ -475,7 +490,7 @@ def main():
         lab, y = author_date(a["name"])
         src = author_source(a["name"])[0]
         return (f"<td class='dt' data-v='{(y if y is not None else 9999) + 10000:05d}' title='{esc(src)}'>{esc(lab)}"
-                + (" <span class='mmt'>(W)</span>" if src == "Wikipedia" else "") + "</td>")
+                + (" <span class='mmt'>(W)</span>" if src == "Wikipedia" else " <span class='mmt'>(SC)</span>" if src == "S. Coughlin" else "") + "</td>")
     rows = "".join(
         f'<tr><td><a href="authors/{a["id"]}.html">{esc(a["name"])}</a></td>{_adate(a)}<td class="num">{len(a["works"])}</td>'
         f'<td class="num">{sum(len(w["mss"]) for w in a["works"])}</td></tr>' for a in authors)
@@ -486,7 +501,7 @@ def main():
             f'and a link straight to that page of the digitized manuscript, along with early printed editions, '
             f'authoritative modern editions and translations. {len(authors)} authors, {nw} works, {nm} manuscript witnesses.</p>'
             '<ul id="hits"></ul>'
-            '<p class="mmt">Click a column heading to sort, e.g. by date. Author dates from Pinakes; (W) = from Wikipedia where Pinakes has none.</p>'
+            '<p class="mmt">Click a column heading to sort, e.g. by date. Author dates from Pinakes; (W) = Wikipedia, where it is more precise or Pinakes has none; (SC) = supplied by the compiler.</p>'
             '<table class="authors sortable"><thead><tr><th>Author</th><th>Date</th><th class="num">Works</th><th class="num">Witnesses</th></tr></thead>'
             f'<tbody>{rows}</tbody></table>')
     (OUT / "index.html").write_text(page("Medici Graeci: works, manuscripts, editions", body))

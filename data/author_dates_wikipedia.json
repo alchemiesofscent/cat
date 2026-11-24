@@ -1,30 +1,164 @@
 {
- "_doc": "Author dates from English Wikipedia (read 24 Nov 2026) for authors without a usable Pinakes date. 'year' is a sort key (negative = BCE). 'quote' is the sentence the date rests on.",
+ "_doc": "Author dates from English Wikipedia (read 24 Nov 2026) for authors without a usable Pinakes date. 'year' is a sort key (negative = BCE). 'quote' is the sentence the date rests on. Entries with override_pinakes replace a coarser or doubtful Pinakes date (the Pinakes date is still shown on the author page). 'compiler' = dates supplied by Sean Coughlin.",
  "authors": {
-  "Anthimus": {"label": "s. VI CE", "year": 550,
-   "quote": "6th century Byzantine Greek physician", "url": "https://en.wikipedia.org/wiki/Anthimus_(physician)"},
-  "Caelius Aurelianus": {"label": "s. V CE (fl., probably)", "year": 450,
-   "quote": "He probably flourished in the 5th century, although some place him two or even three centuries earlier.", "url": "https://en.wikipedia.org/wiki/Caelius_Aurelianus"},
-  "Celsus": {"label": "c. 25 BCE – c. 50 CE", "year": -25,
-   "quote": "Roman physician and encyclopaedist (c. 25 BC - c. 50 AD)", "url": "https://en.wikipedia.org/wiki/Aulus_Cornelius_Celsus"},
-  "Diocles Carystius": {"label": "s. IV BCE", "year": -350,
-   "quote": "His significance was as a major thinker, practitioner, and writer of the fourth century.", "url": "https://en.wikipedia.org/wiki/Diocles_of_Carystus"},
-  "Herophilus Chalcedonius": {"label": "335–280 BCE", "year": -335,
-   "quote": "Greek physician (335–280 BC)", "url": "https://en.wikipedia.org/wiki/Herophilos"},
-  "Marcellus Burdigalensis (Empiricus)": {"label": "s. IV–V CE (turn of the centuries)", "year": 400,
-   "quote": "a Latin medical writer from Gaul at the turn of the 4th and 5th centuries", "url": "https://en.wikipedia.org/wiki/Marcellus_Empiricus"},
-  "Plinius Secundus Iunior": {"label": "early s. IV CE (the compilation)", "year": 310,
-   "quote": "The Medicina Plinii or Medical Pliny is an anonymous Latin compilation of medical remedies dating to the early 4th century AD.", "url": "https://en.wikipedia.org/wiki/Medicina_Plinii"},
-  "Praxagoras": {"label": "born c. 340 BCE", "year": -340,
-   "quote": "He was born on the Greek island of Kos in about 340 BC.", "url": "https://en.wikipedia.org/wiki/Praxagoras"},
-  "Scribonius Largus": {"label": "c. 1 – c. 50 CE", "year": 1,
-   "quote": "Scribonius Largus Designatianus (c. 1 – c. 50) was the court physician to the Roman emperor Claudius.", "url": "https://en.wikipedia.org/wiki/Scribonius_Largus"},
-  "Theodorus Priscianus": {"label": "s. IV CE", "year": 350,
-   "quote": "Priscianus was a pupil of the physician Vindicianus, fixing the period of his life in the fourth century.", "url": "https://en.wikipedia.org/wiki/Theodorus_Priscianus"}
+  "Anthimus": {
+   "label": "fl. 511–534 CE",
+   "year": 511,
+   "quote": "Anthimus (Greek: Ἄνθιμος; fl. 511–534) was a Byzantine Greek physician at the court of the Ostrogoth king Theodoric the Great",
+   "url": "https://en.wikipedia.org/wiki/Anthimus_(physician)",
+   "override_pinakes": true
+  },
+  "Caelius Aurelianus": {
+   "label": "s. V CE (fl., probably)",
+   "year": 450,
+   "quote": "He probably flourished in the 5th century, although some place him two or even three centuries earlier.",
+   "url": "https://en.wikipedia.org/wiki/Caelius_Aurelianus"
+  },
+  "Celsus": {
+   "label": "c. 25 BCE – c. 50 CE",
+   "year": -25,
+   "quote": "Roman physician and encyclopaedist (c. 25 BC - c. 50 AD)",
+   "url": "https://en.wikipedia.org/wiki/Aulus_Cornelius_Celsus"
+  },
+  "Diocles Carystius": {
+   "label": "s. IV BCE",
+   "year": -350,
+   "quote": "His significance was as a major thinker, practitioner, and writer of the fourth century.",
+   "url": "https://en.wikipedia.org/wiki/Diocles_of_Carystus"
+  },
+  "Herophilus Chalcedonius": {
+   "label": "335–280 BCE",
+   "year": -335,
+   "quote": "Greek physician (335–280 BC)",
+   "url": "https://en.wikipedia.org/wiki/Herophilos"
+  },
+  "Marcellus Burdigalensis (Empiricus)": {
+   "label": "s. IV–V CE (turn of the centuries)",
+   "year": 400,
+   "quote": "a Latin medical writer from Gaul at the turn of the 4th and 5th centuries",
+   "url": "https://en.wikipedia.org/wiki/Marcellus_Empiricus"
+  },
+  "Plinius Secundus Iunior": {
+   "label": "early s. IV CE (the compilation)",
+   "year": 310,
+   "quote": "The Medicina Plinii or Medical Pliny is an anonymous Latin compilation of medical remedies dating to the early 4th century AD.",
+   "url": "https://en.wikipedia.org/wiki/Medicina_Plinii"
+  },
+  "Praxagoras": {
+   "label": "born c. 340 BCE",
+   "year": -340,
+   "quote": "He was born on the Greek island of Kos in about 340 BC.",
+   "url": "https://en.wikipedia.org/wiki/Praxagoras"
+  },
+  "Scribonius Largus": {
+   "label": "c. 1 – c. 50 CE",
+   "year": 1,
+   "quote": "Scribonius Largus Designatianus (c. 1 – c. 50) was the court physician to the Roman emperor Claudius.",
+   "url": "https://en.wikipedia.org/wiki/Scribonius_Largus"
+  },
+  "Theodorus Priscianus": {
+   "label": "s. IV CE",
+   "year": 350,
+   "quote": "Priscianus was a pupil of the physician Vindicianus, fixing the period of his life in the fourth century.",
+   "url": "https://en.wikipedia.org/wiki/Theodorus_Priscianus"
+  },
+  "Apollonius Citiensis": {
+   "label": "fl. c. 60 BCE",
+   "year": -60,
+   "quote": "was a physician (fl. c. 60 BC) belonging to the Empiric school",
+   "url": "https://en.wikipedia.org/wiki/Apollonios_of_Kition",
+   "override_pinakes": true
+  },
+  "Aretaeus Cappadox": {
+   "label": "2nd half of s. II CE (most likely)",
+   "year": 150,
+   "quote": "most likely lived in the second half of the second century AD",
+   "url": "https://en.wikipedia.org/wiki/Aretaeus_of_Cappadocia",
+   "override_pinakes": true
+  },
+  "Cassius Felix": {
+   "label": "s. II–III CE (Cassius iatrosophista)",
+   "year": 200,
+   "quote": "an earlier Greek medical writer (2nd or 3rd century AD) [said of Cassius the iatrosophist, author of the Problemata, in the article on the Latin Cassius Felix, fl. 447]",
+   "url": "https://en.wikipedia.org/wiki/Cassius_Felix",
+   "override_pinakes": true
+  },
+  "Dioscorides and Ps. Dioscorides Pedanius Anazarbensis": {
+   "label": "c. 40–90 CE",
+   "year": 40,
+   "quote": "Born c. 40 AD; Died c. 90 AD",
+   "url": "https://en.wikipedia.org/wiki/Dioscorides",
+   "override_pinakes": true
+  },
+  "Erotianus": {
+   "label": "s. I CE (reign of Nero, 54–68)",
+   "year": 54,
+   "quote": "He must have lived (and probably at Rome) in the reign of the emperor Nero (54–68 AD)",
+   "url": "https://en.wikipedia.org/wiki/Erotianus",
+   "override_pinakes": true
+  },
+  "Marcellus Sidetes": {
+   "label": "under Hadrian and Antoninus Pius, 117–161 CE",
+   "year": 117,
+   "quote": "lived during the reigns of Hadrian and Antoninus Pius, 117–161 AD",
+   "url": "https://en.wikipedia.org/wiki/Marcellus_of_Side",
+   "override_pinakes": true
+  },
+  "Philumenus": {
+   "label": "in or before s. IV CE",
+   "year": 300,
+   "quote": "it can only be said that he must have lived in or before the 4th century",
+   "url": "https://en.wikipedia.org/wiki/Philumenus",
+   "override_pinakes": true
+  },
+  "Rufus Ephesius": {
+   "label": "c. 70 – c. 110 CE (under Trajan)",
+   "year": 70,
+   "quote": "Born c. 70 AD; Died c. 110 AD; he lived in the time of Trajan (98–117)",
+   "url": "https://en.wikipedia.org/wiki/Rufus_of_Ephesus",
+   "override_pinakes": true
+  },
+  "Soranus Ephesius": {
+   "label": "under Trajan and Hadrian, 98–138 CE",
+   "year": 98,
+   "quote": "practiced medicine at Alexandria and Rome in the reigns of Trajan and Hadrian (98–138)",
+   "url": "https://en.wikipedia.org/wiki/Soranus_of_Ephesus",
+   "override_pinakes": true
+  },
+  "Stephanus Atheniensis Philosophus": {
+   "label": "c. 540–680 CE",
+   "year": 540,
+   "quote": "lived c. 540–680",
+   "url": "https://en.wikipedia.org/wiki/Stephanus_of_Athens",
+   "override_pinakes": true
+  },
+  "Archigenes Apamensis": {
+   "label": "under Trajan, 98–117 CE",
+   "year": 98,
+   "quote": "he practiced at Rome in the time of Trajan, 98–117",
+   "url": "https://en.wikipedia.org/wiki/Archigenes",
+   "override_pinakes": true
+  },
+  "Asclepiades Bithyniensis": {
+   "label": "c. 129/124 – 40 BCE",
+   "year": -124,
+   "quote": "c. 129/124 BC – 40 BC",
+   "url": "https://en.wikipedia.org/wiki/Asclepiades_of_Bithynia",
+   "override_pinakes": true
+  }
  },
- "not_found": {
-  "Agnellus Ravennensis": "No English Wikipedia article on the iatrosophist (the historian Andreas Agnellus is a different person).",
-  "Metrodora": "The article gives no date.",
-  "Quintus Serenus Sammonicus": "The article (Serenus Sammonicus, d. 212) says he is 'often confused with the author of the didactic medical poem, Liber Medicinalis' and gives no date for that author."
+ "compiler": {
+  "Agnellus Ravennensis": {
+   "label": "550–700 CE",
+   "year": 550
+  },
+  "Quintus Serenus Sammonicus": {
+   "label": "s. III–IV CE",
+   "year": 250
+  },
+  "Metrodora": {
+   "label": "s. VI CE",
+   "year": 550
+  }
  }
 }
