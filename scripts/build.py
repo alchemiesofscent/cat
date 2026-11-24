@@ -448,7 +448,7 @@ def page(title, body, depth=0):
 </header>
 <main>{body}</main>
 <script src="{up}site.js" data-root="{up}"></script>
-<footer>Compiled and built by Sean Coughlin, from the work catalogues he prepared for the CMG (2019–2020), with manuscript data from Pinakes (IRHT, retrieved {PK["retrieved"]}) and MediManus (CHS, retrieved {MM["retrieved"]}) Galen texts from Galenus Verbatim and Arabic texts from the Digital Corpus for Graeco-Arabic Studies. Built {date.today().isoformat()}.</footer>
+<footer>Compiled and built by Sean Coughlin, from the work catalogues he prepared for the CMG (2019–2020), with manuscript data from Pinakes (IRHT, retrieved {PK["retrieved"]}) and MediManus (CHS, retrieved {MM["retrieved"]}) Galen texts from Galenus Verbatim and Arabic texts from the Digital Corpus for Graeco-Arabic Studies. <a href="{up}about.html#versions">{VERSION}</a>, built {date.today().isoformat()}.</footer>
 </body></html>"""
 
 
@@ -647,6 +647,8 @@ def work_html(a, w):
 
 
 REPO = "https://github.com/alchemiesofscent/cat"
+_vm = re.search(r"^## (v[\d.]+)", (ROOT / "CHANGELOG.md").read_text(), re.M) if (ROOT / "CHANGELOG.md").exists() else None
+VERSION = _vm[1] if _vm else ""
 
 
 def changelog_html():
