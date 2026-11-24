@@ -4,8 +4,15 @@
 
 ### 1. Folio links (the core of v0.2)
 
-1,035 work × manuscript links open only the manuscript (237 manuscripts; `data/folio_links.csv`). Order of work:
-the author with the most missing first, then down the list.
+**Focus: manuscripts with a siglum in a critical edition of the work.** The worklist (`data/folio_links.csv`, 1,047
+rows, 242 manuscripts) puts first the 66 rows (about 40 manuscripts) whose manuscript has a siglum for that work,
+with the siglum shown; within them, and then for the rest, the author with the most missing first.
+
+**1c. Find digitizations for sigla manuscripts.** Of the 354 manuscripts with a siglum, 187 have no known
+digitization. Look them up in the libraries' own catalogues (Vatican, BnF, BSB, ONB, Laurenziana, Marciana,
+Ambrosiana, Escorial, Bodleian), add what is found to the worklist, and list the rest as "not digitized (checked)".
+
+Counts for all rows, for reference:
 
 | Author | Missing | | Author | Missing |
 |---|---|---|---|---|

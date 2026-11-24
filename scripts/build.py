@@ -659,7 +659,9 @@ def work_html(a, w):
                   "url": f"https://pinakes.irht.cnrs.fr/notices/cote/{pk['cote_id']}/"} if pk and _pk_centuries(pk["century"])
                  else ms_date(r["city"], r["normalized"]))
             dig = PKDIG.get(pk["cote_id"]) if pk else None
-            link = (f'<a class="go" href="{esc(dig[0]["url"])}" title="Digitization linked by Pinakes">view ms.</a>' if dig else "")
+            shelf_d = display_shelf(r["city"], r["normalized"] or r["printed"])
+            link = hand_link(w["id"], shelf_d, r["folios"] or (pk["folios"] if pk else "")) or (
+                f'<a class="go" href="{esc(dig[0]["url"])}" title="Digitization linked by Pinakes">view ms.</a>' if dig else "")
             unv = all(x["status"] == "unverified" for x in recs)
             ind = all(x["status"] == "indirect" for x in recs)
             flag = (' <span class="unv" title="Not listed for this work by Pinakes or MediManus; see SIGLA-CHECK.md">?</span>'
