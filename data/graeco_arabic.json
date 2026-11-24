@@ -1,0 +1,848 @@
+{
+ "source": "Digital Corpus for Graeco-Arabic Studies (graeco-arabic-studies.org)",
+ "retrieved": "2026-11-24",
+ "works": {
+  "galenus-062": [
+   {
+    "url": "https://www.graeco-arabic-studies.org/view/gal.adglauc-transl-ar1",
+    "ed": "unedited",
+    "by": "Galen",
+    "title": "Ad Glauconem de methodo medendi",
+    "en": "Therapeutics to Glaucon",
+    "type": "Translation (Arabic)",
+    "source": "G = Princeton, Princeton University Library, Garrett 1G (12), 281v–342v A = Istanbul, Süleymaniye, Ayasofya 3701 (4), 102r–181v Text transcribed from G by Geoffrey Moseley and collated with A by Uwe Vagelpohl.",
+    "of": "Galen, Ad Glauconem de methodo medendi"
+   },
+   {
+    "url": "https://www.graeco-arabic-studies.org/view/anon.gal.adglauc-summ.alexsumm-ar1",
+    "ed": "ed. Sālim 1982",
+    "by": "Anon.",
+    "title": "Ǧawāmiʿ al-Iskandarānīyīn li-kitāb ilā Ġlawqun ʿalā l-šarḥ wa-l-talḫīṣ",
+    "en": "Alexandrian Summary of (Galen's) Book to Glaucon",
+    "type": "Summary (Arabic)",
+    "source": "Sālim, Muḥammad Salīm. Kitāb Ǧālīnūs ilā Ġlawqun fī l-taʾattī li-šifāʾ al-amrāḍ. Šarḥ wa-talḫīṣ Ḥunayn ibn Isḥāq . Ǧawāmiʿ al-Iskandarānīyīn 4. Cairo (al-Hayʾah al-miṣrīyah al-ʿāmmah li-l-kitāb) 1982, 3–517.",
+    "of": "Galen, Ad Glauconem de methodo medendi"
+   }
+  ],
+  "galenus-001": [
+   {
+    "url": "https://www.graeco-arabic-studies.org/view/anon.gal.protr-summ.mukhtasar-ar1",
+    "ed": "ed. Badawī 1981",
+    "by": "Anon.",
+    "title": "Muḫtaṣar maqāl Ǧālīnūs fī l-ḥaṯṯ ʿalā taʿallum al-ʿulūm wa-l-ṣināʿāt",
+    "en": "Synopsis of Galen's Treatise on the Exhortation to Learn the Sciences and Arts",
+    "type": "Summary (Arabic)",
+    "source": "Badawī, ʿAbd al-Raḥmān. Dirāsāt wa-nuṣūṣ fī al-falsafah wa-l-ʿulūm ʿind al-ʿarab . Beirut (al-Muʾassasah al-ʿarabīyah li-l-dirāsāt wa-l-našr) 1981, 187–189.",
+    "of": "Galen, Adhortatio ad artes addiscendas/Protrepticus"
+   }
+  ],
+  "galenus-006": [
+   {
+    "url": "https://www.graeco-arabic-studies.org/view/gal.arsmed-transl-ar1",
+    "ed": "ed. Sālim 1988",
+    "by": "Galen",
+    "title": "Ars medica",
+    "en": "The Art of Medicine",
+    "type": "Translation (Arabic)",
+    "source": "Sālim, Muḥammad Salīm. al-Ṣināʿah al-ṣaġīrah li-Ǧālīnūs . Muntaḫabāt al-Iskandarānīyīn 3. Cairo (al-Hayʾah al-miṣrīyah al-ʿāmmah li-l-kitāb) 1988, 1–193.",
+    "of": "Galen, Ars medica"
+   },
+   {
+    "url": "https://www.graeco-arabic-studies.org/view/anon.gal.arsmed-summ.alexsumm-ar1",
+    "ed": "ed. Walbridge 2014",
+    "by": "Anon.",
+    "title": "Ǧawāmiʿ al-Iskandarānīyīn li-kitāb Ǧālīnūs al-maʿrūf bi-l-ṣināʿah al-ṣaġīrah al-ṭibbīyah ʿalā l-šarḥ wa-l-talḫīṣ",
+    "en": "Alexandrian Summary of Galen's Book Known as the Small Medical Art",
+    "type": "Summary (Arabic)",
+    "source": "Walbridge, John. The Alexandrian Epitomes of Galen. Volume I: On the Medical Sects for Beginners. The Small Art of Medicine. On the Elements According to the Opinion of Hippocrates . Islamic Translation Series. Provo, Utah (Brigham Young University Press) 2014, 50–128.",
+    "of": "Galen, Ars medica"
+   }
+  ],
+  "galenus-091": [
+   {
+    "url": "https://www.graeco-arabic-studies.org/view/gal.compendtimplat-transl-ar1",
+    "ed": "ed. Kraus/Walzer 1951",
+    "by": "Galen",
+    "title": "Compendium Timaei Platonis",
+    "en": "Commentary on Plato's Timaeus",
+    "type": "Translation (Arabic)",
+    "source": "Kraus, Paul and Richard Walzer. Galeni Compendium Timaei Platonis aliorumque dialogorum synopsis quae extant fragmenta . Plato Arabus 1. London (Warburg Institute) 1951, 3–34.",
+    "of": "Galen, Compendium Timaei Platonis"
+   }
+  ],
+  "galenus-010": [
+   {
+    "url": "https://www.graeco-arabic-studies.org/view/gal.deanatadministr-transl-ar2",
+    "ed": "ed. Simon 1906",
+    "by": "Galen",
+    "title": "De anatomicis administrationibus",
+    "en": "On Anatomical Procedures",
+    "type": "Translation (Arabic)",
+    "source": "Simon, Max. Sieben Bücher der Anatomie des Galen . Leipzig (Hinrich) 1906, li–lxxxi, 1–322.",
+    "of": "Galen, De anatomicis administrationibus"
+   },
+   {
+    "url": "https://www.graeco-arabic-studies.org/view/gal.deanatadministr-transl-ar1",
+    "ed": "ed. Garofalo 2000",
+    "by": "Galen",
+    "title": "De anatomicis administrationibus",
+    "en": "On Anatomical Procedures",
+    "type": "Translation (Arabic)",
+    "source": "Garofalo, Ivan. Galenus: Anatomicarum administrationum libri qui supersunt novem. Earundem interpretatio Arabica Hunaino Isaaci filio ascripta. II: Libros V-IX continens . Annali dell'Istituto Universitario Orientale di Napoli, Dipartimento di Studi del Mondo Classico e del Mediterraneo Antico, Sezione Filologico-Letteraria: Quaderni 2. Naples (Istituto Universitario Orientale) 2000, 266–578.",
+    "of": "Galen, De anatomicis administrationibus"
+   }
+  ],
+  "galenus-024": [
+   {
+    "url": "https://www.graeco-arabic-studies.org/view/gal.debonohab-transl-ar1",
+    "ed": "unedited",
+    "by": "Galen",
+    "title": "De bono habitu",
+    "en": "Good Condition",
+    "type": "Translation (Arabic)",
+    "source": "N = Madrid, Biblioteca Nacional, 5011 (5), 144r–147r I = Istanbul, Süleymaniye, Ayasofya 3725 (10), 122v–125r P = Paris, Bibliothèque Nationale, arabe 2847 (5), 118v–120v Text transcribed and collated by Uwe Vagelpohl.",
+    "of": "Galen, De bono habitu"
+   }
+  ],
+  "galenus-092": [
+   {
+    "url": "https://www.graeco-arabic-studies.org/view/gal.decausiscontent-transl-ar1",
+    "ed": "ed. Lyons 1969",
+    "by": "Galen",
+    "title": "De causis contentivis",
+    "en": "On Containing Causes",
+    "type": "Translation (Arabic)",
+    "source": "Lyons, Malcolm C.. Galen On the Parts of Medicine, On Cohesive Causes, On Regimen in Acute Diseases in Accordance with the Theories of Hippocrates . Corpus Medicorum Graecorum. Supplementum Orientale II. Berlin (Akademie-Verlag) 1969, 52–72.",
+    "of": "Galen, De causis contentivis"
+   }
+  ],
+  "galenus-094": [
+   {
+    "url": "https://www.graeco-arabic-studies.org/view/gal.deconsuetud-transl-ar1",
+    "ed": "ed. Klein-Franke 1979",
+    "by": "Galen",
+    "title": "De consuetudinibus",
+    "en": "On Habits",
+    "type": "Translation (Arabic)",
+    "source": "Klein-Franke, Felix. \"The Arabic Version of Galen's Περὶ ἐθῶν\". Jerusalem Studies in Arabic and Islam 1 (1979), 125–150.",
+    "of": "Galen, De consuetudinibus"
+   }
+  ],
+  "galenus-059": [
+   {
+    "url": "https://www.graeco-arabic-studies.org/view/anon.gal.decris-summ.alexsumm-ar1",
+    "ed": "unedited",
+    "by": "Anon.",
+    "title": "Ǧawāmiʿ min kitāb Ǧālīnūs fī l-buḥrān",
+    "en": "(Alexandrian) Summary of Galen's Book on the Crisis",
+    "type": "Summary (Arabic)",
+    "source": "G = Princeton, University Library, Garrett 1G (3), 41r–58v F = Istanbul, Süleymaniye, Fatih 3538 (10), 271v–291r Text transcribed and collated by Uwe Vagelpohl.",
+    "of": "Galen, De crisibus"
+   }
+  ],
+  "galenus-060": [
+   {
+    "url": "https://www.graeco-arabic-studies.org/view/gal.dediebusdecr-transl-ar1",
+    "ed": "ed. Cooper 2016",
+    "by": "Galen",
+    "title": "De diebus decretoriis",
+    "en": "On Critical Days",
+    "type": "Translation (Arabic)",
+    "source": "Cooper, Glen M. Galen, Die diebus decretoriis, from Greek into Arabic . Medicine in the Medieval Mediterranean. London, New York (Routledge) 2016, 97–385.",
+    "of": "Galen, De diebus decretoriis"
+   },
+   {
+    "url": "https://www.graeco-arabic-studies.org/view/anon.gal.dediebusdecr-summ.alexsumm-ar1",
+    "ed": "ed. Bos/Langermann 2015",
+    "by": "Anon.",
+    "title": "Ǧawāmiʿ kitāb Ǧālīnūs fī ayyām al-buḥrān",
+    "en": "(Alexandrian) Summary of Galen's Book on Critical Days",
+    "type": "Summary (Arabic)",
+    "source": "Bos, Gerrit and Y. Tzvi Langermann. The Alexandrian Summaries of Galen's On Critical Days. Editions and Translations of the Two Versions of the Jawāmiʿ, with an Introduction and Notes . Islamic Philosophy, Theology and Science. Texts and Studies 92. Leiden, Boston (Brill) 2015, 33–48.",
+    "of": "Galen, De diebus decretoriis"
+   }
+  ],
+  "galenus-007": [
+   {
+    "url": "https://www.graeco-arabic-studies.org/view/gal.deelem-transl-ar1",
+    "ed": "ed. Sālim 1986",
+    "by": "Galen",
+    "title": "De elementis ex Hippocrate",
+    "en": "On the Elements According to Hippocrates",
+    "type": "Translation (Arabic)",
+    "source": "Sālim, Muḥammad Salīm. Kitāb Ǧālīnūs fī l-usṭuqussāt ʿalā raʾy Abuqrāṭ . Muntaḫabāt al-Iskandarānīyīn 5. Cairo (al-Hayʾah al-miṣrīyah al-ʿāmmah li-l-kitāb) 1986, 9–140.",
+    "of": "Galen, De elementis ex Hippocrate"
+   },
+   {
+    "url": "https://www.graeco-arabic-studies.org/view/ibnzurah.gal.deelem-summ.fusul-ar1",
+    "ed": "unedited",
+    "by": "Ibn Zurʾah",
+    "title": "Fuṣūl wa-ṯamarat ǧawāmiʿ kitāb al-usṭuqussāt",
+    "en": "Sections and Selections from the Summary of the Book of Elements",
+    "type": "Summary (Arabic)",
+    "source": "T = Teheran, Maǧlis, 6037 (4), 95v–96v Text transcribed by Uwe Vagelpohl.",
+    "of": "Galen, De elementis ex Hippocrate"
+   },
+   {
+    "url": "https://www.graeco-arabic-studies.org/view/maimonides.gal.deelem-summ.mukhtasar-ar1",
+    "ed": "unedited",
+    "by": "Maimonides",
+    "title": "(Muḫtaṣar) kitāb al-usṭuqussāt",
+    "en": "(Synopsis of) the Book of Elements",
+    "type": "Summary (Arabic)",
+    "source": "A = Istanbul, Süleymaniye, Ayasofya 3726 (2), 7r–9r Text transcribed by Uwe Vagelpohl.",
+    "of": "Galen, De elementis ex Hippocrate"
+   },
+   {
+    "url": "https://www.graeco-arabic-studies.org/view/anon.gal.deelem-summ.alexsumm-ar1",
+    "ed": "ed. Walbridge 2014",
+    "by": "Anon.",
+    "title": "Ǧawāmiʿ kitāb Ǧālīnūs fī l-ʿanāṣir ʿalā raʾī Abuqrāṭ",
+    "en": "(Alexandrian) Summary of Galen's Book On the Elements According to the Doctrine of Hippocrates",
+    "type": "Summary (Arabic)",
+    "source": "Walbridge, John. The Alexandrian Epitomes of Galen. Volume I: On the Medical Sects for Beginners. The Small Art of Medicine. On the Elements According to the Opinion of Hippocrates . Islamic Translation Series. Provo, Utah (Brigham Young University Press) 2014, 135–186.",
+    "of": "Galen, De elementis ex Hippocrate"
+   },
+   {
+    "url": "https://www.graeco-arabic-studies.org/view/hunayn.gal.deelem-summ.mukhtasar-ar1",
+    "ed": "ed. Langermann/Bos 2015",
+    "by": "Ḥunayn ibn Isḥāq",
+    "title": "Muḫtaṣar waǧīz fī l-usṭuqussāt ustuḫriǧ min kitāb Ǧālīnūs",
+    "en": "Brief Synopsis on the Elements Extracted from Galen's Book",
+    "type": "Summary (Arabic)",
+    "source": "Langermann, Y. Tzvi and Gerrit Bos. \"An Epitome of Galen's On the Elements Ascribed to Ḥunayn ibn Isḥāq\". Arabic Sciences and Philosophy 25/1 (2015), 62–78.",
+    "of": "Galen, De elementis ex Hippocrate"
+   }
+  ],
+  "galenus-009": [
+   {
+    "url": "https://www.graeco-arabic-studies.org/view/anon.gal.defacnat-summ.jumal-ar1",
+    "ed": "unedited",
+    "by": "Anon.",
+    "title": "Ǧumal al-maqālah al-ṯāniyah (min kitāb al-quwā l-ṭabīʿīyah)",
+    "en": "Digest of the Second Book (of On the Natural Faculties)",
+    "type": "Summary (Arabic)",
+    "source": "D = Teheran, Dāniškadā-i Piziškī, 291 (4), 237 Text transcribed by Uwe Vagelpohl.",
+    "of": "Galen, De facultatibus naturalibus"
+   },
+   {
+    "url": "https://www.graeco-arabic-studies.org/view/ibnzurah.gal.defacnat-summ.fusul-ar1",
+    "ed": "unedited",
+    "by": "Ibn Zurʾah",
+    "title": "Fuṣūl ǧawāmiʿ kitāb al-quwā l-ṭabīʿīyah",
+    "en": "Sections from the Summary of the Book of Natural Faculties",
+    "type": "Summary (Arabic)",
+    "source": "T = Teheran, Maǧlis, 6037 (6), 99v–101v Text transcribed by Uwe Vagelpohl.",
+    "of": "Galen, De facultatibus naturalibus"
+   },
+   {
+    "url": "https://www.graeco-arabic-studies.org/view/maimonides.gal.defacnat-summ.mukhtasar-ar1",
+    "ed": "unedited",
+    "by": "Maimonides",
+    "title": "(Muḫtaṣar) kitāb al-quwā l-ṭabīʿīyah",
+    "en": "(Synopsis of) the Book of Natural Faculties",
+    "type": "Summary (Arabic)",
+    "source": "A = Istanbul, Süleymaniye, Ayasofya 3726 (4), 21v–24r Text transcribed by Uwe Vagelpohl.",
+    "of": "Galen, De facultatibus naturalibus"
+   },
+   {
+    "url": "https://www.graeco-arabic-studies.org/view/anon.gal.defacnat-summ.alexsumm-ar1",
+    "ed": "unedited",
+    "by": "Anon.",
+    "title": "Ǧawāmiʿ kitāb Ǧālīnūs fī l-quwā l-ṭabīʿīyah ʿalā raʾī al-Iskandarānīyīn",
+    "en": "(Alexandrian) Summary of Galen's Book On the Natural Faculties According to the Doctrine of the Alexandrians",
+    "type": "Summary (Arabic)",
+    "source": "B = London, British Library, Or. 9292 (3), 52r–81v F = Istanbul, Süleymaniye, Fatih 3538 (6), 165v–191v Text transcribed and collated by Uwe Vagelpohl.",
+    "of": "Galen, De facultatibus naturalibus"
+   }
+  ],
+  "galenus-041": [
+   {
+    "url": "https://www.graeco-arabic-studies.org/view/gal.dedifffebr-transl-ar1",
+    "ed": "ed. Wernhard 2004",
+    "by": "Galen",
+    "title": "De febrium differentiis",
+    "en": "On the Differences of Fevers",
+    "type": "Translation (Arabic)",
+    "source": "Wernhard, Matthias. \"Galen Über die Arten der Fieber in der arabischen Version des Ḥunain Ibn Isḥāq\". Ph.D. thesis, Munich (Ludwig-Maximilians-Universität) 2004, 4–294.",
+    "of": "Galen, De febrium differentiis"
+   },
+   {
+    "url": "https://www.graeco-arabic-studies.org/view/anon.gal.dedifffebr-summ.alexsumm-ar1",
+    "ed": "ed. Wernhard 2004",
+    "by": "Anon.",
+    "title": "Ǧawāmiʿ kitāb Ǧālīnūs fī aṣnāf al-ḥummayāt",
+    "en": "(Alexandrian) Summary of Galen's Book On the Types of Fevers",
+    "type": "Summary (Arabic)",
+    "source": "Wernhard, Matthias. \"Galen Über die Arten der Fieber in der arabischen Version des Ḥunain Ibn Isḥāq\". Ph.D. thesis, Munich (Ludwig-Maximilians-Universität) 2004, 301–335.",
+    "of": "Galen, De febrium differentiis"
+   }
+  ],
+  "galenus-050": [
+   {
+    "url": "https://www.graeco-arabic-studies.org/view/gal.deinaequintemp-transl-ar1",
+    "ed": "unedited",
+    "by": "Galen",
+    "title": "De inaequali intemperie",
+    "en": "On Uneven Distemper",
+    "type": "Translation (Arabic)",
+    "source": "A = Istanbul, Süleymaniye, Ayasofya 3593 (3), 49r–52v N = Madrid, Biblioteca Nacional, 5011 (3), 127v–137r P = Paris, Bibliothèque Nationale, arabe 2847 (3), 106r–114v Text transcribed and collated by Uwe Vagelpohl.",
+    "of": "Galen, De inaequali intemperie"
+   }
+  ],
+  "galenus-086": [
+   {
+    "url": "https://www.graeco-arabic-studies.org/view/ibnzurah.gal.kitabaltashrih-summ.fusul-ar1",
+    "ed": "unedited",
+    "by": "Ibn Zurʾah",
+    "title": "Fuṣūl ǧawāmiʿ kitāb al-tašrīḥ li-l-mutaʿallimīn",
+    "en": "Sections from the Summary of the Book of Anatomy for Students",
+    "type": "Summary (Arabic)",
+    "source": "T = Teheran, Maǧlis, 6037 (7), 101v–104r Text transcribed by Uwe Vagelpohl.",
+    "of": "Galen, De musculorum dissectione ad tirones"
+   }
+  ],
+  "galenus-013": [
+   {
+    "url": "https://www.graeco-arabic-studies.org/view/ibnzurah.gal.kitabaltashrih-summ.fusul-ar1",
+    "ed": "unedited",
+    "by": "Ibn Zurʾah",
+    "title": "Fuṣūl ǧawāmiʿ kitāb al-tašrīḥ li-l-mutaʿallimīn",
+    "en": "Sections from the Summary of the Book of Anatomy for Students",
+    "type": "Summary (Arabic)",
+    "source": "T = Teheran, Maǧlis, 6037 (7), 101v–104r Text transcribed by Uwe Vagelpohl.",
+    "of": "Galen, De nervorum dissectione"
+   }
+  ],
+  "galenus-102": [
+   {
+    "url": "https://www.graeco-arabic-studies.org/view/gal.denominibusmedicis-transl-ar1",
+    "ed": "ed. Meyerhof/Schacht 1931",
+    "by": "Galen",
+    "title": "De nominibus medicinalibus",
+    "en": "On Medical Names",
+    "type": "Translation (Arabic)",
+    "source": "Meyerhof, Max and Josef Schacht. Galen über die medizinischen Namen . Abhandlungen der preussischen Akademie der Wissenschaften. Philosophisch-historische Klasse 3. Berlin (Verlag der Akademie der Wissenschaften) 1931, 1–21.",
+    "of": "Galen, De nominibus medicinalibus"
+   }
+  ],
+  "galenus-023": [
+   {
+    "url": "https://www.graeco-arabic-studies.org/view/gal.deoptcorpnostriconstit-transl-ar1",
+    "ed": "unedited",
+    "by": "Galen",
+    "title": "De optima corporis nostri constitutione",
+    "en": "The Best Constitution of our Bodies",
+    "type": "Translation (Arabic)",
+    "source": "I = Istanbul, Süleymaniye, Ayasofya 3725 (8), 94v–99r N = Madrid, Biblioteca Nacional, 5011 (4), 138v–143v P = Paris, Bibliothèque Nationale, arabe 2847 (4), 114v–118v Text transcribed and collated by Uwe Vagelpohl.",
+    "of": "Galen, De optima corporis nostri constitutione"
+   }
+  ],
+  "galenus-098": [
+   {
+    "url": "https://www.graeco-arabic-studies.org/view/gal.deoptmedcogn-transl-ar1",
+    "ed": "ed. Iskandar 1988",
+    "by": "Galen",
+    "title": "De optimo medico cognoscendo",
+    "en": "On Recognizing the Best Physician",
+    "type": "Translation (Arabic)",
+    "source": "Iskandar, Albert Z.. Galen on Examinations by which the Best Physicians Are Recognized . Corpus Medicorum Graecorum. Supplementum Orientale IV. Berlin (Akademie-Verlag) 1988, 40–136.",
+    "of": "Galen, De optimo medico cognoscendo"
+   }
+  ],
+  "galenus-011": [
+   {
+    "url": "https://www.graeco-arabic-studies.org/view/ibnzurah.gal.kitabaltashrih-summ.fusul-ar1",
+    "ed": "unedited",
+    "by": "Ibn Zurʾah",
+    "title": "Fuṣūl ǧawāmiʿ kitāb al-tašrīḥ li-l-mutaʿallimīn",
+    "en": "Sections from the Summary of the Book of Anatomy for Students",
+    "type": "Summary (Arabic)",
+    "source": "T = Teheran, Maǧlis, 6037 (7), 101v–104r Text transcribed by Uwe Vagelpohl.",
+    "of": "Galen, De ossibus ad tirones"
+   }
+  ],
+  "galenus-103": [
+   {
+    "url": "https://www.graeco-arabic-studies.org/view/gal.departartismed-transl-ar1",
+    "ed": "ed. Lyons 1969",
+    "by": "Galen",
+    "title": "De partibus artis medicativae",
+    "en": "On the Parts of the Art of Medicine",
+    "type": "Translation (Arabic)",
+    "source": "Lyons, Malcolm C. Galen On the Parts of Medicine, On Cohesive Causes, On Regimen in Acute Diseases in Accordance with the Theories of Hippocrates . Corpus Medicorum Graecorum. Supplementum Orientale II. Berlin (Akademie-Verlag) 1969, 24–48.",
+    "of": "Galen, De partibus artis medicativae"
+   }
+  ],
+  "galenus-100": [
+   {
+    "url": "https://www.graeco-arabic-studies.org/view/gal.departhomoeomdiff-transl-ar1",
+    "ed": "ed. Strohmaier 1970",
+    "by": "Galen",
+    "title": "De partium homoeomerium differentia",
+    "en": "On the Differences of Uniform Parts",
+    "type": "Translation (Arabic)",
+    "source": "Strohmaier, Gotthard. Galen: Über die Verschiedenheit der homoiomeren Körperteile . Corpus Medicorum Graecorum. Supplementum Orientale III. Berlin (Akademie-Verlag) 1970, 44–84.",
+    "of": "Galen, De partium homoeomerium differentia"
+   }
+  ],
+  "galenus-053": [
+   {
+    "url": "https://www.graeco-arabic-studies.org/view/gal.depulsadtir-transl-ar1",
+    "ed": "ed. Sālim 1985",
+    "by": "Galen",
+    "title": "De pulsibus ad tirones",
+    "en": "On the Pulse for Beginners",
+    "type": "Translation (Arabic)",
+    "source": "Sālim, Muḥammad Salīm. Kitāb Ǧālīnūs ilā Ṭūṯaran fī l-nabḍ li-l-mutaʿallimīn . Muntaḫabāt al-Iskandarānīyīn 3. Cairo (al-Hayʾah al-miṣrīyah al-ʿāmmah li-l-kitāb) 1985, 11–96.",
+    "of": "Galen, De pulsibus ad tirones"
+   },
+   {
+    "url": "https://www.graeco-arabic-studies.org/view/anon.gal.depulsadtir-summ.alexsumm-ar1",
+    "ed": "unedited",
+    "by": "Anon.",
+    "title": "Ǧawāmiʿ al-Iskandarānīyīn li-kitāb Ǧālīnūs fī l-nabḍ al-ṣaġīr ilā Ṭūṯrun",
+    "en": "Alexandrian Summary of Galen's Small Book on the Pulse to Teuthras",
+    "type": "Summary (Arabic)",
+    "source": "A = Istanbul, Süleymaniye, Ayasofya 3588 (5), 35v–53v F = Istanbul, Süleymaniye, Fatih 3538 (3), 46r–68r Text transcribed and collated by Uwe Vagelpohl.",
+    "of": "Galen, De pulsibus ad tirones"
+   }
+  ],
+  "galenus-004": [
+   {
+    "url": "https://www.graeco-arabic-studies.org/view/gal.desectis-transl-ar1",
+    "ed": "ed. Sālim 1977",
+    "by": "Galen",
+    "title": "De sectis ad eos qui introducuntur",
+    "en": "On Sects for Beginners",
+    "type": "Translation (Arabic)",
+    "source": "Sālim, Muḥammad Salīm. Kitāb Ǧālīnūs fī firaq al-ṭibb li-l-mutaʿallimīn . Muntaḫabāt al-Iskandarānīyīn 1. Cairo (Maṭbaʿat Dār al-kutub al-miṣrīyah) 1977, 11–90.",
+    "of": "Galen, De sectis ad eos qui introducuntur"
+   },
+   {
+    "url": "https://www.graeco-arabic-studies.org/view/anon.gal.desectis-summ.alexsumm-ar1",
+    "ed": "unedited",
+    "by": "Anon.",
+    "title": "Ǧawāmiʿ kitāb Ǧālīnūs fī firaq al-ṭibb ʿalā l-šarḥ wa-l-talḫīṣ li-l-Iskandarānīyīn",
+    "en": "Alexandrian Summary of Galen's Book On the Medical Sects",
+    "type": "Summary (Arabic)",
+    "source": "F = Istanbul, Süleymaniye, Fatih 3538 (1), 1v–17v L = London, British Library, 23407 (1), 2v–20v Text transcribed and collated by Peter E. Pormann and recollated by Uwe Vagelpohl.",
+    "of": "Galen, De sectis ad eos qui introducuntur"
+   }
+  ],
+  "galenus-105": [
+   {
+    "url": "https://www.graeco-arabic-studies.org/view/gal.deseptpartu-transl-ar1",
+    "ed": "ed. Walzer 1935",
+    "by": "Galen",
+    "title": "De septimestri partu",
+    "en": "On the Seven-Month Child",
+    "type": "Translation (Arabic)",
+    "source": "Walzer, Richard. \"Galens Schrift Über die Siebenmonatskinder\". Rivista degli Studi Orientali 15/4 (1935), 335–342.",
+    "of": "Galen, De septimestri partu"
+   }
+  ],
+  "galenus-008": [
+   {
+    "url": "https://www.graeco-arabic-studies.org/view/ibnzurah.gal.detemp-summ.fusul-ar1",
+    "ed": "unedited",
+    "by": "Ibn Zurʾah",
+    "title": "Fuṣūl ǧawāmiʿ kitāb al-mizāǧ",
+    "en": "Sections from the Summary of the Book of the Mixture",
+    "type": "Summary (Arabic)",
+    "source": "T = Teheran, Maǧlis, 6037 (5), 96v–99r Text transcribed by Uwe Vagelpohl.",
+    "of": "Galen, De temperamentis"
+   },
+   {
+    "url": "https://www.graeco-arabic-studies.org/view/anon.gal.detemp-summ.jumal-ar1",
+    "ed": "unedited",
+    "by": "Anon.",
+    "title": "Ǧumal mā fī l-maqālah al-ūlā min kitāb Ǧālīnūs fī l-mizāǧ",
+    "en": "Digest of the Contents of the First Book of Galen's On the Mixture",
+    "type": "Summary (Arabic)",
+    "source": "A = Istanbul, Süleymaniye, Ayasofya 3593 (2), 18r B = Madrid, Biblioteca Nacional, 5011 (2), 42v E = Madrid, Escorial, árabe 874 (2), 56v Text transcribed and collated by Uwe Vagelpohl.",
+    "of": "Galen, De temperamentis"
+   },
+   {
+    "url": "https://www.graeco-arabic-studies.org/view/anon.gal.detemp-summ.jumaljawami-ar1",
+    "ed": "unedited",
+    "by": "Anon.",
+    "title": "Ǧumal wa-ǧawāmiʿ fī taʿarruf al-mizāǧ",
+    "en": "Digest and Summary on Identifying the Mixture",
+    "type": "Summary (Arabic)",
+    "source": "D = Tokyo, Tokyo University, Daiber Collection 113 (9), 154v–167r Text transcribed by Uwe Vagelpohl.",
+    "of": "Galen, De temperamentis"
+   }
+  ],
+  "galenus-012": [
+   {
+    "url": "https://www.graeco-arabic-studies.org/view/ibnzurah.gal.kitabaltashrih-summ.fusul-ar1",
+    "ed": "unedited",
+    "by": "Ibn Zurʾah",
+    "title": "Fuṣūl ǧawāmiʿ kitāb al-tašrīḥ li-l-mutaʿallimīn",
+    "en": "Sections from the Summary of the Book of Anatomy for Students",
+    "type": "Summary (Arabic)",
+    "source": "T = Teheran, Maǧlis, 6037 (7), 101v–104r Text transcribed by Uwe Vagelpohl.",
+    "of": "Galen, De venarum arteriarumque dissectione"
+   }
+  ],
+  "galenus-106": [
+   {
+    "url": "https://www.graeco-arabic-studies.org/view/hunayn.gal.devictuatt-summ.jawami-ar1",
+    "ed": "unedited",
+    "by": "Ḥunayn ibn Isḥāq",
+    "title": "Ǧawāmiʿ maqālat Ǧālīnūs fī l-tadbīr al-mulaṭṭif",
+    "en": "Summary of Galen's Treatise on the Thinning Diet",
+    "type": "Summary (Arabic)",
+    "source": "A = Istanbul, Süleymaniye, Ayasofya 3631 (15), 110v–115v M = Oxford, Bodleian, Marsh 663 (21), 265–271 Text transcribed and collated by Uwe Vagelpohl.",
+    "of": "Galen, De victu attenuante"
+   }
+  ],
+  "galenus-079": [
+   {
+    "url": "https://www.graeco-arabic-studies.org/view/gal.inhippaphor-transl-ar1",
+    "ed": "ed. Pormann et al. 2017",
+    "by": "Galen",
+    "title": "In Hippocratis Aphorismos",
+    "en": "On Hippocrates' Aphorisms",
+    "type": "Translation (Arabic)",
+    "source": "Pormann, P., Karimullah, K., Carpentieri, N., Mimura, T., Selove, E., Das, A., and Obaid, H. Šarḥ Ǧālīnūs li-Fuṣūl Abuqrāṭ . University of Manchester 2017. https://doi.org/10.3927/51689293 (bk. 1), https://doi.org/10.3927/51689327 (bk. 2), https://doi.org/10.3927/51689446 (bk. 3), https://doi.org/10.3927/51931732 (bk. 4), https://doi.org/10.3927/51931800 (bk. 5), https://doi.org/10.3927/51931843 (bk. 6), https://doi.org/10.3927/51931881 (bk. 7) Text made available under a Creative Commons Attribution 4.0 International license. Source manuscripts: P1 = Paris, Bibliothéque Nationale, arabe 2837 (1), fol. 1r–101v E5 = Madrid, Escorial, árabe 789 (1), fol. 1v–166v E6 = Madrid, Escorial, árabe 790 (1), fol. 1r–158v E7 = Madrid, Escorial, árabe 791 (1), fol. 1r–111r E11 = Madrid, Escorial, árabe 818 (3), fol. 88r–128v R1 = Rome, Biblioteca Apostolica Vaticana, Vat. ebr. 426 (1), fol. 1r–101r",
+    "of": "Galen, In Hippocratis Aphorismos"
+   },
+   {
+    "url": "https://www.graeco-arabic-studies.org/view/ibnridwan.gal.inhippaphor-summ.fawaid-ar1",
+    "ed": "ed. Pormann et al. 2017",
+    "by": "Ibn Riḍwān",
+    "title": "Taʿālīq li-fawāʾid min kitāb al-fuṣūl li-Abuqrāṭ tafsīr Ǧālīnūs",
+    "en": "Notes on Useful Points Derived from Galen's Commentary on Hippocrates' Aphorisms",
+    "type": "Summary (Arabic)",
+    "source": "Pormann, P., Karimullah, K., Carpentieri, N., Mimura, T., Selove, E., Das, A., and Obaid, H. Taʿālīq ʿAlī ibn Riḍwān li-fawāʾid fī kitāb al-fuṣūl li-Abuqrāṭ bi-tafsīr Ǧālīnūs . University of Manchester 2017. https://doi.org/10.3927/52065977 Text made available under a Creative Commons Attribution 4.0 International license. Source manuscript: C = Cambridge, University Library, Cantabr. Dd. 12.1 (6), fol. 51r–83r",
+    "of": "Galen, In Hippocratis Aphorismos"
+   },
+   {
+    "url": "https://www.graeco-arabic-studies.org/view/gal.inhippaphor.pt1-transl-ar1",
+    "ed": "ed. Pormann et al. 2017",
+    "by": "Galen",
+    "title": "In Hippocratis Aphorismos I–V",
+    "en": "On Hippocrates' Aphorisms I–V",
+    "type": "Translation (Arabic)",
+    "source": "Pormann, P., Karimullah, K., Carpentieri, N., Mimura, T., Selove, E., Das, A., and Obaid, H. Šarḥ Ǧālīnūs li-Fuṣūl Abuqrāṭ . University of Manchester 2017. https://doi.org/10.3927/51689293 (bk. 1), https://doi.org/10.3927/51689327 (bk. 2), https://doi.org/10.3927/51689446 (bk. 3), https://doi.org/10.3927/51931732 (bk. 4), https://doi.org/10.3927/51931800 (bk. 5) Text made available under a Creative Commons Attribution 4.0 International license. Source manuscripts: P1 = Paris, Bibliothéque Nationale, arabe 2837 (1), fol. 1r–101v E5 = Madrid, Escorial, árabe 789 (1), fol. 1v–166v E6 = Madrid, Escorial, árabe 790 (1), fol. 1r–158v E7 = Madrid, Escorial, árabe 791 (1), fol. 1r–111r E11 = Madrid, Escorial, árabe 818 (3), fol. 88r–128v R1 = Rome, Biblioteca Apostolica Vaticana, Vat. ebr. 426 (1), fol. 1r–101r",
+    "of": "Galen, In Hippocratis Aphorismos I–V"
+   },
+   {
+    "url": "https://www.graeco-arabic-studies.org/view/gal.inhippaphor.pt2-transl-ar1",
+    "ed": "ed. Pormann et al. 2017",
+    "by": "Galen",
+    "title": "In Hippocratis Aphorismos VI–VII",
+    "en": "On Hippocrates' Aphorisms VI–VII",
+    "type": "Translation (Arabic)",
+    "source": "Pormann, P., Karimullah, K., Carpentieri, N., Mimura, T., Selove, E., Das, A., and Obaid, H. Šarḥ Ǧālīnūs li-Fuṣūl Abuqrāṭ . University of Manchester 2017. https://doi.org/10.3927/51931843 (bk. 6), https://doi.org/10.3927/51931881 (bk. 7) Text made available under a Creative Commons Attribution 4.0 International license. Source manuscripts: P1 = Paris, Bibliothéque Nationale, arabe 2837 (1), fol. 102–149r E5 = Madrid, Escorial, árabe 789 (1), fol. 48v–88r E6 = Madrid, Escorial, árabe 790 (1), fol. 38r–90r E7 = Madrid, Escorial, árabe 791 (1), fol. 111r–161r",
+    "of": "Galen, In Hippocratis Aphorismos VI–VII"
+   }
+  ],
+  "hippocrates-056": [
+   {
+    "url": "https://www.graeco-arabic-studies.org/view/ibnridwan.gal.inhippdealim-summ.fawaid-ar1",
+    "ed": "ed. Garofalo 2013",
+    "by": "Ibn Riḍwān",
+    "title": "Fawāʾid min kitāb al-ġiḏāʾ li-Abuqrāṭ tafsīr Ǧālīnūs",
+    "en": "Useful Points Derived from Galen's Commentary on Hippocrates' Nutriment",
+    "type": "Summary (Arabic)",
+    "source": "Garofalo, Ivan. \"Il commento di Galeno al De alimento e gli estratti di Ibn Riḍwān\". Galenos 6 (2013), 130–139.",
+    "of": "Galen, In Hippocratis De alimento"
+   },
+   {
+    "url": "https://www.graeco-arabic-studies.org/view/hipp.dealim-transl-ar1",
+    "ed": "ed. Mattock 1971",
+    "by": "Hippocrates",
+    "title": "De alimento",
+    "en": "Nutriment",
+    "type": "Translation (Arabic)",
+    "source": "Mattock, John N. Kitāb Buqrāṭ fī l-aḫlāṭ (Hippocrates: On humours). Kitāb al-ġiḏāʾ li-Buqrāṭ (Hippocrates: On nutriment) . Arabic Technical and Scientific Texts 6. Cambridge (W. Heffer and Sons) 1971, 1–21.",
+    "of": "Hippocrates, De alimento"
+   }
+  ],
+  "hippocrates-020": [
+   {
+    "url": "https://www.graeco-arabic-studies.org/view/ibnridwan.gal.inhippdehum-summ.fawaid-ar1",
+    "ed": "ed. Garofalo 2011",
+    "by": "Ibn Riḍwān",
+    "title": "Fawāʾid min kitāb al-aḫlāṭ li-Buqrāṭ tafsīr Ǧālīnūs",
+    "en": "Useful Points Derived from Galen's Commentary on Hippocrates' Book On Humours",
+    "type": "Summary (Arabic)",
+    "source": "Garofalo, Ivan. \"Gli estratti di ʿAlī ibn Riḍwān dal commento di Galeno agli Umori di Ippocrate\". Galenos 5 (2011), 119–132.",
+    "of": "Galen, In Hippocratis De humoribus"
+   },
+   {
+    "url": "https://www.graeco-arabic-studies.org/view/hipp.dehum-transl-ar1",
+    "ed": "ed. Mattock 1971",
+    "by": "Hippocrates",
+    "title": "De humoribus",
+    "en": "Humours",
+    "type": "Translation (Arabic)",
+    "source": "Mattock, John N. Kitāb Buqrāṭ fī l-aḫlāṭ (Hippocrates: On humours). Kitāb al-ġiḏāʾ li-Buqrāṭ (Hippocrates: On nutriment) . Arabic Technical and Scientific Texts 6. Cambridge (W. Heffer and Sons) 1971, 1–37.",
+    "of": "Hippocrates, De humoribus"
+   },
+   {
+    "url": "https://www.graeco-arabic-studies.org/view/hipp.dehum-transl-ar2",
+    "ed": "ed. Overwien 2014",
+    "by": "Hippocrates",
+    "title": "De humoribus",
+    "en": "Humours",
+    "type": "Translation (Arabic)",
+    "source": "Overwien, Oliver. Hipocratis De humoribus . Corpus Medicorum Graecorum I 3,1. Berlin (De Gruyter) 2014, 248–262.",
+    "of": "Hippocrates, De humoribus"
+   }
+  ],
+  "galenus-085": [
+   {
+    "url": "https://www.graeco-arabic-studies.org/view/gal.inhippdeoffmed-transl-ar1",
+    "ed": "ed. Lyons 1963",
+    "by": "Galen",
+    "title": "In Hippocratis De officina medici",
+    "en": "On Hippocrates' Surgery",
+    "type": "Translation (Arabic)",
+    "source": "Lyons, Malcolm C. Galeni in Hippocratis De officina medici commentariorum versio arabica . Corpus Medicorum Graecorum. Supplementum Orientale I. Berlin (Akademie-Verlag) 1963, 10–96.",
+    "of": "Galen, In Hippocratis De officina medici"
+   },
+   {
+    "url": "https://www.graeco-arabic-studies.org/view/ibnridwan.gal.inhippdeoffmed-summ.fawaid-ar1",
+    "ed": "ed. Lyons 1963",
+    "by": "Ibn Riḍwān",
+    "title": "Taʿālīq li-fawāʾid min kitāb qāṭīṭriyūn tafsīr Ǧālīnūs",
+    "en": "Notes on Useful Points Derived from Galen's Commentary on Hippocrates' In the Surgery",
+    "type": "Summary (Arabic)",
+    "source": "Lyons, Malcolm C. Galeni in Hippocratis De officina medici commentariorum versio arabica . Corpus Medicorum Graecorum. Supplementum Orientale I. Berlin (Akademie-Verlag) 1963, 100–122.",
+    "of": "Galen, In Hippocratis De officina medici"
+   }
+  ],
+  "galenus-078": [
+   {
+    "url": "https://www.graeco-arabic-studies.org/view/gal.inhippepid1-transl-ar1",
+    "ed": "ed. Vagelpohl 2014",
+    "by": "Galen",
+    "title": "In Hippocratis Epidemiarum librum I",
+    "en": "On Hippocrates' Epidemics I",
+    "type": "Translation (Arabic)",
+    "source": "Vagelpohl, Uwe. Galeni In Hippocratis Epidemiarum librum I commentariorum I-III versio Arabica . Corpus Medicorum Graecorum. Supplementum Orientale V 1. Berlin (Walter de Gruyter) 2014, 68–498.",
+    "of": "Galen, In Hippocratis Epidemiarum librum I"
+   },
+   {
+    "url": "https://www.graeco-arabic-studies.org/view/pshunayn.gal.inhippepid1-summ.fusul-ar1",
+    "ed": "unedited",
+    "by": "ps-Ḥunayn ibn Isḥāq",
+    "title": "Fuṣūl min tafsīr Ǧālīnūs li-l-amrāḍ al-wāfidah",
+    "en": "Sections from Galen's Commentary on the Visiting Diseases",
+    "type": "Summary (Arabic)",
+    "source": "B = Baghdad, al-Matḥaf al-ʿIrāqī, 649 (11), 181v–185v Text transcribed by Uwe Vagelpohl.",
+    "of": "Galen, In Hippocratis Epidemiarum librum I"
+   },
+   {
+    "url": "https://www.graeco-arabic-studies.org/view/gal.inhippepid2-transl-ar1",
+    "ed": "ed. Vagelpohl 2016",
+    "by": "Galen",
+    "title": "In Hippocratis Epidemiarum librum II",
+    "en": "On Hippocrates' Epidemics II",
+    "type": "Translation (Arabic)",
+    "source": "Vagelpohl, Uwe. Galeni in Hippocratis Epidemiarum librum II commentariorum I-VI versio arabica . Corpus Medicorum Graecorum. Supplementum Orientale V 2. Berlin (Walter de Gruyter) 2016, 76–966.",
+    "of": "Galen, In Hippocratis Epidemiarum librum II"
+   },
+   {
+    "url": "https://www.graeco-arabic-studies.org/view/gal.inhippepid6-transl-ar1",
+    "ed": "ed. Vagelpohl 2022",
+    "by": "Galen",
+    "title": "In Hippocratis Epidemiarum librum VI",
+    "en": "On Hippocrates' Epidemics VI",
+    "type": "Translation (Arabic)",
+    "source": "Vagelpohl, Uwe. Galeni In Hippocratis Epidemiarum librum VI commentariorum I-VIII versio Arabica . Corpus Medicorum Graecorum. Supplementum Orientale V 3. Berlin (Walter de Gruyter) 2022, 92–1458.",
+    "of": "Galen, In Hippocratis Epidemiarum librum VI"
+   }
+  ],
+  "galenus-025": [
+   {
+    "url": "https://www.graeco-arabic-studies.org/view/gal.quodanimimores-transl-ar1",
+    "ed": "ed. Biesterfeldt 1973",
+    "by": "Galen",
+    "title": "Quod animi mores corporis temperamenta sequantur",
+    "en": "The Faculties of the Soul follow the Mixtures of the Body",
+    "type": "Translation (Arabic)",
+    "source": "Biesterfeldt, Hans Hinrich. Galens Traktat Daß die Kräfte der Seele den Mischungen des Körpers folgen in arabischer Übersetzung . Abhandlungen für die Kunde des Morgenlandes 40/4. Wiesbaden (Kommissionsverlag Franz Steiner) 1973, 9–44.",
+    "of": "Galen, Quod animi mores corporis temperamenta sequantur"
+   }
+  ],
+  "galenus-003": [
+   {
+    "url": "https://www.graeco-arabic-studies.org/view/gal.quodoptimusmedicus-transl-ar1",
+    "ed": "ed. Bachmann 1965",
+    "by": "Galen",
+    "title": "Quod optimus medicus sit quoque philosophus",
+    "en": "The Best Doctor is also a Philosopher",
+    "type": "Translation (Arabic)",
+    "source": "Bachmann, Peter. Galens Abhandlung darüber, daß der vorzügliche Arzt Philosoph sein muß . Nachrichten der Akademie der Wissenschaften in Göttingen. I: Phil.-hist. Kl. 1. Göttingen (Vandenhoeck und Ruprecht) 1965, 14–26.",
+    "of": "Galen, Quod optimus medicus sit quoque philosophus"
+   }
+  ],
+  "galenus-090": [
+   {
+    "url": "https://www.graeco-arabic-studies.org/view/psgal.dediaetainmorbisacutis-transl-ar1",
+    "ed": "ed. Lyons 1969",
+    "by": "ps-Galen",
+    "title": "De diaeta in morbis acutis secundum Hippocratem",
+    "en": "On Regimen in Acute Diseases in Accordance with the Theories of Hippocrates",
+    "type": "Translation (Arabic)",
+    "source": "Lyons, Malcolm C. Galen On the Parts of Medicine, On Cohesive Causes, On Regimen in Acute Diseases in Accordance with the Theories of Hippocrates . Corpus Medicorum Graecorum. Supplementum Orientale II. Berlin (Akademie-Verlag) 1969, 76–110.",
+    "of": "ps-Galen, De diaeta in morbis acutis secundum Hippocratem"
+   }
+  ],
+  "hippocrates-012": [
+   {
+    "url": "https://www.graeco-arabic-studies.org/view/hipp.aphor-transl-ar1",
+    "ed": "ed. Tytler 1832",
+    "by": "Hippocrates",
+    "title": "Aphorismi",
+    "en": "Aphorisms",
+    "type": "Translation (Arabic)",
+    "source": "Tytler, John. The Aphorisms of Hippocrates, translated into Arabic by Honain Ben Ishak, Physician to the Caliph Motawukkul . Calcutta (The Committee of Public Instruction) 1832, 1–65.",
+    "of": "Hippocrates, Aphorismi"
+   },
+   {
+    "url": "https://www.graeco-arabic-studies.org/view/hipp.aphor-transl-ar2",
+    "ed": "ed. Houtsma 1883",
+    "by": "Hippocrates",
+    "title": "Aphorismi",
+    "en": "Aphorisms",
+    "type": "Translation (Arabic)",
+    "source": "Houtsma, Martijn Theodoor. Taʾrīḫ Aḥmad ibn Abī Yaʿqūb ibn Ǧaʿfar ibn Wahb ibn Wāḍiḥ al-kātib al-ʿabbāsī al-maʿrūf bi-l-Yaʿqūbī . Leiden (E. J. Brill) 1883, 107–116.",
+    "of": "Hippocrates, Aphorismi"
+   }
+  ],
+  "hippocrates-002": [
+   {
+    "url": "https://www.graeco-arabic-studies.org/view/hipp.deaere-transl-ar1",
+    "ed": "ed. Mattock/Lyons 1969",
+    "by": "Hippocrates",
+    "title": "De aere, aquis, locis",
+    "en": "Airs, Waters, Places",
+    "type": "Translation (Arabic)",
+    "source": "Mattock, John N. and Malcolm C. Lyons. Kitāb Buqrāṭ fī l-amrāḍ al-bilādiyya. Hippocrates: On Endemic Diseases (Airs, Waters and Places) . Arabic Technical and Scientific Texts 5. Cambridge (W. Heffer and Sons) 1969, 1–163.",
+    "of": "Hippocrates, De aere, aquis, locis"
+   },
+   {
+    "url": "https://www.graeco-arabic-studies.org/view/hipp.deaere-transl-ar2",
+    "ed": "ed. Mattock/Lyons 1969",
+    "by": "Hippocrates",
+    "title": "De aere, aquis, locis",
+    "en": "Airs, Waters, Places",
+    "type": "Translation (Arabic)",
+    "source": "Mattock, John N. and Malcolm C. Lyons. Kitāb Buqrāṭ fī l-amrāḍ al-bilādiyya. Hippocrates: On Endemic Diseases (Airs, Waters and Places) . W. Heffer and Sons 5. Cambridge (W. Heffer and Sons) 1969, 1–163.",
+    "of": "Hippocrates, De aere, aquis, locis"
+   }
+  ],
+  "hippocrates-004": [
+   {
+    "url": "https://www.graeco-arabic-studies.org/view/hipp.dediaetaacut-transl-ar1",
+    "ed": "ed. Lyons 1966",
+    "by": "Hippocrates",
+    "title": "De diaeta in morbis acutis",
+    "en": "Regimen in Acute Diseases",
+    "type": "Translation (Arabic)",
+    "source": "Lyons, Malcolm C. Kitāb tadbīr al-amrāḍ al-ḥādda li-Buqrāṭ (Hippocrates: Regimen in acute diseases) . Arabic Technical and Scientific Texts 1. Cambridge (W. Heffer and Sons) 1966, 1–44.",
+    "of": "Hippocrates, De diaeta in morbis acutis"
+   }
+  ],
+  "hippocrates-041": [
+   {
+    "url": "https://www.graeco-arabic-studies.org/view/hipp.degenit-transl-ar1",
+    "ed": "ed. Lyons/Mattock 1978",
+    "by": "Hippocrates",
+    "title": "De genitura",
+    "en": "Generation",
+    "type": "Translation (Arabic)",
+    "source": "Lyons, Malcolm C. and John N. Mattock. Kitāb al-ajinna li-Buqrāṭ. Hippocrates: On Embryos (On the Sperm and On the Nature of the Child) . Arabic Technical and Scientific Texts 7. Cambridge (Pembroke Arabic Texts) 1978, 31–45.",
+    "of": "Hippocrates, De genitura"
+   }
+  ],
+  "hippocrates-024": [
+   {
+    "url": "https://www.graeco-arabic-studies.org/view/hipp.denathom-transl-ar1",
+    "ed": "ed. Mattock/Lyons 1968",
+    "by": "Hippocrates",
+    "title": "De natura hominis",
+    "en": "Nature of Man",
+    "type": "Translation (Arabic)",
+    "source": "Mattock, John N. and Malcolm C. Lyons. Kitāb Buqrāṭ fī ṭabīʿat al-insān (Hippocrates: On the nature of man) . Arabic Technical and Scientific Texts 4. Cambridge (W. Heffer and Sons) 1968, 1–26.",
+    "of": "Hippocrates, De natura hominis"
+   },
+   {
+    "url": "https://www.graeco-arabic-studies.org/view/hipp.desalubridiaeta-transl-ar1",
+    "ed": "ed. Mattock/Lyons 1968",
+    "by": "Hippocrates",
+    "title": "De salubri diaeta",
+    "en": "Regimen in Health",
+    "type": "Translation (Arabic)",
+    "source": "Mattock, John N. and Malcolm C. Lyons. Kitāb Buqrāṭ fī ṭabīʿat al-insān (Hippocrates: On the nature of man) . Arabic Technical and Scientific Texts 4. Cambridge (W. Heffer and Sons) 1968, 27–36.",
+    "of": "Hippocrates, De salubri diaeta"
+   }
+  ],
+  "hippocrates-042": [
+   {
+    "url": "https://www.graeco-arabic-studies.org/view/hipp.denatpueri-transl-ar1",
+    "ed": "ed. Lyons/Mattock 1978",
+    "by": "Hippocrates",
+    "title": "De natura pueri",
+    "en": "Nature of the Child",
+    "type": "Translation (Arabic)",
+    "source": "Lyons, Malcolm C. and John N. Mattock. Kitāb al-ajinna li-Buqrāṭ. Hippocrates: On Embryos (On the Sperm and On the Nature of the Child) . Arabic Technical and Scientific Texts 7. Cambridge (Pembroke Arabic Texts) 1978, 45–85.",
+    "of": "Hippocrates, De natura pueri"
+   }
+  ],
+  "hippocrates-008": [
+   {
+    "url": "https://www.graeco-arabic-studies.org/view/hipp.deoffmed-transl-ar1",
+    "ed": "ed. Mattock/Lyons 1968",
+    "by": "Hippocrates",
+    "title": "De officina medici",
+    "en": "In the Surgery",
+    "type": "Translation (Arabic)",
+    "source": "Mattock, John N. and Malcolm C. Lyons. Kitāb Buqrāṭ fī ḥabl ʿalā ḥabl [sic] (Hippocrates: On superfoetation). Kitāb Buqrāṭ al-maʿrūf bi-Qāṭīṭrīūn ay Ḥānūt al-ṭabīb (Hippocrates: In the Surgery) . Arabic Technical and Scientific Texts 3. Cambridge (W. Heffer and Sons) 1968, 1–19.",
+    "of": "Hippocrates, De officina medici"
+   }
+  ],
+  "hippocrates-047": [
+   {
+    "url": "https://www.graeco-arabic-studies.org/view/hipp.desuperf-transl-ar1",
+    "ed": "ed. Mattock/Lyons 1968",
+    "by": "Hippocrates",
+    "title": "De superfoetatione",
+    "en": "Superfetation",
+    "type": "Translation (Arabic)",
+    "source": "Mattock, John N. and Malcolm C. Lyons. Kitāb Buqrāṭ fī ḥabl ʿalā ḥabl [sic] (Hippocrates: On superfoetation). Kitāb Buqrāṭ al-maʿrūf bi-Qāṭīṭrīūn ay Ḥānūt al-ṭabīb (Hippocrates: In the Surgery) . Arabic Technical and Scientific Texts 3. Cambridge (W. Heffer and Sons) 1968, 1–25.",
+    "of": "Hippocrates, De superfoetatione"
+   }
+  ],
+  "hippocrates-013": [
+   {
+    "url": "https://www.graeco-arabic-studies.org/view/hipp.iusiur-transl-ar1",
+    "ed": "ed. Müller 1884",
+    "by": "Hippocrates",
+    "title": "Iusiurandum",
+    "en": "Oath",
+    "type": "Translation (Arabic)",
+    "source": "Müller, August. Ibn Abi Useibia [ʿUyūn al-anbāʾ fī ṭabaqāt al-aṭibbāʾ] . Königsberg (self-published) 1884, 25–26.",
+    "of": "Hippocrates, Iusiurandum"
+   }
+  ],
+  "hippocrates-003": [
+   {
+    "url": "https://www.graeco-arabic-studies.org/view/hipp.progn-transl-ar1",
+    "ed": "ed. Klamroth 1886",
+    "by": "Hippocrates",
+    "title": "Prognosticon",
+    "en": "Prognostic",
+    "type": "Translation (Arabic)",
+    "source": "Klamroth, Martin. \"Über die Auszüge aus griechischen Schriftstellern bei al-Jaʿqūbī. I. Hippokrates\". Zeitschrift der Deutschen Morgenländischen Gesellschaft 40 (1886), 204–233.",
+    "of": "Hippocrates, Prognosticon"
+   }
+  ]
+ }
+}

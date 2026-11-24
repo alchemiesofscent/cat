@@ -17,6 +17,7 @@ jobs:
         run: |
           set -o pipefail
           python3 scripts/medimanus.py | tee refresh.log
+          python3 scripts/graeco_arabic.py | tee -a refresh.log || echo "graeco-arabic refresh failed; keeping last list"
           python3 scripts/build.py
       - name: Commit if the data changed
         run: |

@@ -20,6 +20,7 @@ python3 scripts/build.py
 
 `scripts/medimanus.py` imports MediManus (CHS) witnesses and start folios into `data/medimanus.json` (used with CHS permission). Titles are mapped to catalogue works through the reviewed concordance `data/medimanus_titles.json`.
 `scripts/galenus_verbatim.py` imports the Galenus Verbatim edition index into `data/galenus_verbatim.json` (Galen works → online Greek text by TLG number).
+`scripts/graeco_arabic.py` reads the Digital Corpus for Graeco-Arabic Studies text list into `data/graeco_arabic.json` (Arabic translations and summaries of Galen and Hippocrates → catalogue work, through the title table `MAP`).
 
 - `scripts/pinakes.py` fetches the Pinakes (IRHT) work and author pages slowly (one request every 12 s, cached, stops at the bot guard) and writes `data/pinakes.json`: dated witnesses and author dates.
 - `scripts/work_dates.py` writes `data/work_dates.json`: Galen (Coughlin chronology table, 2019: Ilberg, Bardong, Peterson, Hankinson) and Hippocrates (Craik).

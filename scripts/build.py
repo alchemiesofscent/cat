@@ -16,6 +16,8 @@ GVFILE = ROOT / "data" / "galenus_verbatim.json"
 GV = json.loads(GVFILE.read_text())["works"] if GVFILE.exists() else {}
 # catalogue entries that cover more than one TLG text
 EXTRA_TLG = {"galenus-078": ["0057.090", "0057.091"], "galenus-042": ["0057.047"]}
+GAFILE = ROOT / "data" / "graeco_arabic.json"
+GA = json.loads(GAFILE.read_text()) if GAFILE.exists() else {"works": {}, "retrieved": ""}
 WDFILE = ROOT / "data" / "work_dates.json"
 WD = json.loads(WDFILE.read_text()) if WDFILE.exists() else {}
 PKFILE = ROOT / "data" / "pinakes.json"
@@ -310,8 +312,14 @@ def ref_links(w):
     return refs
 
 
+def new_tab(h):
+    """Links to other sites open in a new tab."""
+    return re.sub(r"<a ((?:[^>](?!target=))*?href=['\"]https?://)", r'<a target="_blank" rel="noopener" \1', h)
+
+
 def page(title, body, depth=0):
     up = "../" * depth
+    body = new_tab(body)
     return f"""<!doctype html>
 <html lang="en"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -325,7 +333,7 @@ def page(title, body, depth=0):
 </header>
 <main>{body}</main>
 <script src="{up}site.js" data-root="{up}"></script>
-<footer>Compiled and built by Sean Coughlin, from the work catalogues he prepared for the CMG (2019–2020), with manuscript data from Pinakes (IRHT, retrieved {PK["retrieved"]}) and MediManus (CHS, retrieved {MM["retrieved"]}) and Galen texts from Galenus Verbatim. Built {date.today().isoformat()}.</footer>
+<footer>Compiled and built by Sean Coughlin, from the work catalogues he prepared for the CMG (2019–2020), with manuscript data from Pinakes (IRHT, retrieved {PK["retrieved"]}) and MediManus (CHS, retrieved {MM["retrieved"]}) Galen texts from Galenus Verbatim and Arabic texts from the Digital Corpus for Graeco-Arabic Studies. Built {date.today().isoformat()}.</footer>
 </body></html>"""
 
 
@@ -431,6 +439,18 @@ def work_html(a, w):
             items.append(f"<li><a href='{esc(e['url'])}'>{esc(e['title'])}</a>, {esc(ed)}{crit}</li>")
         dl.append(("Online Greek text", "<ul class='prints'>" + "".join(items) +
                    "</ul><span class='mmt'>Galenus Verbatim (Mera Galeni Folia)</span>"))
+    ga = GA["works"].get(w["id"], [])
+    if ga:
+        items = []
+        for e in ga:
+            kind = "translation" if e["type"].startswith("Translation") else "summary"
+            who = "" if e["by"] in ("Galen", "Hippocrates", "ps-Galen") else f"{esc(e['by'])}, "
+            of = f" <span class='mmt'>(of {esc(e['of'])})</span>" if e["of"].startswith("Galen") and a["name"] != "Galenus" else ""
+            ed = esc(e["ed"])
+            items.append(f"<li>{kind.capitalize()}: {who}<a href='{esc(e['url'])}' title='{esc(e['source'], quote=True)}'>"
+                         f"{esc(e['title'])}</a>, {ed}{of}</li>")
+        dl.append(("Arabic text online", "<ul class='prints'>" + "".join(items) +
+                   "</ul><span class='mmt'>Digital Corpus for Graeco-Arabic Studies</span>"))
     for key, label in (("prints_single", "Separate editions"), ("prints_annotated", "Annotated prints"),
                        ("prints_note", "Notes on prints")):
         if w.get(key):
