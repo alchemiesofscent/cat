@@ -50,6 +50,8 @@ def url_shelf(u, city):
 
 
 def main():
+    # build.py applies the previous run's fixes on import; check the catalogue as extracted
+    B.DATA = json.loads((ROOT / "data" / "catalogue.json").read_text())
     by_work = {}
     for o in B.PK["oeuvres"].values():
         for wid in o["works"]:
