@@ -483,6 +483,25 @@ def core_differs(mm_title, our_title):
     return "(" in mm_title
 
 
+# MediManus search needs every word to match: search for its short author name plus a few distinctive title words
+_MMT = json.loads((ROOT / "data" / "medimanus_titles.json").read_text()) if (ROOT / "data" / "medimanus_titles.json").exists() else {}
+MM_AUTHOR = {v: k for k, v in (_MMT.get("authors") or {}).items()}
+_MM_STOP = {"in", "de", "et", "ad", "a", "e", "ex", "sive", "seu", "qui", "quae", "quod", "eos", "liber", "libri", "librum",
+            "libellus", "commentarius", "commentaria", "commentarii", "commentarium", "fragmenta", "opera", "secundum",
+            "partim", "frag", "spurium", "hippocratis", "galeni"}
+
+
+MMQ = json.loads((ROOT / "data" / "medimanus_queries.json").read_text()) if (ROOT / "data" / "medimanus_queries.json").exists() else {}
+
+
+def mm_query(a, w, mmw):
+    title = (mmw[0]["title"] if mmw else "") or w["title_lat"]
+    title = re.sub(r"\s*[\(\[].*?[\)\]]|[?*/]", " ", title.split(";")[0])
+    words = [x for x in re.findall(r"[A-Za-zÀ-ÿ]+", title) if x.lower() not in _MM_STOP and len(x) > 2][:2]
+    author = MM_AUTHOR.get(a["name"]) or a["name"].replace("Ps.-", "").split()[0]
+    return " ".join([author] + words)
+
+
 def work_html(a, w):
     wd = WD.get(w["id"])
     ek = ed_key(w, ED_ORDER[a["name"]]) if a["name"] in ED_ORDER else None
@@ -591,9 +610,11 @@ def work_html(a, w):
     pk = next((u for _, u in refs.get("Pinakes", []) if u), None)
     if pk:
         more.append(f'<a href="{esc(pk)}">Pinakes</a>')
-    q = re.sub(r"\s*\(.*?\)|[?*]", "", w["title_lat"].split(";")[0]).strip()
-    more.append(f'<a href="https://medimanus.chs.harvard.edu/app/search?{esc(urlencode({"q": q}))}">MediManus</a>')
-    parts.append('<p class="more">Full manuscript tradition: ' + " · ".join(more) + "</p>")
+    q = MMQ.get(w["id"]) or ("" if MMQ else mm_query(a, w, mmw))  # no link where MediManus finds nothing
+    if q:
+        more.append(f'<a href="https://medimanus.chs.harvard.edu/app/search?{esc(urlencode({"q": q}))}">MediManus</a>')
+    if more:
+        parts.append('<p class="more">Full manuscript tradition: ' + " · ".join(more) + "</p>")
 
     dl = []
     if w.get("editions"):

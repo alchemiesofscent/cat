@@ -22,6 +22,7 @@ python3 scripts/build.py
 `scripts/galenus_verbatim.py` imports the Galenus Verbatim edition index into `data/galenus_verbatim.json` (Galen works → online Greek text by TLG number).
 `scripts/pinakes_check.py` checks every shelfmark against Pinakes' witness list for the work: one-digit slips with the same start folio are corrected at build time (`data/pinakes_check.json`), the rest are listed in `PINAKES-CHECK.md`. `scripts/pinakes.py` also fetches each witness's Pinakes shelfmark page for its digitization link.
 Sigla: `scripts/sigla_pages.py` finds the sigla pages in every cmg-viewer volume (IIIF table of contents) and downloads them; the transcriptions are in `data/sigla/<volume>.json` (format and brief in `data/sigla/README.md`, `BRIEF.md`); `scripts/sigla_check.py` ties them to works and manuscripts (`data/sigla_index.json`) and writes the review list `SIGLA-CHECK.md`.
+`scripts/medimanus_queries.py` tests the MediManus search link of every work (MediManus needs every search word to match, so fewer words find more) and keeps the most specific query that finds something: `data/medimanus_queries.json`.
 `scripts/graeco_arabic.py` reads the Digital Corpus for Graeco-Arabic Studies text list into `data/graeco_arabic.json` (Arabic translations and summaries of Galen and Hippocrates → catalogue work, through the title table `MAP`).
 
 - `scripts/pinakes.py` fetches the Pinakes (IRHT) work and author pages slowly (one request every 12 s, cached, stops at the bot guard) and writes `data/pinakes.json`: dated witnesses and author dates.
