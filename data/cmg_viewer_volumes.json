@@ -145,5 +145,1533 @@
   "wu_Werke_des_Galenos_Bd_III",
   "wu_Werke_des_Galenos_Bd_IV",
   "wu_Werke_des_Galenos_Bd_V"
+ ],
+ "items": [
+  {
+   "volume": "cmg_01_01",
+   "series": "I 1",
+   "collection": "CMG",
+   "label": "I 1 Hippocratis",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_01_01/?pn=2"
+  },
+  {
+   "volume": "cmg_01_01",
+   "series": "I 1",
+   "collection": "CMG",
+   "label": "Indices librorum, edidit J. L. Heiberg, Leipzig et Berlin 1927",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_01_01/?pn=13"
+  },
+  {
+   "volume": "cmg_01_01",
+   "series": "I 1",
+   "collection": "CMG",
+   "label": "Iusiurandum, edidit J. L. Heiberg, Leipzig et Berlin 1927",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_01_01/?pn=16"
+  },
+  {
+   "volume": "cmg_01_01",
+   "series": "I 1",
+   "collection": "CMG",
+   "label": "Lex, edidit J. L. Heiberg, Leipzig et Berlin 1927",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_01_01/?pn=19"
+  },
+  {
+   "volume": "cmg_01_01",
+   "series": "I 1",
+   "collection": "CMG",
+   "label": "De arte, edidit J. L. Heiberg, Leipzig et Berlin 1927",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_01_01/?pn=21"
+  },
+  {
+   "volume": "cmg_01_01",
+   "series": "I 1",
+   "collection": "CMG",
+   "label": "De medico, edidit J. L. Heiberg, Leipzig et Berlin 1927",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_01_01/?pn=32"
+  },
+  {
+   "volume": "cmg_01_01",
+   "series": "I 1",
+   "collection": "CMG",
+   "label": "De decente habitu, edidit J. L. Heiberg, Leipzig et Berlin 1927",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_01_01/?pn=37"
+  },
+  {
+   "volume": "cmg_01_01",
+   "series": "I 1",
+   "collection": "CMG",
+   "label": "Praeceptiones, edidit J. L. Heiberg, Leipzig et Berlin 1927",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_01_01/?pn=42"
+  },
+  {
+   "volume": "cmg_01_01",
+   "series": "I 1",
+   "collection": "CMG",
+   "label": "De prisca medicina, edidit J. L. Heiberg, Leipzig et Berlin 1927",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_01_01/?pn=48"
+  },
+  {
+   "volume": "cmg_01_01",
+   "series": "I 1",
+   "collection": "CMG",
+   "label": "De aere locis aquis, edidit J. L. Heiberg, Leipzig et Berlin 1927",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_01_01/?pn=68"
+  },
+  {
+   "volume": "cmg_01_01",
+   "series": "I 1",
+   "collection": "CMG",
+   "label": "De alimento, edidit J. L. Heiberg, Leipzig et Berlin 1927",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_01_01/?pn=91"
+  },
+  {
+   "volume": "cmg_01_01",
+   "series": "I 1",
+   "collection": "CMG",
+   "label": "De liquidorum usu, edidit J. L. Heiberg, Leipzig et Berlin 1927",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_01_01/?pn=97"
+  },
+  {
+   "volume": "cmg_01_01",
+   "series": "I 1",
+   "collection": "CMG",
+   "label": "De flatibus, edidit J. L. Heiberg, Leipzig et Berlin 1927",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_01_01/?pn=103"
+  },
+  {
+   "volume": "cmg_01_01_02",
+   "series": "I 1,2",
+   "collection": "CMG",
+   "label": "Hippocratis De aere aquis locis, edidit et in linguam Germanicam vertit H. Diller, Berlin 1970; editio altera lucis ope expressa, Berlin 1999",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_01_01_02/?pn=2"
+  },
+  {
+   "volume": "cmg_01_01_03",
+   "series": "I 1,3",
+   "collection": "CMG",
+   "label": "Hippocratis De natura hominis, edidit, in linguam Francogallicam vertit, commentatus est J. Jouanna, Berlin 1975; editio altera lucis ope expressa addendis et corrigendis aucta, Berlin 2002",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_01_01_03/?pn=2"
+  },
+  {
+   "volume": "cmg_01_02_01",
+   "series": "I 2,1",
+   "collection": "CMG",
+   "label": "I 2,1 Hippocratis",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_01_02_01/?pn=2"
+  },
+  {
+   "volume": "cmg_01_02_01",
+   "series": "I 2,1",
+   "collection": "CMG",
+   "label": "De octimestri partu, edidit, in linguam Germanicam vertit, commentatus est H. Grensemann, Berlin 1968",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_01_02_01/?pn=78"
+  },
+  {
+   "volume": "cmg_01_02_01",
+   "series": "I 2,1",
+   "collection": "CMG",
+   "label": "De septimestri partu (spurium), edidit, in linguam Germanicam vertit, commentatus est H. Grensemann, Berlin 1968",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_01_02_01/?pn=122"
+  },
+  {
+   "volume": "cmg_01_02_02",
+   "series": "I 2,2",
+   "collection": "CMG",
+   "label": "Hippocratis De superfetatione, edidit, in linguam Germanicam vertit, commentatus est C. Lienau, Berlin 1973",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_01_02_02/?pn=2"
+  },
+  {
+   "volume": "cmg_01_02_03",
+   "series": "I 2,3",
+   "collection": "CMG",
+   "label": "Hippocratis De morbis III, edidit, in linguam Germanicam vertit, commentatus est P. Potter, Berlin 1980",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_01_02_03/?pn=2"
+  },
+  {
+   "volume": "cmg_01_02_04",
+   "series": "I 2,4",
+   "collection": "CMG",
+   "label": "Hippocratis De diaeta, edidit, in linguam Francogallicam vertit, commentatus est R. Joly adiuvante S. Byl, Berlin 1984; editio altera lucis ope expressa addendis et corrigendis aucta curatis a S. Byl, Berlin 2003",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_01_02_04/?pn=2"
+  },
+  {
+   "volume": "cmg_01_03_01",
+   "series": "I 3,1",
+   "collection": "CMG",
+   "label": "Hippocratis De humoribus, edidit, in linguam Germanicam vertit, commentatus est O. Overwien, Berlin 2014",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_01_03_01/?pn=2"
+  },
+  {
+   "volume": "cmg_01_04_01",
+   "series": "I 4,1",
+   "collection": "CMG",
+   "label": "Hippocratis De capitis vulneribus, edidit, in linguam Anglicam vertit, commentatus est M. Hanson, Berlin 1999",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_01_04_01/?pn=2"
+  },
+  {
+   "volume": "cmg_02",
+   "series": "II",
+   "collection": "CMG",
+   "label": "Aretaeus, edidit C. Hude, editio altera lucis ope expressa, nonnullis locis correcta, indicibus nominum verborumque et addendis et corrigendis aucta, Berlin 1958",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_02/?pn=2"
+  },
+  {
+   "volume": "cmg_03_01",
+   "series": "III 1",
+   "collection": "CMG",
+   "label": "Rufi Ephesii De renum et vesicae morbis, edidit et in linguam Germanicam vertit A. Sideras, Berlin 1977",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_03_01/?pn=2"
+  },
+  {
+   "volume": "cmg_04",
+   "series": "IV",
+   "collection": "CMG",
+   "label": "IV Sorani",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_04/?pn=2"
+  },
+  {
+   "volume": "cmg_04",
+   "series": "IV",
+   "collection": "CMG",
+   "label": "Gynaeciorum libri IV, edidit J. Ilberg, Leipzig et Berlin 1927",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_04/?pn=25"
+  },
+  {
+   "volume": "cmg_04",
+   "series": "IV",
+   "collection": "CMG",
+   "label": "De signis fracturarum, edidit J. Ilberg, Leipzig et Berlin 1927",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_04/?pn=177"
+  },
+  {
+   "volume": "cmg_04",
+   "series": "IV",
+   "collection": "CMG",
+   "label": "De fasciis, edidit J. Ilberg, Leipzig et Berlin 1927",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_04/?pn=181"
+  },
+  {
+   "volume": "cmg_04",
+   "series": "IV",
+   "collection": "CMG",
+   "label": "Vita Hippocratis secundum Soranum, edidit J. Ilberg, Leipzig et Berlin 1927",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_04/?pn=197"
+  },
+  {
+   "volume": "cmg_05_01_01",
+   "series": "V 1,1",
+   "collection": "CMG",
+   "label": "V 1,1 Galeni",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_01_01/?pn=2"
+  },
+  {
+   "volume": "cmg_05_01_01",
+   "series": "V 1,1",
+   "collection": "CMG",
+   "label": "De optimo docendi genere, edidit et in linguam Italicam vertit A. Barigazzi, Berlin 1991",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_01_01/?pn=92"
+  },
+  {
+   "volume": "cmg_05_01_01",
+   "series": "V 1,1",
+   "collection": "CMG",
+   "label": "Exhortatio ad medicinam (Protrepticus), edidit et in linguam Italicam vertit A. Barigazzi, Berlin 1991",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_01_01/?pn=114"
+  },
+  {
+   "volume": "cmg_05_01_02",
+   "series": "V 1,2",
+   "collection": "CMG",
+   "label": "Galeni De elementis ex Hippocratis sententia, edidit, in linguam Anglicam vertit, commentatus est Ph. De Lacy, Berlin 1996",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_01_02/?pn=2"
+  },
+  {
+   "volume": "cmg_05_01_03",
+   "series": "V 1,3",
+   "collection": "CMG",
+   "label": "Galeni De constitutione artis medicae ad Patrophilum, edidit et in linguam Italicam vertit St. Fortuna, Berlin 1997",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_01_03/?pn=2"
+  },
+  {
+   "volume": "cmg_05_02_01",
+   "series": "V 2,1",
+   "collection": "CMG",
+   "label": "Galeni De uteri dissectione, edidit, in linguam Germanicam vertit, commentatus est D. Nickel, Berlin 1971",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_02_01/?pn=2"
+  },
+  {
+   "volume": "cmg_05_03_01",
+   "series": "V 3,1",
+   "collection": "CMG",
+   "label": "Galeni De semine, edidit, in linguam Anglicam vertit, commentatus est Ph. De Lacy, Berlin 1992",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_03_01/?pn=2"
+  },
+  {
+   "volume": "cmg_05_03_02",
+   "series": "V 3,2",
+   "collection": "CMG",
+   "label": "Galeni De propriis placitis, edidit, in linguam Anglicam vertit, commentatus est V. Nutton, Berlin 1999",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_03_02/?pn=2"
+  },
+  {
+   "volume": "cmg_05_03_03",
+   "series": "V 3,3",
+   "collection": "CMG",
+   "label": "Galeni De foetuum formatione, edidit, in linguam Germanicam vertit, commentatus est D. Nickel, Berlin 2001",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_03_03/?pn=2"
+  },
+  {
+   "volume": "cmg_05_04_01_01",
+   "series": "V 4,1,1",
+   "collection": "CMG",
+   "label": "V 4,1,1 Galeni",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_04_01_01/?pn=2"
+  },
+  {
+   "volume": "cmg_05_04_01_01",
+   "series": "V 4,1,1",
+   "collection": "CMG",
+   "label": "De propriorum animi cuiuslibet affectuum dignotione et curatione, edidit W. de Boer, Leipzig et Berlin 1937",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_04_01_01/?pn=19"
+  },
+  {
+   "volume": "cmg_05_04_01_01",
+   "series": "V 4,1,1",
+   "collection": "CMG",
+   "label": "De animi cuiuslibet peccatorum dignotione et curatione, edidit W. de Boer, Leipzig et Berlin 1937",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_04_01_01/?pn=57"
+  },
+  {
+   "volume": "cmg_05_04_01_01",
+   "series": "V 4,1,1",
+   "collection": "CMG",
+   "label": "De atra bile, edidit W. de Boer, Leipzig et Berlin 1937",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_04_01_01/?pn=87"
+  },
+  {
+   "volume": "cmg_05_04_01_02",
+   "series": "V 4,1,2",
+   "collection": "CMG",
+   "label": "Galeni De placitis Hippocratis et Platonis, edidit, in linguam Anglicam vertit, commentatus est Ph. De Lacy, 3 vol., Berlin 1978-1984; vol. I: editio tertia lucis ope expressa, vol. II: editio altera lucis ope expressa, vol. III: editio altera lucis ope expressa addendis et corrigendis aucta, Berlin 2005",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_04_01_02/?pn=2"
+  },
+  {
+   "volume": "cmg_05_04_02",
+   "series": "V 4,2",
+   "collection": "CMG",
+   "label": "V 4,2 Galeni",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_04_02/?pn=2"
+  },
+  {
+   "volume": "cmg_05_04_02",
+   "series": "V 4,2",
+   "collection": "CMG",
+   "label": "De sanitate tuenda, edidit K. Koch, Leipzig et Berlin 1923",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_04_02/?pn=67"
+  },
+  {
+   "volume": "cmg_05_04_02",
+   "series": "V 4,2",
+   "collection": "CMG",
+   "label": "De alimentorum facultatibus, edidit G. Helmreich, Leipzig et Berlin 1923",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_04_02/?pn=265"
+  },
+  {
+   "volume": "cmg_05_04_02",
+   "series": "V 4,2",
+   "collection": "CMG",
+   "label": "De bonis malisque sucis, edidit G. Helmreich, Leipzig et Berlin 1923",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_04_02/?pn=453"
+  },
+  {
+   "volume": "cmg_05_04_02",
+   "series": "V 4,2",
+   "collection": "CMG",
+   "label": "De victu attenuante, edidit K. Kalbfleisch, Leipzig et Berlin 1923",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_04_02/?pn=497"
+  },
+  {
+   "volume": "cmg_05_04_02",
+   "series": "V 4,2",
+   "collection": "CMG",
+   "label": "De ptisana, edidit O. Hartlich, Leipzig et Berlin 1923",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_04_02/?pn=519"
+  },
+  {
+   "volume": "cmg_05_05_01",
+   "series": "V 5,1",
+   "collection": "CMG",
+   "label": "Galeni De symptomatum differentiis, edidit, in linguam Germanicam vertit, commentata est B. Gundert, Berlin 2009",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_05_01/?pn=2"
+  },
+  {
+   "volume": "cmg_05_06_01_01",
+   "series": "V 6,1,1",
+   "collection": "CMG",
+   "label": "Galeni De locis affectis I-II, edidit, in linguam Germanicam vertit, commentatus est F. Gärtner, Berlin 2015",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_06_01_01/?pn=2"
+  },
+  {
+   "volume": "cmg_05_06_01_03",
+   "series": "V 6,1,3",
+   "collection": "CMG",
+   "label": "Galeni De locis affectis V-VI, edidit et in linguam Germanicam vertit C.W. Brunschön, Berlin 2021",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_06_01_03/?pn=2"
+  },
+  {
+   "volume": "cmg_05_08_01",
+   "series": "V 8,1",
+   "collection": "CMG",
+   "label": "Galeni De praecognitione, edidit, in linguam Anglicam vertit, commentatus est V. Nutton, Berlin 1979",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_08_01/?pn=2"
+  },
+  {
+   "volume": "cmg_05_09_01",
+   "series": "V 9,1",
+   "collection": "CMG",
+   "label": "V 9,1 Galeni",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_09_01/?pn=2"
+  },
+  {
+   "volume": "cmg_05_09_01",
+   "series": "V 9,1",
+   "collection": "CMG",
+   "label": "In Hippocratis De natura hominis commentaria III, edidit J. Mewaldt, Leipzig et Berlin 1914",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_09_01/?pn=51"
+  },
+  {
+   "volume": "cmg_05_09_01",
+   "series": "V 9,1",
+   "collection": "CMG",
+   "label": "In Hippocratis De victu acutorum commentaria IV, edidit G. Helmreich, Leipzig et Berlin 1914",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_09_01/?pn=165"
+  },
+  {
+   "volume": "cmg_05_09_01",
+   "series": "V 9,1",
+   "collection": "CMG",
+   "label": "De diaeta Hippocratis in morbis acutis, edidit J. Westenberger, Leipzig et Berlin 1914",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_09_01/?pn=417"
+  },
+  {
+   "volume": "cmg_05_09_02",
+   "series": "V 9,2",
+   "collection": "CMG",
+   "label": "V 9,2 Galeni",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_09_02/?pn=2"
+  },
+  {
+   "volume": "cmg_05_09_02",
+   "series": "V 9,2",
+   "collection": "CMG",
+   "label": "In Hippocratis Prorrheticum I commentaria III, edidit H. Diels, Leipzig et Berlin 1915",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_09_02/?pn=37"
+  },
+  {
+   "volume": "cmg_05_09_02",
+   "series": "V 9,2",
+   "collection": "CMG",
+   "label": "De comate secundum Hippocratem, edidit J. Mewaldt, Leipzig et Berlin 1915",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_09_02/?pn=215"
+  },
+  {
+   "volume": "cmg_05_09_02",
+   "series": "V 9,2",
+   "collection": "CMG",
+   "label": "In Hippocratis Prognosticum commentaria III, edidit J. Heeg, Leipzig et Berlin 1915",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_09_02/?pn=231"
+  },
+  {
+   "volume": "cmg_05_10_01",
+   "series": "V 10,1",
+   "collection": "CMG",
+   "label": "Galeni In Hippocratis Epidemiarum librum I commentaria III, edidit E. Wenkebach; In Hippocratis Epidemiarum librum II commentaria V, in Germanicam linguam transtulit F. Pfaff, Leipzig et Berlin 1934",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_10_01/?pn=2"
+  },
+  {
+   "volume": "cmg_05_10_02_01",
+   "series": "V 10,2,1",
+   "collection": "CMG",
+   "label": "Galeni In Hippocratis Epidemiarum librum III commentaria III, edidit E. Wenkebach, Leipzig et Berlin 1936",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_10_02_01/?pn=2"
+  },
+  {
+   "volume": "cmg_05_10_02_02",
+   "series": "V 10,2,2",
+   "collection": "CMG",
+   "label": "Galeni In Hippocratis Epidemiarum librum VI commentaria I-VI, edidit E. Wenkebach; commentaria VI-VIII, in Germanicam linguam transtulit F. Pfaff, editio altera lucis ope expressa, Berlin 1956",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_10_02_02/?pn=2"
+  },
+  {
+   "volume": "cmg_05_10_02_03",
+   "series": "V 10,2,3",
+   "collection": "CMG",
+   "label": "Galeni In Hippocratis Epidemiarum libros commentaria, Indices nominum et verborum Graecorum, composuerunt E. Wenkebach, K. Schubring, Berlin 1955",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_10_02_03/?pn=2"
+  },
+  {
+   "volume": "cmg_05_10_02_04",
+   "series": "V 10,2,4",
+   "collection": "CMG",
+   "label": "V 10,2,4 Galens Kommentare zu den Epidemien des Hippokrates, Indizes der aus dem Arabischen übersetzten Namen und Wörter, verfasst v. F. Pfaff, Berlin 1960",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_10_02_04/?pn=2"
+  },
+  {
+   "volume": "cmg_05_10_02_04",
+   "series": "V 10,2,4",
+   "collection": "CMG",
+   "label": "Galens Kommentare zu den Epidemien des Hippokrates, Indizes der aus dem Arabischen übersetzten Namen und Wörter, verfasst v. F. Pfaff, Berlin 1960",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_10_02_04/?pn=9"
+  },
+  {
+   "volume": "cmg_05_10_02_04",
+   "series": "V 10,2,4",
+   "collection": "CMG",
+   "label": "Die als sogenannte Simulantenschrift griechisch überlieferten Stücke des 2. Kommentars zu Epidemien II, hrsg. v. K. Deichgräber u. F. Kudlien, Berlin 1960",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_10_02_04/?pn=121"
+  },
+  {
+   "volume": "cmg_05_10_03",
+   "series": "V 10,3",
+   "collection": "CMG",
+   "label": "V 10,3 Galeni",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_10_03/?pn=2"
+  },
+  {
+   "volume": "cmg_05_10_03",
+   "series": "V 10,3",
+   "collection": "CMG",
+   "label": "Adversus Lycum, edidit E. Wenkebach, Berlin 1951",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_10_03/?pn=45"
+  },
+  {
+   "volume": "cmg_05_10_03",
+   "series": "V 10,3",
+   "collection": "CMG",
+   "label": "Adversus Iulianum, edidit E. Wenkebach, Berlin 1951",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_10_03/?pn=75"
+  },
+  {
+   "volume": "cmg_05_12_06",
+   "series": "V 12,6",
+   "collection": "CMG",
+   "label": "Galeni In Hippocratis Aphorismorum librum VI commentarium edidit, in linguam Italicam vertit, commentata est Chr. Savino, Berlin 2020",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_12_06/?pn=2"
+  },
+  {
+   "volume": "cmg_05_13_01",
+   "series": "V 13,1",
+   "collection": "CMG",
+   "label": "V 13,1 Galeni Vocum Hippocratis glossarium edidit, in linguam Italicam vertit, commentatus est L. Perilli, Berlin 2017",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_13_01/?pn=2"
+  },
+  {
+   "volume": "cmg_05_13_01",
+   "series": "V 13,1",
+   "collection": "CMG",
+   "label": "Galeni Vocum Hippocratis glossarium edidit, in linguam Italicam vertit, commentatus est L. Perilli, Berlin 2017",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_13_01/?pn=2"
+  },
+  {
+   "volume": "cmg_05_13_02",
+   "series": "V 13,2",
+   "collection": "CMG",
+   "label": "[Galeni] Definitiones medicas edidit, in linguam Germanicam vertit J. Kollesch, Berlin 2023",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_13_02/?pn=2"
+  },
+  {
+   "volume": "cmg_06_01_01",
+   "series": "VI 1,1",
+   "collection": "CMG",
+   "label": "Oribasii Collectionum medicarum reliquiae, libri I-VIII, edidit J. Raeder, Leipzig et Berlin 1928",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_06_01_01/?pn=2"
+  },
+  {
+   "volume": "cmg_06_01_02",
+   "series": "VI 1,2",
+   "collection": "CMG",
+   "label": "Oribasii Collectionum medicarum reliquiae, libri IX-XVI, edidit J. Raeder, Leipzig et Berlin 1929",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_06_01_02/?pn=2"
+  },
+  {
+   "volume": "cmg_06_02_01",
+   "series": "VI 2,1",
+   "collection": "CMG",
+   "label": "Oribasii Collectionum medicarum reliquiae, libri XXIV-XXV. XLIII-XLVIII, edidit J. Raeder, Leipzig et Berlin 1931",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_06_02_01/?pn=2"
+  },
+  {
+   "volume": "cmg_06_02_02",
+   "series": "VI 2,2",
+   "collection": "CMG",
+   "label": "Oribasii Collectionum medicarum reliquiae, libri XLIX-L, libri incerti, eclogae medicamentorum, edidit J. Raeder, Leipzig et Berlin 1933",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_06_02_02/?pn=2"
+  },
+  {
+   "volume": "cmg_06_03",
+   "series": "VI 3",
+   "collection": "CMG",
+   "label": "VI 3 Oribasii",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_06_03/?pn=2"
+  },
+  {
+   "volume": "cmg_06_03",
+   "series": "VI 3",
+   "collection": "CMG",
+   "label": "Synopsis ad Eustathium, edidit J. Raeder, Leipzig et Berlin 1926",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_06_03/?pn=13"
+  },
+  {
+   "volume": "cmg_06_03",
+   "series": "VI 3",
+   "collection": "CMG",
+   "label": "Libri ad Eunapium, edidit J. Raeder, Leipzig et Berlin 1926",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_06_03/?pn=327"
+  },
+  {
+   "volume": "cmg_08_01",
+   "series": "VIII 1",
+   "collection": "CMG",
+   "label": "Aetii Amideni Libri medicinales I-IV, edidit A. Olivieri, Leipzig et Berlin 1935",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_08_01/?pn=2"
+  },
+  {
+   "volume": "cmg_08_02",
+   "series": "VIII 2",
+   "collection": "CMG",
+   "label": "Aetii Amideni Libri medicinales V-VIII, edidit A. Olivieri, Berlin 1950",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_08_02/?pn=2"
+  },
+  {
+   "volume": "cmg_09_01",
+   "series": "IX 1",
+   "collection": "CMG",
+   "label": "Paulus Aegineta, Libri I-IV, edidit J. L. Heiberg, Leipzig et Berlin 1921",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_09_01/?pn=2"
+  },
+  {
+   "volume": "cmg_09_02",
+   "series": "IX 2",
+   "collection": "CMG",
+   "label": "Paulus Aegineta, Libri V-VII, edidit J. L. Heiberg, Leipzig et Berlin 1924",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_09_02/?pn=2"
+  },
+  {
+   "volume": "cmg_10_01_01",
+   "series": "X 1,1",
+   "collection": "CMG",
+   "label": "Philumeni De venenatis animalibus eorumque remediis, edidit M. Wellmann, Leipzig et Berlin 1908",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_10_01_01/?pn=2"
+  },
+  {
+   "volume": "cmg_10_04",
+   "series": "X 4",
+   "collection": "CMG",
+   "label": "Leonis medici De natura hominum synopsis, edidit et in linguam Anglicam vertit R. Renehan, Berlin 1969",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_10_04/?pn=2"
+  },
+  {
+   "volume": "cmg_11_01_01",
+   "series": "XI 1,1",
+   "collection": "CMG",
+   "label": "Apollonii Citiensis In Hippocratis De articulis commentarius, ediderunt J. Kollesch et F. Kudlien, in linguam Germanicam transtulerunt J. Kollesch et D. Nickel, Berlin 1965",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_11_01_01/?pn=2"
+  },
+  {
+   "volume": "cmg_11_01_02",
+   "series": "XI 1,2",
+   "collection": "CMG",
+   "label": "Stephani Philosophi In Hippocratis Prognosticum commentaria III, edidit et in linguam Anglicam vertit J. M. Duffy, Berlin 1983",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_11_01_02/?pn=2"
+  },
+  {
+   "volume": "cmg_11_01_03_01",
+   "series": "XI 1,3,1",
+   "collection": "CMG",
+   "label": "Stephani Atheniensis In Hippocratis Aphorismos commentaria I-II, edidit et in linguam Anglicam vertit L. G. Westerink, Berlin 1985; editio altera lucis ope expressa, Berlin 1998",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_11_01_03_01/?pn=2"
+  },
+  {
+   "volume": "cmg_11_01_03_02",
+   "series": "XI 1,3,2",
+   "collection": "CMG",
+   "label": "Stephani Atheniensis In Hippocratis Aphorismos commentaria III-IV, edidit et in linguam Anglicam vertit L. G. Westerink, Berlin 1992",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_11_01_03_02/?pn=2"
+  },
+  {
+   "volume": "cmg_11_01_03_03",
+   "series": "XI 1,3,3",
+   "collection": "CMG",
+   "label": "Stephani Atheniensis In Hippocratis Aphorismos commentaria V-VI, edidit et in linguam Anglicam vertit L. G. Westerink; Indices composuerunt J. Kollesch et D. Nickel, Berlin 1995",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_11_01_03_03/?pn=2"
+  },
+  {
+   "volume": "cmg_11_01_04",
+   "series": "XI 1,4",
+   "collection": "CMG",
+   "label": "XI 1,4 Ioannis Alexandrini In Hippocratis Epidemiarum librum VI commentarii fragmenta, edidit, in linguam Anglicam vertit, commentatus est J. M. Duffy, Berlin 1997",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_11_01_04/?pn=2"
+  },
+  {
+   "volume": "cmg_11_01_04",
+   "series": "XI 1,4",
+   "collection": "CMG",
+   "label": "Ioannis Alexandrini In Hippocratis Epidemiarum librum VI commentarii fragmenta, edidit, in linguam Anglicam vertit, commentatus est J. M. Duffy, Berlin 1997",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_11_01_04/?pn=28"
+  },
+  {
+   "volume": "cmg_11_01_04",
+   "series": "XI 1,4",
+   "collection": "CMG",
+   "label": "Anonymi In Hippocratis Epidemiarum librum VI commentarii fragmenta, edidit, in linguam Anglicam vertit, commentatus est J. M. Duffy, Berlin 1997",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_11_01_04/?pn=122"
+  },
+  {
+   "volume": "cmg_11_01_04",
+   "series": "XI 1,4",
+   "collection": "CMG",
+   "label": "Ioannis Alexandrini In Hippocratis De natura pueri commentarium, ediderunt et in linguam Anglicam verterunt T. A. Bell, D. P. Carpenter, D. W. Schmidt, M. N. Sham, G. I. Vardon et L. G. Westerink, Berlin 1997",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_11_01_04/?pn=130"
+  },
+  {
+   "volume": "cmg_11_02_01",
+   "series": "XI 2,1",
+   "collection": "CMG",
+   "label": "Pseudogaleni In Hippocratis De septimanis commentarium ab Hunaino q. f. Arabice versum, edidit et Germanice vertit G. Bergsträßer, Leipzig et Berlin 1914",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_11_02_01/?pn=2"
+  },
+  {
+   "volume": "suppl_01",
+   "series": "I",
+   "collection": "CMG Supplementum",
+   "label": "Galeni In Platonis Timaeum commentarii fragmenta, collegit, disposuit, explicavit H. O. Schröder, appendicem Arabicam addidit P. Kahle, Leipzig et Berlin 1934",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/suppl_01/?pn=2"
+  },
+  {
+   "volume": "suppl_02",
+   "series": "II",
+   "collection": "CMG Supplementum",
+   "label": "Galeni De causis procatarcticis libellus a Nicolao Regino in sermonem Latinum translatus, recensuit et in Graecum sermonem retro vertit K. Bardong, Leipzig et Berlin 1937",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/suppl_02/?pn=2"
+  },
+  {
+   "volume": "suppl_03",
+   "series": "III",
+   "collection": "CMG Supplementum",
+   "label": "Galeni De consuetudinibus, edidit J. M. Schmutte, versionem Arabicam ab Hunaino confectam in linguam Germanicam vertit F. Pfaff, Leipzig et Berlin 1941",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/suppl_03/?pn=2"
+  },
+  {
+   "volume": "suppl_04",
+   "series": "IV",
+   "collection": "CMG Supplementum",
+   "label": "Rufi Ephesii Quaestiones medicinales, edidit, in linguam Germanicam vertit, commentatus est H. Gärtner, Berlin 1962",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/suppl_04/?pn=2"
+  },
+  {
+   "volume": "suppl_05",
+   "series": "V",
+   "collection": "CMG Supplementum",
+   "label": "Galeni De instrumento odoratus, edidit, in linguam Germanicam vertit, commentata est J. Kollesch, Berlin 1964",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/suppl_05/?pn=2"
+  },
+  {
+   "volume": "suppl_06",
+   "series": "VI",
+   "collection": "CMG Supplementum",
+   "label": "J. Kollesch, Kleine Schriften zur antiken Medizin, Berlin 2019",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/suppl_06/?pn=2"
+  },
+  {
+   "volume": "suppl_or_01",
+   "series": "I",
+   "collection": "CMG Supplementum Orientale",
+   "label": "Galeni In Hippocratis De officina medici commentariorum versionem Arabicam et excerpta, quae ῾Alī ibn Riḍwān ex eis sumpsit, edidit et in liguam Anglicam vertit M. Lyons, Berlin 1963",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/suppl_or_01/?pn=2"
+  },
+  {
+   "volume": "suppl_or_02",
+   "series": "II",
+   "collection": "CMG Supplementum Orientale",
+   "label": "II Galeni",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/suppl_or_02/?pn=2"
+  },
+  {
+   "volume": "suppl_or_02",
+   "series": "II",
+   "collection": "CMG Supplementum Orientale",
+   "label": "De partibus artis medicativae libelli versionem Arabicam edidit et in linguam Anglicam vertit M. Lyons, Berlin 1969",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/suppl_or_02/?pn=24"
+  },
+  {
+   "volume": "suppl_or_02",
+   "series": "II",
+   "collection": "CMG Supplementum Orientale",
+   "label": "De causis contentivis libelli versionem Arabicam edidit et in linguam Anglicam vertit M. Lyons, Berlin 1969",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/suppl_or_02/?pn=52"
+  },
+  {
+   "volume": "suppl_or_02",
+   "series": "II",
+   "collection": "CMG Supplementum Orientale",
+   "label": "De diaeta in morbis acutis secundum Hippocratem libelli versionem Arabicam edidit et in linguam Anglicam vertit M. Lyons, Berlin 1969",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/suppl_or_02/?pn=76"
+  },
+  {
+   "volume": "suppl_or_02",
+   "series": "II",
+   "collection": "CMG Supplementum Orientale",
+   "label": "De partibus artis medicativae libelli editionem ab H. Schöne curatam retractaverunt J. Kollesch, D. Nickel, G. Strohmaier, Berlin 1969",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/suppl_or_02/?pn=119"
+  },
+  {
+   "volume": "suppl_or_02",
+   "series": "II",
+   "collection": "CMG Supplementum Orientale",
+   "label": "De causis contentivis libelli editionem a K. Kalbfleisch curatam retractaverunt J. Kollesch, D. Nickel, G. Strohmaier, Berlin 1969",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/suppl_or_02/?pn=133"
+  },
+  {
+   "volume": "suppl_or_03",
+   "series": "III",
+   "collection": "CMG Supplementum Orientale",
+   "label": "Galeni De partium homoeomerium differentia libelli versionem Arabicam edidit, in linguam Germanicam vertit, commentatus est G. Strohmaier, Berlin 1970",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/suppl_or_03/?pn=2"
+  },
+  {
+   "volume": "suppl_or_04",
+   "series": "IV",
+   "collection": "CMG Supplementum Orientale",
+   "label": "Galeni De optimo medico cognoscendo libelli versionem Arabicam edidit, in linguam Anglicam vertit, commentatus est A. Z. Iskandar, Berlin 1988",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/suppl_or_04/?pn=2"
+  },
+  {
+   "volume": "suppl_or_05_01",
+   "series": "V 1",
+   "collection": "CMG Supplementum Orientale",
+   "label": "Galeni In Hippocratis Epidemiarum librum I commentariorum I-III versionem Arabicam edidit, in linguam Anglicam vertit, commentatus est U. Vagelpohl, Berlin 2014",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/suppl_or_05_01/?pn=2"
+  },
+  {
+   "volume": "suppl_or_05_02",
+   "series": "V 2",
+   "collection": "CMG Supplementum Orientale",
+   "label": "Galeni In Hippocratis Epidemiarum librum II commentariorum I-VI versionem Arabicam edidit, in linguam Anglicam vertit U. Vagelpohl adiuvante S. Swain, Berlin 2016",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/suppl_or_05_02/?pn=2"
+  },
+  {
+   "volume": "suppl_or_05_03",
+   "series": "V 3",
+   "collection": "CMG Supplementum Orientale",
+   "label": "Galeni In Hippocratis Epidemiarum librum VI commentariorum I-VIII versionem Arabicam edidit, in linguam Anglicam vertit U. Vagelpohl, Berlin 2022",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/suppl_or_05_03/?pn=2"
+  },
+  {
+   "volume": "cml_01",
+   "series": "I",
+   "collection": "CML",
+   "label": "A. Cornelii Celsi quae supersunt, recensuit F. Marx, Leipzig et Berlin 1915",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cml_01/?pn=1"
+  },
+  {
+   "volume": "cml_02_01",
+   "series": "II 1",
+   "collection": "CML",
+   "label": "Scribonii Largi Compositiones, edidit, in linguam Italicam vertit, commentatus est S. Sconocchia, Berlin 2020",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cml_02_01/?pn=2"
+  },
+  {
+   "volume": "cml_02_03",
+   "series": "II 3",
+   "collection": "CML",
+   "label": "Quinti Sereni Liber medicinalis, edidit F. Vollmer, Leipzig et Berlin 1916",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cml_02_03/?pn=1"
+  },
+  {
+   "volume": "cml_03",
+   "series": "III",
+   "collection": "CML",
+   "label": "Plinii Secundi Iunioris qui feruntur De medicina libri tres, edidit A. Önnerfors, Berlin 1964",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cml_03/?pn=2"
+  },
+  {
+   "volume": "cml_04",
+   "series": "IV",
+   "collection": "CML",
+   "label": "IV Antonii Musae De herba Vettonica liber, ediderunt E. Howald et H. E. Sigerist, Leipzig et Berlin 1927",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cml_04/?pn=2"
+  },
+  {
+   "volume": "cml_04",
+   "series": "IV",
+   "collection": "CML",
+   "label": "Antonii Musae De herba Vettonica liber, ediderunt E. Howald et H. E. Sigerist, Leipzig et Berlin 1927",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cml_04/?pn=29"
+  },
+  {
+   "volume": "cml_04",
+   "series": "IV",
+   "collection": "CML",
+   "label": "Pseudoapulei Herbarius, ediderunt E. Howald et H. E. Sigerist, Leipzig et Berlin 1927",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cml_04/?pn=41"
+  },
+  {
+   "volume": "cml_04",
+   "series": "IV",
+   "collection": "CML",
+   "label": "Anonymi De taxone liber, ediderunt E. Howald et H. E. Sigerist, Leipzig et Berlin 1927",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cml_04/?pn=255"
+  },
+  {
+   "volume": "cml_04",
+   "series": "IV",
+   "collection": "CML",
+   "label": "Sexti Placiti Liber medicinae ex animalibus, ediderunt E. Howald et H. E. Sigerist, Leipzig et Berlin 1927",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cml_04/?pn=261"
+  },
+  {
+   "volume": "cml_05",
+   "series": "V",
+   "collection": "CML",
+   "label": "Marcelli De medicamentis liber, post M. Niedermann iteratis curis edidit E. Liechtenhan, in linguam Germanicam transtulerunt J. Kollesch et D. Nickel, 2 vol., Berlin 1968",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cml_05/?pn=2"
+  },
+  {
+   "volume": "cml_06_01",
+   "series": "VI 1",
+   "collection": "CML",
+   "label": "Caelii Aureliani Celerum passionum libri III, Tardarum passionum libri V, edidit G. Bendz, in linguam Germanicam transtulit I. Pape. Pars I: Cel. pass. lib. I-III; Tard. pass. lib. I-II; Pars II: Tard. pass. lib. III-V; Indices composuerunt J. Kollesch et D. Nickel, Berlin 1990/1993; editio altera lucis ope expressa (Pars II), Berlin 2002",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cml_06_01/?pn=2"
+  },
+  {
+   "volume": "cml_08_01",
+   "series": "VIII 1",
+   "collection": "CML",
+   "label": "Anthimi De observatione ciborum ad Theodoricum regem Francorum epistula, iteratis curis edidit et in linguam Germanicam transtulit E. Liechtenhan, Berlin 1963",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cml_08_01/?pn=2"
+  },
+  {
+   "volume": "wa_Athena_23_1911",
+   "series": "",
+   "collection": "Weitere Ausgaben",
+   "label": "Aetii Amideni Liber medicinalis IX, hrsg. v. S. Zervos, Athena 23 (1911), S. 265-392",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/wa_Athena_23_1911/?pn=1"
+  },
+  {
+   "volume": "wa_Aetios_Logos_12",
+   "series": "",
+   "collection": "Weitere Ausgaben",
+   "label": "Aetii Amideni Liber medicinalis XII, hrsg. v. G. A. Kostomoires, Paris 1892",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/wa_Aetios_Logos_12/?pn=1"
+  },
+  {
+   "volume": "wa_Athena_18_1905",
+   "series": "",
+   "collection": "Weitere Ausgaben",
+   "label": "Aetii Amideni Liber medicinalis XIII, hrsg. v. S. Zervos, Athena 18 (1905), S. 241-302 (S. 273-276 Zählung übersprungen)",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/wa_Athena_18_1905/?pn=1"
+  },
+  {
+   "volume": "wa_Athena_21_1909",
+   "series": "",
+   "collection": "Weitere Ausgaben",
+   "label": "Aetii Amideni Liber medicinalis XV, hrsg. v. S. Zervos, Athena 21 (1909), S. 3-144",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/wa_Athena_21_1909/?pn=1"
+  },
+  {
+   "volume": "wa_Aetios_Logos_16",
+   "series": "",
+   "collection": "Weitere Ausgaben",
+   "label": "Aetii Amideni Liber medicinalis XVI, hrsg. v. S. Zervos, Leipzig 1901",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/wa_Aetios_Logos_16/?pn=1"
+  },
+  {
+   "volume": "wa_Alex_Trall_Puschmann_01",
+   "series": "",
+   "collection": "Weitere Ausgaben",
+   "label": "Alexander von Tralles, ed. Th. Puschmann, Bd. I, Wien 1878",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/wa_Alex_Trall_Puschmann_01/?pn=1"
+  },
+  {
+   "volume": "wa_Alex_Trall_Puschmann_02",
+   "series": "",
+   "collection": "Weitere Ausgaben",
+   "label": "Alexander von Tralles, ed. Th. Puschmann, Bd. II, Wien 1879",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/wa_Alex_Trall_Puschmann_02/?pn=1"
+  },
+  {
+   "volume": "wa_anon_lond",
+   "series": "",
+   "collection": "Weitere Ausgaben",
+   "label": "Anonymi Londinensis ex Aristotelis Iatricis Menoniis et aliis medicis eclogae, hrsg. v. H. Diels, Suppl. Aristotel. III 1, Berlin 1893",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/wa_anon_lond/?pn=2"
+  },
+  {
+   "volume": "wa_dioscurides_mat_med_lib_1_2",
+   "series": "",
+   "collection": "Weitere Ausgaben",
+   "label": "Pedanii Dioscuridis Anazarbei De materia medica, hrsg. v. M. Wellmann, Bd. I: Libri I et II, Berlin 1907",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/wa_dioscurides_mat_med_lib_1_2/?pn=1"
+  },
+  {
+   "volume": "wa_dioscurides_mat_med_lib_3_4",
+   "series": "",
+   "collection": "Weitere Ausgaben",
+   "label": "Pedanii Dioscuridis Anazarbei De materia medica, hrsg. v. M. Wellmann, Bd. II: Libri III et IV, Berlin 1907",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/wa_dioscurides_mat_med_lib_3_4/?pn=1"
+  },
+  {
+   "volume": "wa_dioscurides_mat_med_lib_5_crat_sext_nig_simpl",
+   "series": "",
+   "collection": "Weitere Ausgaben",
+   "label": "Pedanii Dioscuridis Anazarbei De materia medica, hrsg. v. M. Wellmann, Bd. III, Berlin 1914",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/wa_dioscurides_mat_med_lib_5_crat_sext_nig_simpl/?pn=1"
+  },
+  {
+   "volume": "wa_dioscurides_mat_med_lib_5_crat_sext_nig_simpl",
+   "series": "",
+   "collection": "Weitere Ausgaben",
+   "label": "De materia medica liber V",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/wa_dioscurides_mat_med_lib_5_crat_sext_nig_simpl/?pn=7"
+  },
+  {
+   "volume": "wa_dioscurides_mat_med_lib_5_crat_sext_nig_simpl",
+   "series": "",
+   "collection": "Weitere Ausgaben",
+   "label": "Crateuae et Sextii Nigri Fragmenta",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/wa_dioscurides_mat_med_lib_5_crat_sext_nig_simpl/?pn=143"
+  },
+  {
+   "volume": "wa_dioscurides_mat_med_lib_5_crat_sext_nig_simpl",
+   "series": "",
+   "collection": "Weitere Ausgaben",
+   "label": "Dioscuridis liber De simplicibus",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/wa_dioscurides_mat_med_lib_5_crat_sext_nig_simpl/?pn=156"
+  },
+  {
+   "volume": "wa_dietz_gal_dissec_musc",
+   "series": "",
+   "collection": "Weitere Ausgaben",
+   "label": "Galeni De dissectione musculorum et De consuetudine libri, hrsg. v. F. R. Dietz, Leipzig 1832",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/wa_dietz_gal_dissec_musc/?pn=1"
+  },
+  {
+   "volume": "wa_galen_hist_phil",
+   "series": "",
+   "collection": "Weitere Ausgaben",
+   "label": "Galeni Historia philosopha, in: Doxographi Graeci, hrsg. v. H. Diels, Berlin 1879",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/wa_galen_hist_phil/?pn=1"
+  },
+  {
+   "volume": "wa_galen_part_phil",
+   "series": "",
+   "collection": "Weitere Ausgaben",
+   "label": "Galeni qui fertur De partibus philosophiae libellus, hrsg. v. E. Wellmann, Berlin 1882",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/wa_galen_part_phil/?pn=1"
+  },
+  {
+   "volume": "wa_galen_scripta_min_1",
+   "series": "",
+   "collection": "Weitere Ausgaben",
+   "label": "Claudii Galeni Pergameni Scripta minora, Bd. I, hrsg. v. J. Marquardt, Leipzig 1884",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/wa_galen_scripta_min_1/?pn=1"
+  },
+  {
+   "volume": "wa_galen_scripta_min_1",
+   "series": "",
+   "collection": "Weitere Ausgaben",
+   "label": "De affectuum et peccatorum dignotione libri",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/wa_galen_scripta_min_1/?pn=67"
+  },
+  {
+   "volume": "wa_galen_scripta_min_1",
+   "series": "",
+   "collection": "Weitere Ausgaben",
+   "label": "De optimo docendi genere",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/wa_galen_scripta_min_1/?pn=148"
+  },
+  {
+   "volume": "wa_galen_scripta_min_1",
+   "series": "",
+   "collection": "Weitere Ausgaben",
+   "label": "De parvae pilae exercitio",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/wa_galen_scripta_min_1/?pn=159"
+  },
+  {
+   "volume": "wa_galen_scripta_min_1",
+   "series": "",
+   "collection": "Weitere Ausgaben",
+   "label": "Exhortatio ad medicinam (Protrepticus)",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/wa_galen_scripta_min_1/?pn=169"
+  },
+  {
+   "volume": "wa_galen_scripta_min_2",
+   "series": "",
+   "collection": "Weitere Ausgaben",
+   "label": "Claudii Galeni Pergameni Scripta minora, Bd. II, hrsg. v. I. Müller, Leipzig 1891",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/wa_galen_scripta_min_2/?pn=1"
+  },
+  {
+   "volume": "wa_galen_scripta_min_2",
+   "series": "",
+   "collection": "Weitere Ausgaben",
+   "label": "Quod optimus medicus sit etiam philosophus",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/wa_galen_scripta_min_2/?pn=95"
+  },
+  {
+   "volume": "wa_galen_scripta_min_2",
+   "series": "",
+   "collection": "Weitere Ausgaben",
+   "label": "De consuetudinibus",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/wa_galen_scripta_min_2/?pn=103"
+  },
+  {
+   "volume": "wa_galen_scripta_min_2",
+   "series": "",
+   "collection": "Weitere Ausgaben",
+   "label": "Quod animi mores corporis temperamenta sequantur",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/wa_galen_scripta_min_2/?pn=126"
+  },
+  {
+   "volume": "wa_galen_scripta_min_2",
+   "series": "",
+   "collection": "Weitere Ausgaben",
+   "label": "De ordine librorum suorum",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/wa_galen_scripta_min_2/?pn=174"
+  },
+  {
+   "volume": "wa_galen_scripta_min_2",
+   "series": "",
+   "collection": "Weitere Ausgaben",
+   "label": "De libris propriis",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/wa_galen_scripta_min_2/?pn=185"
+  },
+  {
+   "volume": "wa_galen_scripta_min_3",
+   "series": "",
+   "collection": "Weitere Ausgaben",
+   "label": "Claudii Galeni Pergameni Scripta minora, Bd. III, hrsg. v. G. Helmreich, Leipzig 1893",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/wa_galen_scripta_min_3/?pn=1"
+  },
+  {
+   "volume": "wa_galen_scripta_min_3",
+   "series": "",
+   "collection": "Weitere Ausgaben",
+   "label": "De sectis ad eos qui introducuntur",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/wa_galen_scripta_min_3/?pn=11"
+  },
+  {
+   "volume": "wa_galen_scripta_min_3",
+   "series": "",
+   "collection": "Weitere Ausgaben",
+   "label": "Thrasybulus",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/wa_galen_scripta_min_3/?pn=43"
+  },
+  {
+   "volume": "wa_galen_scripta_min_3",
+   "series": "",
+   "collection": "Weitere Ausgaben",
+   "label": "De facultatibus naturalibus",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/wa_galen_scripta_min_3/?pn=111"
+  },
+  {
+   "volume": "wa_mueller_ueber_galens_werk_vom_wiss_Beweis",
+   "series": "",
+   "collection": "Weitere Ausgaben",
+   "label": "Über Galens Werk vom wissenschaftlichen Beweis, v. I. v. Müller, Abh. d. philos.-philol. Cl. d. k. Ak. d. Wiss., 20. Bd., München 1895",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/wa_mueller_ueber_galens_werk_vom_wiss_Beweis/?pn=1"
+  },
+  {
+   "volume": "wa_galen_inst_log",
+   "series": "",
+   "collection": "Weitere Ausgaben",
+   "label": "Galeni Institutio logica, hrsg. v. K. Kalbfleisch, Leipzig 1896",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/wa_galen_inst_log/?pn=1"
+  },
+  {
+   "volume": "wa_galen_opt_corp_const",
+   "series": "",
+   "collection": "Weitere Ausgaben",
+   "label": "Galeni De optima corporis constitutione; De bono habitu, hrsg. v. G. Helmreich, Hof 1901",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/wa_galen_opt_corp_const/?pn=1"
+  },
+  {
+   "volume": "wa_galen_capt_dict",
+   "series": "",
+   "collection": "Weitere Ausgaben",
+   "label": "Galeni libellus De captionibus quae per dictionem fiunt, hrsg. v. K. Gabler, phil. Diss. Rostock 1902",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/wa_galen_capt_dict/?pn=1"
+  },
+  {
+   "volume": "wa_galen_temp",
+   "series": "",
+   "collection": "Weitere Ausgaben",
+   "label": "Galeni De temperamentis libri tres, hrsg. v. G. Helmreich, Leipzig 1904",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/wa_galen_temp/?pn=1"
+  },
+  {
+   "volume": "wa_simon_anatomie_bd_1",
+   "series": "",
+   "collection": "Weitere Ausgaben",
+   "label": "Sieben Bücher Anatomie des Galen, arab. hrsg., übers. u. erl. v. M. Simon, Bd. I, Leipzig 1906",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/wa_simon_anatomie_bd_1/?pn=1"
+  },
+  {
+   "volume": "wa_simon_gal_sieben_buecher_anatom",
+   "series": "",
+   "collection": "Weitere Ausgaben",
+   "label": "Sieben Bücher Anatomie des Galen, arab. hrsg., übers. u. erl. v. M. Simon, Bd. II, Leipzig 1906",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/wa_simon_gal_sieben_buecher_anatom/?pn=1"
+  },
+  {
+   "volume": "wa_galen_qual_inc",
+   "series": "",
+   "collection": "Weitere Ausgaben",
+   "label": "Galeni qui fertur De qualitatibus incorporeis libellus, hrsg. v. J. Westenberger, phil. Diss. Marburg 1906",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/wa_galen_qual_inc/?pn=1"
+  },
+  {
+   "volume": "wa_gossen_gal_synops_puls",
+   "series": "",
+   "collection": "Weitere Ausgaben",
+   "label": "De Galeni libro qui Σύνοψις περὶ σφυγμῶν inscribitur, hrsg. v. J. Gossen, phil. Diss. Berlin 1907",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/wa_gossen_gal_synops_puls/?pn=1"
+  },
+  {
+   "volume": "wa_galen_usu_part_1",
+   "series": "",
+   "collection": "Weitere Ausgaben",
+   "label": "Galeni De usu partium libri XVII, hrsg. v. G. Helmreich, Bd. I: Libri I–VIII, Leipzig 1907",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/wa_galen_usu_part_1/?pn=1"
+  },
+  {
+   "volume": "wa_galen_usu_part_2",
+   "series": "",
+   "collection": "Weitere Ausgaben",
+   "label": "Galeni De usu partium libri XVII, hrsg. v. G. Helmreich, Bd. II: Libri IX–XVII, Leipzig 1909",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/wa_galen_usu_part_2/?pn=1"
+  },
+  {
+   "volume": "wa_galen_parv_pil",
+   "series": "",
+   "collection": "Weitere Ausgaben",
+   "label": "De Galeni qui fertur De parvae pilae exercitio libello, hrsg. v. W. Schaefer, phil. Diss. Bonn 1908",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/wa_galen_parv_pil/?pn=1"
+  },
+  {
+   "volume": "wa_galen_art_sang",
+   "series": "",
+   "collection": "Weitere Ausgaben",
+   "label": "Galeni libellus An in arteriis natura sanguis contineatur, hrsg. v. F. Albrecht, phil. Diss. Marburg 1911",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/wa_galen_art_sang/?pn=1"
+  },
+  {
+   "volume": "wa_minor_gal_diff_resp",
+   "series": "",
+   "collection": "Weitere Ausgaben",
+   "label": "Galeni De difficultate respirationis, hrsg. v. A. Minor, phil. Diss. Marburg 1911",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/wa_minor_gal_diff_resp/?pn=1"
+  },
+  {
+   "volume": "wa_galen_an_ut",
+   "series": "",
+   "collection": "Weitere Ausgaben",
+   "label": "Galeni qui fertur libellus Εἰ ζῷον τὸ κατὰ γαστρός, hrsg. v. H. Wagner, phil. Diss. Marburg 1914",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/wa_galen_an_ut/?pn=1"
+  },
+  {
+   "volume": "wa_galen_ut_resp",
+   "series": "",
+   "collection": "Weitere Ausgaben",
+   "label": "Galeni Περὶ χρείας ἀναπνοῆς libellus, hrsg. v. R. Noll, phil. Diss. Marburg 1915",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/wa_galen_ut_resp/?pn=1"
+  },
+  {
+   "volume": "wa_gal_medizin_namen",
+   "series": "",
+   "collection": "Weitere Ausgaben",
+   "label": "Galen Über die medizinischen Namen, arab. u. dt. hrsg. v. M. Meyerhof u. J. Schacht, Abh. d. Preuß. Akademie d. Wiss., phil-hist. Kl. 3, Berlin 1931",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/wa_gal_medizin_namen/?pn=1"
+  },
+  {
+   "volume": "wa_Gal_Siebenmonatskinder_Walzer",
+   "series": "",
+   "collection": "Weitere Ausgaben",
+   "label": "R. Walzer: Galens Schrift Über die Siebenmonatskinder. Riv. Studi Orient. 15 (1935), 323–357",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/wa_Gal_Siebenmonatskinder_Walzer/?pn=1"
+  },
+  {
+   "volume": "wu_Gal_Ballspiel_Wenkebach",
+   "series": "",
+   "collection": "Weitere Ausgaben",
+   "label": "Galenos von Pergamon: Allgemeine Ertüchtigung durch Ballspiel. Eine sporthygienische Schrift aus dem zweiten Jahrhundert n. Chr. Griechisch und deutsch v. E. Wenkebach, Arch. Gesch. Med. 31 (1938), 254–297",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/wu_Gal_Ballspiel_Wenkebach/?pn=1"
+  },
+  {
+   "volume": "wu_Gal_PurgMedFac_Ehlert",
+   "series": "",
+   "collection": "Weitere Ausgaben",
+   "label": "Galeni De purgantium medicamentorum facultate. Überlieferung und Edition, vorgelegt von J. Ehlert. Diss. phil. [masch.schr.] Göttingen 1960",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/wu_Gal_PurgMedFac_Ehlert/?pn=1"
+  },
+  {
+   "volume": "Diss_Schubring",
+   "series": "",
+   "collection": "Weitere Ausgaben",
+   "label": "Die pseudogalenische Schrift über die Verbände, eingeleitet, herausgegeben und übersetzt von K. Schubring, Heft 2: Text. Habil.schr. Kiel 1963",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/Diss_Schubring/?pn=1"
+  },
+  {
+   "volume": "wa_Diss_Reedy",
+   "series": "",
+   "collection": "Weitere Ausgaben",
+   "label": "Galen, De tumoribus praeter naturam. A critical edition with translation and indices, by J. Reedy. Diss. phil. [masch.schr.] Michigan 1968",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/wa_Diss_Reedy/?pn=1"
+  },
+  {
+   "volume": "wa_hippocrates_op_1",
+   "series": "",
+   "collection": "Weitere Ausgaben",
+   "label": "Hippocratis Opera quae feruntur omnia, hrsg. v. H. Kühlewein, Bd. I, Leipzig 1894",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/wa_hippocrates_op_1/?pn=1"
+  },
+  {
+   "volume": "wa_hippocrates_op_1",
+   "series": "",
+   "collection": "Weitere Ausgaben",
+   "label": "Epidemiarum liber III",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/wa_hippocrates_op_1/?pn=1"
+  },
+  {
+   "volume": "wa_hippocrates_op_1",
+   "series": "",
+   "collection": "Weitere Ausgaben",
+   "label": "De aere aquis locis",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/wa_hippocrates_op_1/?pn=165"
+  },
+  {
+   "volume": "wa_hippocrates_op_1",
+   "series": "",
+   "collection": "Weitere Ausgaben",
+   "label": "Prognosticum",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/wa_hippocrates_op_1/?pn=206"
+  },
+  {
+   "volume": "wa_hippocrates_op_1",
+   "series": "",
+   "collection": "Weitere Ausgaben",
+   "label": "De victu acutorum",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/wa_hippocrates_op_1/?pn=243"
+  },
+  {
+   "volume": "wa_hippocrates_op_1",
+   "series": "",
+   "collection": "Weitere Ausgaben",
+   "label": "De victu acutorum (spurium)",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/wa_hippocrates_op_1/?pn=280"
+  },
+  {
+   "volume": "wa_hippocrates_op_1",
+   "series": "",
+   "collection": "Weitere Ausgaben",
+   "label": "Epidemiarum liber I",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/wa_hippocrates_op_1/?pn=314"
+  },
+  {
+   "volume": "wa_hippocrates_op_2",
+   "series": "",
+   "collection": "Weitere Ausgaben",
+   "label": "Hippocratis Opera quae feruntur omnia, hrsg. v. H. Kühlewein, Bd. II, Leipzig 1902",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/wa_hippocrates_op_2/?pn=1"
+  },
+  {
+   "volume": "wa_hippocrates_op_2",
+   "series": "",
+   "collection": "Weitere Ausgaben",
+   "label": "De capitis vulneribus",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/wa_hippocrates_op_2/?pn=1"
+  },
+  {
+   "volume": "wa_prisc_eupor",
+   "series": "",
+   "collection": "Weitere Ausgaben",
+   "label": "Theodori Prisciani Euporiston libri III, hrsg. v. V. Rose, Leipzig 1894",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/wa_prisc_eupor/?pn=1"
+  },
+  {
+   "volume": "wa_Physici_Medici_Graeci_Ideler_01",
+   "series": "",
+   "collection": "Weitere Ausgaben",
+   "label": "Physici et medici graeci, ed. J. L. Ideler, Bd. I, Berlin 1841",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/wa_Physici_Medici_Graeci_Ideler_01/?pn=1"
+  },
+  {
+   "volume": "wa_Physici_Medici_Graeci_Ideler_02",
+   "series": "",
+   "collection": "Weitere Ausgaben",
+   "label": "Physici et medici graeci, ed. J. L. Ideler, Bd. II, Berlin 1842",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/wa_Physici_Medici_Graeci_Ideler_02/?pn=1"
+  },
+  {
+   "volume": "wu_Gal_Therapie_Brink",
+   "series": "",
+   "collection": "Übersetzungen",
+   "label": "Die allgemeine Therapie des Galen, (Übersetzung von Galen, Meth. med. I, 1-5) v. H. Brink, med. Diss. Berlin 1898",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/wu_Gal_Therapie_Brink/?pn=1"
+  },
+  {
+   "volume": "wu_Gal_allgemeineTherapie_Beek",
+   "series": "",
+   "collection": "Übersetzungen",
+   "label": "Die allgemeine Therapie des Galen, (Übersetzung von Galen, Meth. med. I, 6-9) v. C. ter Beek, med. Diss. Berlin 1898",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/wu_Gal_allgemeineTherapie_Beek/?pn=1"
+  },
+  {
+   "volume": "wu_Gal_Therapie_Meyer",
+   "series": "",
+   "collection": "Übersetzungen",
+   "label": "Beitrag zur Therapie des Galen, (Übersetzung von Galen, Meth. med. II, 1-4) v. F. Meyer, med. Diss. Berlin 1899",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/wu_Gal_Therapie_Meyer/?pn=1"
+  },
+  {
+   "volume": "wu_Gal_Therapie_Wandersleben",
+   "series": "",
+   "collection": "Übersetzungen",
+   "label": "Beitrag zur Kenntnis der Therapie des Galen, (Übersetzung von Galen, Meth. med. II, 5-6) v. K. Wandersleben, med. Diss. Kiel 1900",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/wu_Gal_Therapie_Wandersleben/?pn=1"
+  },
+  {
+   "volume": "wu_Gal_allgemeineWundbehandlung_Schroeder",
+   "series": "",
+   "collection": "Übersetzungen",
+   "label": "Die allgemeine Wundbehandlung des Galen, (Paraphrase von Galen, Meth. med. III) v. E. Schröder, med. Diss. Berlin 1901",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/wu_Gal_allgemeineWundbehandlung_Schroeder/?pn=1"
+  },
+  {
+   "volume": "wu_Gal_allgemeineTherapie_Carney",
+   "series": "",
+   "collection": "Übersetzungen",
+   "label": "Die allgemeine Therapie des Galen, (Übersetzung von Galen, Meth. med. III, 1-3) v. J. Carney, med. Diss. Berlin 1898",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/wu_Gal_allgemeineTherapie_Carney/?pn=1"
+  },
+  {
+   "volume": "wu_Gal_Geschwuer_Pruesmann",
+   "series": "",
+   "collection": "Übersetzungen",
+   "label": "Die Behandlung des Geschwürs nach Galen, (Paraphrase von Galen, Meth. med. III, 4-6) v. F. Prüsmann, med. Diss. Berlin 1900",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/wu_Gal_Geschwuer_Pruesmann/?pn=1"
+  },
+  {
+   "volume": "wu_Gal_WunduGeschwuersheilung_Glaser",
+   "series": "",
+   "collection": "Übersetzungen",
+   "label": "Zur Wund- und Geschwürsheilung nach Galen, (Übersetzung von Galen, Meth. med. IV, 1-3) v. E. Glaser, med. Diss. Berlin 1898",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/wu_Gal_WunduGeschwuersheilung_Glaser/?pn=1"
+  },
+  {
+   "volume": "wa_Gal_Fieberbehandlung_Voigt",
+   "series": "",
+   "collection": "Übersetzungen",
+   "label": "Fieberbehandlung nach Galen, (Übersetzung von Galen, Meth. med. VII, 1-4) v. M. Voigt, med. Diss. Berlin 1898",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/wa_Gal_Fieberbehandlung_Voigt/?pn=1"
+  },
+  {
+   "volume": "wu_Gal_DiaetetPhysikTherapie_Beck",
+   "series": "",
+   "collection": "Übersetzungen",
+   "label": "Zur diätetisch-physikalischen Therapie des Galen, besonders beim Fieber (Übersetzung von Galen, Meth. med. VIII, 5-9) v. A. Beck, med. Diss. Berlin 1899",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/wu_Gal_DiaetetPhysikTherapie_Beck/?pn=1"
+  },
+  {
+   "volume": "wu_Gal_Therapie_Tietz",
+   "series": "",
+   "collection": "Übersetzungen",
+   "label": "Beitrag zur Therapie des Galen, (Übersetzung von Galen, Meth. med. XIV, 1-7) v. J. Tietz, med. Diss. Berlin 1899",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/wu_Gal_Therapie_Tietz/?pn=1"
+  },
+  {
+   "volume": "wu_Gal_Therapie_Szczepanski",
+   "series": "",
+   "collection": "Übersetzungen",
+   "label": "Beitrag zur Therapie des Galen, (Übersetzung von Galen, Meth. med. XIV, 8-19) v. J. Szczepanski, med. Diss. Berlin 1899",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/wu_Gal_Therapie_Szczepanski/?pn=1"
+  },
+  {
+   "volume": "wa_Gal_saefteverduennende_Diaet",
+   "series": "",
+   "collection": "Übersetzungen",
+   "label": "Galens Schrift \"Ueber die säfteverdünnende Diät\", übers. v. W. Friboes u. F. W. Kobert, Breslau 1903",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/wa_Gal_saefteverduennende_Diaet/?pn=1"
+  },
+  {
+   "volume": "wu_Werke_des_Galenos_Bd_I",
+   "series": "",
+   "collection": "Übersetzungen",
+   "label": "Die Werke des Galenos, Band I. Galenos Gesundheitslehre Buch 1-3, übersetzt und erläutert von E. Beintker, Stuttgart 1939",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/wu_Werke_des_Galenos_Bd_I/?pn=1"
+  },
+  {
+   "volume": "wu_Werke_des_Galenos_Bd_II",
+   "series": "",
+   "collection": "Übersetzungen",
+   "label": "Die Werke des Galenos, Band II. Galenos Gesundheitslehre Buch 4-6, übersetzt und erläutert von E. Beintker u. W. Kahlenberg, Stuttgart 1941",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/wu_Werke_des_Galenos_Bd_II/?pn=1"
+  },
+  {
+   "volume": "wu_Werke_des_Galenos_Bd_III",
+   "series": "",
+   "collection": "Übersetzungen",
+   "label": "Die Werke des Galenos, Band III. Die Kräfte der Nahrungsmittel Buch 1-2, übersetzt und erläutert von E. Beintker u. W. Kahlenberg, Stuttgart 1948",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/wu_Werke_des_Galenos_Bd_III/?pn=1"
+  },
+  {
+   "volume": "wu_Werke_des_Galenos_Bd_IV",
+   "series": "",
+   "collection": "Übersetzungen",
+   "label": "Die Werke des Galenos, Band IV. Die Kräfte der Nahrungsmittel 3. Buch; Gute und schlechte Säfte der Nahrungsmittel; Die säfteverdünnende Diät; Die Ptisane, übersetzt und erläutert von E. Beintker u. W. Kahlenberg, Stuttgart 1952",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/wu_Werke_des_Galenos_Bd_IV/?pn=1"
+  },
+  {
+   "volume": "wu_Werke_des_Galenos_Bd_V",
+   "series": "",
+   "collection": "Übersetzungen",
+   "label": "Die Werke des Galenos, Band V. Die Kräfte der Physis, übersetzt und erläutert von E. Beintker u. W. Kahlenberg, Stuttgart 1954",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/wu_Werke_des_Galenos_Bd_V/?pn=1"
+  },
+  {
+   "volume": "wu_Gal_IL_Mau",
+   "series": "",
+   "collection": "Übersetzungen",
+   "label": "Beilage zu: Galen, Einführung in die Logik, krit.-exeg. Kommentar von J. Mau: Übersetzung, Berlin 1960",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/wu_Gal_IL_Mau/?pn=1"
+  },
+  {
+   "volume": "diels_01",
+   "series": "",
+   "collection": "Diels",
+   "label": "Diels Handschriftenkatalog: Vorwort",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/diels_01/?pn=1"
+  },
+  {
+   "volume": "diels_02",
+   "series": "",
+   "collection": "Diels",
+   "label": "Diels Handschriftenkatalog: Teil I",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/diels_02/?pn=1"
+  },
+  {
+   "volume": "diels_03",
+   "series": "",
+   "collection": "Diels",
+   "label": "Diels Handschriftenkatalog: Teil II",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/diels_03/?pn=1"
+  },
+  {
+   "volume": "diels_04",
+   "series": "",
+   "collection": "Diels",
+   "label": "Diels Handschriftenkatalog: Bericht CMA",
+   "url": "https://alchemiesofscent.github.io/cmg-viewer/viewer/diels_04/?pn=1"
+  }
  ]
 }

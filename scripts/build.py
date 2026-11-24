@@ -21,7 +21,30 @@ WD = json.loads(WDFILE.read_text()) if WDFILE.exists() else {}
 PKFILE = ROOT / "data" / "pinakes.json"
 PK = json.loads(PKFILE.read_text()) if PKFILE.exists() else {"oeuvres": {}, "retrieved": ""}
 CVFILE = ROOT / "data" / "cmg_viewer_volumes.json"
-CV_VOLS = set(json.loads(CVFILE.read_text())["volumes"]) if CVFILE.exists() else set()
+_CV = json.loads(CVFILE.read_text()) if CVFILE.exists() else {"volumes": [], "items": []}
+CV_VOLS = set(_CV["volumes"])
+CV_ITEMS = defaultdict(list)
+for _i in _CV.get("items", []):
+    if _i["series"] and _i["url"]:
+        CV_ITEMS[(_i["collection"], _i["series"].replace(" ", ""))].append(_i)
+
+
+def viewer_for_edition(w):
+    """'Barigazzi: CMG V 1,1' -> the work's own entry in that CMG viewer volume (or the volume)."""
+    import difflib
+    text = "".join(t for t, _ in (w.get("editions") or []))
+    out = []
+    for coll, series in re.findall(r"\b(CMG|CML)\s+((?:Suppl\.\s*(?:Or\.\s*)?)?[IVX]+(?:\s*[\d,]+)?)", text):
+        items = CV_ITEMS.get((coll, series.replace(" ", "")), [])
+        if not items:
+            continue
+        def score(i):
+            return difflib.SequenceMatcher(None, w["title_lat"].lower(), i["label"].split(", edidit")[0].lower()).ratio()
+        best = max(items, key=score)
+        if score(best) < 0.6:
+            best = items[0]
+        out.append((f"{coll} {series}", best["url"]))
+    return out
 CV_BASE = "https://alchemiesofscent.github.io/cmg-viewer/viewer/"
 _CMG_RE = re.compile(r"cmg\.bbaw\.de/epubl/online/([A-Za-z0-9_]+?)\.(?:php|html)\?.*?\bpn=(\d+)", re.I)
 
@@ -341,7 +364,12 @@ def work_html(a, w):
 
     dl = []
     if w.get("editions"):
-        dl.append(("Authoritative edition(s)", rich(w["editions"])))
+        ed_html = rich(w["editions"])
+        if "cmg-viewer/viewer" not in ed_html:
+            links = viewer_for_edition(w)
+            if links:
+                ed_html += " · " + " · ".join(f'<a class="cv" href="{esc(u)}">{esc(lbl)} in the CMG viewer</a>' for lbl, u in links)
+        dl.append(("Authoritative edition(s)", ed_html))
     if w.get("editions_prep"):
         dl.append(("Edition in preparation", rich(w["editions_prep"])))
     if w["prints"]:
