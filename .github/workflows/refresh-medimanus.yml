@@ -1,0 +1,27 @@
+name: Refresh MediManus data
+on:
+  schedule:
+    - cron: "17 4 * * 1"   # Mondays 04:17 UTC
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Fetch MediManus and rebuild
+        run: |
+          python3 scripts/medimanus.py | tee refresh.log
+          python3 scripts/build.py
+      - name: Commit if the data changed
+        run: |
+          if git diff --quiet -I '"retrieved"' -- data/medimanus.json; then echo "no change"; exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/medimanus.json docs
+          git commit -m "Refresh MediManus data ($(head -1 refresh.log))"
+          git push

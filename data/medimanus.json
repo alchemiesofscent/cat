@@ -1,0 +1,3967 @@
+{
+ "source": "MediManus, Center for Hellenic Studies (medimanus.chs.harvard.edu)",
+ "retrieved": "2026-11-24",
+ "manuscripts": 456,
+ "witnesses": [
+  {
+   "work": "galenus-030",
+   "shelfmark": "Berlin Ham. 270",
+   "folios": "1r–128v",
+   "unit": "ff.",
+   "start": "1r",
+   "title": "De placitis Hippocratis et Platonis (partim)",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/58537"
+  },
+  {
+   "work": "alexander-trallianus-003",
+   "shelfmark": "Cambridge G&C 077/44",
+   "folios": "1r–173r",
+   "unit": "ff.",
+   "start": "1r",
+   "title": "Therapeutica",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/59233"
+  },
+  {
+   "work": "oribasius-001",
+   "shelfmark": "Cambridge St. John A.6",
+   "folios": "1–485",
+   "unit": "pp.",
+   "start": "1",
+   "title": "Collectiones medicae (partim)",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/59973"
+  },
+  {
+   "work": "galenus-069",
+   "shelfmark": "Cambridge UL Ff.3.30",
+   "folios": "39r–84v",
+   "unit": "ff.",
+   "start": "39r",
+   "title": "De simplicibus",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/61255"
+  },
+  {
+   "work": "diocles-carystius-001",
+   "shelfmark": "Cambridge UL Ff.3.30",
+   "folios": "256v–257v",
+   "unit": "ff.",
+   "start": "256v",
+   "title": "Epistula ad Antigonum de tuenda sanitate",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/61255"
+  },
+  {
+   "work": "erotianus-001",
+   "shelfmark": "Cambridge UL Kk.5.7",
+   "folios": "1r–20v",
+   "unit": "ff.",
+   "start": "1r",
+   "title": "Vocum Hippocraticarum collectio",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/59697"
+  },
+  {
+   "work": "galenus-025",
+   "shelfmark": "Florence 56.15",
+   "folios": "142r–207r",
+   "unit": "ff.",
+   "start": "142r",
+   "title": "Quod animi mores corporis temperamenta sequantur",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/220397"
+  },
+  {
+   "work": "hippocrates-064",
+   "shelfmark": "Florence 57.12",
+   "folios": "52v–64r",
+   "unit": "ff.",
+   "start": "52v",
+   "title": "Epistulae",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/221063"
+  },
+  {
+   "work": "hippocrates-064",
+   "shelfmark": "Florence 57.45",
+   "folios": "262v–273v",
+   "unit": "ff.",
+   "start": "262v",
+   "title": "Epistulae",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/222026"
+  },
+  {
+   "work": "asclepiades-bithyniensis-002",
+   "shelfmark": "Florence 57.50",
+   "folios": "582v–583r",
+   "unit": "ff.",
+   "start": "582v",
+   "title": "Praecepta salubria",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/222681"
+  },
+  {
+   "work": "hippocrates-064",
+   "shelfmark": "Florence 59.05",
+   "folios": "4v–14v",
+   "unit": "ff.",
+   "start": "4v",
+   "title": "Epistulae",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/224490"
+  },
+  {
+   "work": "hippocrates-064",
+   "shelfmark": "Florence 59.27",
+   "folios": "169v–179r",
+   "unit": "ff.",
+   "start": "169v",
+   "title": "Epistulae",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/208677"
+  },
+  {
+   "work": "hippocrates-064",
+   "shelfmark": "Florence 60.04",
+   "folios": "72v–76r",
+   "unit": "ff.",
+   "start": "72v",
+   "title": "Epistulae (frag.)",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/212878"
+  },
+  {
+   "work": "galenus-089",
+   "shelfmark": "Florence 74.01",
+   "folios": "1v–8r",
+   "unit": "ff.",
+   "start": "1v",
+   "title": "Vocum Hippocratis glossarium",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/209082"
+  },
+  {
+   "work": "paulus-aeginata-001",
+   "shelfmark": "Florence 74.02",
+   "folios": "1r–379r",
+   "unit": "ff.",
+   "start": "1r",
+   "title": "Epitome",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/209809"
+  },
+  {
+   "work": "galenus-105",
+   "shelfmark": "Florence 74.02",
+   "folios": "381v–382r",
+   "unit": "ff.",
+   "start": "381v",
+   "title": "De septimestri partu (frag.)",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/209809"
+  },
+  {
+   "work": "palladius-003",
+   "shelfmark": "Florence 74.02",
+   "folios": "382v",
+   "unit": "ff.",
+   "start": "382v",
+   "title": "De cibo et potu",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/209809"
+  },
+  {
+   "work": "galenus-080",
+   "shelfmark": "Florence 74.03",
+   "folios": "1r–12r",
+   "unit": "ff.",
+   "start": "1r",
+   "title": "Adversus Lycum",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/210598"
+  },
+  {
+   "work": "galenus-081",
+   "shelfmark": "Florence 74.03",
+   "folios": "12r–21v",
+   "unit": "ff.",
+   "start": "12r",
+   "title": "Adversus Iulianum",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/210598"
+  },
+  {
+   "work": "galenus-089",
+   "shelfmark": "Florence 74.03",
+   "folios": "22r–37v",
+   "unit": "ff.",
+   "start": "22r",
+   "title": "Vocum Hippocratis glossarium",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/210598"
+  },
+  {
+   "work": "galenus-067",
+   "shelfmark": "Florence 74.03",
+   "folios": "60v–64v",
+   "unit": "ff.",
+   "start": "60v",
+   "title": "De purgantium medicamentorum facultatibus",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/210598"
+  },
+  {
+   "work": "galenus-005",
+   "shelfmark": "Florence 74.03",
+   "folios": "64v–80v",
+   "unit": "ff.",
+   "start": "64v",
+   "title": "De constitutione artis medicae",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/210598"
+  },
+  {
+   "work": "galenus-021",
+   "shelfmark": "Florence 74.03",
+   "folios": "80v–90v",
+   "unit": "ff.",
+   "start": "80v",
+   "title": "De foetum formatione",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/210598"
+  },
+  {
+   "work": "galenus-022",
+   "shelfmark": "Florence 74.03",
+   "folios": "91r–97v",
+   "unit": "ff.",
+   "start": "91r",
+   "title": "An in arteriis natura sanguis contineatur",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/210598"
+  },
+  {
+   "work": "galenus-014",
+   "shelfmark": "Florence 74.03",
+   "folios": "97v–104r",
+   "unit": "ff.",
+   "start": "97v",
+   "title": "De instrumento odoratus",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/210598"
+  },
+  {
+   "work": "galenus-105",
+   "shelfmark": "Florence 74.03",
+   "folios": "104r–105v",
+   "unit": "ff.",
+   "start": "104r",
+   "title": "De septimestri partu",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/210598"
+  },
+  {
+   "work": "galenus-031",
+   "shelfmark": "Florence 74.03",
+   "folios": "110v–129v",
+   "unit": "ff.",
+   "start": "110v",
+   "title": "Thrasybulus sive utrum medicinae sit an gymnasticae hygiene",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/210598"
+  },
+  {
+   "work": "galenus-003",
+   "shelfmark": "Florence 74.03",
+   "folios": "129v–131v",
+   "unit": "ff.",
+   "start": "129v",
+   "title": "Quod optimus medicus sit quoque philosophus",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/210598"
+  },
+  {
+   "work": "galenus-002",
+   "shelfmark": "Florence 74.03",
+   "folios": "132r–134v",
+   "unit": "ff.",
+   "start": "132r",
+   "title": "De optima doctrina",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/210598"
+  },
+  {
+   "work": "galenus-032",
+   "shelfmark": "Florence 74.03",
+   "folios": "134v–136v",
+   "unit": "ff.",
+   "start": "134v",
+   "title": "De parvae pilae exercitio",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/210598"
+  },
+  {
+   "work": "galenus-076",
+   "shelfmark": "Florence 74.03",
+   "folios": "141v–149v",
+   "unit": "ff.",
+   "start": "141v",
+   "title": "In Hippocratis De victu acutorum",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/210598"
+  },
+  {
+   "work": "galenus-026",
+   "shelfmark": "Florence 74.03",
+   "folios": "149v–159v",
+   "unit": "ff.",
+   "start": "149v",
+   "title": "De animi cuiuslibet affectuum dignotione et curatione",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/210598"
+  },
+  {
+   "work": "galenus-026",
+   "shelfmark": "Florence 74.03",
+   "folios": "159v–171v",
+   "unit": "ff.",
+   "start": "159v",
+   "title": "De animi cuiuslibet affectuum dignotione et curatione",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/210598"
+  },
+  {
+   "work": "galenus-047",
+   "shelfmark": "Florence 74.03",
+   "folios": "188r–191v",
+   "unit": "ff.",
+   "start": "188r",
+   "title": "De comate secundum Hippocratem",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/210598"
+  },
+  {
+   "work": "galenus-016",
+   "shelfmark": "Florence 74.04",
+   "folios": "1r–247v",
+   "unit": "ff.",
+   "start": "1r",
+   "title": "De usu partium",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/211009"
+  },
+  {
+   "work": "galenus-061",
+   "shelfmark": "Florence 74.06",
+   "folios": "1r–255r",
+   "unit": "ff.",
+   "start": "1r",
+   "title": "De methodo medendi",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/211524"
+  },
+  {
+   "work": "hippocrates-008",
+   "shelfmark": "Florence 74.07",
+   "folios": "10r–13v",
+   "unit": "ff.",
+   "start": "10r",
+   "title": "De officina medici",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/212045"
+  },
+  {
+   "work": "hippocrates-009",
+   "shelfmark": "Florence 74.07",
+   "folios": "14r–34v",
+   "unit": "ff.",
+   "start": "14r",
+   "title": "De fracturis",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/212045"
+  },
+  {
+   "work": "hippocrates-010",
+   "shelfmark": "Florence 74.07",
+   "folios": "34v–75r",
+   "unit": "ff.",
+   "start": "34v",
+   "title": "De articulis",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/212045"
+  },
+  {
+   "work": "hippocrates-007",
+   "shelfmark": "Florence 74.07",
+   "folios": "75r–81v",
+   "unit": "ff.",
+   "start": "75r",
+   "title": "De capitis vulneribus",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/212045"
+  },
+  {
+   "work": "galenus-061",
+   "shelfmark": "Florence 74.07",
+   "folios": "82r–90v",
+   "unit": "ff.",
+   "start": "82r",
+   "title": "De methodo medendi (partim)",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/212045"
+  },
+  {
+   "work": "oribasius-001",
+   "shelfmark": "Florence 74.07",
+   "folios": "90v–180v",
+   "unit": "ff.",
+   "start": "90v",
+   "title": "Collectiones medicae",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/212045"
+  },
+  {
+   "work": "apollonius-citiensis-001",
+   "shelfmark": "Florence 74.07",
+   "folios": "180v–225v",
+   "unit": "ff.",
+   "start": "180v",
+   "title": "In Hippocratis De articulis",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/212045"
+  },
+  {
+   "work": "soranus-ephesius-002",
+   "shelfmark": "Florence 74.07",
+   "folios": "225v–227v",
+   "unit": "ff.",
+   "start": "225v",
+   "title": "De signis fracturarum",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/212045"
+  },
+  {
+   "work": "soranus-ephesius-003",
+   "shelfmark": "Florence 74.07",
+   "folios": "228r–240v",
+   "unit": "ff.",
+   "start": "228r",
+   "title": "De fasciis",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/212045"
+  },
+  {
+   "work": "paulus-aeginata-001",
+   "shelfmark": "Florence 74.07",
+   "folios": "240v–263r",
+   "unit": "ff.",
+   "start": "240v",
+   "title": "Epitome (partim)",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/212045"
+  },
+  {
+   "work": "galenus-011",
+   "shelfmark": "Florence 74.07",
+   "folios": "263r–276r",
+   "unit": "ff.",
+   "start": "263r",
+   "title": "De ossibus ad tirones",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/212045"
+  },
+  {
+   "work": "rufus-ephesius-003",
+   "shelfmark": "Florence 74.07",
+   "folios": "276r–284v",
+   "unit": "ff.",
+   "start": "276r",
+   "title": "Nomenclatura rerum ad hominem pertinentium",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/212045"
+  },
+  {
+   "work": "palladius-004",
+   "shelfmark": "Florence 74.07",
+   "folios": "301v–314r",
+   "unit": "ff.",
+   "start": "301v",
+   "title": "In Hippocratis De fracturis",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/212045"
+  },
+  {
+   "work": "galenus-082",
+   "shelfmark": "Florence 74.07",
+   "folios": "314r–407r",
+   "unit": "ff.",
+   "start": "314r",
+   "title": "In Hippocratis De articulis",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/212045"
+  },
+  {
+   "work": "galenus-016",
+   "shelfmark": "Florence 74.09",
+   "folios": "354r",
+   "unit": "ff.",
+   "start": "354r",
+   "title": "De usu partium (frag.)",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/228871"
+  },
+  {
+   "work": "oribasius-003",
+   "shelfmark": "Florence 74.15",
+   "folios": "1r–138v",
+   "unit": "ff.",
+   "start": "1r",
+   "title": "Synopsis ad Eustathium (partim)",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/208380"
+  },
+  {
+   "work": "dioscorides-004",
+   "shelfmark": "Florence 74.20",
+   "folios": "1r–91v",
+   "unit": "ff.",
+   "start": "1r",
+   "title": "De simplicibus",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/228676"
+  },
+  {
+   "work": "galenus-067",
+   "shelfmark": "Florence 74.22, ff. 001-018",
+   "folios": "1r–2v",
+   "unit": "ff.",
+   "start": "1r",
+   "title": "De purgantibus",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/229590"
+  },
+  {
+   "work": "galenus-065",
+   "shelfmark": "Florence 74.22, ff. 001-018",
+   "folios": "2v–9v",
+   "unit": "ff.",
+   "start": "2v",
+   "title": "De curandi ratione per venae sectionem",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/229590"
+  },
+  {
+   "work": "galenus-064",
+   "shelfmark": "Florence 74.22, ff. 001-018",
+   "folios": "9v–18v",
+   "unit": "ff.",
+   "start": "9v",
+   "title": "De venae sectione adversus Erasistrateos Romae degentes",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/229590"
+  },
+  {
+   "work": "dioscorides-001",
+   "shelfmark": "Florence 74.23",
+   "folios": "21r–185v",
+   "unit": "ff.",
+   "start": "21r",
+   "title": "De materia medica",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/196637"
+  },
+  {
+   "work": "dioscorides-002",
+   "shelfmark": "Florence 74.23",
+   "folios": "185v–192r",
+   "unit": "ff.",
+   "start": "185v",
+   "title": "De venenis",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/196637"
+  },
+  {
+   "work": "dioscorides-003",
+   "shelfmark": "Florence 74.23",
+   "folios": "192v–200v",
+   "unit": "ff.",
+   "start": "192v",
+   "title": "De animalibus venenosis",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/196637"
+  },
+  {
+   "work": "paulus-aeginata-001",
+   "shelfmark": "Florence 74.24",
+   "folios": "1r–76v",
+   "unit": "ff.",
+   "start": "1r",
+   "title": "Epitome (Lib. 6)",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/225238"
+  },
+  {
+   "work": "paulus-aeginata-001",
+   "shelfmark": "Florence 74.27",
+   "folios": "1r–167r",
+   "unit": "ff.",
+   "start": "1r",
+   "title": "Epitome (Lib. 6)",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/226435"
+  },
+  {
+   "work": "galenus-054",
+   "shelfmark": "Florence 74.28",
+   "folios": "1r–114v",
+   "unit": "ff.",
+   "start": "1r",
+   "title": "De pulsuum differentiis",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/199138"
+  },
+  {
+   "work": "galenus-055",
+   "shelfmark": "Florence 74.28",
+   "folios": "114v–199v",
+   "unit": "ff.",
+   "start": "114v",
+   "title": "De dignoscendis pulsibus",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/199138"
+  },
+  {
+   "work": "galenus-056",
+   "shelfmark": "Florence 74.28",
+   "folios": "199v–294v",
+   "unit": "ff.",
+   "start": "199v",
+   "title": "De causis pulsuum",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/199138"
+  },
+  {
+   "work": "galenus-057",
+   "shelfmark": "Florence 74.28",
+   "folios": "294v–399r",
+   "unit": "ff.",
+   "start": "294v",
+   "title": "De praesagitione ex pulsibus",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/199138"
+  },
+  {
+   "work": "paulus-aeginata-001",
+   "shelfmark": "Florence 74.29",
+   "folios": "1r–217v",
+   "unit": "ff.",
+   "start": "1r",
+   "title": "Epitome (partim)",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/196192"
+  },
+  {
+   "work": "galenus-052",
+   "shelfmark": "Florence 74.30",
+   "folios": "1r–144v",
+   "unit": "ff.",
+   "start": "1r",
+   "title": "De locis affectis",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/197553"
+  },
+  {
+   "work": "aetius-amidenus-001",
+   "shelfmark": "Florence 75.12",
+   "folios": "1r–102v",
+   "unit": "ff.",
+   "start": "1r",
+   "title": "Libri medicinales (Lib. 1-3 partim)",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/226071"
+  },
+  {
+   "work": "aretaeus-cappadox-001",
+   "shelfmark": "Florence 75.15",
+   "folios": "1r–40r",
+   "unit": "ff.",
+   "start": "1r",
+   "title": "De causis et signis acutorum morborum (partim)",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/208225"
+  },
+  {
+   "work": "aretaeus-cappadox-003",
+   "shelfmark": "Florence 75.15",
+   "folios": "40r–63r",
+   "unit": "ff.",
+   "start": "40r",
+   "title": "De curatione acutorum morborum",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/208225"
+  },
+  {
+   "work": "aretaeus-cappadox-004",
+   "shelfmark": "Florence 75.15",
+   "folios": "63r–69v",
+   "unit": "ff.",
+   "start": "63r",
+   "title": "De curatione diuturnorum morborum",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/208225"
+  },
+  {
+   "work": "aetius-amidenus-001",
+   "shelfmark": "Florence 75.21",
+   "folios": "1r–251v",
+   "unit": "ff.",
+   "start": "1r",
+   "title": "Libri medicinales",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/202840"
+  },
+  {
+   "work": "palladius-001",
+   "shelfmark": "Florence 75.21",
+   "folios": "252r–257v",
+   "unit": "ff.",
+   "start": "252r",
+   "title": "In Hippocratis Epidemiarum librum VI (partim)",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/202840"
+  },
+  {
+   "work": "meletius-monachus-001",
+   "shelfmark": "Florence 86.01",
+   "folios": "156r–218v",
+   "unit": "ff.",
+   "start": "156r",
+   "title": "De natura hominis",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/226931"
+  },
+  {
+   "work": "stephanus-atheniensis-philosophus-001",
+   "shelfmark": "Leiden BPG 002A",
+   "folios": "1r–104v",
+   "unit": "ff.",
+   "start": "1r",
+   "title": "In Galeni De methodo medendi",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/128213"
+  },
+  {
+   "work": "aetius-amidenus-001",
+   "shelfmark": "Leiden BPG 006",
+   "folios": "1r–200v",
+   "unit": "ff.",
+   "start": "1r",
+   "title": "Libri medicinales (Lib. 1-5, partim)",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/128591"
+  },
+  {
+   "work": "galenus-007",
+   "shelfmark": "Leiden SCA 18",
+   "folios": "2r–12v",
+   "unit": "ff.",
+   "start": "2r",
+   "title": "De elementis secundum Hippocratem",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/128330"
+  },
+  {
+   "work": "galenus-008",
+   "shelfmark": "Leiden SCA 18",
+   "folios": "13r–33v",
+   "unit": "ff.",
+   "start": "13r",
+   "title": "De temperamentis",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/128330"
+  },
+  {
+   "work": "galenus-009",
+   "shelfmark": "Leiden SCA 18",
+   "folios": "35r–59r",
+   "unit": "ff.",
+   "start": "35r",
+   "title": "De naturalibus facultatibus",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/128330"
+  },
+  {
+   "work": "galenus-038",
+   "shelfmark": "Leiden SCA 18",
+   "folios": "60r–70r",
+   "unit": "ff.",
+   "start": "60r",
+   "title": "De causis morborum",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/128330"
+  },
+  {
+   "work": "galenus-039",
+   "shelfmark": "Leiden SCA 18",
+   "folios": "70r–75r",
+   "unit": "ff.",
+   "start": "70r",
+   "title": "De symptomatum differentiis",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/128330"
+  },
+  {
+   "work": "galenus-040",
+   "shelfmark": "Leiden SCA 18",
+   "folios": "75r–83r",
+   "unit": "ff.",
+   "start": "75r",
+   "title": "De symptomatum causis",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/128330"
+  },
+  {
+   "work": "galenus-040",
+   "shelfmark": "Leiden SCA 18",
+   "folios": "83r",
+   "unit": "ff.",
+   "start": "83r",
+   "title": "De symptomatum causis (frag.)",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/128330"
+  },
+  {
+   "work": "galenus-054",
+   "shelfmark": "Leiden VUL 43",
+   "folios": "4r–16v",
+   "unit": "ff.",
+   "start": "4r",
+   "title": "De pulsuum differentiis (partim)",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/128431"
+  },
+  {
+   "work": "galenus-055",
+   "shelfmark": "Leiden VUL 43",
+   "folios": "17r–56v",
+   "unit": "ff.",
+   "start": "17r",
+   "title": "De dignoscendis pulsibus",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/128431"
+  },
+  {
+   "work": "galenus-056",
+   "shelfmark": "Leiden VUL 43",
+   "folios": "57r–98r",
+   "unit": "ff.",
+   "start": "57r",
+   "title": "De causis pulsuum",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/128431"
+  },
+  {
+   "work": "galenus-057",
+   "shelfmark": "Leiden VUL 43",
+   "folios": "98r–153r",
+   "unit": "ff.",
+   "start": "98r",
+   "title": "De praesagitione ex pulsibus (partim)",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/128431"
+  },
+  {
+   "work": "galenus-033",
+   "shelfmark": "Leipzig gr. 50",
+   "folios": "1r–130v",
+   "unit": "ff.",
+   "start": "1r",
+   "title": "De sanitate tuenda",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/194496"
+  },
+  {
+   "work": "galenus-052",
+   "shelfmark": "Leipzig gr. 50",
+   "folios": "132r–260r",
+   "unit": "ff.",
+   "start": "132r",
+   "title": "De locis affectis",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/194496"
+  },
+  {
+   "work": "galenus-040",
+   "shelfmark": "Leipzig gr. 51",
+   "folios": "1r–40r",
+   "unit": "ff.",
+   "start": "1r",
+   "title": "De symptomatum causis",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/195033"
+  },
+  {
+   "work": "galenus-069",
+   "shelfmark": "Leipzig gr. 51",
+   "folios": "41r–370v",
+   "unit": "ff.",
+   "start": "41r",
+   "title": "De simplicibus",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/195033"
+  },
+  {
+   "work": "galenus-010",
+   "shelfmark": "Leipzig gr. 52",
+   "folios": "57r–188v",
+   "unit": "ff.",
+   "start": "57r",
+   "title": "De anatomicis administrationibus",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/195799"
+  },
+  {
+   "work": "galenus-078",
+   "shelfmark": "Modena α.G.3.11",
+   "folios": "1r–161r",
+   "unit": "ff.",
+   "start": "1r",
+   "title": "In Hippocratis Epidemiarum librum I et III (partim)",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/129419"
+  },
+  {
+   "work": "hippocrates-064",
+   "shelfmark": "Modena α.N.8.08",
+   "folios": "5r–16v",
+   "unit": "ff.",
+   "start": "5r",
+   "title": "Epistulae",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/129196"
+  },
+  {
+   "work": "galenus-069",
+   "shelfmark": "Modena α.P.5.18",
+   "folios": "1r–202v",
+   "unit": "ff.",
+   "start": "1r",
+   "title": "De simplicibus",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/128982"
+  },
+  {
+   "work": "meletius-monachus-001",
+   "shelfmark": "Munich gr. 039, MS 1 = ff. 001-136",
+   "folios": "1r–66v",
+   "unit": "ff.",
+   "start": "1r",
+   "title": "De natura hominis",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/44627"
+  },
+  {
+   "work": "meletius-monachus-001",
+   "shelfmark": "Munich gr. 039, MS 1 = ff. 001-136",
+   "folios": "71r–79v",
+   "unit": "ff.",
+   "start": "71r",
+   "title": "De natura hominis (31)",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/44627"
+  },
+  {
+   "work": "galenus-065",
+   "shelfmark": "Munich gr. 039, MS 1 = ff. 001-136",
+   "folios": "81v–84r",
+   "unit": "ff.",
+   "start": "81v",
+   "title": "De curandi ratione per venae sectionem (frag.)",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/44627"
+  },
+  {
+   "work": "galenus-034",
+   "shelfmark": "Munich gr. 039, MS 1 = ff. 001-136",
+   "folios": "86v–121v",
+   "unit": "ff.",
+   "start": "86v",
+   "title": "De alimentorum facultatibus",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/44627"
+  },
+  {
+   "work": "galenus-034",
+   "shelfmark": "Munich gr. 039, MS 1 = ff. 001-136",
+   "folios": "126v–130v",
+   "unit": "ff.",
+   "start": "126v",
+   "title": "De alimentorum facultatibus (Lib. 3 frag.)",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/44627"
+  },
+  {
+   "work": "galenus-089",
+   "shelfmark": "Munich gr. 071",
+   "folios": "1v–8v",
+   "unit": "ff.",
+   "start": "1v",
+   "title": "Vocum Hippocratis glossarium",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/230765"
+  },
+  {
+   "work": "soranus-ephesius-004",
+   "shelfmark": "Munich gr. 071",
+   "folios": "9v–10v",
+   "unit": "ff.",
+   "start": "9v",
+   "title": "Hippocratis genus et vita",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/230765"
+  },
+  {
+   "work": "galenus-025",
+   "shelfmark": "Munich gr. 109",
+   "folios": "50r–61r",
+   "unit": "ff.",
+   "start": "50r",
+   "title": "Quod animi mores corporis temperamenta sequantur",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/50629"
+  },
+  {
+   "work": "hippocrates-064",
+   "shelfmark": "Munich gr. 121, MS 2 = ff. 513-522",
+   "folios": "514r–v",
+   "unit": "ff.",
+   "start": "514r",
+   "title": "Epistulae (1-2)",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/50758"
+  },
+  {
+   "work": "galenus-078",
+   "shelfmark": "Munich gr. 231",
+   "folios": "1r–106r",
+   "unit": "ff.",
+   "start": "1r",
+   "title": "In Hippocratis Epidemiarum librum I",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/233043"
+  },
+  {
+   "work": "galenus-078",
+   "shelfmark": "Munich gr. 231",
+   "folios": "106r–228v",
+   "unit": "ff.",
+   "start": "106r",
+   "title": "In Hippocratis Epidemiarum librum III",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/233043"
+  },
+  {
+   "work": "hippocrates-023",
+   "shelfmark": "Munich gr. 235, MS 7 = ff. 154-219",
+   "folios": "210r–218r",
+   "unit": "ff.",
+   "start": "210r",
+   "title": "De arte (frag.)",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/54102"
+  },
+  {
+   "work": "hippocrates-005",
+   "shelfmark": "Munich gr. 235, MS 7 = ff. 154-219",
+   "folios": "219r",
+   "unit": "ff.",
+   "start": "219r",
+   "title": "Epidemiae I (frag.)",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/54102"
+  },
+  {
+   "work": "galenus-061",
+   "shelfmark": "Munich gr. 610(6",
+   "folios": "r–v",
+   "unit": "ff.",
+   "start": "r",
+   "title": "De methodo medendi (? frag.)",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/48670"
+  },
+  {
+   "work": "galenus-008",
+   "shelfmark": "New Haven Beinecke 1121",
+   "folios": "1r–15v",
+   "unit": "ff.",
+   "start": "1r",
+   "title": "De temperamentis",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/57649"
+  },
+  {
+   "work": "galenus-009",
+   "shelfmark": "New Haven Beinecke 1121",
+   "folios": "15v–54r",
+   "unit": "ff.",
+   "start": "15v",
+   "title": "De naturalibus facultatibus",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/57649"
+  },
+  {
+   "work": "galenus-050",
+   "shelfmark": "New Haven Beinecke 1121",
+   "folios": "54r–57v",
+   "unit": "ff.",
+   "start": "54r",
+   "title": "De inaequali intemperie",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/57649"
+  },
+  {
+   "work": "galenus-023",
+   "shelfmark": "New Haven Beinecke 1121",
+   "folios": "57v–60r",
+   "unit": "ff.",
+   "start": "57v",
+   "title": "De optima corporis nostri constitutione",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/57649"
+  },
+  {
+   "work": "galenus-024",
+   "shelfmark": "New Haven Beinecke 1121",
+   "folios": "60r–61r",
+   "unit": "ff.",
+   "start": "60r",
+   "title": "De bono habitu (frag.)",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/57649"
+  },
+  {
+   "work": "galenus-051",
+   "shelfmark": "New Haven Beinecke 1121",
+   "folios": "62r–106r",
+   "unit": "ff.",
+   "start": "62r",
+   "title": "De difficultate respirationis",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/57649"
+  },
+  {
+   "work": "galenus-062",
+   "shelfmark": "New Haven Beinecke 1121",
+   "folios": "107r–140r",
+   "unit": "ff.",
+   "start": "107r",
+   "title": "Ad Glauconem de medendi methodo",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/57649"
+  },
+  {
+   "work": "galenus-034",
+   "shelfmark": "New Haven Beinecke 1121",
+   "folios": "141r–154v",
+   "unit": "ff.",
+   "start": "141r",
+   "title": "De alimentorum facultatibus",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/57649"
+  },
+  {
+   "work": "dioscorides-001",
+   "shelfmark": "New Haven MedLib vault 31",
+   "folios": "1r–[108v]",
+   "unit": "ff.",
+   "start": "1r",
+   "title": "De materia medica (alphabetice)",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/55395"
+  },
+  {
+   "work": "rufus-ephesius-003",
+   "shelfmark": "New Haven MedLib vault 32",
+   "folios": "3r–7r",
+   "unit": "ff.",
+   "start": "3r",
+   "title": "Nomenclatura rerum ad hominem pertinentium",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/55626"
+  },
+  {
+   "work": "rufus-ephesius-003",
+   "shelfmark": "New Haven MedLib vault 32",
+   "folios": "20r–21v",
+   "unit": "ff.",
+   "start": "20r",
+   "title": "De corporis humani appellationibus (partim)",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/55626"
+  },
+  {
+   "work": "meletius-monachus-001",
+   "shelfmark": "New Haven MedLib vault 33",
+   "folios": "1r–113r",
+   "unit": "ff.",
+   "start": "1r",
+   "title": "De natura hominis",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/55771"
+  },
+  {
+   "work": "galenus-072",
+   "shelfmark": "New Haven MedLib vault 37",
+   "folios": "1r–26r",
+   "unit": "ff.",
+   "start": "1r",
+   "title": "De antidotis",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/56956"
+  },
+  {
+   "work": "hippocrates-064",
+   "shelfmark": "Oxford Barocc. 051",
+   "folios": "61r–63v",
+   "unit": "ff.",
+   "start": "61r",
+   "title": "Epistulae",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/184829"
+  },
+  {
+   "work": "hippocrates-003",
+   "shelfmark": "Oxford Barocc. 076",
+   "folios": "300v",
+   "unit": "ff.",
+   "start": "300v",
+   "title": "Prognosticon (frag.)",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/187938"
+  },
+  {
+   "work": "galenus-089",
+   "shelfmark": "Oxford Barocc. 204",
+   "folios": "1r–8v",
+   "unit": "ff.",
+   "start": "1r",
+   "title": "Vocum Hippocratis glossarium",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/190717"
+  },
+  {
+   "work": "soranus-ephesius-004",
+   "shelfmark": "Oxford Barocc. 204",
+   "folios": "8r–9r",
+   "unit": "ff.",
+   "start": "8r",
+   "title": "Hippocratis genus et vita",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/190717"
+  },
+  {
+   "work": "galenus-051",
+   "shelfmark": "Oxford Barocc. 220",
+   "folios": "5r–6v, 1r–4v, 7r–8v, 40r–45v, 9r–39v, 46r–47v",
+   "unit": "ff.",
+   "start": "5r",
+   "title": "De difficultate respirationis",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/188813"
+  },
+  {
+   "work": "dioscorides-002",
+   "shelfmark": "Paris BiblMazarine 4461, ff. 104-144",
+   "folios": "104r–121v",
+   "unit": "ff.",
+   "start": "104r",
+   "title": "De venenis",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/54959"
+  },
+  {
+   "work": "dioscorides-003",
+   "shelfmark": "Paris BiblMazarine 4461, ff. 104-144",
+   "folios": "121v–143bis r",
+   "unit": "ff.",
+   "start": "121v",
+   "title": "De animalibus venenosis",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/54959"
+  },
+  {
+   "work": "paulus-aeginata-001",
+   "shelfmark": "Paris Coisl. gr. 008, ff. 1, 283",
+   "folios": "",
+   "unit": "ff.",
+   "start": "",
+   "title": "Epitome (frag.)",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/176300"
+  },
+  {
+   "work": "paulus-aeginata-001",
+   "shelfmark": "Paris Coisl. gr. 168",
+   "folios": "1r–307v",
+   "unit": "ff.",
+   "start": "1r",
+   "title": "Epitome",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/130089"
+  },
+  {
+   "work": "galenus-016",
+   "shelfmark": "Paris Coisl. gr. 333",
+   "folios": "1r–247r",
+   "unit": "ff.",
+   "start": "1r",
+   "title": "De usu partium",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/131736"
+  },
+  {
+   "work": "hippocrates-003",
+   "shelfmark": "Paris gr. 0036",
+   "folios": "17r–29r",
+   "unit": "ff.",
+   "start": "17r",
+   "title": "Prognosticon",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/152022"
+  },
+  {
+   "work": "hippocrates-012",
+   "shelfmark": "Paris gr. 0036",
+   "folios": "30r–55r",
+   "unit": "ff.",
+   "start": "30r",
+   "title": "Aphorismi (partim)",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/152022"
+  },
+  {
+   "work": "hippocrates-034",
+   "shelfmark": "Paris gr. 0036",
+   "folios": "55r–90v",
+   "unit": "ff.",
+   "start": "55r",
+   "title": "De diaeta",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/152022"
+  },
+  {
+   "work": "hippocrates-012",
+   "shelfmark": "Paris gr. 1297, MS 4 = ff. 063-076",
+   "folios": "63r–75v",
+   "unit": "ff.",
+   "start": "63r",
+   "title": "Aphorismi (frag.)",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/154419"
+  },
+  {
+   "work": "dioscorides-001",
+   "shelfmark": "Paris gr. 1603, ff. 178-201",
+   "folios": "178r–194r",
+   "unit": "ff.",
+   "start": "178r",
+   "title": "De materia medica (partim)",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/139387"
+  },
+  {
+   "work": "dioscorides-003",
+   "shelfmark": "Paris gr. 1603, ff. 178-201",
+   "folios": "194r–195v",
+   "unit": "ff.",
+   "start": "194r",
+   "title": "De animalibus venenosis (frag.)",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/139387"
+  },
+  {
+   "work": "diocles-carystius-001",
+   "shelfmark": "Paris gr. 1631",
+   "folios": "168v–171r",
+   "unit": "ff.",
+   "start": "168v",
+   "title": "Epistula ad Antigonum de tuenda sanitate",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/162886"
+  },
+  {
+   "work": "galenus-006",
+   "shelfmark": "Paris gr. 1644, ff. 38-I'",
+   "folios": "38r–59v",
+   "unit": "ff.",
+   "start": "38r",
+   "title": "Ars medica",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/157711"
+  },
+  {
+   "work": "hippocrates-064",
+   "shelfmark": "Paris gr. 1760",
+   "folios": "146r–v, 205r–217v",
+   "unit": "ff.",
+   "start": "146r",
+   "title": "Epistulae (partim)",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/139808"
+  },
+  {
+   "work": "galenus-062",
+   "shelfmark": "Paris gr. 1831, ff. 119-126",
+   "folios": "119r–121v",
+   "unit": "ff.",
+   "start": "119r",
+   "title": "Ad Glauconem de medendi methodo (frag.)",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/154513"
+  },
+  {
+   "work": "alexander-trallianus-001",
+   "shelfmark": "Paris gr. 1831, ff. 119-126",
+   "folios": "121v–126v",
+   "unit": "ff.",
+   "start": "121v",
+   "title": "De febribus",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/154513"
+  },
+  {
+   "work": "galenus-010",
+   "shelfmark": "Paris gr. 1849",
+   "folios": "9r–94r",
+   "unit": "ff.",
+   "start": "9r",
+   "title": "De anatomicis administrationibus",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/136633"
+  },
+  {
+   "work": "galenus-017",
+   "shelfmark": "Paris gr. 1849",
+   "folios": "95r–110v",
+   "unit": "ff.",
+   "start": "95r",
+   "title": "De musculorum motu",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/136633"
+  },
+  {
+   "work": "galenus-082",
+   "shelfmark": "Paris gr. 1849",
+   "folios": "111r–147v",
+   "unit": "ff.",
+   "start": "111r",
+   "title": "In Hippocratis De articulis",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/136633"
+  },
+  {
+   "work": "galenus-084",
+   "shelfmark": "Paris gr. 1849",
+   "folios": "148r–175r",
+   "unit": "ff.",
+   "start": "148r",
+   "title": "In Hippocratis De fracturis",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/136633"
+  },
+  {
+   "work": "galenus-085",
+   "shelfmark": "Paris gr. 1849",
+   "folios": "175v–206v",
+   "unit": "ff.",
+   "start": "175v",
+   "title": "In Hippocratis De officina medici",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/136633"
+  },
+  {
+   "work": "paulus-aeginata-001",
+   "shelfmark": "Paris gr. 1865",
+   "folios": "133r",
+   "unit": "ff.",
+   "start": "133r",
+   "title": "Epitome (frag.)",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/139184"
+  },
+  {
+   "work": "hippocrates-003",
+   "shelfmark": "Paris gr. 1884",
+   "folios": "78v–92v",
+   "unit": "ff.",
+   "start": "78v",
+   "title": "Prognosticon",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/168732"
+  },
+  {
+   "work": "galenus-079",
+   "shelfmark": "Paris gr. 1884",
+   "folios": "158r–331r",
+   "unit": "ff.",
+   "start": "158r",
+   "title": "In Hippocratis Aphorismos",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/168732"
+  },
+  {
+   "work": "cassius-felix-001",
+   "shelfmark": "Paris gr. 1943",
+   "folios": "43v–54r",
+   "unit": "ff.",
+   "start": "43v",
+   "title": "Aporemata medica et physica problemata",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/161735"
+  },
+  {
+   "work": "galenus-040",
+   "shelfmark": "Paris gr. 1949",
+   "folios": "418v–419r",
+   "unit": "ff.",
+   "start": "418v",
+   "title": "De symptomatum causis (cum latina versione, frag.)",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/137936"
+  },
+  {
+   "work": "hippocrates-013",
+   "shelfmark": "Paris gr. 2047",
+   "folios": "16r–v",
+   "unit": "ff.",
+   "start": "16r",
+   "title": "Iusiurandum",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/143843"
+  },
+  {
+   "work": "paulus-aeginata-001",
+   "shelfmark": "Paris gr. 2047",
+   "folios": "30r–503r",
+   "unit": "ff.",
+   "start": "30r",
+   "title": "Epitome",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/143843"
+  },
+  {
+   "work": "cassius-felix-001",
+   "shelfmark": "Paris gr. 2047A",
+   "folios": "51r–77r",
+   "unit": "ff.",
+   "start": "51r",
+   "title": "Aporemata medica et physica problemata",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/167466"
+  },
+  {
+   "work": "meletius-monachus-001",
+   "shelfmark": "Paris gr. 2047A",
+   "folios": "113v–120v",
+   "unit": "ff.",
+   "start": "113v",
+   "title": "De natura hominis (partim)",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/167466"
+  },
+  {
+   "work": "galenus-089",
+   "shelfmark": "Paris gr. 2140",
+   "folios": "1v–8v",
+   "unit": "ff.",
+   "start": "1v",
+   "title": "Vocum Hippocratis glossarium",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/173678"
+  },
+  {
+   "work": "soranus-ephesius-004",
+   "shelfmark": "Paris gr. 2140",
+   "folios": "f, 8v–9r",
+   "unit": "ff.",
+   "start": "f",
+   "title": "Hippocratis genus et vita",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/173678"
+  },
+  {
+   "work": "galenus-089",
+   "shelfmark": "Paris gr. 2141",
+   "folios": "1r–6v",
+   "unit": "ff.",
+   "start": "1r",
+   "title": "Vocum Hippocratis glossarium",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/136275"
+  },
+  {
+   "work": "soranus-ephesius-004",
+   "shelfmark": "Paris gr. 2141",
+   "folios": "8r–v",
+   "unit": "ff.",
+   "start": "8r",
+   "title": "Hippocratis genus et vita",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/136275"
+  },
+  {
+   "work": "galenus-089",
+   "shelfmark": "Paris gr. 2143",
+   "folios": "1v–10r",
+   "unit": "ff.",
+   "start": "1v",
+   "title": "Vocum Hippocratis glossarium",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/138353"
+  },
+  {
+   "work": "soranus-ephesius-004",
+   "shelfmark": "Paris gr. 2143",
+   "folios": "10r–11r",
+   "unit": "ff.",
+   "start": "10r",
+   "title": "Hippocratis genus et vita",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/138353"
+  },
+  {
+   "work": "galenus-089",
+   "shelfmark": "Paris gr. 2145",
+   "folios": "1r–12r",
+   "unit": "ff.",
+   "start": "1r",
+   "title": "Vocum Hippocratis glossarium",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/151267"
+  },
+  {
+   "work": "soranus-ephesius-004",
+   "shelfmark": "Paris gr. 2145",
+   "folios": "13r–14r",
+   "unit": "ff.",
+   "start": "13r",
+   "title": "Hippocratis genus et vita",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/151267"
+  },
+  {
+   "work": "galenus-069",
+   "shelfmark": "Paris gr. 2147",
+   "folios": "36r–39v",
+   "unit": "ff.",
+   "start": "36r",
+   "title": "De simplicibus (frag.)",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/157174"
+  },
+  {
+   "work": "galenus-104",
+   "shelfmark": "Paris gr. 2147",
+   "folios": "39v–65v",
+   "unit": "ff.",
+   "start": "39v",
+   "title": "De propriis placitis",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/157174"
+  },
+  {
+   "work": "galenus-016",
+   "shelfmark": "Paris gr. 2154",
+   "folios": "2v–250r",
+   "unit": "ff.",
+   "start": "2v",
+   "title": "De usu partium",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/159039"
+  },
+  {
+   "work": "galenus-069",
+   "shelfmark": "Paris gr. 2157, ff. 001-216",
+   "folios": "1r–215r",
+   "unit": "ff.",
+   "start": "1r",
+   "title": "De simplicibus",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/146586"
+  },
+  {
+   "work": "galenus-069",
+   "shelfmark": "Paris gr. 2159",
+   "folios": "1r–237r",
+   "unit": "ff.",
+   "start": "1r",
+   "title": "De simplicibus",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/175184"
+  },
+  {
+   "work": "galenus-061",
+   "shelfmark": "Paris gr. 2160",
+   "folios": "1r–217r",
+   "unit": "ff.",
+   "start": "1r",
+   "title": "De methodo medendi",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/175568"
+  },
+  {
+   "work": "galenus-061",
+   "shelfmark": "Paris gr. 2162, ff. 001-210",
+   "folios": "1r–209v",
+   "unit": "ff.",
+   "start": "1r",
+   "title": "De methodo medendi",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/155501"
+  },
+  {
+   "work": "galenus-006",
+   "shelfmark": "Paris gr. 2163",
+   "folios": "1r–24v",
+   "unit": "ff.",
+   "start": "1r",
+   "title": "Ars medica",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/157251"
+  },
+  {
+   "work": "galenus-034",
+   "shelfmark": "Paris gr. 2167",
+   "folios": "1r–26v",
+   "unit": "ff.",
+   "start": "1r",
+   "title": "De alimentorum facultatibus",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/233819"
+  },
+  {
+   "work": "galenus-069",
+   "shelfmark": "Paris gr. 2167",
+   "folios": "75r–138v",
+   "unit": "ff.",
+   "start": "75r",
+   "title": "De simplicibus (partim)",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/233819"
+  },
+  {
+   "work": "galenus-041",
+   "shelfmark": "Paris gr. 2167",
+   "folios": "188r–219r",
+   "unit": "ff.",
+   "start": "188r",
+   "title": "De differentiis febrium",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/233819"
+  },
+  {
+   "work": "galenus-037",
+   "shelfmark": "Paris gr. 2167",
+   "folios": "223r–235v",
+   "unit": "ff.",
+   "start": "223r",
+   "title": "De morborum differentiis",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/233819"
+  },
+  {
+   "work": "galenus-038",
+   "shelfmark": "Paris gr. 2167",
+   "folios": "235v–249r",
+   "unit": "ff.",
+   "start": "235v",
+   "title": "De causis morborum",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/233819"
+  },
+  {
+   "work": "galenus-054",
+   "shelfmark": "Paris gr. 2167",
+   "folios": "288v–301v",
+   "unit": "ff.",
+   "start": "288v",
+   "title": "De pulsuum differentiis",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/233819"
+  },
+  {
+   "work": "galenus-055",
+   "shelfmark": "Paris gr. 2167",
+   "folios": "303r–339v",
+   "unit": "ff.",
+   "start": "303r",
+   "title": "De dignoscendis pulsibus",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/233819"
+  },
+  {
+   "work": "galenus-056",
+   "shelfmark": "Paris gr. 2167",
+   "folios": "343r–381v",
+   "unit": "ff.",
+   "start": "343r",
+   "title": "De causis pulsuum",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/233819"
+  },
+  {
+   "work": "galenus-057",
+   "shelfmark": "Paris gr. 2167",
+   "folios": "387r–446v",
+   "unit": "ff.",
+   "start": "387r",
+   "title": "De praesagitione ex pulsibus",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/233819"
+  },
+  {
+   "work": "galenus-079",
+   "shelfmark": "Paris gr. 2168",
+   "folios": "2r–167r",
+   "unit": "ff.",
+   "start": "2r",
+   "title": "In Hippocratis Aphorismos",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/143604"
+  },
+  {
+   "work": "galenus-077",
+   "shelfmark": "Paris gr. 2168",
+   "folios": "172r–231v",
+   "unit": "ff.",
+   "start": "172r",
+   "title": "In Hippocratis Prorrheticum I",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/143604"
+  },
+  {
+   "work": "galenus-037",
+   "shelfmark": "Paris gr. 2169",
+   "folios": "1r–11v",
+   "unit": "ff.",
+   "start": "1r",
+   "title": "De morborum differentiis",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/166399"
+  },
+  {
+   "work": "galenus-038",
+   "shelfmark": "Paris gr. 2169",
+   "folios": "11v–21v",
+   "unit": "ff.",
+   "start": "11v",
+   "title": "De causis morborum",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/166399"
+  },
+  {
+   "work": "galenus-039",
+   "shelfmark": "Paris gr. 2169",
+   "folios": "22r–32v",
+   "unit": "ff.",
+   "start": "22r",
+   "title": "De symptomatum differentiis",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/166399"
+  },
+  {
+   "work": "galenus-040",
+   "shelfmark": "Paris gr. 2169",
+   "folios": "32v–82r",
+   "unit": "ff.",
+   "start": "32v",
+   "title": "De symptomatum causis",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/166399"
+  },
+  {
+   "work": "galenus-006",
+   "shelfmark": "Paris gr. 2169",
+   "folios": "82v–83v",
+   "unit": "ff.",
+   "start": "82v",
+   "title": "Ars medica (frag.)",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/166399"
+  },
+  {
+   "work": "galenus-061",
+   "shelfmark": "Paris gr. 2169",
+   "folios": "83v–167v",
+   "unit": "ff.",
+   "start": "83v",
+   "title": "De methodo medendi",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/166399"
+  },
+  {
+   "work": "galenus-069",
+   "shelfmark": "Paris gr. 2170",
+   "folios": "1r–246v",
+   "unit": "ff.",
+   "start": "1r",
+   "title": "De simplicibus",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/133682"
+  },
+  {
+   "work": "galenus-044",
+   "shelfmark": "Paris gr. 2170",
+   "folios": "248r–257r",
+   "unit": "ff.",
+   "start": "248r",
+   "title": "Adversus eos qui de typis scripserunt",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/133682"
+  },
+  {
+   "work": "galenus-061",
+   "shelfmark": "Paris gr. 2171",
+   "folios": "1r–206v",
+   "unit": "ff.",
+   "start": "1r",
+   "title": "De methodo medendi",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/172592"
+  },
+  {
+   "work": "galenus-034",
+   "shelfmark": "Paris gr. 2173",
+   "folios": "6r–70r",
+   "unit": "ff.",
+   "start": "6r",
+   "title": "De alimentorum facultatibus",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/180378"
+  },
+  {
+   "work": "galenus-070",
+   "shelfmark": "Paris gr. 2173",
+   "folios": "71r–318v",
+   "unit": "ff.",
+   "start": "71r",
+   "title": "De compositione medicamentorum secundum locos",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/180378"
+  },
+  {
+   "work": "galenus-078",
+   "shelfmark": "Paris gr. 2174",
+   "folios": "1r–177v",
+   "unit": "ff.",
+   "start": "1r",
+   "title": "In Hippocratis Epidemiarum librum I et III",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/154219"
+  },
+  {
+   "work": "oribasius-004",
+   "shelfmark": "Paris gr. 2177",
+   "folios": "10r–94v",
+   "unit": "ff.",
+   "start": "10r",
+   "title": "Ad Eunapium de parabilibus medicamentis",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/181033"
+  },
+  {
+   "work": "erotianus-001",
+   "shelfmark": "Paris gr. 2177",
+   "folios": "96r–136r",
+   "unit": "ff.",
+   "start": "96r",
+   "title": "Vocum Hippocraticarum collectio",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/181033"
+  },
+  {
+   "work": "dioscorides-001",
+   "shelfmark": "Paris gr. 2179",
+   "folios": "1r–171v",
+   "unit": "ff.",
+   "start": "1r",
+   "title": "De materia medica (partim)",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/177551"
+  },
+  {
+   "work": "dioscorides-001",
+   "shelfmark": "Paris gr. 2180",
+   "folios": "1r–v",
+   "unit": "ff.",
+   "start": "1r",
+   "title": "De materia medica (proemium, partim)",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/179156"
+  },
+  {
+   "work": "dioscorides-001",
+   "shelfmark": "Paris gr. 2180",
+   "folios": "5r–56v",
+   "unit": "ff.",
+   "start": "5r",
+   "title": "De materia medica (partim)",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/179156"
+  },
+  {
+   "work": "aetius-amidenus-001",
+   "shelfmark": "Paris gr. 2180",
+   "folios": "57r–58r",
+   "unit": "ff.",
+   "start": "57r",
+   "title": "Libri medicinales (Lib. 2, frag.)",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/179156"
+  },
+  {
+   "work": "dioscorides-001",
+   "shelfmark": "Paris gr. 2180",
+   "folios": "67r–73v, 74v",
+   "unit": "ff.",
+   "start": "67r",
+   "title": "De materia medica (frag.)",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/179156"
+  },
+  {
+   "work": "dioscorides-001",
+   "shelfmark": "Paris gr. 2182",
+   "folios": "7r–147r",
+   "unit": "ff.",
+   "start": "7r",
+   "title": "De materia medica",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/159596"
+  },
+  {
+   "work": "dioscorides-002",
+   "shelfmark": "Paris gr. 2182",
+   "folios": "147v–149v, 130r–133v",
+   "unit": "ff.",
+   "start": "147v",
+   "title": "De venenis",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/159596"
+  },
+  {
+   "work": "dioscorides-003",
+   "shelfmark": "Paris gr. 2182",
+   "folios": "133v–139v, 150r–151r",
+   "unit": "ff.",
+   "start": "133v",
+   "title": "De animalibus venenosis",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/159596"
+  },
+  {
+   "work": "dioscorides-001",
+   "shelfmark": "Paris gr. 2183",
+   "folios": "1r–147r",
+   "unit": "ff.",
+   "start": "1r",
+   "title": "De materia medica",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/134562"
+  },
+  {
+   "work": "galenus-069",
+   "shelfmark": "Paris gr. 2183",
+   "folios": "1r–147r marg.",
+   "unit": "ff.",
+   "start": "1r",
+   "title": "De simplicibus (frag.)",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/134562"
+  },
+  {
+   "work": "dioscorides-002",
+   "shelfmark": "Paris gr. 2183",
+   "folios": "147r–155r",
+   "unit": "ff.",
+   "start": "147r",
+   "title": "De venenis",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/134562"
+  },
+  {
+   "work": "dioscorides-003",
+   "shelfmark": "Paris gr. 2183",
+   "folios": "155r–163v",
+   "unit": "ff.",
+   "start": "155r",
+   "title": "De animalibus venenosis",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/134562"
+  },
+  {
+   "work": "dioscorides-001",
+   "shelfmark": "Paris gr. 2184",
+   "folios": "1r–187v",
+   "unit": "ff.",
+   "start": "1r",
+   "title": "De materia medica (alphabetice)",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/159347"
+  },
+  {
+   "work": "dioscorides-002",
+   "shelfmark": "Paris gr. 2184",
+   "folios": "188r–197v",
+   "unit": "ff.",
+   "start": "188r",
+   "title": "De venenis",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/159347"
+  },
+  {
+   "work": "dioscorides-003",
+   "shelfmark": "Paris gr. 2184",
+   "folios": "197v–208v",
+   "unit": "ff.",
+   "start": "197v",
+   "title": "De animalibus venenosis",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/159347"
+  },
+  {
+   "work": "dioscorides-001",
+   "shelfmark": "Paris gr. 2185",
+   "folios": "1r–175r",
+   "unit": "ff.",
+   "start": "1r",
+   "title": "De materia medica",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/165245"
+  },
+  {
+   "work": "dioscorides-002",
+   "shelfmark": "Paris gr. 2185",
+   "folios": "175r–184r",
+   "unit": "ff.",
+   "start": "175r",
+   "title": "De venenis",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/165245"
+  },
+  {
+   "work": "dioscorides-003",
+   "shelfmark": "Paris gr. 2185",
+   "folios": "184r–194v",
+   "unit": "ff.",
+   "start": "184r",
+   "title": "De animalibus venenosis",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/165245"
+  },
+  {
+   "work": "galenus-069",
+   "shelfmark": "Paris gr. 2185",
+   "folios": "194v–195v",
+   "unit": "ff.",
+   "start": "194v",
+   "title": "De simplicibus (frag.)",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/165245"
+  },
+  {
+   "work": "aretaeus-cappadox-001",
+   "shelfmark": "Paris gr. 2186",
+   "folios": "1r–50v",
+   "unit": "ff.",
+   "start": "1r",
+   "title": "De causis et signis acutorum morborum",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/178747"
+  },
+  {
+   "work": "aretaeus-cappadox-003",
+   "shelfmark": "Paris gr. 2186",
+   "folios": "50v–98r",
+   "unit": "ff.",
+   "start": "50v",
+   "title": "De curatione acutorum morborum",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/178747"
+  },
+  {
+   "work": "aretaeus-cappadox-001",
+   "shelfmark": "Paris gr. 2187",
+   "folios": "1v–67v",
+   "unit": "ff.",
+   "start": "1v",
+   "title": "De causis et signis acutorum morborum (partim)",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/177300"
+  },
+  {
+   "work": "aretaeus-cappadox-002",
+   "shelfmark": "Paris gr. 2187",
+   "folios": "1v–67v",
+   "unit": "ff.",
+   "start": "1v",
+   "title": "De causis et signis diuturnorum morborum",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/177300"
+  },
+  {
+   "work": "aretaeus-cappadox-003",
+   "shelfmark": "Paris gr. 2187",
+   "folios": "68r–117v",
+   "unit": "ff.",
+   "start": "68r",
+   "title": "De curatione acutorum morborum",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/177300"
+  },
+  {
+   "work": "oribasius-003",
+   "shelfmark": "Paris gr. 2188, ff. 001-086",
+   "folios": "1r–85v",
+   "unit": "ff.",
+   "start": "1r",
+   "title": "Synopsis ad Eustathium",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/163961"
+  },
+  {
+   "work": "oribasius-001",
+   "shelfmark": "Paris gr. 2189",
+   "folios": "1r–406r",
+   "unit": "ff.",
+   "start": "1r",
+   "title": "Collectiones medicae",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/163426"
+  },
+  {
+   "work": "aetius-amidenus-001",
+   "shelfmark": "Paris gr. 2191",
+   "folios": "1r–344r",
+   "unit": "ff.",
+   "start": "1r",
+   "title": "Libri medicinales",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/164479"
+  },
+  {
+   "work": "paulus-aeginata-001",
+   "shelfmark": "Paris gr. 2191",
+   "folios": "345r–375v",
+   "unit": "ff.",
+   "start": "345r",
+   "title": "Epitome (Lib. 6)",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/164479"
+  },
+  {
+   "work": "aetius-amidenus-001",
+   "shelfmark": "Paris gr. 2192",
+   "folios": "1r–316v",
+   "unit": "ff.",
+   "start": "1r",
+   "title": "Libri medicinales",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/159816"
+  },
+  {
+   "work": "paulus-aeginata-001",
+   "shelfmark": "Paris gr. 2192",
+   "folios": "317v–345v",
+   "unit": "ff.",
+   "start": "317v",
+   "title": "Epitome (Lib. 6)",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/159816"
+  },
+  {
+   "work": "aetius-amidenus-001",
+   "shelfmark": "Paris gr. 2193",
+   "folios": "1r–401v",
+   "unit": "ff.",
+   "start": "1r",
+   "title": "Libri medicinales",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/158295"
+  },
+  {
+   "work": "aetius-amidenus-001",
+   "shelfmark": "Paris gr. 2194",
+   "folios": "3r–399v",
+   "unit": "ff.",
+   "start": "3r",
+   "title": "Libri medicinales",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/160172"
+  },
+  {
+   "work": "aetius-amidenus-001",
+   "shelfmark": "Paris gr. 2195",
+   "folios": "A v–467v",
+   "unit": "ff.",
+   "start": "A v",
+   "title": "Libri medicinales (Lib. 5-8)",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/179389"
+  },
+  {
+   "work": "aetius-amidenus-001",
+   "shelfmark": "Paris gr. 2196",
+   "folios": "1r–286v",
+   "unit": "ff.",
+   "start": "1r",
+   "title": "Libri medicinales",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/164286"
+  },
+  {
+   "work": "aetius-amidenus-001",
+   "shelfmark": "Paris gr. 2197",
+   "folios": "1r–196v",
+   "unit": "ff.",
+   "start": "1r",
+   "title": "Libri medicinales",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/158092"
+  },
+  {
+   "work": "aetius-amidenus-001",
+   "shelfmark": "Paris gr. 2198",
+   "folios": "1r–529v",
+   "unit": "ff.",
+   "start": "1r",
+   "title": "Libri medicinales",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/160647"
+  },
+  {
+   "work": "aetius-amidenus-001",
+   "shelfmark": "Paris gr. 2199",
+   "folios": "1r–520v",
+   "unit": "ff.",
+   "start": "1r",
+   "title": "Libri medicinales",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/165447"
+  },
+  {
+   "work": "alexander-trallianus-003",
+   "shelfmark": "Paris gr. 2200",
+   "folios": "1r–147v",
+   "unit": "ff.",
+   "start": "1r",
+   "title": "Therapeutica",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/134225"
+  },
+  {
+   "work": "alexander-trallianus-003",
+   "shelfmark": "Paris gr. 2201",
+   "folios": "1r–150r",
+   "unit": "ff.",
+   "start": "1r",
+   "title": "Therapeutica",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/166575"
+  },
+  {
+   "work": "paulus-aeginata-001",
+   "shelfmark": "Paris gr. 2207",
+   "folios": "1r–213r, 216v",
+   "unit": "ff.",
+   "start": "1r",
+   "title": "Epitome",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/166747"
+  },
+  {
+   "work": "galenus-043",
+   "shelfmark": "Paris gr. 2207",
+   "folios": "214v–216r",
+   "unit": "ff.",
+   "start": "214v",
+   "title": "De typis",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/166747"
+  },
+  {
+   "work": "galenus-053",
+   "shelfmark": "Paris gr. 2207",
+   "folios": "217r–219v",
+   "unit": "ff.",
+   "start": "217r",
+   "title": "De pulsibus ad tirones",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/166747"
+  },
+  {
+   "work": "galenus-070",
+   "shelfmark": "Paris gr. 2207",
+   "folios": "220r–v",
+   "unit": "ff.",
+   "start": "220r",
+   "title": "De compositione medicamentorum secundum locos (frag.)",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/166747"
+  },
+  {
+   "work": "paulus-aeginata-001",
+   "shelfmark": "Paris gr. 2214",
+   "folios": "1r–323v",
+   "unit": "ff.",
+   "start": "1r",
+   "title": "Epitome",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/158709"
+  },
+  {
+   "work": "paulus-aeginata-001",
+   "shelfmark": "Paris gr. 2216",
+   "folios": "1r–74v",
+   "unit": "ff.",
+   "start": "1r",
+   "title": "Epitome (Lib. 1-3, partim)",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/161997"
+  },
+  {
+   "work": "meletius-monachus-001",
+   "shelfmark": "Paris gr. 2225",
+   "folios": "1r–50r",
+   "unit": "ff.",
+   "start": "1r",
+   "title": "De natura hominis",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/156521"
+  },
+  {
+   "work": "meletius-monachus-001",
+   "shelfmark": "Paris gr. 2227",
+   "folios": "1r–128v",
+   "unit": "ff.",
+   "start": "1r",
+   "title": "De natura hominis",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/151133"
+  },
+  {
+   "work": "galenus-061",
+   "shelfmark": "Paris gr. 2232",
+   "folios": "88r–104v",
+   "unit": "ff.",
+   "start": "88r",
+   "title": "De methodo medendi (partim)",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/146474"
+  },
+  {
+   "work": "galenus-006",
+   "shelfmark": "Paris gr. 2265",
+   "folios": "1r–74v",
+   "unit": "ff.",
+   "start": "1r",
+   "title": "Ars medica",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/162079"
+  },
+  {
+   "work": "galenus-062",
+   "shelfmark": "Paris gr. 2265",
+   "folios": "76v–151v",
+   "unit": "ff.",
+   "start": "76v",
+   "title": "Ad Glauconem de medendi methodo",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/162079"
+  },
+  {
+   "work": "galenus-041",
+   "shelfmark": "Paris gr. 2267",
+   "folios": "1r–55r",
+   "unit": "ff.",
+   "start": "1r",
+   "title": "De differentiis febrium",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/169074"
+  },
+  {
+   "work": "galenus-036",
+   "shelfmark": "Paris gr. 2267",
+   "folios": "63r–68v",
+   "unit": "ff.",
+   "start": "63r",
+   "title": "De ptisana",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/169074"
+  },
+  {
+   "work": "galenus-008",
+   "shelfmark": "Paris gr. 2267",
+   "folios": "71v–148r",
+   "unit": "ff.",
+   "start": "71v",
+   "title": "De temperamentis",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/169074"
+  },
+  {
+   "work": "galenus-009",
+   "shelfmark": "Paris gr. 2267",
+   "folios": "150r–251r",
+   "unit": "ff.",
+   "start": "150r",
+   "title": "De naturalibus facultatibus",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/169074"
+  },
+  {
+   "work": "galenus-007",
+   "shelfmark": "Paris gr. 2267",
+   "folios": "255r–288v",
+   "unit": "ff.",
+   "start": "255r",
+   "title": "De elementis secundum Hippocratem",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/169074"
+  },
+  {
+   "work": "galenus-062",
+   "shelfmark": "Paris gr. 2269",
+   "folios": "1r–65r",
+   "unit": "ff.",
+   "start": "1r",
+   "title": "Ad Glauconem de medendi methodo",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/141606"
+  },
+  {
+   "work": "hippocrates-003",
+   "shelfmark": "Paris gr. 2269",
+   "folios": "68r–81v",
+   "unit": "ff.",
+   "start": "68r",
+   "title": "Prognosticon",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/141606"
+  },
+  {
+   "work": "galenus-074",
+   "shelfmark": "Paris gr. 2269",
+   "folios": "145v–151r",
+   "unit": "ff.",
+   "start": "145v",
+   "title": "De praenotione",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/141606"
+  },
+  {
+   "work": "palladius-002",
+   "shelfmark": "Paris gr. 2269",
+   "folios": "151r",
+   "unit": "ff.",
+   "start": "151r",
+   "title": "Synopsis de febribus",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/141606"
+  },
+  {
+   "work": "galenus-042",
+   "shelfmark": "Paris gr. 2269",
+   "folios": "163r–165v",
+   "unit": "ff.",
+   "start": "163r",
+   "title": "De morborum temporibus",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/141606"
+  },
+  {
+   "work": "galenus-015",
+   "shelfmark": "Paris gr. 2269",
+   "folios": "165v–174r",
+   "unit": "ff.",
+   "start": "165v",
+   "title": "De uteri dissectione",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/141606"
+  },
+  {
+   "work": "galenus-066",
+   "shelfmark": "Paris gr. 2269",
+   "folios": "178r–180r",
+   "unit": "ff.",
+   "start": "178r",
+   "title": "De hirudinibus, revulsione, cucurbitula, incisione et scarificatione",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/141606"
+  },
+  {
+   "work": "galenus-049",
+   "shelfmark": "Paris gr. 2269",
+   "folios": "180r–v",
+   "unit": "ff.",
+   "start": "180r",
+   "title": "De tumoribus praeter naturam",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/141606"
+  },
+  {
+   "work": "galenus-070",
+   "shelfmark": "Paris gr. 2269",
+   "folios": "181r",
+   "unit": "ff.",
+   "start": "181r",
+   "title": "De compositione medicamentorum secundum locos (frag.)",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/141606"
+  },
+  {
+   "work": "galenus-042",
+   "shelfmark": "Paris gr. 2269",
+   "folios": "183r–192v",
+   "unit": "ff.",
+   "start": "183r",
+   "title": "De morborum temporibus",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/141606"
+  },
+  {
+   "work": "galenus-068",
+   "shelfmark": "Paris gr. 2269",
+   "folios": "193r–201v",
+   "unit": "ff.",
+   "start": "193r",
+   "title": "Pro puero epileptico consilium",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/141606"
+  },
+  {
+   "work": "galenus-028",
+   "shelfmark": "Paris gr. 2269",
+   "folios": "201v–219r",
+   "unit": "ff.",
+   "start": "201v",
+   "title": "De atra bile",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/141606"
+  },
+  {
+   "work": "galenus-046",
+   "shelfmark": "Paris gr. 2269",
+   "folios": "219r–243v",
+   "unit": "ff.",
+   "start": "219r",
+   "title": "De tremore, palpitatione, convulsione et rigore",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/141606"
+  },
+  {
+   "work": "galenus-041",
+   "shelfmark": "Paris gr. 2272",
+   "folios": "1r–40v",
+   "unit": "ff.",
+   "start": "1r",
+   "title": "De differentiis febrium",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/147262"
+  },
+  {
+   "work": "galenus-059",
+   "shelfmark": "Paris gr. 2272",
+   "folios": "41r–101r",
+   "unit": "ff.",
+   "start": "41r",
+   "title": "De crisibus",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/147262"
+  },
+  {
+   "work": "galenus-060",
+   "shelfmark": "Paris gr. 2272",
+   "folios": "101v–148r",
+   "unit": "ff.",
+   "start": "101v",
+   "title": "De diebus decretoriis",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/147262"
+  },
+  {
+   "work": "galenus-006",
+   "shelfmark": "Paris gr. 2273",
+   "folios": "3r–47v",
+   "unit": "ff.",
+   "start": "3r",
+   "title": "Ars medica",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/149221"
+  },
+  {
+   "work": "galenus-061",
+   "shelfmark": "Paris gr. 2274",
+   "folios": "1r–653r",
+   "unit": "ff.",
+   "start": "1r",
+   "title": "De methodo medendi",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/172901"
+  },
+  {
+   "work": "galenus-006",
+   "shelfmark": "Paris gr. 2277",
+   "folios": "2r–34v",
+   "unit": "ff.",
+   "start": "2r",
+   "title": "Ars medica",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/151872"
+  },
+  {
+   "work": "galenus-030",
+   "shelfmark": "Paris gr. 2277",
+   "folios": "111r–134r",
+   "unit": "ff.",
+   "start": "111r",
+   "title": "De placitis Hippocratis et Platonis",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/151872"
+  },
+  {
+   "work": "galenus-069",
+   "shelfmark": "Paris gr. 2279",
+   "folios": "1r–155r",
+   "unit": "ff.",
+   "start": "1r",
+   "title": "De simplicibus (Lib. 1-5)",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/150091"
+  },
+  {
+   "work": "galenus-020",
+   "shelfmark": "Paris gr. 2279",
+   "folios": "155v–204r",
+   "unit": "ff.",
+   "start": "155v",
+   "title": "De semine",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/150091"
+  },
+  {
+   "work": "galenus-061",
+   "shelfmark": "Paris gr. 2280",
+   "folios": "1r–389r",
+   "unit": "ff.",
+   "start": "1r",
+   "title": "De methodo medendi",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/173230"
+  },
+  {
+   "work": "galenus-016",
+   "shelfmark": "Paris gr. 2281",
+   "folios": "1r–388r",
+   "unit": "ff.",
+   "start": "1r",
+   "title": "De usu partium",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/157284"
+  },
+  {
+   "work": "galenus-039",
+   "shelfmark": "Paris gr. 2284",
+   "folios": "1r–13r",
+   "unit": "ff.",
+   "start": "1r",
+   "title": "De symptomatum differentiis",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/168198"
+  },
+  {
+   "work": "galenus-040",
+   "shelfmark": "Paris gr. 2284",
+   "folios": "13v–57v",
+   "unit": "ff.",
+   "start": "13v",
+   "title": "De symptomatum causis",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/168198"
+  },
+  {
+   "work": "galenus-006",
+   "shelfmark": "Paris gr. 2285",
+   "folios": "1r–73v",
+   "unit": "ff.",
+   "start": "1r",
+   "title": "Ars medica",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/233539"
+  },
+  {
+   "work": "aretaeus-cappadox-001",
+   "shelfmark": "Paris gr. 2288",
+   "folios": "1r–89r",
+   "unit": "ff.",
+   "start": "1r",
+   "title": "De causis et signis acutorum morborum",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/142526"
+  },
+  {
+   "work": "aretaeus-cappadox-003",
+   "shelfmark": "Paris gr. 2288",
+   "folios": "89r–159r",
+   "unit": "ff.",
+   "start": "89r",
+   "title": "De curatione acutorum morborum",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/142526"
+  },
+  {
+   "work": "rufus-ephesius-001",
+   "shelfmark": "Paris gr. 2288",
+   "folios": "161v–171r",
+   "unit": "ff.",
+   "start": "161v",
+   "title": "De renum et vesicae morbis",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/142526"
+  },
+  {
+   "work": "aretaeus-cappadox-001",
+   "shelfmark": "Paris gr. 2289",
+   "folios": "1r–33v",
+   "unit": "ff.",
+   "start": "1r",
+   "title": "De causis et signis acutorum morborum",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/178341"
+  },
+  {
+   "work": "aretaeus-cappadox-002",
+   "shelfmark": "Paris gr. 2289",
+   "folios": "34r–87v",
+   "unit": "ff.",
+   "start": "34r",
+   "title": "De causis et signis diuturnorum morborum",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/178341"
+  },
+  {
+   "work": "aretaeus-cappadox-003",
+   "shelfmark": "Paris gr. 2289",
+   "folios": "88r–116v",
+   "unit": "ff.",
+   "start": "88r",
+   "title": "De curatione acutorum morborum",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/178341"
+  },
+  {
+   "work": "aretaeus-cappadox-004",
+   "shelfmark": "Paris gr. 2289",
+   "folios": "117r–141r",
+   "unit": "ff.",
+   "start": "117r",
+   "title": "De curatione diuturnorum morborum",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/178341"
+  },
+  {
+   "work": "paulus-aeginata-001",
+   "shelfmark": "Paris gr. 2292",
+   "folios": "1r–332v",
+   "unit": "ff.",
+   "start": "1r",
+   "title": "Epitome",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/149278"
+  },
+  {
+   "work": "paulus-aeginata-001",
+   "shelfmark": "Paris gr. 2293",
+   "folios": "1r–4r, 6v–215v",
+   "unit": "ff.",
+   "start": "1r",
+   "title": "Epitome (graeco-arabicum)",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/165984"
+  },
+  {
+   "work": "palladius-001",
+   "shelfmark": "Paris gr. 2295",
+   "folios": "1r–122r",
+   "unit": "ff.",
+   "start": "1r",
+   "title": "In Hippocratis Epidemiarum librum VI",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/150310"
+  },
+  {
+   "work": "meletius-monachus-001",
+   "shelfmark": "Paris gr. 2299",
+   "folios": "1r–89v",
+   "unit": "ff.",
+   "start": "1r",
+   "title": "De natura hominis",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/141361"
+  },
+  {
+   "work": "meletius-monachus-001",
+   "shelfmark": "Paris gr. 2300",
+   "folios": "1r–159v",
+   "unit": "ff.",
+   "start": "1r",
+   "title": "De natura hominis",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/149044"
+  },
+  {
+   "work": "galenus-006",
+   "shelfmark": "Paris gr. 2306",
+   "folios": "360r–367r",
+   "unit": "ff.",
+   "start": "360r",
+   "title": "Ars medica",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/145609"
+  },
+  {
+   "work": "galenus-006",
+   "shelfmark": "Paris gr. 2307",
+   "folios": "554r–565r",
+   "unit": "ff.",
+   "start": "554r",
+   "title": "Ars medica",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/147823"
+  },
+  {
+   "work": "hippocrates-012",
+   "shelfmark": "Paris gr. 2311",
+   "folios": "212r–214r",
+   "unit": "ff.",
+   "start": "212r",
+   "title": "Aphorismi (frag.)",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/172304"
+  },
+  {
+   "work": "hippocrates-012",
+   "shelfmark": "Paris gr. 2330",
+   "folios": "1r–65r",
+   "unit": "ff.",
+   "start": "1r",
+   "title": "Aphorismi",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/148455"
+  },
+  {
+   "work": "hippocrates-003",
+   "shelfmark": "Paris gr. 2330",
+   "folios": "69r–110r",
+   "unit": "ff.",
+   "start": "69r",
+   "title": "Prognosticon",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/148455"
+  },
+  {
+   "work": "aretaeus-cappadox-001",
+   "shelfmark": "Paris gr. 2334",
+   "folios": "1–74",
+   "unit": "pp.",
+   "start": "1",
+   "title": "De causis et signis acutorum morborum",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/177910"
+  },
+  {
+   "work": "aretaeus-cappadox-002",
+   "shelfmark": "Paris gr. 2334",
+   "folios": "75–218",
+   "unit": "pp.",
+   "start": "75",
+   "title": "De causis et signis diuturnorum morborum",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/177910"
+  },
+  {
+   "work": "aretaeus-cappadox-003",
+   "shelfmark": "Paris gr. 2334",
+   "folios": "219–360",
+   "unit": "pp.",
+   "start": "219",
+   "title": "De curatione acutorum morborum",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/177910"
+  },
+  {
+   "work": "aretaeus-cappadox-004",
+   "shelfmark": "Paris gr. 2334",
+   "folios": "360–420",
+   "unit": "pp.",
+   "start": "360",
+   "title": "De curatione diuturnorum morborum",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/177910"
+  },
+  {
+   "work": "hippocrates-064",
+   "shelfmark": "Paris gr. 2652",
+   "folios": "84r–98r",
+   "unit": "ff.",
+   "start": "84r",
+   "title": "Epistulae",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/154655"
+  },
+  {
+   "work": "galenus-053",
+   "shelfmark": "Paris gr. 2830",
+   "folios": "175r–192v",
+   "unit": "ff.",
+   "start": "175r",
+   "title": "De pulsibus ad tirones",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/153928"
+  },
+  {
+   "work": "diocles-carystius-001",
+   "shelfmark": "Paris gr. 2847",
+   "folios": "137r–139r",
+   "unit": "ff.",
+   "start": "137r",
+   "title": "Epistula ad Antigonum de tuenda sanitate",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/144323"
+  },
+  {
+   "work": "hippocrates-064",
+   "shelfmark": "Paris gr. 3047",
+   "folios": "5r–20r",
+   "unit": "ff.",
+   "start": "5r",
+   "title": "Epistulae",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/183377"
+  },
+  {
+   "work": "hippocrates-064",
+   "shelfmark": "Paris suppl. gr. 0205",
+   "folios": "34r–46r",
+   "unit": "ff.",
+   "start": "34r",
+   "title": "Epistulae",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/171560"
+  },
+  {
+   "work": "paulus-aeginata-001",
+   "shelfmark": "Paris suppl. gr. 0338",
+   "folios": "1r–183r",
+   "unit": "ff.",
+   "start": "1r",
+   "title": "Epitome",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/177104"
+  },
+  {
+   "work": "galenus-062",
+   "shelfmark": "Paris suppl. gr. 0446",
+   "folios": "1r–31v",
+   "unit": "ff.",
+   "start": "1r",
+   "title": "Ad Glauconem de medendi methodo",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/174402"
+  },
+  {
+   "work": "hippocrates-012",
+   "shelfmark": "Paris suppl. gr. 0446",
+   "folios": "45r–60r",
+   "unit": "ff.",
+   "start": "45r",
+   "title": "Aphorismi (partim)",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/174402"
+  },
+  {
+   "work": "hippocrates-003",
+   "shelfmark": "Paris suppl. gr. 0446",
+   "folios": "60r–69v",
+   "unit": "ff.",
+   "start": "60r",
+   "title": "Prognosticon (partim)",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/174402"
+  },
+  {
+   "work": "galenus-053",
+   "shelfmark": "Paris suppl. gr. 0446",
+   "folios": "95r–106v",
+   "unit": "ff.",
+   "start": "95r",
+   "title": "De pulsibus ad tirones",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/174402"
+  },
+  {
+   "work": "paulus-aeginata-001",
+   "shelfmark": "Paris suppl. gr. 0446",
+   "folios": "114r–145v",
+   "unit": "ff.",
+   "start": "114r",
+   "title": "Epitome (partim)",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/174402"
+  },
+  {
+   "work": "oribasius-005",
+   "shelfmark": "Paris suppl. gr. 0446",
+   "folios": "168r–261v",
+   "unit": "ff.",
+   "start": "168r",
+   "title": "Eclogae medicamentorum",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/174402"
+  },
+  {
+   "work": "aetius-amidenus-001",
+   "shelfmark": "Paris suppl. gr. 0630",
+   "folios": "2r–37r",
+   "unit": "ff.",
+   "start": "2r",
+   "title": "Libri medicinales (Lib. 1)",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/178648"
+  },
+  {
+   "work": "aetius-amidenus-001",
+   "shelfmark": "Paris suppl. gr. 0631",
+   "folios": "2r–294r",
+   "unit": "ff.",
+   "start": "2r",
+   "title": "Libri medicinales (Lib. 6-13)",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/171656"
+  },
+  {
+   "work": "aetius-amidenus-001",
+   "shelfmark": "Paris suppl. gr. 0632",
+   "folios": "3r–14v",
+   "unit": "ff.",
+   "start": "3r",
+   "title": "Libri medicinales (Lib. 13-16, frag.)",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/176669"
+  },
+  {
+   "work": "soranus-ephesius-004",
+   "shelfmark": "Paris suppl. gr. 0688",
+   "folios": "39r–40v",
+   "unit": "ff.",
+   "start": "39r",
+   "title": "Hippocratis genus et vita",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/176617"
+  },
+  {
+   "work": "galenus-026",
+   "shelfmark": "Uppsala UL 25",
+   "folios": "39v–40r",
+   "unit": "ff.",
+   "start": "39v",
+   "title": "De animi cuiuslibet affectuum dignotione et curatione (frag.)",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/234186"
+  },
+  {
+   "work": "meletius-monachus-001",
+   "shelfmark": "Uppsala UL 30",
+   "folios": "1r–39v",
+   "unit": "ff.",
+   "start": "1r",
+   "title": "De natura hominis",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/230401"
+  },
+  {
+   "work": "galenus-079",
+   "shelfmark": "Vatican Barb. gr. 005",
+   "folios": "1–84",
+   "unit": "pp.",
+   "start": "1",
+   "title": "In Hippocratis Aphorismos (partim)",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/70708"
+  },
+  {
+   "work": "galenus-006",
+   "shelfmark": "Vatican Barb. gr. 005",
+   "folios": "105–236",
+   "unit": "pp.",
+   "start": "105",
+   "title": "Ars medica",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/70708"
+  },
+  {
+   "work": "galenus-031",
+   "shelfmark": "Vatican Barb. gr. 005",
+   "folios": "248",
+   "unit": "pp.",
+   "start": "248",
+   "title": "Thrasybulus sive utrum medicinae sit an gymnasticae hygiene (frag.)",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/70708"
+  },
+  {
+   "work": "hippocrates-002",
+   "shelfmark": "Vatican Barb. gr. 005",
+   "folios": "249–304",
+   "unit": "pp.",
+   "start": "249",
+   "title": "De aere, aquis et locis",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/70708"
+  },
+  {
+   "work": "hippocrates-012",
+   "shelfmark": "Vatican Barb. gr. 011",
+   "folios": "2r–46v",
+   "unit": "ff.",
+   "start": "2r",
+   "title": "Aphorismi",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/65964"
+  },
+  {
+   "work": "hippocrates-003",
+   "shelfmark": "Vatican Barb. gr. 011",
+   "folios": "47r–71v",
+   "unit": "ff.",
+   "start": "47r",
+   "title": "Prognosticon",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/65964"
+  },
+  {
+   "work": "oribasius-003",
+   "shelfmark": "Vatican Barb. gr. 118",
+   "folios": "1r–259v",
+   "unit": "ff.",
+   "start": "1r",
+   "title": "Synopsis ad Eustathium",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/66122"
+  },
+  {
+   "work": "galenus-011",
+   "shelfmark": "Vatican Barb. gr. 118",
+   "folios": "262r–287r",
+   "unit": "ff.",
+   "start": "262r",
+   "title": "De ossibus ad tirones",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/66122"
+  },
+  {
+   "work": "galenus-105",
+   "shelfmark": "Vatican Barb. gr. 153, MS 3 = ff. 039-142",
+   "folios": "39r–42v",
+   "unit": "ff.",
+   "start": "39r",
+   "title": "De septimestri partu",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/67152"
+  },
+  {
+   "work": "hippocrates-012",
+   "shelfmark": "Vatican Barb. gr. 220",
+   "folios": "1r",
+   "unit": "ff.",
+   "start": "1r",
+   "title": "Aphorismi (frag.)",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/68220"
+  },
+  {
+   "work": "dioscorides-001",
+   "shelfmark": "Vatican Barb. gr. 222",
+   "folios": "7r–21v, 24r–25r",
+   "unit": "ff.",
+   "start": "7r",
+   "title": "De materia medica (alphabetice, frag.)",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/69199"
+  },
+  {
+   "work": "dioscorides-003",
+   "shelfmark": "Vatican Barb. gr. 237, MS 4 = ff. 46-51",
+   "folios": "47r–51r",
+   "unit": "ff.",
+   "start": "47r",
+   "title": "De animalibus venenosis (frag.)",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/69272"
+  },
+  {
+   "work": "galenus-079",
+   "shelfmark": "Vatican Barb. gr. 272",
+   "folios": "6r–142v",
+   "unit": "ff.",
+   "start": "6r",
+   "title": "In Hippocratis Aphorismos",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/69507"
+  },
+  {
+   "work": "hippocrates-021",
+   "shelfmark": "Vatican Barb. gr. 272",
+   "folios": "142a r – 144r",
+   "unit": "ff.",
+   "start": "142a r",
+   "title": "Prorrheticum I",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/69507"
+  },
+  {
+   "work": "rufus-ephesius-003",
+   "shelfmark": "Vatican Barb. gr. 278",
+   "folios": "3v–4v",
+   "unit": "ff.",
+   "start": "3v",
+   "title": "De corporis humani appellationibus",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/69816"
+  },
+  {
+   "work": "dioscorides-001",
+   "shelfmark": "Vatican Chis. gr. F.VII.159",
+   "folios": "1r–10r",
+   "unit": "ff.",
+   "start": "1r",
+   "title": "De materia medica (alphabetice, index)",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/71559"
+  },
+  {
+   "work": "dioscorides-003",
+   "shelfmark": "Vatican Chis. gr. F.VII.159",
+   "folios": "225r–228r",
+   "unit": "ff.",
+   "start": "225r",
+   "title": "De animalibus venenosis (cum imaginibus animalium venenosorum)",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/71559"
+  },
+  {
+   "work": "rufus-ephesius-003",
+   "shelfmark": "Vatican gr. 0012",
+   "folios": "236v–237v",
+   "unit": "ff.",
+   "start": "236v",
+   "title": "Nomenclatura rerum ad hominem pertinentium",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/102397"
+  },
+  {
+   "work": "rufus-ephesius-003",
+   "shelfmark": "Vatican gr. 0038",
+   "folios": "187v–188r",
+   "unit": "ff.",
+   "start": "187v",
+   "title": "De corporis humani appellationibus",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/123989"
+  },
+  {
+   "work": "hippocrates-064",
+   "shelfmark": "Vatican gr. 0112",
+   "folios": "13r–16v",
+   "unit": "ff.",
+   "start": "13r",
+   "title": "Epistulae (17, 18, 26, 27)",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/102099"
+  },
+  {
+   "work": "aetius-amidenus-001",
+   "shelfmark": "Vatican gr. 0216",
+   "folios": "10v, 12v–13v",
+   "unit": "ff.",
+   "start": "10v",
+   "title": "Libri medicinales (frag.)",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/113114"
+  },
+  {
+   "work": "galenus-089",
+   "shelfmark": "Vatican gr. 0276",
+   "folios": "in marg. ff. 180r–v, 181r, 182v, 183r, 191v, 192v",
+   "unit": "ff.",
+   "start": "in marg. ff. 180r",
+   "title": "Vocum Hippocratis glossarium",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/117670"
+  },
+  {
+   "work": "galenus-089",
+   "shelfmark": "Vatican gr. 0278",
+   "folios": "3r–24v",
+   "unit": "ff.",
+   "start": "3r",
+   "title": "Vocum Hippocratis glossarium",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/118569"
+  },
+  {
+   "work": "soranus-ephesius-004",
+   "shelfmark": "Vatican gr. 0278",
+   "folios": "25v–27v",
+   "unit": "ff.",
+   "start": "25v",
+   "title": "Hippocratis genus et vita",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/118569"
+  },
+  {
+   "work": "galenus-054",
+   "shelfmark": "Vatican gr. 0281",
+   "folios": "1r–42r",
+   "unit": "ff.",
+   "start": "1r",
+   "title": "De pulsuum differentiis",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/119583"
+  },
+  {
+   "work": "galenus-055",
+   "shelfmark": "Vatican gr. 0281",
+   "folios": "42v–73v",
+   "unit": "ff.",
+   "start": "42v",
+   "title": "De dignoscendis pulsibus",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/119583"
+  },
+  {
+   "work": "galenus-056",
+   "shelfmark": "Vatican gr. 0281",
+   "folios": "73v–105v",
+   "unit": "ff.",
+   "start": "73v",
+   "title": "De causis pulsuum",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/119583"
+  },
+  {
+   "work": "galenus-057",
+   "shelfmark": "Vatican gr. 0281",
+   "folios": "106r–141r",
+   "unit": "ff.",
+   "start": "106r",
+   "title": "De praesagitione ex pulsibus",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/119583"
+  },
+  {
+   "work": "galenus-007",
+   "shelfmark": "Vatican gr. 0282",
+   "folios": "1r–15r",
+   "unit": "ff.",
+   "start": "1r",
+   "title": "De elementis secundum Hippocratem",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/119729"
+  },
+  {
+   "work": "galenus-008",
+   "shelfmark": "Vatican gr. 0282",
+   "folios": "15r–46v",
+   "unit": "ff.",
+   "start": "15r",
+   "title": "De temperamentis",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/119729"
+  },
+  {
+   "work": "galenus-050",
+   "shelfmark": "Vatican gr. 0282",
+   "folios": "46v–50r",
+   "unit": "ff.",
+   "start": "46v",
+   "title": "De inaequali intemperie",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/119729"
+  },
+  {
+   "work": "galenus-009",
+   "shelfmark": "Vatican gr. 0282",
+   "folios": "50r–86v",
+   "unit": "ff.",
+   "start": "50r",
+   "title": "De naturalibus facultatibus",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/119729"
+  },
+  {
+   "work": "galenus-059",
+   "shelfmark": "Vatican gr. 0282",
+   "folios": "87r–120v",
+   "unit": "ff.",
+   "start": "87r",
+   "title": "De crisibus",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/119729"
+  },
+  {
+   "work": "galenus-060",
+   "shelfmark": "Vatican gr. 0282",
+   "folios": "121r–145v",
+   "unit": "ff.",
+   "start": "121r",
+   "title": "De diebus decretoriis",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/119729"
+  },
+  {
+   "work": "aetius-amidenus-001",
+   "shelfmark": "Vatican gr. 0282",
+   "folios": "146r–432v",
+   "unit": "ff.",
+   "start": "146r",
+   "title": "Libri medicinales (Lib. 6-16)",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/119729"
+  },
+  {
+   "work": "galenus-069",
+   "shelfmark": "Vatican gr. 0284",
+   "folios": "1r–251r",
+   "unit": "ff.",
+   "start": "1r",
+   "title": "De simplicibus (Lib. 6-11 frag.)",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/120354"
+  },
+  {
+   "work": "dioscorides-001",
+   "shelfmark": "Vatican gr. 0284",
+   "folios": "1r–251r",
+   "unit": "ff.",
+   "start": "1r",
+   "title": "De materia medica (frag.)",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/120354"
+  },
+  {
+   "work": "dioscorides-002",
+   "shelfmark": "Vatican gr. 0284",
+   "folios": "251v–264r",
+   "unit": "ff.",
+   "start": "251v",
+   "title": "De venenis",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/120354"
+  },
+  {
+   "work": "philumenus-001",
+   "shelfmark": "Vatican gr. 0284",
+   "folios": "264v–287r",
+   "unit": "ff.",
+   "start": "264v",
+   "title": "De venenosis animalibus",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/120354"
+  },
+  {
+   "work": "galenus-006",
+   "shelfmark": "Vatican gr. 0285",
+   "folios": "12r–48v",
+   "unit": "ff.",
+   "start": "12r",
+   "title": "Ars medica",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/120953"
+  },
+  {
+   "work": "galenus-042",
+   "shelfmark": "Vatican gr. 0285",
+   "folios": "81r–91v",
+   "unit": "ff.",
+   "start": "81r",
+   "title": "De morborum temporibus (partim)",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/120953"
+  },
+  {
+   "work": "galenus-046",
+   "shelfmark": "Vatican gr. 0285",
+   "folios": "110r–126v",
+   "unit": "ff.",
+   "start": "110r",
+   "title": "De tremore, palpitatione, convulsione et rigore",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/120953"
+  },
+  {
+   "work": "galenus-015",
+   "shelfmark": "Vatican gr. 0285",
+   "folios": "127r–132v",
+   "unit": "ff.",
+   "start": "127r",
+   "title": "De uteri dissectione",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/120953"
+  },
+  {
+   "work": "galenus-068",
+   "shelfmark": "Vatican gr. 0285",
+   "folios": "133r–138v",
+   "unit": "ff.",
+   "start": "133r",
+   "title": "Pro puero epileptico consilium",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/120953"
+  },
+  {
+   "work": "galenus-028",
+   "shelfmark": "Vatican gr. 0285",
+   "folios": "139r–150r",
+   "unit": "ff.",
+   "start": "139r",
+   "title": "De atra bile",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/120953"
+  },
+  {
+   "work": "galenus-041",
+   "shelfmark": "Vatican gr. 0285",
+   "folios": "153r–195v",
+   "unit": "ff.",
+   "start": "153r",
+   "title": "De differentiis febrium",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/120953"
+  },
+  {
+   "work": "galenus-016",
+   "shelfmark": "Vatican gr. 0285",
+   "folios": "206r–273r",
+   "unit": "ff.",
+   "start": "206r",
+   "title": "De usu partium",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/120953"
+  },
+  {
+   "work": "dioscorides-001",
+   "shelfmark": "Vatican gr. 0289",
+   "folios": "5r–98r",
+   "unit": "ff.",
+   "start": "5r",
+   "title": "De materia medica",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/121259"
+  },
+  {
+   "work": "galenus-069",
+   "shelfmark": "Vatican gr. 0289",
+   "folios": "5r–98r passim",
+   "unit": "ff.",
+   "start": "5r",
+   "title": "De simplicibus (Lib. 6-8 frag.)",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/121259"
+  },
+  {
+   "work": "dioscorides-002",
+   "shelfmark": "Vatican gr. 0289",
+   "folios": "98r–102r",
+   "unit": "ff.",
+   "start": "98r",
+   "title": "De venenis",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/121259"
+  },
+  {
+   "work": "dioscorides-003",
+   "shelfmark": "Vatican gr. 0289",
+   "folios": "102r–106v",
+   "unit": "ff.",
+   "start": "102r",
+   "title": "De animalibus venenosis",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/121259"
+  },
+  {
+   "work": "hippocrates-003",
+   "shelfmark": "Vatican gr. 0294",
+   "folios": "70v–137r",
+   "unit": "ff.",
+   "start": "70v",
+   "title": "Prognosticon",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/121790"
+  },
+  {
+   "work": "galenus-052",
+   "shelfmark": "Vatican gr. 0984, palimpsest, scriptio superior",
+   "folios": "157r–v, 162r–v, 168r–v, 170r–v",
+   "unit": "ff.",
+   "start": "157r",
+   "title": "De locis affectis (partim)",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/127163"
+  },
+  {
+   "work": "galenus-054",
+   "shelfmark": "Vatican gr. 1064, Part 1 = ff. 001-125",
+   "folios": "1r–84r",
+   "unit": "ff.",
+   "start": "1r",
+   "title": "De pulsuum differentiis",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/100603"
+  },
+  {
+   "work": "galenus-055",
+   "shelfmark": "Vatican gr. 1064, Part 1 = ff. 001-125",
+   "folios": "84r–125v",
+   "unit": "ff.",
+   "start": "84r",
+   "title": "De dignoscendis pulsibus (partim)",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/100603"
+  },
+  {
+   "work": "galenus-055",
+   "shelfmark": "Vatican gr. 1064, Part 2 = ff. 126-267",
+   "folios": "126r–140r",
+   "unit": "ff.",
+   "start": "126r",
+   "title": "De dignoscendis pulsibus (partim)",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/100874"
+  },
+  {
+   "work": "galenus-056",
+   "shelfmark": "Vatican gr. 1064, Part 2 = ff. 126-267",
+   "folios": "141r–201v",
+   "unit": "ff.",
+   "start": "141r",
+   "title": "De causis pulsuum",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/100874"
+  },
+  {
+   "work": "galenus-057",
+   "shelfmark": "Vatican gr. 1064, Part 2 = ff. 126-267",
+   "folios": "201v–267v",
+   "unit": "ff.",
+   "start": "201v",
+   "title": "De praesagitione ex pulsibus",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/100874"
+  },
+  {
+   "work": "galenus-069",
+   "shelfmark": "Vatican gr. 1066",
+   "folios": "168r–175v",
+   "unit": "ff.",
+   "start": "168r",
+   "title": "De simplicibus (Lib. 1-2 frag.)",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/101177"
+  },
+  {
+   "work": "galenus-023",
+   "shelfmark": "Vatican gr. 1700",
+   "folios": "27v–28v",
+   "unit": "ff.",
+   "start": "27v",
+   "title": "De optima corporis nostri constitutione",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/102970"
+  },
+  {
+   "work": "galenus-006",
+   "shelfmark": "Vatican gr. 1845",
+   "folios": "1r–44r",
+   "unit": "ff.",
+   "start": "1r",
+   "title": "Ars medica",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/104867"
+  },
+  {
+   "work": "galenus-042",
+   "shelfmark": "Vatican gr. 1845",
+   "folios": "106r–122v",
+   "unit": "ff.",
+   "start": "106r",
+   "title": "De morborum temporibus",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/104867"
+  },
+  {
+   "work": "galenus-042",
+   "shelfmark": "Vatican gr. 1845",
+   "folios": "122v–133r",
+   "unit": "ff.",
+   "start": "122v",
+   "title": "De totius morbi temporibus",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/104867"
+  },
+  {
+   "work": "galenus-015",
+   "shelfmark": "Vatican gr. 1845",
+   "folios": "133r–142v",
+   "unit": "ff.",
+   "start": "133r",
+   "title": "De uteri dissectione",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/104867"
+  },
+  {
+   "work": "galenus-068",
+   "shelfmark": "Vatican gr. 1845",
+   "folios": "142v–152v",
+   "unit": "ff.",
+   "start": "142v",
+   "title": "Pro puero epileptico consilium",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/104867"
+  },
+  {
+   "work": "galenus-028",
+   "shelfmark": "Vatican gr. 1845",
+   "folios": "152v–171v",
+   "unit": "ff.",
+   "start": "152v",
+   "title": "De atra bile",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/104867"
+  },
+  {
+   "work": "galenus-046",
+   "shelfmark": "Vatican gr. 1845",
+   "folios": "171v–197r",
+   "unit": "ff.",
+   "start": "171v",
+   "title": "De tremore, palpitatione, convulsione et rigore",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/104867"
+  },
+  {
+   "work": "galenus-074",
+   "shelfmark": "Vatican gr. 1845",
+   "folios": "179v",
+   "unit": "ff.",
+   "start": "179v",
+   "title": "De praecognitione",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/104867"
+  },
+  {
+   "work": "diocles-carystius-001",
+   "shelfmark": "Vatican gr. 1904, Part 2",
+   "folios": "226r–227v",
+   "unit": "ff.",
+   "start": "226r",
+   "title": "Epistula ad Antigonum de tuenda sanitate",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/109386"
+  },
+  {
+   "work": "diocles-carystius-001",
+   "shelfmark": "Vatican gr. 2236",
+   "folios": "2r–3r",
+   "unit": "ff.",
+   "start": "2r",
+   "title": "Epistula ad Antigonum de tuenda sanitate",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/115041"
+  },
+  {
+   "work": "galenus-034",
+   "shelfmark": "Vatican lat. 5763, f. 30 palimpsest, scriptio inferior",
+   "folios": "",
+   "unit": "ff.",
+   "start": "",
+   "title": "De alimentorum facultatibus (frag.)",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/127890"
+  },
+  {
+   "work": "alexander-trallianus-003",
+   "shelfmark": "Vatican Ottob. gr. 089",
+   "folios": "1r–214v",
+   "unit": "ff.",
+   "start": "1r",
+   "title": "Therapeutica",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/78753"
+  },
+  {
+   "work": "meletius-monachus-001",
+   "shelfmark": "Vatican Ottob. gr. 145",
+   "folios": "1r–79v",
+   "unit": "ff.",
+   "start": "1r",
+   "title": "De natura hominis",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/72071"
+  },
+  {
+   "work": "hippocrates-012",
+   "shelfmark": "Vatican Ottob. gr. 150",
+   "folios": "47r–94r",
+   "unit": "ff.",
+   "start": "47r",
+   "title": "Aphorismi",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/72248"
+  },
+  {
+   "work": "hippocrates-012",
+   "shelfmark": "Vatican Ottob. gr. 157A",
+   "folios": "1r–24v",
+   "unit": "ff.",
+   "start": "1r",
+   "title": "Aphorismi",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/73266"
+  },
+  {
+   "work": "hippocrates-012",
+   "shelfmark": "Vatican Ottob. gr. 157B",
+   "folios": "1r–223r",
+   "unit": "ff.",
+   "start": "1r",
+   "title": "Aphorismi",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/73387"
+  },
+  {
+   "work": "hippocrates-003",
+   "shelfmark": "Vatican Ottob. gr. 157B",
+   "folios": "23v–37r",
+   "unit": "ff.",
+   "start": "23v",
+   "title": "Prognosticon",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/73387"
+  },
+  {
+   "work": "hippocrates-003",
+   "shelfmark": "Vatican Ottob. gr. 192, MS 1 = ff. 001-153",
+   "folios": "16r–18v",
+   "unit": "ff.",
+   "start": "16r",
+   "title": "Prognosticon (partim)",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/74504"
+  },
+  {
+   "work": "rufus-ephesius-003",
+   "shelfmark": "Vatican Ottob. gr. 235",
+   "folios": "1r–42r",
+   "unit": "ff.",
+   "start": "1r",
+   "title": "De corporis humani appellationibus",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/76179"
+  },
+  {
+   "work": "oribasius-001",
+   "shelfmark": "Vatican Ottob. gr. 235",
+   "folios": "42r–69r",
+   "unit": "ff.",
+   "start": "42r",
+   "title": "Collectiones medicae (Lib. 25)",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/76179"
+  },
+  {
+   "work": "dioscorides-001",
+   "shelfmark": "Vatican Pal. gr. 048",
+   "folios": "1r–166v",
+   "unit": "ff.",
+   "start": "1r",
+   "title": "De materia medica (partim)",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/88847"
+  },
+  {
+   "work": "galenus-069",
+   "shelfmark": "Vatican Pal. gr. 048",
+   "folios": "11r–130r, marg.",
+   "unit": "ff.",
+   "start": "11r",
+   "title": "De simplicibus (frag.)",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/88847"
+  },
+  {
+   "work": "dioscorides-002",
+   "shelfmark": "Vatican Pal. gr. 048",
+   "folios": "166v–177r",
+   "unit": "ff.",
+   "start": "166v",
+   "title": "De venenis",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/88847"
+  },
+  {
+   "work": "dioscorides-003",
+   "shelfmark": "Vatican Pal. gr. 048",
+   "folios": "177r–190v",
+   "unit": "ff.",
+   "start": "177r",
+   "title": "De animalibus venenosis",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/88847"
+  },
+  {
+   "work": "galenus-069",
+   "shelfmark": "Vatican Pal. gr. 048",
+   "folios": "190v, marg.",
+   "unit": "ff.",
+   "start": "190v",
+   "title": "De simplicibus (frag.)",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/88847"
+  },
+  {
+   "work": "galenus-062",
+   "shelfmark": "Vatican Pal. gr. 054",
+   "folios": "1r–23v",
+   "unit": "ff.",
+   "start": "1r",
+   "title": "Ad Glauconem de medendi methodo",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/89927"
+  },
+  {
+   "work": "galenus-052",
+   "shelfmark": "Vatican Pal. gr. 054",
+   "folios": "24r–102r",
+   "unit": "ff.",
+   "start": "24r",
+   "title": "De locis affectis",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/89927"
+  },
+  {
+   "work": "galenus-070",
+   "shelfmark": "Vatican Pal. gr. 054",
+   "folios": "103r–305r",
+   "unit": "ff.",
+   "start": "103r",
+   "title": "De compositione medicamentorum secundum locos",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/89927"
+  },
+  {
+   "work": "galenus-041",
+   "shelfmark": "Vatican Pal. gr. 054",
+   "folios": "308r–341r",
+   "unit": "ff.",
+   "start": "308r",
+   "title": "De differentiis febrium",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/89927"
+  },
+  {
+   "work": "galenus-016",
+   "shelfmark": "Vatican Pal. gr. 251",
+   "folios": "1r–343v",
+   "unit": "ff.",
+   "start": "1r",
+   "title": "De usu partium",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/83571"
+  },
+  {
+   "work": "galenus-059",
+   "shelfmark": "Vatican Pal. gr. 295",
+   "folios": "177r–187r",
+   "unit": "ff.",
+   "start": "177r",
+   "title": "De crisibus",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/84917"
+  },
+  {
+   "work": "galenus-004",
+   "shelfmark": "Vatican Pal. gr. 297",
+   "folios": "50r–62v",
+   "unit": "ff.",
+   "start": "50r",
+   "title": "De sectis ad eos qui introducuntur",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/85991"
+  },
+  {
+   "work": "hippocrates-012",
+   "shelfmark": "Vatican Pal. gr. 297",
+   "folios": "126v–130v",
+   "unit": "ff.",
+   "start": "126v",
+   "title": "Aphorismi (frag.)",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/85991"
+  },
+  {
+   "work": "hippocrates-044",
+   "shelfmark": "Vatican Pal. gr. 297",
+   "folios": "158r–165r",
+   "unit": "ff.",
+   "start": "158r",
+   "title": "De mulierum affectibus",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/85991"
+  },
+  {
+   "work": "rufus-ephesius-003",
+   "shelfmark": "Vatican Pal. gr. 302",
+   "folios": "40r–57r",
+   "unit": "ff.",
+   "start": "40r",
+   "title": "De corporis humani appellationibus",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/86332"
+  },
+  {
+   "work": "aetius-amidenus-001",
+   "shelfmark": "Vatican Pal. gr. 358, Part 1",
+   "folios": "230r",
+   "unit": "ff.",
+   "start": "230r",
+   "title": "Libri medicinales (frag.)",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/87253"
+  },
+  {
+   "work": "oribasius-001",
+   "shelfmark": "Vatican Pal. gr. 375",
+   "folios": "230r–283v",
+   "unit": "ff.",
+   "start": "230r",
+   "title": "Collectiones medicae (Lib. 24-26 partim)",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/64695"
+  },
+  {
+   "work": "hippocrates-064",
+   "shelfmark": "Vatican Pal. gr. 398",
+   "folios": "262r–282r",
+   "unit": "ff.",
+   "start": "262r",
+   "title": "Epistulae",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/65287"
+  },
+  {
+   "work": "diocles-carystius-001",
+   "shelfmark": "Vatican Pal. gr. 428",
+   "folios": "27r–29r",
+   "unit": "ff.",
+   "start": "27r",
+   "title": "Epistula ad Antigonum de tuenda sanitate",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/88684"
+  },
+  {
+   "work": "galenus-006",
+   "shelfmark": "Vatican Reg. gr. 154",
+   "folios": "1r–38v",
+   "unit": "ff.",
+   "start": "1r",
+   "title": "Ars medica",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/92263"
+  },
+  {
+   "work": "galenus-025",
+   "shelfmark": "Vatican Reg. gr. 154",
+   "folios": "41r–72r",
+   "unit": "ff.",
+   "start": "41r",
+   "title": "Quod animi mores corporis temperamenta sequantur",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/92263"
+  },
+  {
+   "work": "galenus-071",
+   "shelfmark": "Vatican Reg. gr. 172",
+   "folios": "1v–104v",
+   "unit": "ff.",
+   "start": "1v",
+   "title": "De compositione medicamentorum per genera",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/92422"
+  },
+  {
+   "work": "galenus-070",
+   "shelfmark": "Vatican Reg. gr. 172",
+   "folios": "105r–229r",
+   "unit": "ff.",
+   "start": "105r",
+   "title": "De compositione medicamentorum secundum locos",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/92422"
+  },
+  {
+   "work": "galenus-083",
+   "shelfmark": "Vatican Reg. gr. 173",
+   "folios": "1r–72r",
+   "unit": "ff.",
+   "start": "1r",
+   "title": "In Hippocratis Prognosticum",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/92899"
+  },
+  {
+   "work": "galenus-072",
+   "shelfmark": "Vatican Reg. gr. 173",
+   "folios": "73r",
+   "unit": "ff.",
+   "start": "73r",
+   "title": "De antidotis (frag.)",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/92899"
+  },
+  {
+   "work": "galenus-076",
+   "shelfmark": "Vatican Reg. gr. 173",
+   "folios": "73v–184v, 353r–355v",
+   "unit": "ff.",
+   "start": "73v",
+   "title": "In Hippocratis De victu acutorum",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/92899"
+  },
+  {
+   "work": "galenus-075",
+   "shelfmark": "Vatican Reg. gr. 173",
+   "folios": "185r–222v",
+   "unit": "ff.",
+   "start": "185r",
+   "title": "In Hippocratis De natura hominis",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/92899"
+  },
+  {
+   "work": "galenus-033",
+   "shelfmark": "Vatican Reg. gr. 173",
+   "folios": "233r–352v, 361r–v",
+   "unit": "ff.",
+   "start": "233r",
+   "title": "De sanitate tuenda",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/92899"
+  },
+  {
+   "work": "galenus-036",
+   "shelfmark": "Vatican Reg. gr. 173",
+   "folios": "355v–361r",
+   "unit": "ff.",
+   "start": "355v",
+   "title": "De ptisana",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/92899"
+  },
+  {
+   "work": "galenus-061",
+   "shelfmark": "Vatican Reg. gr. 174",
+   "folios": "1r–251v",
+   "unit": "ff.",
+   "start": "1r",
+   "title": "De methodo medendi",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/93632"
+  },
+  {
+   "work": "galenus-083",
+   "shelfmark": "Vatican Reg. gr. 175",
+   "folios": "1r–88r",
+   "unit": "ff.",
+   "start": "1r",
+   "title": "In Hippocratis Prognosticum",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/94149"
+  },
+  {
+   "work": "galenus-077",
+   "shelfmark": "Vatican Reg. gr. 175",
+   "folios": "89r–179r",
+   "unit": "ff.",
+   "start": "89r",
+   "title": "In Hippocratis Prorrheticum I",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/94149"
+  },
+  {
+   "work": "galenus-051",
+   "shelfmark": "Vatican Reg. gr. 175",
+   "folios": "179v–240v",
+   "unit": "ff.",
+   "start": "179v",
+   "title": "De difficultate respirationis",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/94149"
+  },
+  {
+   "work": "galenus-018",
+   "shelfmark": "Vatican Reg. gr. 175",
+   "folios": "240v–241v",
+   "unit": "ff.",
+   "start": "240v",
+   "title": "De causis respirationis",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/94149"
+  },
+  {
+   "work": "galenus-017",
+   "shelfmark": "Vatican Reg. gr. 175",
+   "folios": "242r–264v",
+   "unit": "ff.",
+   "start": "242r",
+   "title": "De musculorum motu",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/94149"
+  },
+  {
+   "work": "paulus-aeginata-001",
+   "shelfmark": "Vatican Reg. gr. 176",
+   "folios": "1r–302r",
+   "unit": "ff.",
+   "start": "1r",
+   "title": "Epitome",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/94694"
+  },
+  {
+   "work": "palladius-003",
+   "shelfmark": "Vatican Reg. gr. 176",
+   "folios": "302r–v",
+   "unit": "ff.",
+   "start": "302r",
+   "title": "De cibo et potu",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/94694"
+  },
+  {
+   "work": "dioscorides-001",
+   "shelfmark": "Vatican Urb. gr. 066",
+   "folios": "1r–156r",
+   "unit": "ff.",
+   "start": "1r",
+   "title": "De materia medica",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/98915"
+  },
+  {
+   "work": "dioscorides-002",
+   "shelfmark": "Vatican Urb. gr. 066",
+   "folios": "146v–155r",
+   "unit": "ff.",
+   "start": "146v",
+   "title": "De venenis",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/98915"
+  },
+  {
+   "work": "dioscorides-003",
+   "shelfmark": "Vatican Urb. gr. 066",
+   "folios": "155r–164r",
+   "unit": "ff.",
+   "start": "155r",
+   "title": "De animalibus venenosis",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/98915"
+  },
+  {
+   "work": "galenus-016",
+   "shelfmark": "Vatican Urb. gr. 069",
+   "folios": "1r–195v",
+   "unit": "ff.",
+   "start": "1r",
+   "title": "De usu partium (partim)",
+   "url": "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/100196"
+  }
+ ]
+}

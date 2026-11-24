@@ -10,6 +10,34 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 DATA = json.loads((ROOT / "data" / "catalogue.json").read_text())
+MMFILE = ROOT / "data" / "medimanus.json"
+MM = json.loads(MMFILE.read_text()) if MMFILE.exists() else {"witnesses": [], "retrieved": ""}
+MM_BY_WORK = defaultdict(list)
+for _w in MM["witnesses"]:
+    MM_BY_WORK[_w["work"]].append(_w)
+
+# shelfmark key for comparing the two sources: city + collection words + number
+_CITY_KEY = {"par": "paris", "paris": "paris", "vat": "vatican", "vatican": "vatican", "vatikanstadt": "vatican",
+             "laur": "florence", "florence": "florence", "florenz": "florence", "marc": "venice", "venice": "venice",
+             "venedig": "venice", "vind": "vienna", "vienna": "vienna", "wien": "vienna", "monac": "munich",
+             "mon": "munich", "munich": "munich", "münchen": "munich", "ambros": "milan", "milan": "milan",
+             "mailand": "milan", "oxford": "oxford", "london": "london", "leiden": "leiden"}
+_KEEP = {"suppl", "urb", "pal", "barb", "reg", "ottob", "coisl", "coislin", "barocc", "med", "hist", "phil", "theol",
+         "harley", "add", "sloane", "lat", "chis", "ross"}
+
+
+def ms_key(city_name, shelf):
+    shelf = re.split(r",\s*(?:MS|ff?\.|f\.)", shelf)[0]
+    words = re.findall(r"[A-Za-zÀ-ÿ]+", (city_name or "") + " " + shelf)
+    c = next((_CITY_KEY[w.lower()] for w in words if w.lower() in _CITY_KEY), "")
+    fonds = sorted({("coisl" if w.lower() == "coislin" else w.lower()) for w in words if w.lower() in _KEEP})
+    nums = [str(int(n)) for n in re.findall(r"\d+", shelf)]
+    return f"{c}|{' '.join(fonds)}|{'.'.join(nums)}" if c and nums else None
+
+
+def fol_key(f):
+    m = re.match(r"(\d+)\s*([rv]?)", f or "")
+    return (int(m[1]), m[2] or "r") if m else None
 OUT = ROOT / "docs"
 
 CITY_EN = {"Florenz": "Florence", "Vatikanstadt": "Vatican City", "Venedig": "Venice",
@@ -84,7 +112,7 @@ def page(title, body, depth=0):
 <span class="tag">works · manuscripts · printed editions · translations</span>
 <nav><a href="{up}index.html">Authors</a><a href="{up}manuscripts.html">Manuscripts</a><a href="{up}about.html">About</a></nav></header>
 <main>{body}</main>
-<footer>Compiled from the CMG work catalogues (2019–2020). Built {date.today().isoformat()}.</footer>
+<footer>Compiled and built by Sean Coughlin, from the work catalogues he prepared for the CMG (2019–2020), with manuscript data from MediManus (CHS, retrieved {MM["retrieved"]}). Built {date.today().isoformat()}.</footer>
 </body></html>"""
 
 
@@ -98,6 +126,11 @@ def witness_rows(mss, show_work=None):
                     + (f" <span class='corr' title='Corrected: {esc(m['corrected'], quote=True)}'>†</span>" if m.get("corrected") else "")
                     + f"</td><td>{view}</td></tr>")
     return "".join(rows)
+
+
+def core_differs(mm_title, our_title):
+    """Show MediManus's title only when it says something extra, e.g. (partim) or (frag.)."""
+    return "(" in mm_title
 
 
 def work_html(a, w):
@@ -117,6 +150,33 @@ def work_html(a, w):
                      f'<tbody>{witness_rows(w["mss"])}</tbody></table>')
     else:
         parts.append('<h4>Manuscripts</h4><p class="none">No digitized manuscripts recorded in the catalogue.</p>')
+    mmw = MM_BY_WORK.get(w["id"], [])
+    if mmw:
+        ours = defaultdict(list)
+        for m in w["mss"]:
+            ours[ms_key(m["city"], m["shelfmark"])].append(m)
+        trs = []
+        for x in sorted(mmw, key=lambda x: x["shelfmark"]):
+            os_ = ours.get(ms_key("", x["shelfmark"]), [])
+            starts = [o["start"] for o in os_ if o["start"]]
+            if not os_:
+                flag = '<span class="new" title="Not in the CMG list">new</span>'
+            elif not x["start"] or not starts or fol_key(x["start"]) in {fol_key(f) for f in starts}:
+                flag = '<span class="ok" title="Also in the CMG list">✓</span>'
+            elif any(fol_key(f) and abs(fol_key(f)[0] - fol_key(x["start"])[0]) <= 1 for f in starts) if fol_key(x["start"]) else False:
+                given = "; ".join(o["folios"] for o in os_ if o["folios"])
+                flag = f'<span class="ok" title="Nearly the same start (CMG: {esc(given, quote=True)})">≈</span>'
+            else:
+                given = "; ".join(o["folios"] for o in os_ if o["folios"])
+                flag = (f'<span class="diff" title="CMG list gives {esc(given, quote=True)}">'
+                        f'CMG: f. {esc(", ".join(starts))}</span>')
+            label = esc(x["title"]) if core_differs(x["title"], w["title_lat"]) else ""
+            trs.append(f"<tr><td class='sm'>{esc(x['shelfmark'])}</td>"
+                       f"<td class='fol'>{esc(x['unit'] if x['folios'] else '')} {esc(x['folios'])}</td>"
+                       f"<td class='mmt'>{label}</td><td>{flag}</td>"
+                       f"<td><a class='go' href='{esc(x['url'])}'>MediManus</a></td></tr>")
+        parts.append(f'<h4>In MediManus <span class="n">{len(mmw)}</span></h4>'
+                     f'<table class="mss mm"><tbody>{"".join(trs)}</tbody></table>')
     more = []
     pk = next((u for _, u in refs.get("Pinakes", []) if u), None)
     if pk:

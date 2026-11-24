@@ -1,5 +1,7 @@
 # Medici Graeci: works, manuscripts, editions
 
+Compiled and built by Sean Coughlin.
+
 A small static catalogue of Greek (and some Latin) medical authors. For each work it lists the digitized
 manuscripts that transmit it, with the folio where the text begins and a link to that page. It also
 lists early printed editions, authoritative modern editions and translations.
@@ -14,6 +16,8 @@ python -m venv .venv && .venv/bin/pip install python-docx openpyxl
 .venv/bin/python scripts/extract.py "/mnt/d/onedrive/13 CMG"   # only when the source tables change
 python3 scripts/build.py
 ```
+
+`scripts/medimanus.py` imports MediManus (CHS) witnesses and start folios into `data/medimanus.json` (used with CHS permission). Titles are mapped to catalogue works through the reviewed concordance `data/medimanus_titles.json`.
 
 Witness lists cover digitized manuscripts only. For the full tradition, see Pinakes, Biblissima and MediManus,
 which each work page links to.
