@@ -757,8 +757,8 @@ def main():
     nw = sum(len(a["works"]) for a in authors)
     nm = sum(len(w["mss"]) for a in authors for w in a["works"])
     body = (f'<h1>Greek medical authors: works, manuscripts, editions</h1>'
-            f'<p class="lede">For each work: the manuscripts that transmit it, <strong>the folio where the text begins</strong>, '
-            f'and a link straight to that page of the digitized manuscript, along with early printed editions, '
+            f'<p class="lede">For each work, the catalogue identifies the manuscripts that transmit it, specifies the opening folio '
+            f'and links directly to the corresponding page of the digitized manuscript. It also lists early printed editions, '
             f'authoritative modern editions and translations. {len(authors)} authors, {nw} works, {nm} manuscript witnesses.</p>'
             '<ul id="hits"></ul>'
             '<p class="mmt">Click a column heading to sort, e.g. by date. Author dates from Pinakes; (W) = Wikipedia, where it is more precise or Pinakes has none; (SC) = supplied by the compiler.</p>'
@@ -798,8 +798,8 @@ def main():
         sections.append(f'<section class="city"><h2 id="{esc(re.sub(r"[^a-z]+", "-", c.lower()))}">{esc(c)}</h2>' + "".join(lis) + "</section>")
     cities = " · ".join(f'<a href="#{esc(re.sub(r"[^a-z]+", "-", c.lower()))}">{esc(c)}</a>'
                         for c in sorted(by_city, key=lambda x: (x == "—", x)))
-    body = (f'<h1>Manuscripts</h1><p class="lede">{len(by_ms)} shelfmarks. Open one to see the works it contains, '
-            f'in folio order, with links to the digitized pages. Dates from Pinakes, otherwise MediManus.</p>'
+    body = (f'<h1>Manuscripts</h1><p class="lede">Each shelfmark opens to show the works it contains, in folio order, '
+            f'with links to digitized leaf images. Dates are taken from Pinakes, otherwise MediManus. {len(by_ms)} shelfmarks.</p>'
             '<p class="sortsw" data-target="mslist">Order: <button data-mode="city" class="on">by city</button>'
             '<button data-mode="date">by date</button></p>'
             f'<p class="cities">{cities}</p><div id="mslist">' + "".join(sections) + "</div>")
