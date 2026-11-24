@@ -25,4 +25,5 @@ which each work page links to.
 
 ## Style rules
 
+- Latin and English are set in Libre Baskerville; Greek in GFS Porson (both self-hosted, OFL, in `site/fonts/`).
 - Greek is set in GFS Porson and is never italic. Porson has no italic face, and the stylesheet stops browsers from faking one (`font-synthesis-style: none`), so Greek inside italic text stays upright.
