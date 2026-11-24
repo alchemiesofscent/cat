@@ -486,8 +486,8 @@ def main():
             dl_ = short_date(WD.get(w["id"]))
             return ((f'<span class="edl">{esc(el)}</span>' if el else '<span class="edl">–</span>' if edn else "")
                     + (f'<span class="chl">{esc(dl_)}</span>' if dl_ else '<span class="chl">–</span>'))
-        toc = "".join(f'<li data-for="{w["id"]}">{_tl(w)}<a href="#{w["id"]}">{esc(w["title_lat"])}</a>'
-                      f'<span class="n">{len(w["mss"]) or ""}</span></li>' for w in a["works"])
+        toc = "".join(f'<li data-for="{w["id"]}">{_tl(w)}<span class="tt"><a href="#{w["id"]}">{esc(w["title_lat"])}</a>'
+                      f'<span class="n">{len(w["mss"]) or ""}</span></span></li>' for w in a["works"])
         _lab, _ = author_date(a["name"])
         _src, _url, _quote = author_source(a["name"])
         _pkr = (PK.get("authors") or {}).get(a["name"])

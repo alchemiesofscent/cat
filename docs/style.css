@@ -72,6 +72,8 @@ table.sortable th[data-dir=desc]::after{content:" ▼";font-size:.6rem}
 .mdate{font-size:.85rem;color:var(--muted);margin-left:.4rem}
 .cityname{margin:0 .5rem 0 0}
 [hidden]{display:none!important}
-ol.toc .edl,ol.toc .chl{display:none;color:var(--muted);font-size:.8rem;font-family:system-ui,sans-serif;margin-right:.5rem;font-variant-numeric:tabular-nums}
+ol.toc .edl,ol.toc .chl{display:none;color:var(--muted);font-size:.8rem;font-family:system-ui,sans-serif;font-variant-numeric:tabular-nums;padding-top:.15rem}
 ol.toc.mode-ed,ol.toc.mode-chron{list-style:none;padding-left:0}
-ol.toc.mode-ed .edl,ol.toc.mode-chron .chl{display:inline-block;min-width:7.5rem}
+ol.toc.mode-ed li,ol.toc.mode-chron li{display:grid;grid-template-columns:8.5rem 1fr;column-gap:.6rem;align-items:start;break-inside:avoid;margin-bottom:.15rem}
+ol.toc.mode-ed .edl,ol.toc.mode-chron .chl{display:block}
+ol.toc.mode-ed .tt,ol.toc.mode-chron .tt{grid-column:2}
