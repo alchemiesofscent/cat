@@ -1,66 +1,13 @@
 {
  "checked": 995,
- "confirmed": 920,
- "fixes": [
-  {
-   "work": "aretaeus-cappadox-001",
-   "title": "De causis et signis acutorum morborum libri II",
-   "city": "London",
-   "shelfmark": "Harley 6236",
-   "folios": "8–118",
-   "set": {
-    "shelfmark": "Harley 6326"
-   },
-   "cote_id": "39715",
-   "pinakes": "Harley 6326, f. 008-118",
-   "reason": "Pinakes lists Harley 6326 (f. 008-118) for this work, not Harley 6236"
-  },
-  {
-   "work": "aretaeus-cappadox-003",
-   "title": "De curatione acutorum morborum libri II",
-   "city": "London",
-   "shelfmark": "Harley 6236",
-   "folios": "118–183v",
-   "set": {
-    "shelfmark": "Harley 6326"
-   },
-   "cote_id": "39715",
-   "pinakes": "Harley 6326, f. 118-183v",
-   "reason": "Pinakes lists Harley 6326 (f. 118-183v) for this work, not Harley 6236"
-  },
-  {
-   "work": "aretaeus-cappadox-004",
-   "title": "De curatione diuturnorum morborum libri II",
-   "city": "London",
-   "shelfmark": "Harley 6236",
-   "folios": "2–7ν and fol. 183v–212",
-   "set": {
-    "shelfmark": "Harley 6326"
-   },
-   "cote_id": "39715",
-   "pinakes": "Harley 6326, f. 002-7v",
-   "reason": "Pinakes lists Harley 6326 (f. 002-7v) for this work, not Harley 6236"
-  },
-  {
-   "work": "galenus-006",
-   "title": "Ars medica",
-   "city": "Paris",
-   "shelfmark": "Par. gr. 2161",
-   "folios": "1–24v",
-   "set": {
-    "shelfmark": "Par. gr. 2163"
-   },
-   "cote_id": "51792",
-   "pinakes": "Grec 2163, f. 01-24v*",
-   "reason": "Pinakes lists Grec 2163 (f. 01-24v*) for this work, not Par. gr. 2161"
-  }
- ],
+ "confirmed": 924,
+ "fixes": [],
  "review": [
   {
    "work": "aetius-amidenus-001",
    "title": "libri Medicinales",
    "city": "Florenz",
-   "shelfmark": "Laur. Plut. 72.12 (libri I--III)",
+   "shelfmark": "Laur. Plut. 57.12 (libri I--III)",
    "folios": "1–102v",
    "candidates": [
     "Plut. 75. 07, f. 001-214",
