@@ -12,6 +12,10 @@ ROOT = Path(__file__).resolve().parent.parent
 DATA = json.loads((ROOT / "data" / "catalogue.json").read_text())
 MMFILE = ROOT / "data" / "medimanus.json"
 MM = json.loads(MMFILE.read_text()) if MMFILE.exists() else {"witnesses": [], "retrieved": ""}
+GVFILE = ROOT / "data" / "galenus_verbatim.json"
+GV = json.loads(GVFILE.read_text())["works"] if GVFILE.exists() else {}
+# catalogue entries that cover more than one TLG text
+EXTRA_TLG = {"galenus-078": ["0057.090", "0057.091"], "galenus-042": ["0057.047"]}
 MM_BY_WORK = defaultdict(list)
 for _w in MM["witnesses"]:
     MM_BY_WORK[_w["work"]].append(_w)
@@ -112,7 +116,7 @@ def page(title, body, depth=0):
 <span class="tag">works · manuscripts · printed editions · translations</span>
 <nav><a href="{up}index.html">Authors</a><a href="{up}manuscripts.html">Manuscripts</a><a href="{up}about.html">About</a></nav></header>
 <main>{body}</main>
-<footer>Compiled and built by Sean Coughlin, from the work catalogues he prepared for the CMG (2019–2020), with manuscript data from MediManus (CHS, retrieved {MM["retrieved"]}). Built {date.today().isoformat()}.</footer>
+<footer>Compiled and built by Sean Coughlin, from the work catalogues he prepared for the CMG (2019–2020), with manuscript data from MediManus (CHS, retrieved {MM["retrieved"]}) and Galen texts from Galenus Verbatim. Built {date.today().isoformat()}.</footer>
 </body></html>"""
 
 
@@ -193,6 +197,18 @@ def work_html(a, w):
     if w["prints"]:
         dl.append(("Early printed editions", "<ul class='prints'>" + "".join(
             f"<li><span class='pn'>{esc(dash(p['name']))}</span> {rich(p['loc'])}</li>" for p in w["prints"]) + "</ul>"))
+    tlg = "".join(t for t, _ in (w.get("refs") or {}).get("TLG", [])).strip()
+    gv = [e for k in [tlg] + EXTRA_TLG.get(w["id"], []) for e in GV.get(k, [])]
+    if gv:
+        items = []
+        for e in gv:
+            ed = ", ".join(x for x in (f"ed. {e['editor']}" if e["editor"] else "", e["year"],
+                                        f"vol. {e['vol']}" if e["vol"] else "",
+                                        f"pp. {e['pp'].replace('-', '–')}" if e["pp"] else "") if x)
+            crit = f"<span class='mmt'> (critical editions: {esc(e['critical'])})</span>" if e["critical"] else ""
+            items.append(f"<li><a href='{esc(e['url'])}'>{esc(e['title'])}</a>, {esc(ed)}{crit}</li>")
+        dl.append(("Online Greek text", "<ul class='prints'>" + "".join(items) +
+                   "</ul><span class='mmt'>Galenus Verbatim (Mera Galeni Folia)</span>"))
     for key, label in (("prints_single", "Separate editions"), ("prints_annotated", "Annotated prints"),
                        ("prints_note", "Notes on prints")):
         if w.get(key):

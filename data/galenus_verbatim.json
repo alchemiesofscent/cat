@@ -1,0 +1,1542 @@
+{
+ "source": "https://galenus-verbatim.github.io/mera-galeni-folia/",
+ "retrieved": "2026-11-24",
+ "works": {
+  "0057.089": [
+   {
+    "urn": "urn:cts:greekLit:tlg0057.tlg089.1st1K-grc1",
+    "url": "https://galenus-verbatim.github.io/mera-galeni-folia/urn:cts:greekLit:tlg0057.tlg089.1st1K-grc1/",
+    "title": "Hippocratis Epidem. I et Galeni in illum commentarius",
+    "editor": "Kühn",
+    "year": "1828",
+    "vol": "17a",
+    "pp": "1-302",
+    "critical": "Pfaff, 1934 (grc;deu)"
+   }
+  ],
+  "0057.090": [
+   {
+    "urn": "urn:cts:greekLit:tlg0057.tlg090.1st1K-grc1",
+    "url": "https://galenus-verbatim.github.io/mera-galeni-folia/urn:cts:greekLit:tlg0057.tlg090.1st1K-grc1/",
+    "title": "Hippocratis Epidem. III et Galeni in illum commentarius",
+    "editor": "Kühn",
+    "year": "1828",
+    "vol": "17a",
+    "pp": "480-792",
+    "critical": "Wenkebach, 1936"
+   }
+  ],
+  "0057.091": [
+   {
+    "urn": "urn:cts:greekLit:tlg0057.tlg091.1st1K-grc1",
+    "url": "https://galenus-verbatim.github.io/mera-galeni-folia/urn:cts:greekLit:tlg0057.tlg091.1st1K-grc1/",
+    "title": "Hippocratis Epidem. VI et Galeni in illum commentarius",
+    "editor": "Kühn",
+    "year": "1828-1829",
+    "vol": "17a-17b",
+    "pp": "793-1009 1-344",
+    "critical": "Pfaff, 1956 (grc;deu)"
+   }
+  ],
+  "0057.001": [
+   {
+    "urn": "urn:cts:greekLit:tlg0057.tlg001.1st1K-grc1",
+    "url": "https://galenus-verbatim.github.io/mera-galeni-folia/urn:cts:greekLit:tlg0057.tlg001.1st1K-grc1/",
+    "title": "Adhortatio ad artes addiscendas",
+    "editor": "Kühn",
+    "year": "1821",
+    "vol": "1",
+    "pp": "1-39",
+    "critical": ""
+   },
+   {
+    "urn": "urn:cts:greekLit:tlg0057.tlg001.1st1K-grc2",
+    "url": "https://galenus-verbatim.github.io/mera-galeni-folia/urn:cts:greekLit:tlg0057.tlg001.1st1K-grc2/",
+    "title": "Protrepticus",
+    "editor": "Kaibel",
+    "year": "1894",
+    "vol": "",
+    "pp": "1-22",
+    "critical": "Marquardt, 1884; Boudon-Millot, 2000 (grc;fra); Barigazzi, 1991 (grc;ita)"
+   }
+  ],
+  "0057.002": [
+   {
+    "urn": "urn:cts:greekLit:tlg0057.tlg002.1st1K-grc1",
+    "url": "https://galenus-verbatim.github.io/mera-galeni-folia/urn:cts:greekLit:tlg0057.tlg002.1st1K-grc1/",
+    "title": "De optima doctrina",
+    "editor": "Kühn",
+    "year": "1821",
+    "vol": "1",
+    "pp": "40-52",
+    "critical": "Marquardt, 1884; Barigazzi, 1991 (grc;ita)"
+   }
+  ],
+  "0057.003": [
+   {
+    "urn": "urn:cts:greekLit:tlg0057.tlg003.1st1K-grc1",
+    "url": "https://galenus-verbatim.github.io/mera-galeni-folia/urn:cts:greekLit:tlg0057.tlg003.1st1K-grc1/",
+    "title": "Quod optimus medicus sit quoque philosophus",
+    "editor": "Kühn",
+    "year": "1821",
+    "vol": "1",
+    "pp": "53-63",
+    "critical": "Müller, 1891; Boudon-Millot, 2007 (grc;fra)"
+   }
+  ],
+  "0057.004": [
+   {
+    "urn": "urn:cts:greekLit:tlg0057.tlg004.1st1K-grc1",
+    "url": "https://galenus-verbatim.github.io/mera-galeni-folia/urn:cts:greekLit:tlg0057.tlg004.1st1K-grc1/",
+    "title": "De sectis ad eos qui introducuntur",
+    "editor": "Kühn",
+    "year": "1821",
+    "vol": "1",
+    "pp": "64-105",
+    "critical": "Helmreich, 1893"
+   }
+  ],
+  "0530.043": [
+   {
+    "urn": "urn:cts:greekLit:tlg0530.tlg043.1st1K-grc1",
+    "url": "https://galenus-verbatim.github.io/mera-galeni-folia/urn:cts:greekLit:tlg0530.tlg043.1st1K-grc1/",
+    "title": "De optima secta ad Thrasybulum",
+    "editor": "Kühn",
+    "year": "1821",
+    "vol": "1",
+    "pp": "106-223",
+    "critical": "translatio Latina: De optima secta ad Thrasybulum, 1821, vol. 1, pp. 106-223. urn:cts:greekLit:tlg0530.tlg043.verbatim-lat1 Galenus. De constitutione artis medicae ad Patrophilum (De constit. artis med.) [Nº 006 Ficht.] [Gal Lat.] [XML] urn:cts:greekLit:tlg0057.tlg006 Πρὸς Πατρόφιλον περὶ συστάσεως ἰατρικῆς Constitution de l’art médical à Patrophile The Composition of the Art of Medicine (CAM)"
+   }
+  ],
+  "0057.006": [
+   {
+    "urn": "urn:cts:greekLit:tlg0057.tlg006.1st1K-grc1",
+    "url": "https://galenus-verbatim.github.io/mera-galeni-folia/urn:cts:greekLit:tlg0057.tlg006.1st1K-grc1/",
+    "title": "De constitutione artis medicae ad Patrophilum",
+    "editor": "Kühn",
+    "year": "1821",
+    "vol": "1",
+    "pp": "224-304",
+    "critical": "Fortuna, 1997 (grc;ita)"
+   }
+  ],
+  "0057.007": [
+   {
+    "urn": "urn:cts:greekLit:tlg0057.tlg007.1st1K-grc1",
+    "url": "https://galenus-verbatim.github.io/mera-galeni-folia/urn:cts:greekLit:tlg0057.tlg007.1st1K-grc1/",
+    "title": "Ars Medica",
+    "editor": "Kühn",
+    "year": "1821",
+    "vol": "1",
+    "pp": "305-412",
+    "critical": "Boudon-Millot, 2000 (grc;fra)"
+   }
+  ],
+  "0057.008": [
+   {
+    "urn": "urn:cts:greekLit:tlg0057.tlg008.1st1K-grc1",
+    "url": "https://galenus-verbatim.github.io/mera-galeni-folia/urn:cts:greekLit:tlg0057.tlg008.1st1K-grc1/",
+    "title": "De elementis ex Hippocrate",
+    "editor": "Kühn",
+    "year": "1821",
+    "vol": "1",
+    "pp": "413-508",
+    "critical": "De Lacy, 1996 (grc;eng)"
+   }
+  ],
+  "0057.009": [
+   {
+    "urn": "urn:cts:greekLit:tlg0057.tlg009.1st1K-grc1",
+    "url": "https://galenus-verbatim.github.io/mera-galeni-folia/urn:cts:greekLit:tlg0057.tlg009.1st1K-grc1/",
+    "title": "De temperamentis",
+    "editor": "Kühn",
+    "year": "1821",
+    "vol": "1",
+    "pp": "509-694",
+    "critical": ""
+   },
+   {
+    "urn": "urn:cts:greekLit:tlg0057.tlg009.1st1K-grc2",
+    "url": "https://galenus-verbatim.github.io/mera-galeni-folia/urn:cts:greekLit:tlg0057.tlg009.1st1K-grc2/",
+    "title": "De temperamentis",
+    "editor": "Helmreich",
+    "year": "1904",
+    "vol": "",
+    "pp": "1-115",
+    "critical": "Helmreich, 1904"
+   }
+  ],
+  "0057.010": [
+   {
+    "urn": "urn:cts:greekLit:tlg0057.tlg010.1st1K-grc1",
+    "url": "https://galenus-verbatim.github.io/mera-galeni-folia/urn:cts:greekLit:tlg0057.tlg010.1st1K-grc1/",
+    "title": "De naturalibus facultatibus",
+    "editor": "Kühn",
+    "year": "1821",
+    "vol": "2",
+    "pp": "1-214",
+    "critical": "Helmreich, 1893"
+   }
+  ],
+  "0057.011": [
+   {
+    "urn": "urn:cts:greekLit:tlg0057.tlg011.1st1K-grc1",
+    "url": "https://galenus-verbatim.github.io/mera-galeni-folia/urn:cts:greekLit:tlg0057.tlg011.1st1K-grc1/",
+    "title": "De anatomicis administrationibus",
+    "editor": "Kühn",
+    "year": "1821",
+    "vol": "2",
+    "pp": "215-731",
+    "critical": "Garofalo, 1986; Garofalo, 2000"
+   }
+  ],
+  "0057.012": [
+   {
+    "urn": "urn:cts:greekLit:tlg0057.tlg012.1st1K-grc1",
+    "url": "https://galenus-verbatim.github.io/mera-galeni-folia/urn:cts:greekLit:tlg0057.tlg012.1st1K-grc1/",
+    "title": "De ossibus ad tirones",
+    "editor": "Kühn",
+    "year": "1821",
+    "vol": "2",
+    "pp": "732-778",
+    "critical": "Garofalo, 2005 (grc;fra)"
+   }
+  ],
+  "0057.013": [
+   {
+    "urn": "urn:cts:greekLit:tlg0057.tlg013.1st1K-grc1",
+    "url": "https://galenus-verbatim.github.io/mera-galeni-folia/urn:cts:greekLit:tlg0057.tlg013.1st1K-grc1/",
+    "title": "De venarum arteriarumque dissectione",
+    "editor": "Kühn",
+    "year": "1821",
+    "vol": "2",
+    "pp": "779-830",
+    "critical": "Garofalo, 2008 (grc;fra)"
+   }
+  ],
+  "0057.014": [
+   {
+    "urn": "urn:cts:greekLit:tlg0057.tlg014.1st1K-grc1",
+    "url": "https://galenus-verbatim.github.io/mera-galeni-folia/urn:cts:greekLit:tlg0057.tlg014.1st1K-grc1/",
+    "title": "De nervorum dissectione",
+    "editor": "Kühn",
+    "year": "1821",
+    "vol": "2",
+    "pp": "831-856",
+    "critical": "Garofalo, 2008 (grc;fra)"
+   }
+  ],
+  "0057.015": [
+   {
+    "urn": "urn:cts:greekLit:tlg0057.tlg015.1st1K-grc1",
+    "url": "https://galenus-verbatim.github.io/mera-galeni-folia/urn:cts:greekLit:tlg0057.tlg015.1st1K-grc1/",
+    "title": "De instrumento odoratus",
+    "editor": "Kühn",
+    "year": "1821",
+    "vol": "2",
+    "pp": "857-886",
+    "critical": "translatio Latina: De instrumento odoratus, 1821, vol. 2, pp. 857-886. urn:cts:greekLit:tlg0057.tlg015.verbatim-lat1 translationes recentiores: Wright, 1924 (eng) – source Galenus. De uteri dissectione (De uteri dissect.) [Nº 016 Ficht.] [Gal Lat.] [XML] urn:cts:greekLit:tlg0057.tlg016 Περὶ μήτρας ἀνατομῆς Anatomie de l’utérus The Anatomy of the Uterus (Ut. Diss.)"
+   }
+  ],
+  "0057.016": [
+   {
+    "urn": "urn:cts:greekLit:tlg0057.tlg016.1st1K-grc1",
+    "url": "https://galenus-verbatim.github.io/mera-galeni-folia/urn:cts:greekLit:tlg0057.tlg016.1st1K-grc1/",
+    "title": "De uteri dissectione",
+    "editor": "Kühn",
+    "year": "1821",
+    "vol": "2",
+    "pp": "887-908",
+    "critical": "Nickel, 1971 (grc;deu)"
+   }
+  ],
+  "0057.017": [
+   {
+    "urn": "urn:cts:greekLit:tlg0057.tlg017.1st1K-grc1",
+    "url": "https://galenus-verbatim.github.io/mera-galeni-folia/urn:cts:greekLit:tlg0057.tlg017.1st1K-grc1/",
+    "title": "De usu partium corporis humani",
+    "editor": "Kühn",
+    "year": "1822",
+    "vol": "3-4",
+    "pp": "1-939",
+    "critical": "Helmreich, 1909; Helmreich, 1907"
+   }
+  ],
+  "0057.018": [
+   {
+    "urn": "urn:cts:greekLit:tlg0057.tlg018.1st1K-grc1",
+    "url": "https://galenus-verbatim.github.io/mera-galeni-folia/urn:cts:greekLit:tlg0057.tlg018.1st1K-grc1/",
+    "title": "De motu musculorum",
+    "editor": "Kühn",
+    "year": "1822",
+    "vol": "4",
+    "pp": "367-464",
+    "critical": "Rosa Pietro, 2009 (grc;ita)"
+   }
+  ],
+  "0057.114": [
+   {
+    "urn": "urn:cts:greekLit:tlg0057.tlg114.1st1K-grc1",
+    "url": "https://galenus-verbatim.github.io/mera-galeni-folia/urn:cts:greekLit:tlg0057.tlg114.1st1K-grc1/",
+    "title": "De causis respirationis",
+    "editor": "Kühn",
+    "year": "1822",
+    "vol": "4",
+    "pp": "465-469",
+    "critical": "Furley, 1984 (grc;eng)"
+   }
+  ],
+  "0057.020": [
+   {
+    "urn": "urn:cts:greekLit:tlg0057.tlg020.1st1K-grc1",
+    "url": "https://galenus-verbatim.github.io/mera-galeni-folia/urn:cts:greekLit:tlg0057.tlg020.1st1K-grc1/",
+    "title": "De usu respirationis",
+    "editor": "Kühn",
+    "year": "1822",
+    "vol": "4",
+    "pp": "470-511",
+    "critical": "Furley, 1984 (grc;eng); Noll, 1915"
+   }
+  ],
+  "0057.021": [
+   {
+    "urn": "urn:cts:greekLit:tlg0057.tlg021.1st1K-grc1",
+    "url": "https://galenus-verbatim.github.io/mera-galeni-folia/urn:cts:greekLit:tlg0057.tlg021.1st1K-grc1/",
+    "title": "De semine",
+    "editor": "Kühn",
+    "year": "1822",
+    "vol": "4",
+    "pp": "512-651",
+    "critical": "De Lacy, 1992 (grc;eng)"
+   }
+  ],
+  "0057.022": [
+   {
+    "urn": "urn:cts:greekLit:tlg0057.tlg022.1st1K-grc1",
+    "url": "https://galenus-verbatim.github.io/mera-galeni-folia/urn:cts:greekLit:tlg0057.tlg022.1st1K-grc1/",
+    "title": "De foetuum formatione",
+    "editor": "Kühn",
+    "year": "1822",
+    "vol": "4",
+    "pp": "652-702",
+    "critical": "Nickel, 2001 (grc;deu)"
+   }
+  ],
+  "0057.023": [
+   {
+    "urn": "urn:cts:greekLit:tlg0057.tlg023.1st1K-grc1",
+    "url": "https://galenus-verbatim.github.io/mera-galeni-folia/urn:cts:greekLit:tlg0057.tlg023.1st1K-grc1/",
+    "title": "An in arteriis natura sanguis contineatur",
+    "editor": "Kühn",
+    "year": "1822",
+    "vol": "4",
+    "pp": "703-736",
+    "critical": "Furley, 1984 (grc;eng); Albrecht, 1911"
+   }
+  ],
+  "0057.024": [
+   {
+    "urn": "urn:cts:greekLit:tlg0057.tlg024.1st1K-grc1",
+    "url": "https://galenus-verbatim.github.io/mera-galeni-folia/urn:cts:greekLit:tlg0057.tlg024.1st1K-grc1/",
+    "title": "De optima nostri corporis constitutione",
+    "editor": "Kühn",
+    "year": "1822",
+    "vol": "4",
+    "pp": "737-749",
+    "critical": "Helmreich, 1901"
+   }
+  ],
+  "0057.025": [
+   {
+    "urn": "urn:cts:greekLit:tlg0057.tlg025.1st1K-grc1",
+    "url": "https://galenus-verbatim.github.io/mera-galeni-folia/urn:cts:greekLit:tlg0057.tlg025.1st1K-grc1/",
+    "title": "De bono habitu",
+    "editor": "Kühn",
+    "year": "1822",
+    "vol": "4",
+    "pp": "750-756",
+    "critical": "Helmreich, 1901"
+   }
+  ],
+  "0057.084": [
+   {
+    "urn": "urn:cts:greekLit:tlg0057.tlg084.1st1K-grc1",
+    "url": "https://galenus-verbatim.github.io/mera-galeni-folia/urn:cts:greekLit:tlg0057.tlg084.1st1K-grc1/",
+    "title": "De substantia facultatum naturalium fragmentum",
+    "editor": "Kühn",
+    "year": "1822",
+    "vol": "4",
+    "pp": "757-766",
+    "critical": "translatio Latina: De substantia facultatum naturalium fragmentum, 1822, vol. 4, pp. 757-766. urn:cts:greekLit:tlg0057.tlg084.verbatim-lat1 Note: fragment du traité De propriis placitis dont le texte entier a désormais été retrouvé (Fichtner-Bibliographie, n° 309). Galenus. Quod animi mores corporis temperamenta sequantur (Quod animi mores corp. temp. sequ.) [Nº 028 Ficht.] [Gal Lat.] [XML] urn:cts:greekLit:tlg0057.tlg027 Ὅτι ταῖς τοῦ σώματος κράσεσιν αἱ τῆς ψυχῆς δυνάμεις ἕπονται Facultés de l’âme suivent les tempéraments du corps The Capacities of the Soul Depend on the Mixtures the Body (QAM)"
+   }
+  ],
+  "0057.027": [
+   {
+    "urn": "urn:cts:greekLit:tlg0057.tlg027.1st1K-grc1",
+    "url": "https://galenus-verbatim.github.io/mera-galeni-folia/urn:cts:greekLit:tlg0057.tlg027.1st1K-grc1/",
+    "title": "Quod animi mores corporis temperamenta sequantur",
+    "editor": "Kühn",
+    "year": "1822",
+    "vol": "4",
+    "pp": "767-822",
+    "critical": "Müller, 1891; Bazou, 2011"
+   }
+  ],
+  "0057.028": [
+   {
+    "urn": "urn:cts:greekLit:tlg0057.tlg028.1st1K-grc1",
+    "url": "https://galenus-verbatim.github.io/mera-galeni-folia/urn:cts:greekLit:tlg0057.tlg028.1st1K-grc1/",
+    "title": "De propriorum animi cuiusque affectuum dignotione et curatione",
+    "editor": "Kühn",
+    "year": "1823",
+    "vol": "5",
+    "pp": "1-57",
+    "critical": "Boer, 1937; Magnaldi, 1990 (grc;ita)"
+   }
+  ],
+  "0057.029": [
+   {
+    "urn": "urn:cts:greekLit:tlg0057.tlg029.1st1K-grc1",
+    "url": "https://galenus-verbatim.github.io/mera-galeni-folia/urn:cts:greekLit:tlg0057.tlg029.1st1K-grc1/",
+    "title": "De cuiusque animi peccatorum dignotione atque medela",
+    "editor": "Kühn",
+    "year": "1823",
+    "vol": "5",
+    "pp": "58-103",
+    "critical": "Boer, 1937; Marquardt, 1884"
+   }
+  ],
+  "0057.030": [
+   {
+    "urn": "urn:cts:greekLit:tlg0057.tlg030.1st1K-grc1",
+    "url": "https://galenus-verbatim.github.io/mera-galeni-folia/urn:cts:greekLit:tlg0057.tlg030.1st1K-grc1/",
+    "title": "De atra bile",
+    "editor": "Kühn",
+    "year": "1823",
+    "vol": "5",
+    "pp": "104-148",
+    "critical": "Boer, 1937"
+   }
+  ],
+  "0057.031": [
+   {
+    "urn": "urn:cts:greekLit:tlg0057.tlg031.1st1K-grc1",
+    "url": "https://galenus-verbatim.github.io/mera-galeni-folia/urn:cts:greekLit:tlg0057.tlg031.1st1K-grc1/",
+    "title": "De pulsuum usu",
+    "editor": "Kühn",
+    "year": "1823",
+    "vol": "5",
+    "pp": "149-180",
+    "critical": "Furley, 1984 (grc;eng)"
+   }
+  ],
+  "0057.032": [
+   {
+    "urn": "urn:cts:greekLit:tlg0057.tlg032.1st1K-grc1",
+    "url": "https://galenus-verbatim.github.io/mera-galeni-folia/urn:cts:greekLit:tlg0057.tlg032.1st1K-grc1/",
+    "title": "De Hippocratis et Platonis placitis",
+    "editor": "Kühn",
+    "year": "1823",
+    "vol": "5",
+    "pp": "181-805",
+    "critical": "De Lacy, 2005 (grc;eng)"
+   }
+  ],
+  "0057.033": [
+   {
+    "urn": "urn:cts:greekLit:tlg0057.tlg033.verbatim-grc1",
+    "url": "https://galenus-verbatim.github.io/mera-galeni-folia/urn:cts:greekLit:tlg0057.tlg033.verbatim-grc1/",
+    "title": "Ad Thrasybulum liber, utrum medicinae sit an gymnastices hygieine",
+    "editor": "Kühn",
+    "year": "1823",
+    "vol": "5",
+    "pp": "806-898",
+    "critical": ""
+   },
+   {
+    "urn": "urn:cts:greekLit:tlg0057.tlg033.1st1K-grc1",
+    "url": "https://galenus-verbatim.github.io/mera-galeni-folia/urn:cts:greekLit:tlg0057.tlg033.1st1K-grc1/",
+    "title": "Thrasybulus (sive utrum medicinae sit an gymnasticae hygieine)",
+    "editor": "Helmreich",
+    "year": "1893",
+    "vol": "3",
+    "pp": "33-100",
+    "critical": "Helmreich, 1893"
+   }
+  ],
+  "0057.034": [
+   {
+    "urn": "urn:cts:greekLit:tlg0057.tlg034.1st1K-grc2",
+    "url": "https://galenus-verbatim.github.io/mera-galeni-folia/urn:cts:greekLit:tlg0057.tlg034.1st1K-grc2/",
+    "title": "De parvae pilae exercitio",
+    "editor": "Kühn",
+    "year": "1823",
+    "vol": "5",
+    "pp": "899-910",
+    "critical": ""
+   },
+   {
+    "urn": "urn:cts:greekLit:tlg0057.tlg034.1st1K-grc1",
+    "url": "https://galenus-verbatim.github.io/mera-galeni-folia/urn:cts:greekLit:tlg0057.tlg034.1st1K-grc1/",
+    "title": "De parvae pilae exercitio",
+    "editor": "Marquardt",
+    "year": "1879",
+    "vol": "",
+    "pp": "3-8",
+    "critical": "Marquardt, 1884; Wenkebach, 1938 (grc;deu)"
+   }
+  ],
+  "0057.036": [
+   {
+    "urn": "urn:cts:greekLit:tlg0057.tlg036.1st1K-grc1",
+    "url": "https://galenus-verbatim.github.io/mera-galeni-folia/urn:cts:greekLit:tlg0057.tlg036.1st1K-grc1/",
+    "title": "De sanitate tuenda",
+    "editor": "Kühn",
+    "year": "1823",
+    "vol": "6",
+    "pp": "1-452",
+    "critical": "Koch, 1923"
+   }
+  ],
+  "0057.037": [
+   {
+    "urn": "urn:cts:greekLit:tlg0057.tlg037.verbatim-grc1",
+    "url": "https://galenus-verbatim.github.io/mera-galeni-folia/urn:cts:greekLit:tlg0057.tlg037.verbatim-grc1/",
+    "title": "De alimentorum facultatibus libri III",
+    "editor": "Kühn",
+    "year": "1823",
+    "vol": "6",
+    "pp": "453-748",
+    "critical": ""
+   },
+   {
+    "urn": "urn:cts:greekLit:tlg0057.tlg037.1st1K-grc1",
+    "url": "https://galenus-verbatim.github.io/mera-galeni-folia/urn:cts:greekLit:tlg0057.tlg037.1st1K-grc1/",
+    "title": "De alimentorum facultatibus libri III",
+    "editor": "Helmreich",
+    "year": "1923",
+    "vol": "V 4",
+    "pp": "",
+    "critical": "Helmreich, 1923; Wilkins, 2013 (grc;fra)"
+   }
+  ],
+  "0057.038": [
+   {
+    "urn": "urn:cts:greekLit:tlg0057.tlg038.1st1K-grc1",
+    "url": "https://galenus-verbatim.github.io/mera-galeni-folia/urn:cts:greekLit:tlg0057.tlg038.1st1K-grc1/",
+    "title": "De probis pravisque alimentorum succis",
+    "editor": "Kühn",
+    "year": "1823",
+    "vol": "6",
+    "pp": "749-815",
+    "critical": "Helmreich, 1923"
+   }
+  ],
+  "0057.039": [
+   {
+    "urn": "urn:cts:greekLit:tlg0057.tlg039.1st1K-grc1",
+    "url": "https://galenus-verbatim.github.io/mera-galeni-folia/urn:cts:greekLit:tlg0057.tlg039.1st1K-grc1/",
+    "title": "De ptisana",
+    "editor": "Kühn",
+    "year": "1823",
+    "vol": "6",
+    "pp": "816-831",
+    "critical": "Hartlich, 1923"
+   }
+  ],
+  "0057.040": [
+   {
+    "urn": "urn:cts:greekLit:tlg0057.tlg040.1st1K-grc1",
+    "url": "https://galenus-verbatim.github.io/mera-galeni-folia/urn:cts:greekLit:tlg0057.tlg040.1st1K-grc1/",
+    "title": "De dignotione ex insomniis",
+    "editor": "Kühn",
+    "year": "1823",
+    "vol": "6",
+    "pp": "832-835",
+    "critical": "Demuth, 1972"
+   }
+  ],
+  "0057.041": [
+   {
+    "urn": "urn:cts:greekLit:tlg0057.tlg041.1st1K-grc1",
+    "url": "https://galenus-verbatim.github.io/mera-galeni-folia/urn:cts:greekLit:tlg0057.tlg041.1st1K-grc1/",
+    "title": "De morborum differentiis",
+    "editor": "Kühn",
+    "year": "1823",
+    "vol": "6",
+    "pp": "836-880",
+    "critical": "translatio Latina: De morborum differentiis, 1823, vol. 6, pp. 836-880. urn:cts:greekLit:tlg0057.tlg041.verbatim-lat1 translationes recentiores: Johnston, 2006 (eng) – source Galenus. De morborum causis (De morb. causis) [Nº 043 Ficht.] [Gal Lat.] [XML] urn:cts:greekLit:tlg0057.tlg042 Περὶ τῶν ἐν τοῖς νοσήμασιν αἰτιῶν Causes des maladies Causes of Diseases (Caus. Morb.)"
+   }
+  ],
+  "0057.042": [
+   {
+    "urn": "urn:cts:greekLit:tlg0057.tlg042.1st1K-grc1",
+    "url": "https://galenus-verbatim.github.io/mera-galeni-folia/urn:cts:greekLit:tlg0057.tlg042.1st1K-grc1/",
+    "title": "De morborum causis",
+    "editor": "Kühn",
+    "year": "1824",
+    "vol": "7",
+    "pp": "1-41",
+    "critical": "translatio Latina: De morborum causis, 1824, vol. 7, pp. 1-41. urn:cts:greekLit:tlg0057.tlg042.verbatim-lat1 translationes recentiores: Johnston, 2006 (eng) – source ; Grant, 2000 (eng) – source Galenus. De symptomatum differentiis (De sympt. diff.) [Nº 044 Ficht.] [Gal Lat.] [XML] urn:cts:greekLit:tlg0057.tlg043 Περὶ τῶν συμπτωμάτων διαφορᾶς Différences des symptômes Distinctions in Symptoms (Symp. Diff.)"
+   }
+  ],
+  "0057.043": [
+   {
+    "urn": "urn:cts:greekLit:tlg0057.tlg043.1st1K-grc1",
+    "url": "https://galenus-verbatim.github.io/mera-galeni-folia/urn:cts:greekLit:tlg0057.tlg043.1st1K-grc1/",
+    "title": "De symptomatum differentiis",
+    "editor": "Kühn",
+    "year": "1824",
+    "vol": "7",
+    "pp": "42-84",
+    "critical": "Gundert, 2009 (grc;deu)"
+   }
+  ],
+  "0057.044": [
+   {
+    "urn": "urn:cts:greekLit:tlg0057.tlg044.1st1K-grc1",
+    "url": "https://galenus-verbatim.github.io/mera-galeni-folia/urn:cts:greekLit:tlg0057.tlg044.1st1K-grc1/",
+    "title": "De symptomatum causis",
+    "editor": "Kühn",
+    "year": "1824",
+    "vol": "7",
+    "pp": "85-272",
+    "critical": "translatio Latina: De symptomatum causis, 1824, vol. 7, pp. 85-272. urn:cts:greekLit:tlg0057.tlg044.verbatim-lat1 translationes recentiores: Johnston, 2006 (eng) – source ; Vegetti, 1978 (grc;ita) – source Galenus. De differentiis febrium (De diff. febr.) [Nº 048 Ficht.] [Gal Lat.] [XML] urn:cts:greekLit:tlg0057.tlg045 Περὶ διαφορᾶς πυρετῶν Différences des fièvres The Different Kinds of Fever (Diff. Feb.)"
+   }
+  ],
+  "0057.045": [
+   {
+    "urn": "urn:cts:greekLit:tlg0057.tlg045.1st1K-grc1",
+    "url": "https://galenus-verbatim.github.io/mera-galeni-folia/urn:cts:greekLit:tlg0057.tlg045.1st1K-grc1/",
+    "title": "De differentiis febrium",
+    "editor": "Kühn",
+    "year": "1824",
+    "vol": "7",
+    "pp": "273-405",
+    "critical": "De Stefani, 2011 (ara;ita); Wernhard, 2004 (ara;deu)"
+   }
+  ],
+  "0057.046": [
+   {
+    "urn": "urn:cts:greekLit:tlg0057.tlg046.1st1K-grc1",
+    "url": "https://galenus-verbatim.github.io/mera-galeni-folia/urn:cts:greekLit:tlg0057.tlg046.1st1K-grc1/",
+    "title": "De morborum temporibus",
+    "editor": "Kühn",
+    "year": "1824",
+    "vol": "7",
+    "pp": "406-439",
+    "critical": "Wille, 1960"
+   }
+  ],
+  "0057.047": [
+   {
+    "urn": "urn:cts:greekLit:tlg0057.tlg047.1st1K-grc1",
+    "url": "https://galenus-verbatim.github.io/mera-galeni-folia/urn:cts:greekLit:tlg0057.tlg047.1st1K-grc1/",
+    "title": "De totius morbi temporibus",
+    "editor": "Kühn",
+    "year": "1824",
+    "vol": "7",
+    "pp": "440-462",
+    "critical": "translatio Latina: De totius morbi temporibus, 1824, vol. 7, pp. 440-462. urn:cts:greekLit:tlg0057.tlg047.verbatim-lat1 Note: le texte imprimé par Kühn sous le titre De totius morbi temporibus constitue en réalité le livre II du traité De morborum temporibus. Galenus. De typis (De typis) [Nº 051 Ficht.] [Gal Lat.] [XML] urn:cts:greekLit:tlg0057.tlg048 Περὶ τύπων Types des maladies Types of Disease (Typ.)"
+   }
+  ],
+  "0057.048": [
+   {
+    "urn": "urn:cts:greekLit:tlg0057.tlg048.1st1K-grc1",
+    "url": "https://galenus-verbatim.github.io/mera-galeni-folia/urn:cts:greekLit:tlg0057.tlg048.1st1K-grc1/",
+    "title": "De typis",
+    "editor": "Kühn",
+    "year": "1824",
+    "vol": "7",
+    "pp": "463-474",
+    "critical": "translatio Latina: De typis, 1824, vol. 7, pp. 463-474. urn:cts:greekLit:tlg0057.tlg048.verbatim-lat1 translationes recentiores: García Sola, 2010 (grc;spa) – source Galenus. Adversus eos, qui de typis scripserunt (Adv. eos qui de typis scrips.) [Nº 052 Ficht.] [Gal Lat.] [XML] urn:cts:greekLit:tlg0057.tlg049 Πρὸς τοὺς περὶ τύπων γράψαντας ἢ περὶ περιόδων Contre ceux qui ont écrit sur les périodes des maladies Against Those Who Have Written on Disease Types (Adv. Typ. Scr.)"
+   }
+  ],
+  "0057.049": [
+   {
+    "urn": "urn:cts:greekLit:tlg0057.tlg049.1st1K-grc1",
+    "url": "https://galenus-verbatim.github.io/mera-galeni-folia/urn:cts:greekLit:tlg0057.tlg049.1st1K-grc1/",
+    "title": "Adversus eos qui de typis scripserunt vel de circuitibus",
+    "editor": "Kühn",
+    "year": "1824",
+    "vol": "7",
+    "pp": "475-512",
+    "critical": "translatio Latina: Adversus eos qui de typis scripserunt vel de circuitibus, 1824, vol. 7, pp. 475-512. urn:cts:greekLit:tlg0057.tlg049.verbatim-lat1 translationes recentiores: García Sola, 2010 (grc;spa) – source Galenus. De plenitudine (De plen.) [Nº 053 Ficht.] [Gal Lat.] [XML] urn:cts:greekLit:tlg0057.tlg050 Περὶ πλήθους Pléthore Fulness (Plen.)"
+   }
+  ],
+  "0057.050": [
+   {
+    "urn": "urn:cts:greekLit:tlg0057.tlg050.1st1K-grc1",
+    "url": "https://galenus-verbatim.github.io/mera-galeni-folia/urn:cts:greekLit:tlg0057.tlg050.1st1K-grc1/",
+    "title": "De plenitudine",
+    "editor": "Kühn",
+    "year": "1824",
+    "vol": "7",
+    "pp": "513-583",
+    "critical": "Otte, 2001 (grc;deu)"
+   }
+  ],
+  "0057.051": [
+   {
+    "urn": "urn:cts:greekLit:tlg0057.tlg051.1st1K-grc1",
+    "url": "https://galenus-verbatim.github.io/mera-galeni-folia/urn:cts:greekLit:tlg0057.tlg051.1st1K-grc1/",
+    "title": "De tremore, palpitatione, convulsione et rigore",
+    "editor": "Kühn",
+    "year": "1824",
+    "vol": "7",
+    "pp": "584-642",
+    "critical": "translatio Latina: De tremore, palpitatione, convulsione et rigore, 1824, vol. 7, pp. 584-642. urn:cts:greekLit:tlg0057.tlg051.verbatim-lat1 translationes recentiores: Sider, 1979 (eng;grc) – source Galenus. De comate secundum Hippocratem (De comate sec. Hipp.) [Nº 055 Ficht.] [Gal Lat.] [XML] urn:cts:greekLit:tlg0057.tlg052 Περὶ τοῦ παρ’ Ἱπποκράτει κώματος Coma selon Hippocrate Coma According to Hippocrates (Hipp. Com.)"
+   }
+  ],
+  "0057.052": [
+   {
+    "urn": "urn:cts:greekLit:tlg0057.tlg052.1st1K-grc1",
+    "url": "https://galenus-verbatim.github.io/mera-galeni-folia/urn:cts:greekLit:tlg0057.tlg052.1st1K-grc1/",
+    "title": "De comate secundum Hippocratem",
+    "editor": "Kühn",
+    "year": "1824",
+    "vol": "7",
+    "pp": "643-665",
+    "critical": "Mewaldt, 1915"
+   }
+  ],
+  "0057.053": [
+   {
+    "urn": "urn:cts:greekLit:tlg0057.tlg053.1st1K-grc1",
+    "url": "https://galenus-verbatim.github.io/mera-galeni-folia/urn:cts:greekLit:tlg0057.tlg053.1st1K-grc1/",
+    "title": "De marcore",
+    "editor": "Kühn",
+    "year": "1824",
+    "vol": "7",
+    "pp": "666-704",
+    "critical": "translatio Latina: De marcore, 1824, vol. 7, pp. 666-704. urn:cts:greekLit:tlg0057.tlg053.verbatim-lat1 translationes recentiores: Theoharides, 1971 (grc;eng) – source Galenus. De tumoribus praeter naturam (De tum. praeter nat.) [Nº 057 Ficht.] [Gal Lat.] [XML] urn:cts:greekLit:tlg0057.tlg054 Περὶ τῶν παρὰ φύσιν ὄγκων Tumeurs contre nature Unnatural Lumps (Tum. Pr. Nat.)"
+   }
+  ],
+  "0057.054": [
+   {
+    "urn": "urn:cts:greekLit:tlg0057.tlg054.1st1K-grc1",
+    "url": "https://galenus-verbatim.github.io/mera-galeni-folia/urn:cts:greekLit:tlg0057.tlg054.1st1K-grc1/",
+    "title": "De tumoribus praeter naturam",
+    "editor": "Kühn",
+    "year": "1824",
+    "vol": "7",
+    "pp": "705-732",
+    "critical": "Reedy, 1968"
+   }
+  ],
+  "0057.055": [
+   {
+    "urn": "urn:cts:greekLit:tlg0057.tlg055.1st1K-grc1",
+    "url": "https://galenus-verbatim.github.io/mera-galeni-folia/urn:cts:greekLit:tlg0057.tlg055.1st1K-grc1/",
+    "title": "De inaequali intemperie",
+    "editor": "Kühn",
+    "year": "1824",
+    "vol": "7",
+    "pp": "733-752",
+    "critical": "Garcia Novo, 2012 (grc;eng)"
+   }
+  ],
+  "0057.056": [
+   {
+    "urn": "urn:cts:greekLit:tlg0057.tlg056.1st1K-grc1",
+    "url": "https://galenus-verbatim.github.io/mera-galeni-folia/urn:cts:greekLit:tlg0057.tlg056.1st1K-grc1/",
+    "title": "De difficultate respirationis",
+    "editor": "Kühn",
+    "year": "1824",
+    "vol": "7",
+    "pp": "753-960",
+    "critical": "Minor, 1911"
+   }
+  ],
+  "0057.057": [
+   {
+    "urn": "urn:cts:greekLit:tlg0057.tlg057.1st1K-grc1",
+    "url": "https://galenus-verbatim.github.io/mera-galeni-folia/urn:cts:greekLit:tlg0057.tlg057.1st1K-grc1/",
+    "title": "De locis affectis",
+    "editor": "Kühn",
+    "year": "1824",
+    "vol": "8",
+    "pp": "1-452",
+    "critical": "Brunschön, 2021 (grc;deu); Wittwer, 2024 (grc;deu); Gärtner, 2015 (grc;deu); Kollesch, 2023 (grc;deu)"
+   }
+  ],
+  "0057.058": [
+   {
+    "urn": "urn:cts:greekLit:tlg0057.tlg058.1st1K-grc1",
+    "url": "https://galenus-verbatim.github.io/mera-galeni-folia/urn:cts:greekLit:tlg0057.tlg058.1st1K-grc1/",
+    "title": "De pulsibus libellus ad tirones",
+    "editor": "Kühn",
+    "year": "1824",
+    "vol": "8",
+    "pp": "453-492",
+    "critical": "translatio Latina: De pulsibus libellus ad tirones, 1824, vol. 8, pp. 453-492. urn:cts:greekLit:tlg0057.tlg058.verbatim-lat1 translationes recentiores: Tovar, 1948 (grc;spa) – source ; Singer, 1997 (grc;eng) – source ; Trifolgi, 1958 (grc;ita) – source ; Pino Campos, 2015 (grc;spa) – source Galenus. De pulsuum differentiis (De puls. diff.) [Nº 062 Ficht.] [Gal Lat.] [XML] urn:cts:greekLit:tlg0057.tlg059 Περὶ διαφορᾶς σφυγμῶν Différences du pouls The Different Kinds of Pulse (Diff. Puls.)"
+   }
+  ],
+  "0057.059": [
+   {
+    "urn": "urn:cts:greekLit:tlg0057.tlg059.1st1K-grc1",
+    "url": "https://galenus-verbatim.github.io/mera-galeni-folia/urn:cts:greekLit:tlg0057.tlg059.1st1K-grc1/",
+    "title": "De pulsuum differentiis",
+    "editor": "Kühn",
+    "year": "1824",
+    "vol": "8",
+    "pp": "493-765",
+    "critical": "translatio Latina: De pulsuum differentiis, 1824, vol. 8, pp. 493-765. urn:cts:greekLit:tlg0057.tlg059.verbatim-lat1 translationes recentiores: Johnston, 2024 (eng) – source ; Pino Campos, 2010 (grc;spa) – source ; Ruíz Moreno, 1948 (grc;spa) – source Galenus. De dignoscendis pulsibus (De dign. puls.) [Nº 063 Ficht.] [Gal Lat.] [XML] urn:cts:greekLit:tlg0057.tlg060 Περὶ διαγνώσεως σφυγμῶν Diagnostic par le pouls Diagnosis by the Pulse (Dig. Puls.)"
+   }
+  ],
+  "0057.060": [
+   {
+    "urn": "urn:cts:greekLit:tlg0057.tlg060.1st1K-grc1",
+    "url": "https://galenus-verbatim.github.io/mera-galeni-folia/urn:cts:greekLit:tlg0057.tlg060.1st1K-grc1/",
+    "title": "De dignoscendis pulsibus",
+    "editor": "Kühn",
+    "year": "1824",
+    "vol": "8",
+    "pp": "766-961",
+    "critical": "translatio Latina: De dignoscendis pulsibus, 1824, vol. 8, pp. 766-961. urn:cts:greekLit:tlg0057.tlg060.verbatim-lat1 Galenus. De causis pulsuum (De causis puls.) [Nº 064 Ficht.] [Gal Lat.] [XML] urn:cts:greekLit:tlg0057.tlg061 Περὶ τῶν ἐν τοῖς σφυγμοῖς αἰτιῶν Causes du pouls Causes of Pulses (Caus. Puls.)"
+   }
+  ],
+  "0057.061": [
+   {
+    "urn": "urn:cts:greekLit:tlg0057.tlg061.1st1K-grc1",
+    "url": "https://galenus-verbatim.github.io/mera-galeni-folia/urn:cts:greekLit:tlg0057.tlg061.1st1K-grc1/",
+    "title": "De causis pulsuum",
+    "editor": "Kühn",
+    "year": "1825",
+    "vol": "9",
+    "pp": "1-204",
+    "critical": "translatio Latina: De causis pulsuum, 1825, vol. 9, pp. 1-204. urn:cts:greekLit:tlg0057.tlg061.verbatim-lat1 Galenus. De praesagitione ex pulsibus (De praesag. ex puls.) [Nº 065 Ficht.] [Gal Lat.] [XML] urn:cts:greekLit:tlg0057.tlg062 Περὶ προγνώσεως διὰ σφυγμῶν Pronostic par le pouls Prognosis by the Pulse (Praes. Puls.)"
+   }
+  ],
+  "0057.062": [
+   {
+    "urn": "urn:cts:greekLit:tlg0057.tlg062.1st1K-grc1",
+    "url": "https://galenus-verbatim.github.io/mera-galeni-folia/urn:cts:greekLit:tlg0057.tlg062.1st1K-grc1/",
+    "title": "De praesagitione ex pulsibus",
+    "editor": "Kühn",
+    "year": "1825",
+    "vol": "9",
+    "pp": "205-430",
+    "critical": "translatio Latina: De praesagitione ex pulsibus, 1825, vol. 9, pp. 205-430. urn:cts:greekLit:tlg0057.tlg062.verbatim-lat1 Galenus. Synopsis librorum suorum sedecim de pulsibus (Synopsis libr. suor. de puls.) [Nº 066 Ficht.] [Gal Lat.] [XML] urn:cts:greekLit:tlg0057.tlg063 Σύνοψις περὶ σφυγμῶν ἰδίας πραγματείας Synopsis des livres sur le pouls Synopsis on the Pulse (Syn. Puls.)"
+   }
+  ],
+  "0057.063": [
+   {
+    "urn": "urn:cts:greekLit:tlg0057.tlg063.1st1K-grc1",
+    "url": "https://galenus-verbatim.github.io/mera-galeni-folia/urn:cts:greekLit:tlg0057.tlg063.1st1K-grc1/",
+    "title": "Synopsis librorum suorum de pulsibus",
+    "editor": "Kühn",
+    "year": "1825",
+    "vol": "9",
+    "pp": "431-533",
+    "critical": "translatio Latina: Synopsis librorum suorum de pulsibus, 1825, vol. 9, pp. 431-533. urn:cts:greekLit:tlg0057.tlg063.verbatim-lat1 translationes recentiores: Pino Campos, 2005 (grc;spa) – source Note: selon la Galenus und [Galenus]- Gesamtübersicht du CMG, la paternité de ce traité est discutée. Le texte grec s’arrête à la p. 533 mais la traduction latine va jusqu’à la p. 549. Galenus. De crisibus (De cris.) [Nº 067 Ficht.] [Gal Lat.] [XML] urn:cts:greekLit:tlg0057.tlg064 Περὶ κρίσεων Crises Crises (Cris.)"
+   }
+  ],
+  "0057.064": [
+   {
+    "urn": "urn:cts:greekLit:tlg0057.tlg064.1st1K-grc1",
+    "url": "https://galenus-verbatim.github.io/mera-galeni-folia/urn:cts:greekLit:tlg0057.tlg064.1st1K-grc1/",
+    "title": "De crisibus",
+    "editor": "Kühn",
+    "year": "1825",
+    "vol": "9",
+    "pp": "550-768",
+    "critical": "Alexanderson, 1967"
+   }
+  ],
+  "0057.065": [
+   {
+    "urn": "urn:cts:greekLit:tlg0057.tlg065.1st1K-grc1",
+    "url": "https://galenus-verbatim.github.io/mera-galeni-folia/urn:cts:greekLit:tlg0057.tlg065.1st1K-grc1/",
+    "title": "De diebus decretoriis",
+    "editor": "Kühn",
+    "year": "1825",
+    "vol": "9",
+    "pp": "769-941",
+    "critical": "Cooper, 2011 (Ara;eng)"
+   }
+  ],
+  "0057.066": [
+   {
+    "urn": "urn:cts:greekLit:tlg0057.tlg066.1st1K-grc1",
+    "url": "https://galenus-verbatim.github.io/mera-galeni-folia/urn:cts:greekLit:tlg0057.tlg066.1st1K-grc1/",
+    "title": "Methodus medendi",
+    "editor": "Kühn",
+    "year": "1825",
+    "vol": "10",
+    "pp": "1-1021",
+    "critical": "Lorusso, 2021 (grc;ita); Lorusso, 2018 (grc;ita)"
+   }
+  ],
+  "0057.067": [
+   {
+    "urn": "urn:cts:greekLit:tlg0057.tlg067.1st1K-grc1",
+    "url": "https://galenus-verbatim.github.io/mera-galeni-folia/urn:cts:greekLit:tlg0057.tlg067.1st1K-grc1/",
+    "title": "Ad Glauconem de medendi methodo",
+    "editor": "Kühn",
+    "year": "1826",
+    "vol": "11",
+    "pp": "1-146",
+    "critical": "translatio Latina: Ad Glauconem de medendi methodo, 1826, vol. 11, pp. 1-146. urn:cts:greekLit:tlg0057.tlg067.verbatim-lat1 translationes recentiores: Johnston, 2016 (grc;eng) – source ; Daremberg, 1854 (grc;fra) – source Galenus. De venae sectione adversus Erasistratum (De venae sect. adv. Erasistr.) [Nº 071 Ficht.] [XML] urn:cts:greekLit:tlg0057.tlg068 Περὶ φλεβοτομίας πρὸς Ἐρασίστρατον Saignée contre Érasistrate Bloodletting, against Erasistrateus (Ven. Sect. Er.)"
+   }
+  ],
+  "0057.068": [
+   {
+    "urn": "urn:cts:greekLit:tlg0057.tlg068.1st1K-grc1",
+    "url": "https://galenus-verbatim.github.io/mera-galeni-folia/urn:cts:greekLit:tlg0057.tlg068.1st1K-grc1/",
+    "title": "De venae sectione adversus Erasistratum",
+    "editor": "Kühn",
+    "year": "1826",
+    "vol": "11",
+    "pp": "147-186",
+    "critical": "translatio Latina: De venae sectione adversus Erasistratum, 1826, vol. 11, pp. 147-186. urn:cts:greekLit:tlg0057.tlg068.verbatim-lat1 translationes recentiores: Brain, 1986 (grc;eng) – source Galenus. De venae sectione adversus Erasistrateos Romae degentes (De venae sect. adv. Erasistrateos Romae deg.) [Nº 072 Ficht.] [XML] urn:cts:greekLit:tlg0057.tlg069 Περὶ φλεβοτομίας πρὸς Ἐρασιστρατείους τοὺς ἐν Ῥώμῃ Saignée contre les Érasistratéens de Rome Bloodletting, against the Erasistrateans at Rome (Ven. Sect. Er. Rom.)"
+   }
+  ],
+  "0057.069": [
+   {
+    "urn": "urn:cts:greekLit:tlg0057.tlg069.1st1K-grc1",
+    "url": "https://galenus-verbatim.github.io/mera-galeni-folia/urn:cts:greekLit:tlg0057.tlg069.1st1K-grc1/",
+    "title": "De venae sectione adversus Erasistrateos Romae degentes",
+    "editor": "Kühn",
+    "year": "1826",
+    "vol": "11",
+    "pp": "187-249",
+    "critical": "Galen, 1970"
+   }
+  ],
+  "0057.070": [
+   {
+    "urn": "urn:cts:greekLit:tlg0057.tlg070.1st1K-grc1",
+    "url": "https://galenus-verbatim.github.io/mera-galeni-folia/urn:cts:greekLit:tlg0057.tlg070.1st1K-grc1/",
+    "title": "De curandi ratione per venae sectionem",
+    "editor": "Kühn",
+    "year": "1826",
+    "vol": "11",
+    "pp": "250-316",
+    "critical": "translatio Latina: De curandi ratione per venae sectionem, 1826, vol. 11, pp. 250-316. urn:cts:greekLit:tlg0057.tlg070.verbatim-lat1 translationes recentiores: Brain, 1986 (grc;eng) – source Galenus. De hirudinibus, revulsione, cucurbitula, incisione, et scarificatione (De hirudinibus) [Nº 074 Ficht.] [Gal Lat.] [XML] urn:cts:greekLit:tlg0057.tlg071 Περὶ βδελλῶν, ἀντισπάσεως, σικύας καὶ ἐγχαράξεως καὶ κατασχασμοῦ Sangsues, révulsion, ventouses, scarification et incision Leeches, etc. (HRCIS)"
+   }
+  ],
+  "0057.071": [
+   {
+    "urn": "urn:cts:greekLit:tlg0057.tlg071.1st1K-grc1",
+    "url": "https://galenus-verbatim.github.io/mera-galeni-folia/urn:cts:greekLit:tlg0057.tlg071.1st1K-grc1/",
+    "title": "De hirudinibus, revulsione, cucurbitula, incisione et scarificatione",
+    "editor": "Kühn",
+    "year": "1826",
+    "vol": "11",
+    "pp": "317-322",
+    "critical": "translatio Latina: De hirudinibus, revulsione, cucurbitula, incisione et scarificatione, 1826, vol. 11, pp. 317-322. urn:cts:greekLit:tlg0057.tlg071.verbatim-lat1 Galenus. De purgantium medicamentorum facultate (De purg. med. fac.) [Nº 075 Ficht.] [Gal Lat.] [XML] urn:cts:greekLit:tlg0057.tlg072 Περὶ τῆς τῶν καθαιρόντων φαρμάκων δυνάμεως Facultés des médicaments purgatifs The Capacity of Cleansing Drugs (Purg. Med. Fac.)"
+   }
+  ],
+  "0057.072": [
+   {
+    "urn": "urn:cts:greekLit:tlg0057.tlg072.1st1K-grc1",
+    "url": "https://galenus-verbatim.github.io/mera-galeni-folia/urn:cts:greekLit:tlg0057.tlg072.1st1K-grc1/",
+    "title": "De purgantium medicamentorum facultate",
+    "editor": "Kühn",
+    "year": "1826",
+    "vol": "11",
+    "pp": "323-342",
+    "critical": "translatio Latina: De purgantium medicamentorum facultate, 1826, vol. 11, pp. 323-342. urn:cts:greekLit:tlg0057.tlg072.verbatim-lat1 Galenus. Puero epileptico consilium (Puero epil. consil.) [Nº 077 Ficht.] [Gal Lat.] [XML] urn:cts:greekLit:tlg0057.tlg074 Τῷ ἐπιλήπτῳ παιδὶ ὑποθήκη Conseil pour un enfant épileptique Advice to an Epileptic Boy (Puer. Epil.)"
+   }
+  ],
+  "0057.074": [
+   {
+    "urn": "urn:cts:greekLit:tlg0057.tlg074.1st1K-grc1",
+    "url": "https://galenus-verbatim.github.io/mera-galeni-folia/urn:cts:greekLit:tlg0057.tlg074.1st1K-grc1/",
+    "title": "Pro puero epileptico consilium",
+    "editor": "Kühn",
+    "year": "1826",
+    "vol": "11",
+    "pp": "357-378",
+    "critical": "translatio Latina: Pro puero epileptico consilium, 1826, vol. 11, pp. 357-378. urn:cts:greekLit:tlg0057.tlg074.verbatim-lat1 translationes recentiores: Temkin, 1934 (eng) – source ; Galen, 2010 (grc-deu) – source ; Galen, 1911 (grc;deu) – source ; Botto Micca, 1930 (grc;ita) – source Galenus. De simplicium medicamentorum facultatibus (De simpl. med. fac.) [Nº 078 Ficht.] [Gal Lat.] [XML] urn:cts:greekLit:tlg0057.tlg075 Περὶ [κράσεως καὶ] δυνάμεως τῶν ἁπλῶν φαρμάκων Facultés des médicaments simples The Capacities [and Mixtures] of Simple Drugs (SMT)"
+   }
+  ],
+  "0057.075": [
+   {
+    "urn": "urn:cts:greekLit:tlg0057.tlg075.1st1K-grc1",
+    "url": "https://galenus-verbatim.github.io/mera-galeni-folia/urn:cts:greekLit:tlg0057.tlg075.1st1K-grc1/",
+    "title": "De simplicium medicamentorum temperamentis ac facultatibus",
+    "editor": "Kühn",
+    "year": "1826",
+    "vol": "11-12",
+    "pp": "379-892 1-377",
+    "critical": "translatio Latina: De simplicium medicamentorum temperamentis ac facultatibus, 1826, vol. 11-12, pp. 379-892 1-377. urn:cts:greekLit:tlg0057.tlg075.verbatim-lat1 Note: il convient de corriger le titre adopté par le CMG et d'en exclure les mots κράσεως καὶ (temperamentis et), qui ne sont pas anciens. éd. Kühn: livres I à VI dans le vol. 11 (p. 379-892), livres VII à XI dans le vol. 12 (p. 1-377). Galenus. De compositione medicamentorum secundum locos (De comp. med. sec. loc.) [Nº 080 Ficht.] [Gal Lat.] [XML] urn:cts:greekLit:tlg0057.tlg076 Περὶ συνθέσεως φαρμάκων τῶν κατὰ τόπους Médicaments composés selon les lieux The Composition of Drugs According to Places (Comp. Med. Loc.)"
+   }
+  ],
+  "0057.076": [
+   {
+    "urn": "urn:cts:greekLit:tlg0057.tlg076.1st1K-grc1",
+    "url": "https://galenus-verbatim.github.io/mera-galeni-folia/urn:cts:greekLit:tlg0057.tlg076.1st1K-grc1/",
+    "title": "De compositione medicamentorum secundum locos",
+    "editor": "Kühn",
+    "year": "1826-1827",
+    "vol": "12-13",
+    "pp": "378-1007",
+    "critical": "translatio Latina: De compositione medicamentorum secundum locos, 1826, vol. 12-13, pp. 378-1007;1-361. urn:cts:greekLit:tlg0057.tlg076.verbatim-lat1 translationes recentiores: Santana Henríquez, 2005 (grc;spa) – source Note: éd. Kühn: livres I à VI dans le vol. 12 (p. 378-1007), livres VII à X dans le vol. 13 (p. 1-361). Galenus. De compositione medicamentorum per genera (De comp. med. per gen.) [Nº 082 Ficht.] [Gal Lat.] [XML] urn:cts:greekLit:tlg0057.tlg077 Περὶ συνθέσεως φαρμάκων τῶν κατὰ γένη Médicaments composés selon les genres The Composition of Drugs According to Kind (Comp. Med. Gen.)"
+   }
+  ],
+  "0057.077": [
+   {
+    "urn": "urn:cts:greekLit:tlg0057.tlg077.1st1K-grc1",
+    "url": "https://galenus-verbatim.github.io/mera-galeni-folia/urn:cts:greekLit:tlg0057.tlg077.1st1K-grc1/",
+    "title": "De compositione medicamentorum per genera",
+    "editor": "Kühn",
+    "year": "1827",
+    "vol": "13",
+    "pp": "362-1058",
+    "critical": "translatio Latina: De compositione medicamentorum per genera, 1827, vol. 13, pp. 362-1058. urn:cts:greekLit:tlg0057.tlg077.verbatim-lat1 Galenus. De antidotis (De antid.) [Nº 083 Ficht.] [XML] urn:cts:greekLit:tlg0057.tlg078 Περὶ ἀντιδότων Antidotes Antidotes (Ant.)"
+   }
+  ],
+  "0057.078": [
+   {
+    "urn": "urn:cts:greekLit:tlg0057.tlg078.1st1K-grc1",
+    "url": "https://galenus-verbatim.github.io/mera-galeni-folia/urn:cts:greekLit:tlg0057.tlg078.1st1K-grc1/",
+    "title": "De antidotis",
+    "editor": "Kühn",
+    "year": "1827",
+    "vol": "14",
+    "pp": "1-209",
+    "critical": "translatio Latina: De antidotis, 1827, vol. 14, pp. 1-209. urn:cts:greekLit:tlg0057.tlg078.verbatim-lat1 translationes recentiores: Galen, 1980 (grc;deu) – source Pseudo-Galenus. De theriaca ad Pisonem (De ther. ad Pis.) [Nº 084 Ficht.] [Gal Lat.] [XML] urn:cts:greekLit:tlg0057.tlg079 Πρὸς Πίσωνα περὶ τῆς θηριακῆς Thériaque à Pison Theriac, to Piso (Ther. Pis.)"
+   }
+  ],
+  "0057.079": [
+   {
+    "urn": "urn:cts:greekLit:tlg0057.tlg079.1st1K-grc1",
+    "url": "https://galenus-verbatim.github.io/mera-galeni-folia/urn:cts:greekLit:tlg0057.tlg079.1st1K-grc1/",
+    "title": "Ad Pisonem de theriaca",
+    "editor": "Kühn",
+    "year": "1827",
+    "vol": "14",
+    "pp": "210-294",
+    "critical": "Boudon-Millot, 2016 (grc;fra)"
+   }
+  ],
+  "0530.032": [
+   {
+    "urn": "urn:cts:greekLit:tlg0530.tlg032.1st1K-grc1",
+    "url": "https://galenus-verbatim.github.io/mera-galeni-folia/urn:cts:greekLit:tlg0530.tlg032.1st1K-grc1/",
+    "title": "De theriaca ad Pamphilianum",
+    "editor": "Kühn",
+    "year": "1827",
+    "vol": "14",
+    "pp": "295-310",
+    "critical": "Boudon-Millot, 2021 (grc;fra)"
+   }
+  ],
+  "0530.029": [
+   {
+    "urn": "urn:cts:greekLit:tlg0530.tlg029.1st1K-grc1",
+    "url": "https://galenus-verbatim.github.io/mera-galeni-folia/urn:cts:greekLit:tlg0530.tlg029.1st1K-grc1/",
+    "title": "De remediis parabilibus",
+    "editor": "Kühn",
+    "year": "1827",
+    "vol": "14",
+    "pp": "311-581",
+    "critical": "translatio Latina: De remediis parabilibus, 1827, vol. 14, pp. 311-581. urn:cts:greekLit:tlg0530.tlg029.verbatim-lat1 translationes recentiores: Brodersen, 2020 (grc;deu) – source Galenus. De captionibus penes dictionem (De capt. penes dict.) [Nº 087 Ficht.] [Gal Lat.] [XML] urn:cts:greekLit:tlg0057.tlg082 Περὶ τῶν παρὰ τὴν λέξιν σοφισμάτων Sophismes verbaux Linguistic Sophisms (Soph.)"
+   }
+  ],
+  "0057.082": [
+   {
+    "urn": "urn:cts:greekLit:tlg0057.tlg082.1st1K-grc1",
+    "url": "https://galenus-verbatim.github.io/mera-galeni-folia/urn:cts:greekLit:tlg0057.tlg082.1st1K-grc1/",
+    "title": "De sophismatis seu captionibus penes dictionem",
+    "editor": "Kühn",
+    "year": "1827",
+    "vol": "14",
+    "pp": "582-598",
+    "critical": "Ebbesen, 1981 (grc;eng); Gabler, 1903"
+   }
+  ],
+  "0057.083": [
+   {
+    "urn": "urn:cts:greekLit:tlg0057.tlg083.1st1K-grc1",
+    "url": "https://galenus-verbatim.github.io/mera-galeni-folia/urn:cts:greekLit:tlg0057.tlg083.1st1K-grc1/",
+    "title": "De praenotione ad Posthumum",
+    "editor": "Kühn",
+    "year": "1827",
+    "vol": "14",
+    "pp": "599-673",
+    "critical": "Nutton, 1979 (grc;eng)"
+   }
+  ],
+  "0530.012": [
+   {
+    "urn": "urn:cts:greekLit:tlg0530.tlg012.1st1K-grc1",
+    "url": "https://galenus-verbatim.github.io/mera-galeni-folia/urn:cts:greekLit:tlg0530.tlg012.1st1K-grc1/",
+    "title": "Introductio seu medicus",
+    "editor": "Kühn",
+    "year": "1827",
+    "vol": "14",
+    "pp": "674-797",
+    "critical": "translatio Latina: Introductio seu medicus, 1827, vol. 14, pp. 674-797. urn:cts:greekLit:tlg0530.tlg012.verbatim-lat1 translationes recentiores: Pseudo-Galenus, 1964 (nld) – source ; Petit, 2009 (grc;fra) – source Galenus. In Hippocratis De natura hominis commentaria libr. I-II (In Hipp. De nat. hom. comm.) [Nº 090 Ficht.] [Gal Lat.] [XML] urn:cts:greekLit:tlg0057.tlg085 Εἰς τὸ περὶ φύσιος ἀνθρώπου βιβλίον Ἱπποκράτους ὑπόμνημα Commentaire à la Nature de l’homme d’Hippocrate Commentary on Hippocrates’ ‘Nature of Man’ (HNH)"
+   }
+  ],
+  "0057.085": [
+   {
+    "urn": "urn:cts:greekLit:tlg0057.tlg085.1st1K-grc1",
+    "url": "https://galenus-verbatim.github.io/mera-galeni-folia/urn:cts:greekLit:tlg0057.tlg085.1st1K-grc1/",
+    "title": "Hippocratis De natura hominis et Galeni in eum commentarius",
+    "editor": "Kühn",
+    "year": "1828",
+    "vol": "15",
+    "pp": "1-173",
+    "critical": "Mewaldt, 1914"
+   }
+  ],
+  "0057.086": [
+   {
+    "urn": "urn:cts:greekLit:tlg0057.tlg086.1st1K-grc1",
+    "url": "https://galenus-verbatim.github.io/mera-galeni-folia/urn:cts:greekLit:tlg0057.tlg086.1st1K-grc1/",
+    "title": "Galeni In Hippocratis vel Polybi opus De salubri victus ratione privatorum commentarius",
+    "editor": "Kühn",
+    "year": "1828",
+    "vol": "15",
+    "pp": "174-223",
+    "critical": "translatio Latina: Galeni In Hippocratis vel Polybi opus De salubri victus ratione privatorum commentarius, 1822, vol. 15, pp. 174-223. urn:cts:greekLit:tlg0057.tlg086.verbatim-lat1 Note: le texte imprimé par Kühn sous le titre In Hippocratis vel Polybi Opus de Salubri Victus Ratione Privatorum Commentarius constitue en réalité le livre III du traité In Hippocratis De natura hominis commentaria. Galenus. In Hippocratis De victu acutorum commentaria (In Hipp. De victu acut. comm.) [Nº 093 Ficht.] [Gal Lat.] [XML] urn:cts:greekLit:tlg0057.tlg087 Εἰς τὸ περὶ διαίτης ὀξέων Ἱπποκράτους ὑπομνήματα Commentaire au Régime des maladies aiguës d’Hippocrate Commentary on Hippocrates’ ‘Regimen in Acute Diseases’ (HVA)"
+   }
+  ],
+  "0057.087": [
+   {
+    "urn": "urn:cts:greekLit:tlg0057.tlg087.1st1K-grc1",
+    "url": "https://galenus-verbatim.github.io/mera-galeni-folia/urn:cts:greekLit:tlg0057.tlg087.1st1K-grc1/",
+    "title": "Hippocratis De acutorum morborum victu liber et Galeni commentarius",
+    "editor": "Kühn",
+    "year": "1828",
+    "vol": "15",
+    "pp": "418-919",
+    "critical": "Pietrobelli, 2019 (grc;fra); Helmreich, 1914"
+   }
+  ],
+  "0057.088": [
+   {
+    "urn": "urn:cts:greekLit:tlg0057.tlg088.1st1K-grc1",
+    "url": "https://galenus-verbatim.github.io/mera-galeni-folia/urn:cts:greekLit:tlg0057.tlg088.1st1K-grc1/",
+    "title": "Galeni in Hippocratis Praedictionum librum I commentarius",
+    "editor": "Kühn",
+    "year": "1829",
+    "vol": "16",
+    "pp": "489-840",
+    "critical": "Diels, 1915"
+   }
+  ],
+  "0057.092": [
+   {
+    "urn": "urn:cts:greekLit:tlg0057.tlg092.1st1K-grc1",
+    "url": "https://galenus-verbatim.github.io/mera-galeni-folia/urn:cts:greekLit:tlg0057.tlg092.1st1K-grc1/",
+    "title": "Hippocratis Aphorismi et Galeni in eos commentarii",
+    "editor": "Kühn",
+    "year": "1829",
+    "vol": "17b-18a",
+    "pp": "345-887 1-195",
+    "critical": "Savino, 2020 (grc;ita)"
+   }
+  ],
+  "0057.093": [
+   {
+    "urn": "urn:cts:greekLit:tlg0057.tlg093.1st1K-grc1",
+    "url": "https://galenus-verbatim.github.io/mera-galeni-folia/urn:cts:greekLit:tlg0057.tlg093.1st1K-grc1/",
+    "title": "Adversus Lycum",
+    "editor": "Kühn",
+    "year": "1829",
+    "vol": "18a",
+    "pp": "196-245",
+    "critical": "Wenkebach, 1951"
+   }
+  ],
+  "0057.094": [
+   {
+    "urn": "urn:cts:greekLit:tlg0057.tlg094.1st1K-grc1",
+    "url": "https://galenus-verbatim.github.io/mera-galeni-folia/urn:cts:greekLit:tlg0057.tlg094.1st1K-grc1/",
+    "title": "Adversus ea quae Juliano in Hippocratis Aphorismos enunciata sunt",
+    "editor": "Kühn",
+    "year": "1829",
+    "vol": "18a",
+    "pp": "246-299",
+    "critical": "Wenkebach, 1951"
+   }
+  ],
+  "0057.095": [
+   {
+    "urn": "urn:cts:greekLit:tlg0057.tlg095.1st1K-grc1",
+    "url": "https://galenus-verbatim.github.io/mera-galeni-folia/urn:cts:greekLit:tlg0057.tlg095.1st1K-grc1/",
+    "title": "Hippocratis De articulis liber et Galeni in eum commentarii",
+    "editor": "Kühn",
+    "year": "1829",
+    "vol": "18a",
+    "pp": "300-767",
+    "critical": "translatio Latina: Hippocratis De articulis liber et Galeni in eum commentarii, 1829, vol. 18a, pp. 300-767. urn:cts:greekLit:tlg0057.tlg095.verbatim-lat1 translationes recentiores: Abballe, 1972 (ita) – source Le texte imprimé par Kühn sous le titre De Humero iis Modis Prolapso quos Hippocrates non Vidit (n° 106) constitue en réalité une partie du livre I du traité In Hippocratis De articulis commentaria (n° 105); il est ici présenté à la suite du texte du livre I, à la place qu'il occupe dans l'édition de Kühn. Pseudo-Galenus. De fasciis (De fasc.) [Nº 107 Ficht.] [Gal Lat.] [XML] urn:cts:greekLit:tlg0530.tlg005 Περὶ τῶν ἐπιδέσμων Bandages Bandages (Fasc.)"
+   }
+  ],
+  "0530.005": [
+   {
+    "urn": "urn:cts:greekLit:tlg0530.tlg005.1st1K-grc1",
+    "url": "https://galenus-verbatim.github.io/mera-galeni-folia/urn:cts:greekLit:tlg0530.tlg005.1st1K-grc1/",
+    "title": "De fasciis",
+    "editor": "Kühn",
+    "year": "1829",
+    "vol": "18a",
+    "pp": "768-827",
+    "critical": "Schubring, 1963"
+   }
+  ],
+  "0057.099": [
+   {
+    "urn": "urn:cts:greekLit:tlg0057.tlg099.1st1K-grc1",
+    "url": "https://galenus-verbatim.github.io/mera-galeni-folia/urn:cts:greekLit:tlg0057.tlg099.1st1K-grc1/",
+    "title": "Hippocratis Prognosticon et Galeni in eum librum commentarius",
+    "editor": "Kühn",
+    "year": "1830",
+    "vol": "18b",
+    "pp": "1-317",
+    "critical": "Heeg, 1915"
+   }
+  ],
+  "0057.100": [
+   {
+    "urn": "urn:cts:greekLit:tlg0057.tlg100.1st1K-grc1",
+    "url": "https://galenus-verbatim.github.io/mera-galeni-folia/urn:cts:greekLit:tlg0057.tlg100.1st1K-grc1/",
+    "title": "Hippocratis De fracturis et Galeni in eum commentarius",
+    "editor": "Kühn",
+    "year": "1830",
+    "vol": "18b",
+    "pp": "318-628",
+    "critical": "translatio Latina: Hippocratis De fracturis et Galeni in eum commentarius, 1830, vol. 18b, pp. 318-628. urn:cts:greekLit:tlg0057.tlg100.verbatim-lat1 translationes recentiores: Andreoni, 1972 (ita) – source Galenus. In Hippocratis De officina medici commentaria (In Hipp. De off. med. comm.) [Nº 111 Ficht.] [Gal Lat.] [XML] urn:cts:greekLit:tlg0057.tlg101 Εἰς τὸ Ἱπποκράτους κατ’ ἰητρεῖον ὑπομνήματα Commentaire à l’Officine du médecin d’Hippocrate Commentary on Hippocrates’ ‘Surgery’ (Hipp. Off. Med.)"
+   }
+  ],
+  "0057.101": [
+   {
+    "urn": "urn:cts:greekLit:tlg0057.tlg101.1st1K-grc1",
+    "url": "https://galenus-verbatim.github.io/mera-galeni-folia/urn:cts:greekLit:tlg0057.tlg101.1st1K-grc1/",
+    "title": "Hippocratis De medici officina liber et Galeni in eum commentarius",
+    "editor": "Kühn",
+    "year": "1830",
+    "vol": "18b",
+    "pp": "629-925",
+    "critical": "Lyons, 1963 (ara;eng)"
+   }
+  ],
+  "0057.102": [
+   {
+    "urn": "urn:cts:greekLit:tlg0057.tlg102.1st1K-grc1",
+    "url": "https://galenus-verbatim.github.io/mera-galeni-folia/urn:cts:greekLit:tlg0057.tlg102.1st1K-grc1/",
+    "title": "De musculorum dissectione ad tirones",
+    "editor": "Kühn",
+    "year": "1830",
+    "vol": "18b",
+    "pp": "926-1026",
+    "critical": "Garofalo, 2005 (grc;fra)"
+   }
+  ],
+  "0057.115": [
+   {
+    "urn": "urn:cts:greekLit:tlg0057.tlg115.verbatim-grc1",
+    "url": "https://galenus-verbatim.github.io/mera-galeni-folia/urn:cts:greekLit:tlg0057.tlg115.verbatim-grc1/",
+    "title": "*Quomodo morbum simulantes sint deprehendendi*",
+    "editor": "Kühn",
+    "year": "1830",
+    "vol": "19",
+    "pp": "1-7",
+    "critical": "translatio Latina: *Quomodo morbum simulantes sint deprehendendi*, 1830, vol. 19, pp. 1-7. urn:cts:greekLit:tlg0057.tlg115.verbatim-lat1 Note: extraits du Commentaire aux Épidémies II d’Hippocrate, non conservé en grec par ailleurs. Galenus. De libris propriis (De libris propr.) [Nº 114 Ficht.] [Gal Lat.] [XML] urn:cts:greekLit:tlg0057.tlg104 Περὶ τῶν ἰδίων βιβλίων Propres livres My Own Books (Lib. Prop.)"
+   }
+  ],
+  "0057.104": [
+   {
+    "urn": "urn:cts:greekLit:tlg0057.tlg104.verbatim-grc1",
+    "url": "https://galenus-verbatim.github.io/mera-galeni-folia/urn:cts:greekLit:tlg0057.tlg104.verbatim-grc1/",
+    "title": "De libris propriis",
+    "editor": "Kühn",
+    "year": "1830",
+    "vol": "19",
+    "pp": "8-48",
+    "critical": "Müller, 1891; Boudon-Millot, 2007 (grc;fra)"
+   }
+  ],
+  "0057.105": [
+   {
+    "urn": "urn:cts:greekLit:tlg0057.tlg105.verbatim-grc1",
+    "url": "https://galenus-verbatim.github.io/mera-galeni-folia/urn:cts:greekLit:tlg0057.tlg105.verbatim-grc1/",
+    "title": "De ordine librorum suorum ad Eugenianum",
+    "editor": "Kühn",
+    "year": "1830",
+    "vol": "19",
+    "pp": "49-61",
+    "critical": "Müller, 1891; Boudon-Millot, 2007 (grc;fra)"
+   }
+  ],
+  "0057.106": [
+   {
+    "urn": "urn:cts:greekLit:tlg0057.tlg106.verbatim-grc1",
+    "url": "https://galenus-verbatim.github.io/mera-galeni-folia/urn:cts:greekLit:tlg0057.tlg106.verbatim-grc1/",
+    "title": "Vocum Hippocratis Glossarium",
+    "editor": "Kühn",
+    "year": "1830",
+    "vol": "19",
+    "pp": "62-157",
+    "critical": "Perilli, 2017 (grc;ita)"
+   }
+  ],
+  "0530.002": [
+   {
+    "urn": "urn:cts:greekLit:tlg0530.tlg002.verbatim-grc1",
+    "url": "https://galenus-verbatim.github.io/mera-galeni-folia/urn:cts:greekLit:tlg0530.tlg002.verbatim-grc1/",
+    "title": "An animal sit quod est in utero",
+    "editor": "Kühn",
+    "year": "1830",
+    "vol": "19",
+    "pp": "158-181",
+    "critical": "Wagner, 1914"
+   }
+  ],
+  "0530.037": [
+   {
+    "urn": "urn:cts:greekLit:tlg0530.tlg037.verbatim-grc1",
+    "url": "https://galenus-verbatim.github.io/mera-galeni-folia/urn:cts:greekLit:tlg0530.tlg037.verbatim-grc1/",
+    "title": "De diaeta Hippocratis in morbis acutis",
+    "editor": "Kühn",
+    "year": "1830",
+    "vol": "19",
+    "pp": "182-221",
+    "critical": "Westenberger, 1914; Lyons, 1969 (ara;eng)"
+   }
+  ],
+  "0530.042": [
+   {
+    "urn": "urn:cts:greekLit:tlg0530.tlg042.verbatim-grc1",
+    "url": "https://galenus-verbatim.github.io/mera-galeni-folia/urn:cts:greekLit:tlg0530.tlg042.verbatim-grc1/",
+    "title": "De historia philosopha",
+    "editor": "Kühn",
+    "year": "1830",
+    "vol": "19",
+    "pp": "222-345",
+    "critical": "Diels, 1929"
+   }
+  ],
+  "0530.041": [
+   {
+    "urn": "urn:cts:greekLit:tlg0530.tlg041.verbatim-grc1",
+    "url": "https://galenus-verbatim.github.io/mera-galeni-folia/urn:cts:greekLit:tlg0530.tlg041.verbatim-grc1/",
+    "title": "Definitiones medicae",
+    "editor": "Kühn",
+    "year": "1830",
+    "vol": "19",
+    "pp": "346-462",
+    "critical": "translatio Latina: Definitiones medicae, 1830, vol. 19, pp. 346-462. urn:cts:greekLit:tlg0530.tlg041.verbatim-lat1 translationes recentiores: Lafont, 1947 (spa) – source ; Kollesch, 2022 (grc;deu) – source Def. Med. Galenus. Quod qualitates incorporeae sint (Quod qual. incorp. sint) [Nº 121 Ficht.] [Gal Lat.] [XML] urn:cts:greekLit:tlg0057.tlg111 Ὅτι αἱ ποιότητες ἀσώματοι Qualités incorporelles Qualities are Non-Bodily (Qual. Incorp.)"
+   }
+  ],
+  "0057.111": [
+   {
+    "urn": "urn:cts:greekLit:tlg0057.tlg111.verbatim-grc1",
+    "url": "https://galenus-verbatim.github.io/mera-galeni-folia/urn:cts:greekLit:tlg0057.tlg111.verbatim-grc1/",
+    "title": "Quod qualitates incorporeae sint",
+    "editor": "Kühn",
+    "year": "1830",
+    "vol": "19",
+    "pp": "463-484",
+    "critical": "Westenberger, 1906"
+   }
+  ],
+  "0530.009": [
+   {
+    "urn": "urn:cts:greekLit:tlg0530.tlg009.verbatim-grc2",
+    "url": "https://galenus-verbatim.github.io/mera-galeni-folia/urn:cts:greekLit:tlg0530.tlg009.verbatim-grc2/",
+    "title": "De humoribus",
+    "editor": "Vigoreus",
+    "year": "1555",
+    "vol": "",
+    "pp": "1-9",
+    "critical": ""
+   },
+   {
+    "urn": "urn:cts:greekLit:tlg0530.tlg009.verbatim-grc1",
+    "url": "https://galenus-verbatim.github.io/mera-galeni-folia/urn:cts:greekLit:tlg0530.tlg009.verbatim-grc1/",
+    "title": "De humoribus",
+    "editor": "Kühn",
+    "year": "1830",
+    "vol": "19",
+    "pp": "485-496",
+    "critical": "translatio Latina: De humoribus, 1830, vol. 19, pp. 485-496. urn:cts:greekLit:tlg0530.tlg009.verbatim-lat1 translationes recentiores: Schmidt, 1964 (grc;deu) – source ; Marra, 1966 (ita) – source ; Grant, 2000 (eng) – source Pseudo-Galenus. Praesagitio omnino vera expertaque (Praesag. omn. ver. exp.) [Nº 124 Ficht.] [Gal Lat.] [XML] None Πρόγνωσις πεπειραμένη καὶ παναληθής True and Expert Prognosis (Praes. Ver. Exp.)"
+   }
+  ],
+  "0530.023": [
+   {
+    "urn": "urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1",
+    "url": "https://galenus-verbatim.github.io/mera-galeni-folia/urn:cts:greekLit:tlg0530.tlg023.verbatim-grc1/",
+    "title": "Praesagitio omnino vera expertaque",
+    "editor": "Kühn",
+    "year": "1830",
+    "vol": "19",
+    "pp": "512-518",
+    "critical": "translatio Latina: Praesagitio omnino vera expertaque, 1830, vol. 19, pp. 512-518. urn:cts:greekLit:tlg0530.tlg023.verbatim-lat1 translationes recentiores: García Novo, 2021 (grc;spa) – source Pseudo-Galenus. De venae sectione (De venae sect.) [Nº 125 Ficht.] [XML] urn:cts:greekLit:tlg0530.tlg036 Περὶ φλεβοτομίας Bloodletting (Ven. Sect.)"
+   }
+  ],
+  "0530.036": [
+   {
+    "urn": "urn:cts:greekLit:tlg0530.tlg036.verbatim-grc1",
+    "url": "https://galenus-verbatim.github.io/mera-galeni-folia/urn:cts:greekLit:tlg0530.tlg036.verbatim-grc1/",
+    "title": "De venae sectione",
+    "editor": "Kühn",
+    "year": "1830",
+    "vol": "19",
+    "pp": "519-528",
+    "critical": "translatio Latina: De venae sectione, 1830, vol. 19, pp. 519-528. urn:cts:greekLit:tlg0530.tlg036.verbatim-lat1 Pseudo-Galenus. Prognostica de decubitu ex mathematica scientia (Progn. de decub.) [Nº 126 Ficht.] [Gal Lat.] [XML] urn:cts:greekLit:tlg0530.tlg024 Περὶ κατακλίσεως προγνωστικὰ ἐκ τῆς μαθηματικῆς ἐπιστήμης Prognosis Based on the Hour when a Patient goes to Bed based on the Science of Astrology (Prog. Dec.)"
+   }
+  ],
+  "0530.024": [
+   {
+    "urn": "urn:cts:greekLit:tlg0530.tlg024.verbatim-grc1",
+    "url": "https://galenus-verbatim.github.io/mera-galeni-folia/urn:cts:greekLit:tlg0530.tlg024.verbatim-grc1/",
+    "title": "Prognostica de decubitu ex mathematica scientia",
+    "editor": "Kühn",
+    "year": "1830",
+    "vol": "19",
+    "pp": "529-573",
+    "critical": "translatio Latina: Prognostica de decubitu ex mathematica scientia, 1830, vol. 19, pp. 529-573. urn:cts:greekLit:tlg0530.tlg024.verbatim-lat1 Pseudo-Galenus. De urinis (De urin.) [Nº 127 Ficht.] [Gal Lat.] [XML] urn:cts:greekLit:tlg0530.tlg033 Περὶ οὔρων Urines (Ur.)"
+   }
+  ],
+  "0530.033": [
+   {
+    "urn": "urn:cts:greekLit:tlg0530.tlg033.verbatim-grc1",
+    "url": "https://galenus-verbatim.github.io/mera-galeni-folia/urn:cts:greekLit:tlg0530.tlg033.verbatim-grc1/",
+    "title": "De urinis",
+    "editor": "Kühn",
+    "year": "1830",
+    "vol": "19",
+    "pp": "574-601",
+    "critical": "translatio Latina: De urinis, 1830, vol. 19, pp. 573-601. urn:cts:greekLit:tlg0530.tlg033.verbatim-lat1 translationes recentiores: Pseudo-Galen, 1937 (deu) – source Pseudo-Galenus. De urinis compendium (De urin. comp.) [Nº 128 Ficht.] [XML] urn:cts:greekLit:tlg0530.tlg034 Περὶ οὔρων ἐν συντόμῳ Summary of Urines (Ur. Comp.)"
+   }
+  ],
+  "0530.034": [
+   {
+    "urn": "urn:cts:greekLit:tlg0530.tlg034.verbatim-grc1",
+    "url": "https://galenus-verbatim.github.io/mera-galeni-folia/urn:cts:greekLit:tlg0530.tlg034.verbatim-grc1/",
+    "title": "De urinis compendium",
+    "editor": "Kühn",
+    "year": "1830",
+    "vol": "19",
+    "pp": "602-608",
+    "critical": "translatio Latina: De urinis compendium, 1830, vol. 19, pp. 602-608. urn:cts:greekLit:tlg0530.tlg034.verbatim-lat1 Pseudo-Galenus. De urinis ex Hippocrate, Galeno aliisque quibusdam (De urin. ex Hipp. Gal. al.) [Nº 129 Ficht.] [Gal Lat.] [XML] urn:cts:greekLit:tlg0530.tlg035 Περὶ οὔρων ἐκ τῶν Ἱπποκράτους καὶ Γαληνοῦ καὶ ἄλλων τινῶν Urines According to Hippocrates, Galen (Ur. Comp. Gal.)"
+   }
+  ],
+  "0530.035": [
+   {
+    "urn": "urn:cts:greekLit:tlg0530.tlg035.verbatim-grc1",
+    "url": "https://galenus-verbatim.github.io/mera-galeni-folia/urn:cts:greekLit:tlg0530.tlg035.verbatim-grc1/",
+    "title": "De urinis ex Hippocrate, Galeno aliisque quibusdam",
+    "editor": "Kühn",
+    "year": "1830",
+    "vol": "19",
+    "pp": "609-628",
+    "critical": "translatio Latina: De urinis ex Hippocrate, Galeno aliisque quibusdam, 1830, vol. 19, pp. 609-628. urn:cts:greekLit:tlg0530.tlg035.verbatim-lat1 translationes recentiores: Mitaritonna, 1968 (ita) – source Pseudo-Galenus. De pulsibus ad Antonium disciplinae studiosum et philosophum (De puls. ad Anton.) [Nº 130 Ficht.] [XML] urn:cts:greekLit:tlg0530.tlg026 Περὶ σφυγμῶν πρὸς Ἀντώνιον φιλομαθῆ καὶ φιλόσοφον The Pulse, to Antonius (Puls. Ant.)"
+   }
+  ],
+  "0530.026": [
+   {
+    "urn": "urn:cts:greekLit:tlg0530.tlg026.verbatim-grc1",
+    "url": "https://galenus-verbatim.github.io/mera-galeni-folia/urn:cts:greekLit:tlg0530.tlg026.verbatim-grc1/",
+    "title": "De pulsibus ad Antonium disciplinae studiosum et philosophum",
+    "editor": "Kühn",
+    "year": "1830",
+    "vol": "19",
+    "pp": "629-642",
+    "critical": "translatio Latina: De pulsibus ad Antonium disciplinae studiosum et philosophum, 1830, vol. 19, pp. 629-642. urn:cts:greekLit:tlg0530.tlg026.verbatim-lat1 translationes recentiores: Pseudo-Galen, 1940 (deu) – source Pseudo-Galenus. De affectuum renibus insidentium dignotione et curatione (De ren. affect.) [Nº 131 Ficht.] [Gal Lat.] [XML] urn:cts:greekLit:tlg0530.tlg045 Περὶ τῆς τῶν ἐν νεφροῖς παθῶν διαγνώσεως καὶ θεραπείας Affections of the Kidneys (Ren. Aff.)"
+   }
+  ],
+  "0530.045": [
+   {
+    "urn": "urn:cts:greekLit:tlg0530.tlg045.verbatim-grc1",
+    "url": "https://galenus-verbatim.github.io/mera-galeni-folia/urn:cts:greekLit:tlg0530.tlg045.verbatim-grc1/",
+    "title": "De affectuum renibus insidentium dignotione et curatione",
+    "editor": "Kühn",
+    "year": "1830",
+    "vol": "19",
+    "pp": "643-698",
+    "critical": "translatio Latina: De affectuum renibus insidentium dignotione et curatione, 1830, vol. 19, pp. 643-698. urn:cts:greekLit:tlg0530.tlg045.verbatim-lat1 Pseudo-Galenus. De succedaneis (De succed.) [Nº 133 Ficht.] [Gal Lat.] [XML] urn:cts:greekLit:tlg0530.tlg031 Περὶ ἀντεμβαλλομένων Pharmacological Substitutions (Suc.)"
+   }
+  ],
+  "0530.031": [
+   {
+    "urn": "urn:cts:greekLit:tlg0530.tlg031.verbatim-grc1",
+    "url": "https://galenus-verbatim.github.io/mera-galeni-folia/urn:cts:greekLit:tlg0530.tlg031.verbatim-grc1/",
+    "title": "De succedaneis",
+    "editor": "Kühn",
+    "year": "1830",
+    "vol": "19",
+    "pp": "721-747",
+    "critical": "translatio Latina: De succedaneis, 1830, vol. 19, pp. 721-747. urn:cts:greekLit:tlg0530.tlg031.verbatim-lat1 Pseudo-Galenus. De ponderibus et mensuris (De pond. et mens.) [Nº 134 Ficht.] [XML] urn:cts:greekLit:tlg0530.tlg022 Περὶ μέτρων καὶ σταθμῶν διδασκαλία Weights and Measures (Pond. Mens.)"
+   }
+  ],
+  "0530.022": [
+   {
+    "urn": "urn:cts:greekLit:tlg0530.tlg022.verbatim-grc1",
+    "url": "https://galenus-verbatim.github.io/mera-galeni-folia/urn:cts:greekLit:tlg0530.tlg022.verbatim-grc1/",
+    "title": "De ponderibus et mensuris",
+    "editor": "Kühn",
+    "year": "1830",
+    "vol": "19",
+    "pp": "748-781",
+    "critical": "Hultsch, 1864"
+   }
+  ],
+  "0530.006": [
+   {
+    "urn": "urn:cts:greekLit:tlg0530.tlg006.1st1K-grc1",
+    "url": "https://galenus-verbatim.github.io/mera-galeni-folia/urn:cts:greekLit:tlg0530.tlg006.1st1K-grc1/",
+    "title": "Ad Gaurum quomodo animetur fetus",
+    "editor": "Kalbfleisch",
+    "year": "1895",
+    "vol": "",
+    "pp": "33-62",
+    "critical": "Kalbfleisch, 1895 translationes recentiores: Wilberding, 2011 (eng) – source Galenus. De consuetudinibus (De consuet.) [Nº 202 Ficht.] [Gal Lat.] [XML] urn:cts:greekLit:tlg0057.tlg103 Περὶ ἐθῶν, Πρὸς Φαβωρῖνον Habitudes Customary Practices (Cons.)"
+   }
+  ],
+  "0057.103": [
+   {
+    "urn": "urn:cts:greekLit:tlg0057.tlg103.1st1K-grc1",
+    "url": "https://galenus-verbatim.github.io/mera-galeni-folia/urn:cts:greekLit:tlg0057.tlg103.1st1K-grc1/",
+    "title": "De consuetudinibus",
+    "editor": "von Müller",
+    "year": "1879",
+    "vol": "",
+    "pp": "5-19",
+    "critical": "Müller, 1891; Pfaff, 1941 (grc;lat;deu) translationes recentiores: Pfaff, 1941 (grc;lat;deu) – source ; Daremberg, 1854 (fra) – source ; Brock, 1929 (eng) – source Galenus. De experientia medica (De exper. med.) [Nº 235 Ficht.] [XML] urn:cts:greekLit:tlg0057.tlg107 Περὶ τῆς ἰατρικῆς ἐμπειρίας Expérience médicale Medical Experience (Med. Exp.)"
+   }
+  ],
+  "0057.107": [
+   {
+    "urn": "urn:cts:greekLit:tlg0057.tlg107.1st1K-grc1",
+    "url": "https://galenus-verbatim.github.io/mera-galeni-folia/urn:cts:greekLit:tlg0057.tlg107.1st1K-grc1/",
+    "title": "De experientia medica",
+    "editor": "Schöne",
+    "year": "1901",
+    "vol": "",
+    "pp": "1258-1263",
+    "critical": "Walzer, 1944 translationes recentiores: Pellegrin, 1998 (fra) – source ; Walzer, 1985 (eng) – source Galenus. De victu attenuante (De victu att.) [Nº 349 Ficht.] [Gal Lat.] [XML] urn:cts:greekLit:tlg0057.tlg019 Περὶ λεπτυνούσης διαίτης Régime amaigrissant The Thinning Diet (Vict. Att.)"
+   }
+  ],
+  "0057.019": [
+   {
+    "urn": "urn:cts:greekLit:tlg0057.tlg019.1st1K-grc1",
+    "url": "https://galenus-verbatim.github.io/mera-galeni-folia/urn:cts:greekLit:tlg0057.tlg019.1st1K-grc1/",
+    "title": "De victu attenuante",
+    "editor": "Kalbfleisch",
+    "year": "1898",
+    "vol": "",
+    "pp": "3-37",
+    "critical": "Kalbfleisch, 1923; Marinone, 1973 (grc;ita) translationes recentiores: Frieboes, 1903 (deu) – source ; Moszynski, 1982 (pol) – source ; Marinone, 1973 (grc;ita) – source ; Singer, 1997 (eng) – source ; Beintker, 1952 (deu) – source Galenus. Institutio logica (Inst. log.) [Nº 402 Ficht.] [XML] urn:cts:greekLit:tlg0057.tlg081 Εἰσαγωγὴ διαλεκτική Institution logique Introduction to Logic (Inst. log.)"
+   }
+  ],
+  "0057.081": [
+   {
+    "urn": "urn:cts:greekLit:tlg0057.tlg081.1st1K-grc1",
+    "url": "https://galenus-verbatim.github.io/mera-galeni-folia/urn:cts:greekLit:tlg0057.tlg081.1st1K-grc1/",
+    "title": "Institutio logica",
+    "editor": "Kalbfleisch",
+    "year": "1896",
+    "vol": "",
+    "pp": "3-49",
+    "critical": "Kalbfleisch, 1896 translationes recentiores: Levet, 1998 (fra) – source ; Hošek, 1958 (ces/cze) – source ; Ramírez Trejo, 1982 (grc;spa) – source ; Ingravalle, 2014 (ita) – source ; Garofalo, 1978 (grc;ita) – source ; Kieffer, 1964 (eng) – source ; Orth, 1938 (deu) – source ; Mau, 1960 (grc;deu) – source.card { content-visibility: auto; contain-intrinsic-size: 200px; } div.card:has(article:target) { background-color: var(--color-gray-200, #e5e7eb); }"
+   }
+  ]
+ }
+}

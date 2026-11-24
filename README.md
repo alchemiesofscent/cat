@@ -18,6 +18,7 @@ python3 scripts/build.py
 ```
 
 `scripts/medimanus.py` imports MediManus (CHS) witnesses and start folios into `data/medimanus.json` (used with CHS permission). Titles are mapped to catalogue works through the reviewed concordance `data/medimanus_titles.json`.
+`scripts/galenus_verbatim.py` imports the Galenus Verbatim edition index into `data/galenus_verbatim.json` (Galen works → online Greek text by TLG number).
 
 Witness lists cover digitized manuscripts only. For the full tradition, see Pinakes, Biblissima and MediManus,
 which each work page links to.
