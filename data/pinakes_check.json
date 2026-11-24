@@ -1,6 +1,6 @@
 {
  "checked": 995,
- "confirmed": 920,
+ "confirmed": 921,
  "fixes": [
   {
    "work": "aretaeus-cappadox-001",
@@ -56,18 +56,6 @@
   }
  ],
  "review": [
-  {
-   "work": "aetius-amidenus-001",
-   "title": "libri Medicinales",
-   "city": "Florenz",
-   "shelfmark": "Laur. Plut. 57.12 (libri I--III)",
-   "folios": "1–102v",
-   "candidates": [
-    "Plut. 75. 07, f. 001-214",
-    "Plut. 75. 13, f. 001-121*",
-    "Plut. 75. 18, f. 001-278"
-   ]
-  },
   {
    "work": "alexander-trallianus-001",
    "title": "De febribus",
