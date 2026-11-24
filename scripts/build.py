@@ -200,14 +200,25 @@ def sig_html(s):
 
 def sig_cell(recs, tag="td"):
     """'Lᵇ (Olivieri, CMG VIII 1)', one per edition, each linked to the edition's sigla page."""
-    seen, out = set(), []
+    groups = {}
     for r in recs:
-        k = (r["edition"], r["siglum"]["base"], r["siglum"].get("sup", ""), r["siglum"].get("sub", ""))
-        if k in seen:
-            continue
-        seen.add(k)
-        out.append(f'<a class="sig" href="{esc(r["viewer"])}" title="{esc(r["printed"], quote=True)}">'
-                   f'<span class="sg">{sig_html(r["siglum"])}</span> <span class="mmt">({esc(r["edition"])})</span></a>')
+        m = re.match(r"^(.*?, (?:CMG|CML) [IVXL]+) (\d+)$", r["edition"])  # 'Olivieri, CMG VIII 1' -> merge parts
+        head, part = (m[1], m[2]) if m else (r["edition"], "")
+        k = (head, r["siglum"]["base"], r["siglum"].get("sup", ""), r["siglum"].get("sub", ""))
+        g = groups.setdefault(k, {"r": r, "parts": [], "links": []})
+        if part and part not in g["parts"]:
+            g["parts"].append(part)
+            g["links"].append(r)
+    out = []
+    for (head, *_), g in groups.items():
+        r = g["r"]
+        if len(g["parts"]) > 1:
+            parts = ", ".join(f'<a href="{esc(x["viewer"])}">{esc(p)}</a>' for p, x in zip(g["parts"], g["links"]))
+            out.append(f'<span class="sig" title="{esc(r["printed"], quote=True)}"><span class="sg">{sig_html(r["siglum"])}</span> '
+                       f'<span class="mmt">({esc(head)} {parts})</span></span>')
+        else:
+            out.append(f'<a class="sig" href="{esc(r["viewer"])}" title="{esc(r["printed"], quote=True)}">'
+                       f'<span class="sg">{sig_html(r["siglum"])}</span> <span class="mmt">({esc(r["edition"])})</span></a>')
     return f"<{tag} class='sigc'>" + "<br>".join(out) + f"</{tag}>"
 
 
@@ -365,6 +376,15 @@ def go(m, folio_label="view"):
     return f'<a class="go" href="{esc(u)}">{folio_label}</a>'
 
 
+def shelf_html(sm):
+    """'Laur. Plut. 75.05 (libri VI–VIII)' -> shelfmark on one line, the contents note below it."""
+    sm = dash(sm)
+    m = re.match(r"^(.*?)\s*(\(.*\))\s*$", sm)
+    if m and m[1]:
+        return f'<span class="smm">{esc(m[1])}</span><span class="smx">{esc(m[2])}</span>'
+    return f'<span class="smm">{esc(sm)}</span>'
+
+
 def city(c):
     return CITY_EN.get(c, c) or "—"
 
@@ -438,7 +458,7 @@ def witness_rows(mss, show_work=None, sig=None):
         sg = sig_cell(sig.get(ms_key(m["city"], m["shelfmark"]) or "-", [])) if sig is not None else ""
         view = go(m, f"view f. {esc(m['start'])}" if m["start"] else "view") if m["url"] else ""
         lead = f"<td>{show_work(m)}</td>" if show_work else ""
-        rows.append(f"<tr>{lead}<td>{esc(city(m['city']))}</td><td class='sm'>{esc(dash(m['shelfmark']))}</td>{sg}"
+        rows.append(f"<tr>{lead}<td>{esc(city(m['city']))}</td><td class='sm'>{shelf_html(m['shelfmark'])}</td>{sg}"
                     + date_cell(ms_date(m["city"], m["shelfmark"])) +
                     f"<td class='fol'>{esc(dash(m['folios']))}"
                     + (f" <span class='corr' title='Corrected: {esc(m['corrected'], quote=True)}'>†</span>" if m.get("corrected") else "")

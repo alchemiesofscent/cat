@@ -85,3 +85,13 @@ a.sig:hover .sg{text-decoration:underline}
 tr.nd td{color:var(--muted)}
 tr.nd td .sg{color:var(--ink,inherit)}
 .unv{color:#b45309;font-weight:700;cursor:help}
+/* manuscript tables: room to breathe, shelfmark on one line, contents note under it */
+table.mss th,table.mss td{padding:.5rem .9rem .5rem 0}
+table.mss th:last-child,table.mss td:last-child{padding-right:0;width:1%;white-space:nowrap}
+table.mss td:first-child{white-space:nowrap}
+table.mss td.sm{min-width:9.5rem}
+.smm{white-space:nowrap}
+.smx{display:block;font-weight:400;font-size:.82rem;color:var(--muted)}
+.sigc .mmt a{color:inherit}
+td.dt{white-space:nowrap}
+@media (max-width:720px){table.mss td,table.mss td:first-child,.smm,.sigc,td.dt{white-space:normal}table.mss td.sm{min-width:0}}
