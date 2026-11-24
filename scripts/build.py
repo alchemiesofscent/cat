@@ -2,7 +2,7 @@
 
 Usage: python scripts/build.py
 """
-import html, json, re, shutil
+import csv, html, json, re, shutil
 from urllib.parse import urlencode
 from collections import defaultdict
 from datetime import date
@@ -48,18 +48,40 @@ LANG = {"de": "German", "en": "English", "fr": "French", "it": "Italian",
         "es": "Spanish", "other": "Other languages"}
 
 esc = html.escape
-# hosts that no longer resolve (checked Nov 2026): keep the record, mark the link
-STALE_HOSTS = ("mss.bmlonline.it", "213.21.172.25", "163.1.169.40")
+# viewers that no longer resolve or now land on a generic page (checked Nov 2026): keep the record, mark the link.
+# BL Viewer.aspx links redirect to a generic page (images offline since the 2023 cyber-attack); the old Teca
+# ImageViewer times out; wdl.org redirects to a generic LoC page.
+STALE_HOSTS = ("mss.bmlonline.it", "213.21.172.25", "163.1.169.40", "teca.bmlonline.it/ImageViewer",
+               "bl.uk/manuscripts/Viewer.aspx", "www.wdl.org")
+
+# data/relocations.csv maps an old (dead) witness URL + start folio to the library's current viewer.
+# The catalogue keeps the original URL for provenance; only the rendered link changes.
+RELOC = {}
+_RFILE = ROOT / "data" / "relocations.csv"
+if _RFILE.exists():
+    with _RFILE.open(newline="", encoding="utf-8") as fh:
+        for _r in csv.DictReader(fh):
+            if _r["new_folio_url"] or _r["new_manuscript_url"]:
+                RELOC[(_r["old_url_prefix_or_url"], _r["start"])] = _r
 
 
 def stale(u):
     return bool(u) and any(h in u for h in STALE_HOSTS)
 
 
-def go(u, label):
+def go(m, folio_label="view"):
+    """Link for witness m: relocated link first, then the stale check, then the stored URL."""
+    u = m["url"]
+    r = RELOC.get((u, m.get("start") or ""))
+    if r:
+        note = " (approximate)" if r["method"] == "offset" else ""
+        if r["new_folio_url"]:
+            return f'<a class="go" href="{esc(r["new_folio_url"])}" title="Current viewer{note}">{folio_label}</a>'
+        return (f'<a class="go" href="{esc(r["new_manuscript_url"])}" '
+                f'title="Current viewer; opens the manuscript, not the folio">view ms.</a>')
     if stale(u):
         return f'<a class="go stale" href="{esc(u)}" title="This viewer has been retired; the link no longer resolves">old link</a>'
-    return f'<a class="go" href="{esc(u)}">{label}</a>'
+    return f'<a class="go" href="{esc(u)}">{folio_label}</a>'
 
 
 def city(c):
@@ -119,7 +141,7 @@ def page(title, body, depth=0):
 def witness_rows(mss, show_work=None):
     rows = []
     for m in mss:
-        view = go(m["url"], f"view f. {esc(m['start'])}" if m["start"] else "view") if m["url"] else ""
+        view = go(m, f"view f. {esc(m['start'])}" if m["start"] else "view") if m["url"] else ""
         lead = f"<td>{show_work(m)}</td>" if show_work else ""
         rows.append(f"<tr>{lead}<td>{esc(city(m['city']))}</td><td class='sm'>{esc(dash(m['shelfmark']))}</td>"
                     f"<td class='fol'>{esc(dash(m['folios']))}"
@@ -275,7 +297,7 @@ def main():
             trs = "".join(
                 f'<tr><td class="fol">{esc(dash(m["folios"]))}</td>'
                 f'<td><a href="authors/{a["id"]}.html#{w["id"]}">{esc(a["name"])}, {esc(w["title_lat"])}</a></td>'
-                f'<td>' + (go(m["url"], "view") if m["url"] else "") + "</td></tr>"
+                f'<td>' + (go(m) if m["url"] else "") + "</td></tr>"
                 for a, w, m in items)
             lis.append(f'<details><summary><span class="sm">{esc(sm)}</span> <span class="n">{len(items)}</span></summary>'
                        f'<table class="mss"><tbody>{trs}</tbody></table></details>')
