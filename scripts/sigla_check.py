@@ -114,6 +114,13 @@ MANUAL = {
     ("cmg_06_02_02", "reliquiae"): ["oribasius-001"],
     ("cmg_06_02_02", "incerti"): ["oribasius-002"],
     ("wa_galen_ut_resp", ""): ["galenus-019"],
+    ("cmg_01_02_01", "septimestri"): ["hippocrates-039"],
+    ("cmg_01_02_01", "octimestri"): ["hippocrates-040"],
+    ("cmg_05_12_06", ""): ["galenus-079"],
+    ("suppl_or_05_01", ""): ["galenus-078"],
+    ("suppl_or_05_02", ""): ["galenus-078"],
+    ("suppl_or_05_03", ""): ["galenus-078"],
+    ("cmg_11_02_01", ""): [],  # Ps.-Galen, In Hipp. De septimanis (Arabic): not in the catalogue
 }
 INDIRECT = re.compile(r"^(Gal|Lat|Ar|Arab|Nic|Hipp|Orib|Theoph|Syr|Hebr|Pall|Aet|Paul|Hunain|Ḥun)\b|\(", re.I)
 
@@ -122,7 +129,10 @@ def indirect(e):
     """Witness of the indirect tradition: a commentary, translation or parallel text, not a copy of the work."""
     note = (e.get("note") or "").lower()
     return (e["type"] == "translation" or bool(INDIRECT.search(e["siglum"]["base"]))
-            or any(k in note for k in ("parallel", "latin version", "arabic version", "translation", "indirect", "commentary")))
+            or any(k in note for k in ("parallel", "latin version", "arabic version", "translation", "indirect", "commentary",
+                                        "manuscript of", "not a witness", "not of galen", "witness of the", "sub hipp",
+                                        "sub orib", "sub gal", "hippocratic", "hippocratici", "aristotel", "hebrew",
+                                        "excerpt")))
 
 
 def manual(vol, sec):
@@ -164,15 +174,19 @@ def main():
     for f in sorted(SIG.glob("*.json")):
         d = json.loads(f.read_text())
         vol = d["volume"]
-        ed = ", ".join(x for x in (d.get("editor", ""), d.get("series", "")) if x) or vol
+        eds = [x.strip() for x in re.split(r"/|;| et |, ", d.get("editor", "")) if x.strip()]
+        editor = eds[0] + " et al." if len(eds) > 2 else "/".join(eds)
+        ed = ", ".join(x for x in (editor, d.get("series", "")) if x) or vol
         if not d.get("series") and d.get("year"):
             ed += f" {d['year']}"
         for u in d.get("uncertain") or []:
             review["Uncertain readings (from the transcriber)"].append(f"{ed}: {u}")
         cands = vw.get(vol) or []
         for sec in d["sections"]:
-            works = manual(vol, sec) or match_section(sec, cands)
-            if not works:  # volume not linked from the catalogue: try the list's work names against every work
+            works = manual(vol, sec)
+            if works is None:
+                works = match_section(sec, cands)
+            if not works and manual(vol, sec) is None:  # volume not linked from the catalogue: try the author's works
                 works = match_section(sec, all_works(PAGES.get(vol, {}).get("title", "")))
             page = sec["pages"][0] if sec.get("pages") else None
             viewer = f"{B.CV_BASE}{vol}/?pn={page}" if page else ""
@@ -186,7 +200,8 @@ def main():
                     continue
                 n_entries += 1
                 key = B.ms_key(e.get("city", ""), e.get("normalized", "")) or B.ms_key("", e.get("normalized", ""))
-                seen[sig_text(e["siglum"])].add(key)
+                if not indirect(e):
+                    seen[sig_text(e["siglum"])].add(key)
                 rec = {"siglum": e["siglum"], "edition": ed, "volume": vol, "viewer": viewer, "printed": e["printed"],
                        "normalized": e.get("normalized", ""), "city": e.get("city", ""), "folios": e.get("folios", ""),
                        "date": e.get("date", ""), "key": key}

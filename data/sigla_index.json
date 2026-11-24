@@ -598,7 +598,7 @@
     "folios": "",
     "date": "s. XIII",
     "key": "venice||208",
-    "status": "unverified"
+    "status": "indirect"
    },
    {
     "siglum": {
@@ -615,7 +615,7 @@
     "folios": "",
     "date": "s. XIV",
     "key": "florence||87.4",
-    "status": "unverified"
+    "status": "indirect"
    },
    {
     "siglum": {
@@ -632,7 +632,7 @@
     "folios": "",
     "date": "s. XIV",
     "key": "vatican||262",
-    "status": "unverified"
+    "status": "indirect"
    },
    {
     "siglum": {
@@ -649,7 +649,7 @@
     "folios": "",
     "date": "s. XV",
     "key": "vatican||1339",
-    "status": "unverified"
+    "status": "indirect"
    },
    {
     "siglum": {
@@ -893,7 +893,9 @@
      "century": "15",
      "date": ""
     }
-   },
+   }
+  ],
+  "hippocrates-039": [
    {
     "siglum": {
      "base": "V",
@@ -912,7 +914,7 @@
     "status": "ours",
     "pinakes": {
      "cote_id": "66907",
-     "folios": "122v-123v",
+     "folios": "122r-v",
      "century": "12 (2/2)",
      "date": ""
     }
@@ -3833,7 +3835,7 @@
     "folios": "",
     "date": "s. X",
     "key": "venice||269",
-    "status": "unverified"
+    "status": "indirect"
    },
    {
     "siglum": {
@@ -3850,7 +3852,7 @@
     "folios": "",
     "date": "s. XII",
     "key": "vatican||276",
-    "status": "unverified"
+    "status": "indirect"
    },
    {
     "siglum": {
@@ -3867,7 +3869,7 @@
     "folios": "",
     "date": "s. XIV",
     "key": "paris||2237",
-    "status": "unverified"
+    "status": "indirect"
    }
   ],
   "galenus-005": [
@@ -4849,7 +4851,7 @@
     "folios": "",
     "date": "",
     "key": "london||1484",
-    "status": "unverified"
+    "status": "indirect"
    },
    {
     "siglum": {
@@ -4866,7 +4868,7 @@
     "folios": "",
     "date": "",
     "key": "newyork||2306",
-    "status": "unverified"
+    "status": "indirect"
    }
   ],
   "galenus-021": [
@@ -4977,7 +4979,7 @@
     "folios": "",
     "date": "s. XIV",
     "key": "paris||2237",
-    "status": "unverified"
+    "status": "indirect"
    },
    {
     "siglum": {
@@ -4994,7 +4996,7 @@
     "folios": "",
     "date": "s. X",
     "key": "venice||269",
-    "status": "unverified"
+    "status": "indirect"
    },
    {
     "siglum": {
@@ -5011,7 +5013,7 @@
     "folios": "",
     "date": "s. XII",
     "key": "vatican||276",
-    "status": "unverified"
+    "status": "indirect"
    },
    {
     "siglum": {
@@ -5028,7 +5030,7 @@
     "folios": "",
     "date": "s. XV",
     "key": "moscow||466",
-    "status": "unverified"
+    "status": "indirect"
    },
    {
     "siglum": {
@@ -5045,7 +5047,7 @@
     "folios": "",
     "date": "s. XVI",
     "key": "paris||2279",
-    "status": "unverified"
+    "status": "indirect"
    }
   ],
   "galenus-026": [
@@ -5487,7 +5489,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Koch/Helmreich/Kalbfleisch/Hartlich, CMG V 4,2",
+    "edition": "Koch et al., CMG V 4,2",
     "volume": "cmg_05_04_02",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_04_02/?pn=66",
     "printed": "Marcianus 276",
@@ -5510,7 +5512,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Koch/Helmreich/Kalbfleisch/Hartlich, CMG V 4,2",
+    "edition": "Koch et al., CMG V 4,2",
     "volume": "cmg_05_04_02",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_04_02/?pn=66",
     "printed": "Marcianus 282",
@@ -5533,7 +5535,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Koch/Helmreich/Kalbfleisch/Hartlich, CMG V 4,2",
+    "edition": "Koch et al., CMG V 4,2",
     "volume": "cmg_05_04_02",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_04_02/?pn=66",
     "printed": "Reginensis 173",
@@ -5558,7 +5560,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Koch/Helmreich/Kalbfleisch/Hartlich, CMG V 4,2",
+    "edition": "Koch et al., CMG V 4,2",
     "volume": "cmg_05_04_02",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_04_02/?pn=264",
     "printed": "Guelferbytanus Wissenburgensis 64",
@@ -5581,7 +5583,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Koch/Helmreich/Kalbfleisch/Hartlich, CMG V 4,2",
+    "edition": "Koch et al., CMG V 4,2",
     "volume": "cmg_05_04_02",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_04_02/?pn=264",
     "printed": "Parisinus 634 supplementi graeci",
@@ -5604,7 +5606,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Koch/Helmreich/Kalbfleisch/Hartlich, CMG V 4,2",
+    "edition": "Koch et al., CMG V 4,2",
     "volume": "cmg_05_04_02",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_04_02/?pn=264",
     "printed": "Parisinus 764 supplementi graeci",
@@ -5627,7 +5629,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Koch/Helmreich/Kalbfleisch/Hartlich, CMG V 4,2",
+    "edition": "Koch et al., CMG V 4,2",
     "volume": "cmg_05_04_02",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_04_02/?pn=264",
     "printed": "Cheltenhamensis Phillipps. 4614",
@@ -5644,7 +5646,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Koch/Helmreich/Kalbfleisch/Hartlich, CMG V 4,2",
+    "edition": "Koch et al., CMG V 4,2",
     "volume": "cmg_05_04_02",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_04_02/?pn=264",
     "printed": "Vaticanus Palatinus 199",
@@ -5667,7 +5669,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Koch/Helmreich/Kalbfleisch/Hartlich, CMG V 4,2",
+    "edition": "Koch et al., CMG V 4,2",
     "volume": "cmg_05_04_02",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_04_02/?pn=264",
     "printed": "Venetus bibliothecae Marcianae 279",
@@ -5692,7 +5694,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Koch/Helmreich/Kalbfleisch/Hartlich, CMG V 4,2",
+    "edition": "Koch et al., CMG V 4,2",
     "volume": "cmg_05_04_02",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_04_02/?pn=452",
     "printed": "Parisinus supplementi graeci 634",
@@ -5715,7 +5717,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Koch/Helmreich/Kalbfleisch/Hartlich, CMG V 4,2",
+    "edition": "Koch et al., CMG V 4,2",
     "volume": "cmg_05_04_02",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_04_02/?pn=452",
     "printed": "Laurentianus Florentinus graec. 74, 25",
@@ -5738,7 +5740,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Koch/Helmreich/Kalbfleisch/Hartlich, CMG V 4,2",
+    "edition": "Koch et al., CMG V 4,2",
     "volume": "cmg_05_04_02",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_04_02/?pn=452",
     "printed": "Marcianus Venetus graec. 285",
@@ -5761,7 +5763,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Koch/Helmreich/Kalbfleisch/Hartlich, CMG V 4,2",
+    "edition": "Koch et al., CMG V 4,2",
     "volume": "cmg_05_04_02",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_04_02/?pn=452",
     "printed": "Londinensis (Stowe Brit. Mus.) graec. 1073",
@@ -5784,7 +5786,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Koch/Helmreich/Kalbfleisch/Hartlich, CMG V 4,2",
+    "edition": "Koch et al., CMG V 4,2",
     "volume": "cmg_05_04_02",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_04_02/?pn=452",
     "printed": "Oxoniensis graec. Miscell. 132 (Marshal 72)",
@@ -5801,7 +5803,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Koch/Helmreich/Kalbfleisch/Hartlich, CMG V 4,2",
+    "edition": "Koch et al., CMG V 4,2",
     "volume": "cmg_05_04_02",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_04_02/?pn=452",
     "printed": "Parisin. graec. 2164",
@@ -5826,7 +5828,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Koch/Helmreich/Kalbfleisch/Hartlich, CMG V 4,2",
+    "edition": "Koch et al., CMG V 4,2",
     "volume": "cmg_05_04_02",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_04_02/?pn=496",
     "printed": "Parisinus supplementi graeci 634",
@@ -5849,7 +5851,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Koch/Helmreich/Kalbfleisch/Hartlich, CMG V 4,2",
+    "edition": "Koch et al., CMG V 4,2",
     "volume": "cmg_05_04_02",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_04_02/?pn=496",
     "printed": "cod. Paris. lat. 6865",
@@ -5866,7 +5868,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Koch/Helmreich/Kalbfleisch/Hartlich, CMG V 4,2",
+    "edition": "Koch et al., CMG V 4,2",
     "volume": "cmg_05_04_02",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_04_02/?pn=496",
     "printed": "cod. Dresd. lat. D b 92",
@@ -5883,7 +5885,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Koch/Helmreich/Kalbfleisch/Hartlich, CMG V 4,2",
+    "edition": "Koch et al., CMG V 4,2",
     "volume": "cmg_05_04_02",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_04_02/?pn=496",
     "printed": "cod. Malatest. lat. S V 4",
@@ -5900,7 +5902,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Koch/Helmreich/Kalbfleisch/Hartlich, CMG V 4,2",
+    "edition": "Koch et al., CMG V 4,2",
     "volume": "cmg_05_04_02",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_04_02/?pn=496",
     "printed": "cod. Malatest. lat. S XXVI 4",
@@ -5919,7 +5921,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Koch/Helmreich/Kalbfleisch/Hartlich, CMG V 4,2",
+    "edition": "Koch et al., CMG V 4,2",
     "volume": "cmg_05_04_02",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_04_02/?pn=518",
     "printed": "Parisinus 2267",
@@ -5942,7 +5944,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Koch/Helmreich/Kalbfleisch/Hartlich, CMG V 4,2",
+    "edition": "Koch et al., CMG V 4,2",
     "volume": "cmg_05_04_02",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_04_02/?pn=518",
     "printed": "Reginensis 173",
@@ -6574,7 +6576,7 @@
     "folios": "",
     "date": "s. XIV",
     "key": "newhaven||234",
-    "status": "unverified"
+    "status": "indirect"
    },
    {
     "siglum": {
@@ -6591,7 +6593,7 @@
     "folios": "",
     "date": "s. XV",
     "key": "venice||9",
-    "status": "pinakes",
+    "status": "indirect",
     "pinakes": {
      "cote_id": "70497",
      "folios": "469-471v",
@@ -7231,7 +7233,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Mewaldt/Helmreich/Westenberger, CMG V 9,1",
+    "edition": "Mewaldt et al., CMG V 9,1",
     "volume": "cmg_05_09_01",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_09_01/?pn=50",
     "printed": "Laurent. gr. 59, 14",
@@ -7254,7 +7256,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Mewaldt/Helmreich/Westenberger, CMG V 9,1",
+    "edition": "Mewaldt et al., CMG V 9,1",
     "volume": "cmg_05_09_01",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_09_01/?pn=50",
     "printed": "Marcian. gr. 282",
@@ -7277,7 +7279,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Mewaldt/Helmreich/Westenberger, CMG V 9,1",
+    "edition": "Mewaldt et al., CMG V 9,1",
     "volume": "cmg_05_09_01",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_09_01/?pn=50",
     "printed": "Reginens. gr. 173",
@@ -7300,7 +7302,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Mewaldt/Helmreich/Westenberger, CMG V 9,1",
+    "edition": "Mewaldt et al., CMG V 9,1",
     "volume": "cmg_05_09_01",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_09_01/?pn=50",
     "printed": "Marcian. gr. 278 (continet librum III solum)",
@@ -7319,7 +7321,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Mewaldt/Helmreich/Westenberger, CMG V 9,1",
+    "edition": "Mewaldt et al., CMG V 9,1",
     "volume": "cmg_05_09_01",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_09_01/?pn=164",
     "printed": "Athous Laurae Ω 70",
@@ -7336,7 +7338,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Mewaldt/Helmreich/Westenberger, CMG V 9,1",
+    "edition": "Mewaldt et al., CMG V 9,1",
     "volume": "cmg_05_09_01",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_09_01/?pn=164",
     "printed": "Monacensis 469",
@@ -7359,7 +7361,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Mewaldt/Helmreich/Westenberger, CMG V 9,1",
+    "edition": "Mewaldt et al., CMG V 9,1",
     "volume": "cmg_05_09_01",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_09_01/?pn=164",
     "printed": "Scorialensis Σ II 5",
@@ -7382,7 +7384,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Mewaldt/Helmreich/Westenberger, CMG V 9,1",
+    "edition": "Mewaldt et al., CMG V 9,1",
     "volume": "cmg_05_09_01",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_09_01/?pn=164",
     "printed": "Athous Iberon 4304. 184",
@@ -7399,7 +7401,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Mewaldt/Helmreich/Westenberger, CMG V 9,1",
+    "edition": "Mewaldt et al., CMG V 9,1",
     "volume": "cmg_05_09_01",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_09_01/?pn=164",
     "printed": "Trivultianus 685",
@@ -7422,7 +7424,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Mewaldt/Helmreich/Westenberger, CMG V 9,1",
+    "edition": "Mewaldt et al., CMG V 9,1",
     "volume": "cmg_05_09_01",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_09_01/?pn=164",
     "printed": "Athous Iberon 4309. 189",
@@ -7439,7 +7441,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Mewaldt/Helmreich/Westenberger, CMG V 9,1",
+    "edition": "Mewaldt et al., CMG V 9,1",
     "volume": "cmg_05_09_01",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_09_01/?pn=164",
     "printed": "Mosquensis 465, olim Athous",
@@ -7456,7 +7458,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Mewaldt/Helmreich/Westenberger, CMG V 9,1",
+    "edition": "Mewaldt et al., CMG V 9,1",
     "volume": "cmg_05_09_01",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_09_01/?pn=164",
     "printed": "Reginensis 173",
@@ -7479,7 +7481,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Mewaldt/Helmreich/Westenberger, CMG V 9,1",
+    "edition": "Mewaldt et al., CMG V 9,1",
     "volume": "cmg_05_09_01",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_09_01/?pn=164",
     "printed": "Marcianus App. class. V 5",
@@ -7502,7 +7504,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Mewaldt/Helmreich/Westenberger, CMG V 9,1",
+    "edition": "Mewaldt et al., CMG V 9,1",
     "volume": "cmg_05_09_01",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_09_01/?pn=164",
     "printed": "Marcianus 281",
@@ -7525,7 +7527,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Mewaldt/Helmreich/Westenberger, CMG V 9,1",
+    "edition": "Mewaldt et al., CMG V 9,1",
     "volume": "cmg_05_09_01",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_09_01/?pn=164",
     "printed": "Parisinus 2165",
@@ -7550,7 +7552,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Mewaldt/Helmreich/Westenberger, CMG V 9,1",
+    "edition": "Mewaldt et al., CMG V 9,1",
     "volume": "cmg_05_09_01",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_09_01/?pn=416",
     "printed": "Laurentianus gr. 74, 3",
@@ -7567,7 +7569,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Mewaldt/Helmreich/Westenberger, CMG V 9,1",
+    "edition": "Mewaldt et al., CMG V 9,1",
     "volume": "cmg_05_09_01",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_09_01/?pn=416",
     "printed": "Marcianus gr. App. class. V 4",
@@ -7584,7 +7586,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Mewaldt/Helmreich/Westenberger, CMG V 9,1",
+    "edition": "Mewaldt et al., CMG V 9,1",
     "volume": "cmg_05_09_01",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_09_01/?pn=416",
     "printed": "Vindobonensis gr. med. 4",
@@ -7593,7 +7595,7 @@
     "folios": "",
     "date": "s. X",
     "key": "vienna|med|4",
-    "status": "unverified"
+    "status": "indirect"
    },
    {
     "siglum": {
@@ -7601,7 +7603,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Mewaldt/Helmreich/Westenberger, CMG V 9,1",
+    "edition": "Mewaldt et al., CMG V 9,1",
     "volume": "cmg_05_09_01",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_09_01/?pn=416",
     "printed": "Venetus gr. 269",
@@ -7610,7 +7612,7 @@
     "folios": "",
     "date": "s. XI",
     "key": "venice||269",
-    "status": "unverified"
+    "status": "indirect"
    },
    {
     "siglum": {
@@ -7618,7 +7620,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Mewaldt/Helmreich/Westenberger, CMG V 9,1",
+    "edition": "Mewaldt et al., CMG V 9,1",
     "volume": "cmg_05_09_01",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_09_01/?pn=416",
     "printed": "Vaticanus gr. 276",
@@ -7627,7 +7629,7 @@
     "folios": "",
     "date": "s. XII",
     "key": "vatican||276",
-    "status": "unverified"
+    "status": "indirect"
    },
    {
     "siglum": {
@@ -7635,7 +7637,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Mewaldt/Helmreich/Westenberger, CMG V 9,1",
+    "edition": "Mewaldt et al., CMG V 9,1",
     "volume": "cmg_05_09_01",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_09_01/?pn=416",
     "printed": "Parisinus gr. 2253",
@@ -7644,7 +7646,7 @@
     "folios": "",
     "date": "s. XI",
     "key": "paris||2253",
-    "status": "unverified"
+    "status": "indirect"
    },
    {
     "siglum": {
@@ -7652,7 +7654,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Lyons/Schöne/Kalbfleisch/Kollesch/Nickel/Strohmaier, CMG Suppl. Or. II",
+    "edition": "Lyons et al., CMG Suppl. Or. II",
     "volume": "suppl_or_02",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/suppl_or_02/?pn=74",
     "printed": "Aya Sofya 3631",
@@ -7669,7 +7671,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Lyons/Schöne/Kalbfleisch/Kollesch/Nickel/Strohmaier, CMG Suppl. Or. II",
+    "edition": "Lyons et al., CMG Suppl. Or. II",
     "volume": "suppl_or_02",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/suppl_or_02/?pn=74",
     "printed": "Aya Sofya 3590",
@@ -7688,7 +7690,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Diels/Mewaldt/Heeg, CMG V 9,2",
+    "edition": "Diels et al., CMG V 9,2",
     "volume": "cmg_05_09_02",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_09_02/?pn=36",
     "printed": "Vaticanus Regius 175",
@@ -7711,7 +7713,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Diels/Mewaldt/Heeg, CMG V 9,2",
+    "edition": "Diels et al., CMG V 9,2",
     "volume": "cmg_05_09_02",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_09_02/?pn=36",
     "printed": "Trivultianus Mediolanensis 685",
@@ -7734,7 +7736,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Diels/Mewaldt/Heeg, CMG V 9,2",
+    "edition": "Diels et al., CMG V 9,2",
     "volume": "cmg_05_09_02",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_09_02/?pn=36",
     "printed": "Laurentianus Florentinus 75, 5",
@@ -7757,7 +7759,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Diels/Mewaldt/Heeg, CMG V 9,2",
+    "edition": "Diels et al., CMG V 9,2",
     "volume": "cmg_05_09_02",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_09_02/?pn=36",
     "printed": "Ambrosianus gr. 659 (Q 3 sup.)",
@@ -7782,7 +7784,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Diels/Mewaldt/Heeg, CMG V 9,2",
+    "edition": "Diels et al., CMG V 9,2",
     "volume": "cmg_05_09_02",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_09_02/?pn=214",
     "printed": "Laurent. gr. 74, 3",
@@ -7807,7 +7809,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Diels/Mewaldt/Heeg, CMG V 9,2",
+    "edition": "Diels et al., CMG V 9,2",
     "volume": "cmg_05_09_02",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_09_02/?pn=230",
     "printed": "Vaticanus 1858",
@@ -7830,7 +7832,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Diels/Mewaldt/Heeg, CMG V 9,2",
+    "edition": "Diels et al., CMG V 9,2",
     "volume": "cmg_05_09_02",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_09_02/?pn=230",
     "printed": "Vaticanus 1063",
@@ -7853,7 +7855,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Diels/Mewaldt/Heeg, CMG V 9,2",
+    "edition": "Diels et al., CMG V 9,2",
     "volume": "cmg_05_09_02",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_09_02/?pn=230",
     "printed": "Reginensis 175",
@@ -7876,7 +7878,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Diels/Mewaldt/Heeg, CMG V 9,2",
+    "edition": "Diels et al., CMG V 9,2",
     "volume": "cmg_05_09_02",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_09_02/?pn=230",
     "printed": "Palatinus 157",
@@ -7899,7 +7901,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Diels/Mewaldt/Heeg, CMG V 9,2",
+    "edition": "Diels et al., CMG V 9,2",
     "volume": "cmg_05_09_02",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_09_02/?pn=230",
     "printed": "Parisinus (Fontanebl.) 2266",
@@ -8267,6 +8269,324 @@
     "date": "s. XIII",
     "key": "escorial||805",
     "status": "indirect"
+   },
+   {
+    "siglum": {
+     "base": "A",
+     "sup": "",
+     "sub": ""
+    },
+    "edition": "Vagelpohl, CMG Suppl. Or. V 1",
+    "volume": "suppl_or_05_01",
+    "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/suppl_or_05_01/?pn=66",
+    "printed": "codex Ayasofya 3642; s. XIV",
+    "normalized": "Istanbul, Ayasofya 3642",
+    "city": "Istanbul",
+    "folios": "",
+    "date": "s. XIV",
+    "key": "istanbul||3642",
+    "status": "unverified"
+   },
+   {
+    "siglum": {
+     "base": "E",
+     "sup": "",
+     "sub": ""
+    },
+    "edition": "Vagelpohl, CMG Suppl. Or. V 1",
+    "volume": "suppl_or_05_01",
+    "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/suppl_or_05_01/?pn=66",
+    "printed": "Scorialensis Arab. 804; s. XIII",
+    "normalized": "Scorial. arab. 804",
+    "city": "El Escorial",
+    "folios": "",
+    "date": "s. XIII",
+    "key": "escorial||804",
+    "status": "unverified"
+   },
+   {
+    "siglum": {
+     "base": "P",
+     "sup": "",
+     "sub": ""
+    },
+    "edition": "Vagelpohl, CMG Suppl. Or. V 1",
+    "volume": "suppl_or_05_01",
+    "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/suppl_or_05_01/?pn=66",
+    "printed": "Parisinus Arab. 6734; s. XIII",
+    "normalized": "Par. arab. 6734",
+    "city": "Paris",
+    "folios": "",
+    "date": "s. XIII",
+    "key": "paris||6734",
+    "status": "unverified"
+   },
+   {
+    "siglum": {
+     "base": "Gr.",
+     "sup": "M",
+     "sub": ""
+    },
+    "edition": "Vagelpohl, CMG Suppl. Or. V 1",
+    "volume": "suppl_or_05_01",
+    "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/suppl_or_05_01/?pn=66",
+    "printed": "Monacensis 231; s. XV vel XVI",
+    "normalized": "Mon. gr. 231",
+    "city": "Munich",
+    "folios": "",
+    "date": "s. XV vel XVI",
+    "key": "munich||231",
+    "status": "indirect",
+    "pinakes": {
+     "cote_id": "44678",
+     "folios": "001-228v",
+     "century": "16 (1/2)",
+     "date": ""
+    }
+   },
+   {
+    "siglum": {
+     "base": "Gr.",
+     "sup": "Q",
+     "sub": ""
+    },
+    "edition": "Vagelpohl, CMG Suppl. Or. V 1",
+    "volume": "suppl_or_05_01",
+    "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/suppl_or_05_01/?pn=66",
+    "printed": "Parisinus 2174; s. XVI",
+    "normalized": "Par. gr. 2174",
+    "city": "Paris",
+    "folios": "",
+    "date": "s. XVI",
+    "key": "paris||2174",
+    "status": "indirect",
+    "pinakes": {
+     "cote_id": "51803",
+     "folios": "001-177*",
+     "century": "16",
+     "date": ""
+    }
+   },
+   {
+    "siglum": {
+     "base": "Gr.",
+     "sup": "V",
+     "sub": ""
+    },
+    "edition": "Vagelpohl, CMG Suppl. Or. V 1",
+    "volume": "suppl_or_05_01",
+    "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/suppl_or_05_01/?pn=66",
+    "printed": "Marcianus Venetus 1053; s. XV",
+    "normalized": "Marc. gr. 1053",
+    "city": "Venice",
+    "folios": "",
+    "date": "s. XV",
+    "key": "venice||1053",
+    "status": "indirect"
+   },
+   {
+    "siglum": {
+     "base": "A",
+     "sup": "",
+     "sub": ""
+    },
+    "edition": "Vagelpohl/Swain, CMG Suppl. Or. V 2",
+    "volume": "suppl_or_05_02",
+    "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/suppl_or_05_02/?pn=74",
+    "printed": "codex Ayasofya 3642",
+    "normalized": "Istanbul, Ayasofya 3642",
+    "city": "Istanbul",
+    "folios": "",
+    "date": "s. XIV",
+    "key": "istanbul||3642",
+    "status": "unverified"
+   },
+   {
+    "siglum": {
+     "base": "E",
+     "sup": "",
+     "sub": ""
+    },
+    "edition": "Vagelpohl/Swain, CMG Suppl. Or. V 2",
+    "volume": "suppl_or_05_02",
+    "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/suppl_or_05_02/?pn=74",
+    "printed": "Scorialensis Arab. 804",
+    "normalized": "Scorial. arab. 804",
+    "city": "El Escorial",
+    "folios": "",
+    "date": "s. XIII",
+    "key": "escorial||804",
+    "status": "unverified"
+   },
+   {
+    "siglum": {
+     "base": "K",
+     "sup": "",
+     "sub": ""
+    },
+    "edition": "Vagelpohl/Swain, CMG Suppl. Or. V 2",
+    "volume": "suppl_or_05_02",
+    "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/suppl_or_05_02/?pn=74",
+    "printed": "codex Ayasofya 3592",
+    "normalized": "Istanbul, Ayasofya 3592",
+    "city": "Istanbul",
+    "folios": "",
+    "date": "",
+    "key": "istanbul||3592",
+    "status": "unverified"
+   },
+   {
+    "siglum": {
+     "base": "M",
+     "sup": "",
+     "sub": ""
+    },
+    "edition": "Vagelpohl/Swain, CMG Suppl. Or. V 2",
+    "volume": "suppl_or_05_02",
+    "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/suppl_or_05_02/?pn=74",
+    "printed": "Ambrosianus B 135 sup.",
+    "normalized": "Ambros. B 135 sup.",
+    "city": "Milan",
+    "folios": "",
+    "date": "a. 1624",
+    "key": "milan|bsup|135",
+    "status": "unverified"
+   },
+   {
+    "siglum": {
+     "base": "Ǧālīnūs, TIfiḏīmiyā III",
+     "sup": "",
+     "sub": ""
+    },
+    "edition": "Vagelpohl/Swain, CMG Suppl. Or. V 2",
+    "volume": "suppl_or_05_02",
+    "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/suppl_or_05_02/?pn=74",
+    "printed": "Tafsīr Ǧālīnūs li-k. al-Ifiḏīmiyā (al-maqāla al-ṯāliṯa), codex Scorialensis Arab. 804, fol. 124r–182v",
+    "normalized": "Scorial. arab. 804",
+    "city": "El Escorial",
+    "folios": "fol. 124r–182v",
+    "date": "",
+    "key": "escorial||804",
+    "status": "indirect"
+   },
+   {
+    "siglum": {
+     "base": "Ǧālīnūs, TIfiḏīmiyā VI",
+     "sup": "",
+     "sub": ""
+    },
+    "edition": "Vagelpohl/Swain, CMG Suppl. Or. V 2",
+    "volume": "suppl_or_05_02",
+    "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/suppl_or_05_02/?pn=74",
+    "printed": "Tafsīr Ǧālīnūs li-k. al-Ifiḏīmiyā (al-maqāla al-sādisa), codex Scorialensis Arab. 805, fol. 1v–195r",
+    "normalized": "Scorial. arab. 805",
+    "city": "El Escorial",
+    "folios": "fol. 1v–195r",
+    "date": "",
+    "key": "escorial||805",
+    "status": "indirect"
+   },
+   {
+    "siglum": {
+     "base": "Ḥunayn, Ǧawāmiʿ",
+     "sup": "",
+     "sub": ""
+    },
+    "edition": "Vagelpohl/Swain, CMG Suppl. Or. V 2",
+    "volume": "suppl_or_05_02",
+    "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/suppl_or_05_02/?pn=74",
+    "printed": "Ǧawāmiʿ maʿānī tafsīr al-maqāla al-ṯāniya min kitāb Ibīḏīmiyā ʿalā sabīl al-masʾala wa-l-ǧawāb codex Ambrosianus B 135 sup., fol. 119r–131v",
+    "normalized": "Ambros. B 135 sup.",
+    "city": "Milan",
+    "folios": "fol. 119r–131v",
+    "date": "",
+    "key": "milan|bsup|135",
+    "status": "indirect"
+   },
+   {
+    "siglum": {
+     "base": "b. Riḍwān, Fawāʾid",
+     "sup": "",
+     "sub": ""
+    },
+    "edition": "Vagelpohl/Swain, CMG Suppl. Or. V 2",
+    "volume": "suppl_or_05_02",
+    "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/suppl_or_05_02/?pn=74",
+    "printed": "Taʿālīq ʿAlī ibn Riḍwān li-fawāʾid min kitāb Ibīḏīmiyā li-Abuqrāṭ tafsīr Ǧālīnūs codex Cantabrigiensis Dd. 12. 1, fol. 127v–197r",
+    "normalized": "Cambridge, UL Dd. 12. 1",
+    "city": "Cambridge",
+    "folios": "fol. 127v–197r",
+    "date": "",
+    "key": "cambridge||12.1",
+    "status": "indirect"
+   },
+   {
+    "siglum": {
+     "base": "A",
+     "sup": "",
+     "sub": ""
+    },
+    "edition": "Vagelpohl, CMG Suppl. Or. V 3",
+    "volume": "suppl_or_05_03",
+    "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/suppl_or_05_03/?pn=90",
+    "printed": "codex Ayasofya 3642",
+    "normalized": "Istanbul, Aya Sofya 3642",
+    "city": "Istanbul",
+    "folios": "",
+    "date": "s. XIV",
+    "key": "istanbul||3642",
+    "status": "unverified"
+   },
+   {
+    "siglum": {
+     "base": "S",
+     "sup": "",
+     "sub": ""
+    },
+    "edition": "Vagelpohl, CMG Suppl. Or. V 3",
+    "volume": "suppl_or_05_03",
+    "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/suppl_or_05_03/?pn=90",
+    "printed": "Scorialensis Arab. 805",
+    "normalized": "Scorial. ár. 805",
+    "city": "El Escorial",
+    "folios": "",
+    "date": "a. 1210",
+    "key": "escorial||805",
+    "status": "unverified"
+   },
+   {
+    "siglum": {
+     "base": "Ḥunayn, Ǧawāmiʿ",
+     "sup": "",
+     "sub": ""
+    },
+    "edition": "Vagelpohl, CMG Suppl. Or. V 3",
+    "volume": "suppl_or_05_03",
+    "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/suppl_or_05_03/?pn=90",
+    "printed": "Masāʾil al-maqālah al-sādisah min tafsīr Ǧālīnūs ... min maqālāt ifiḏimiyā li-Abuqrāṭ codex Ambrosianus B 135 sup., fol. 133r–144r",
+    "normalized": "Ambros. B 135 sup.",
+    "city": "Milan",
+    "folios": "133r–144r",
+    "date": "",
+    "key": "milan|bsup|135",
+    "status": "indirect"
+   },
+   {
+    "siglum": {
+     "base": "b. Riḍwān, Fawāʾid",
+     "sup": "",
+     "sub": ""
+    },
+    "edition": "Vagelpohl, CMG Suppl. Or. V 3",
+    "volume": "suppl_or_05_03",
+    "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/suppl_or_05_03/?pn=90",
+    "printed": "Taʿālīq ʿAlī ibn Riḍwān li-fawāʾid min kitāb Ibīḏīmiyā li-Abuqrāṭ tafsīr Ǧālīnūs codex Cantabrigiensis Dd. 12. 1, fol. 127v–197r",
+    "normalized": "Cambridge, UL Dd. 12. 1",
+    "city": "Cambridge",
+    "folios": "127v–197r",
+    "date": "",
+    "key": "cambridge||12.1",
+    "status": "indirect"
    }
   ],
   "galenus-080": [
@@ -8388,7 +8708,7 @@
     }
    }
   ],
-  "hippocrates-012": [
+  "galenus-079": [
    {
     "siglum": {
      "base": "P",
@@ -8404,7 +8724,13 @@
     "folios": "",
     "date": "s. XII ex.",
     "key": "paris||2266",
-    "status": "unverified"
+    "status": "ours",
+    "pinakes": {
+     "cote_id": "51896",
+     "folios": "093-304v",
+     "century": "12 (2/2)",
+     "date": ""
+    }
    },
    {
     "siglum": {
@@ -8421,7 +8747,7 @@
     "folios": "",
     "date": "s. XII ex.–XIII in.",
     "key": "vatican||283",
-    "status": "pinakes",
+    "status": "ours",
     "pinakes": {
      "cote_id": "66914",
      "folios": "022--156",
@@ -8444,7 +8770,13 @@
     "folios": "",
     "date": "s. XIII",
     "key": "venice||278",
-    "status": "unverified"
+    "status": "pinakes",
+    "pinakes": {
+     "cote_id": "69749",
+     "folios": "001v-146",
+     "century": "13 ex.",
+     "date": ""
+    }
    },
    {
     "siglum": {
@@ -8464,7 +8796,7 @@
     "status": "pinakes",
     "pinakes": {
      "cote_id": "15180",
-     "folios": "067-186v",
+     "folios": "067--186v",
      "century": "13 (3/4)",
      "date": ""
     }
@@ -8484,7 +8816,13 @@
     "folios": "",
     "date": "s. XIV",
     "key": "vatican|urb|65",
-    "status": "unverified"
+    "status": "ours",
+    "pinakes": {
+     "cote_id": "66532",
+     "folios": "001-228v",
+     "century": "14 (1/2)",
+     "date": ""
+    }
    },
    {
     "siglum": {
@@ -8501,13 +8839,7 @@
     "folios": "",
     "date": "s. X",
     "key": "paris|suppl|446",
-    "status": "indirect",
-    "pinakes": {
-     "cote_id": "53179",
-     "folios": "045-60*",
-     "century": "10",
-     "date": ""
-    }
+    "status": "indirect"
    },
    {
     "siglum": {
@@ -8524,13 +8856,7 @@
     "folios": "",
     "date": "s. X",
     "key": "venice||269",
-    "status": "indirect",
-    "pinakes": {
-     "cote_id": "69740",
-     "folios": "215-228",
-     "century": "10 in.",
-     "date": ""
-    }
+    "status": "indirect"
    },
    {
     "siglum": {
@@ -8547,13 +8873,7 @@
     "folios": "",
     "date": "s. XII",
     "key": "vatican||276",
-    "status": "indirect",
-    "pinakes": {
-     "cote_id": "66907",
-     "folios": "001v-9v",
-     "century": "12 (2/2)",
-     "date": ""
-    }
+    "status": "indirect"
    },
    {
     "siglum": {
@@ -8570,13 +8890,7 @@
     "folios": "",
     "date": "s. XII",
     "key": "vatican|urb|64",
-    "status": "indirect",
-    "pinakes": {
-     "cote_id": "66531",
-     "folios": "001--48",
-     "century": "12",
-     "date": ""
-    }
+    "status": "indirect"
    }
   ],
   "galenus-089": [
@@ -12664,7 +12978,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Duffy/Bell/Carpenter/Schmidt/Sham/Vardon/Westerink, CMG XI 1,4",
+    "edition": "Duffy et al., CMG XI 1,4",
     "volume": "cmg_11_01_04",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_11_01_04/?pn=27",
     "printed": "Vaticanus Gr. 300",
@@ -12687,7 +13001,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Duffy/Bell/Carpenter/Schmidt/Sham/Vardon/Westerink, CMG XI 1,4",
+    "edition": "Duffy et al., CMG XI 1,4",
     "volume": "cmg_11_01_04",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_11_01_04/?pn=27",
     "printed": "Vindobonensis med. Gr. 20",
@@ -12704,7 +13018,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Duffy/Bell/Carpenter/Schmidt/Sham/Vardon/Westerink, CMG XI 1,4",
+    "edition": "Duffy et al., CMG XI 1,4",
     "volume": "cmg_11_01_04",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_11_01_04/?pn=27",
     "printed": "Parisinus Gr. 2239",
@@ -12721,7 +13035,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Duffy/Bell/Carpenter/Schmidt/Sham/Vardon/Westerink, CMG XI 1,4",
+    "edition": "Duffy et al., CMG XI 1,4",
     "volume": "cmg_11_01_04",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_11_01_04/?pn=27",
     "printed": "Vaticanus Angel. Gr. 68",
@@ -12738,7 +13052,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Duffy/Bell/Carpenter/Schmidt/Sham/Vardon/Westerink, CMG XI 1,4",
+    "edition": "Duffy et al., CMG XI 1,4",
     "volume": "cmg_11_01_04",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_11_01_04/?pn=27",
     "printed": "Laurentianus Gr. 75,4",
@@ -12755,7 +13069,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Duffy/Bell/Carpenter/Schmidt/Sham/Vardon/Westerink, CMG XI 1,4",
+    "edition": "Duffy et al., CMG XI 1,4",
     "volume": "cmg_11_01_04",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_11_01_04/?pn=27",
     "printed": "Vaticanus Palat. Gr. 296",
@@ -12772,7 +13086,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Duffy/Bell/Carpenter/Schmidt/Sham/Vardon/Westerink, CMG XI 1,4",
+    "edition": "Duffy et al., CMG XI 1,4",
     "volume": "cmg_11_01_04",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_11_01_04/?pn=27",
     "printed": "Parisinus Gr. 2224",
@@ -12789,7 +13103,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Duffy/Bell/Carpenter/Schmidt/Sham/Vardon/Westerink, CMG XI 1,4",
+    "edition": "Duffy et al., CMG XI 1,4",
     "volume": "cmg_11_01_04",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_11_01_04/?pn=27",
     "printed": "Bodleianus Laud. Gr. 59",
@@ -12806,7 +13120,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Duffy/Bell/Carpenter/Schmidt/Sham/Vardon/Westerink, CMG XI 1,4",
+    "edition": "Duffy et al., CMG XI 1,4",
     "volume": "cmg_11_01_04",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_11_01_04/?pn=121",
     "printed": "Vindobonensis med. Gr. 20",
@@ -12823,7 +13137,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Duffy/Bell/Carpenter/Schmidt/Sham/Vardon/Westerink, CMG XI 1,4",
+    "edition": "Duffy et al., CMG XI 1,4",
     "volume": "cmg_11_01_04",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_11_01_04/?pn=121",
     "printed": "Parisinus Gr. 2239",
@@ -12840,7 +13154,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Duffy/Bell/Carpenter/Schmidt/Sham/Vardon/Westerink, CMG XI 1,4",
+    "edition": "Duffy et al., CMG XI 1,4",
     "volume": "cmg_11_01_04",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_11_01_04/?pn=121",
     "printed": "Vaticanus Angel. Gr. 68",
@@ -12857,7 +13171,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Duffy/Bell/Carpenter/Schmidt/Sham/Vardon/Westerink, CMG XI 1,4",
+    "edition": "Duffy et al., CMG XI 1,4",
     "volume": "cmg_11_01_04",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_11_01_04/?pn=121",
     "printed": "Laurentianus Gr. 75,4",
@@ -12874,7 +13188,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Duffy/Bell/Carpenter/Schmidt/Sham/Vardon/Westerink, CMG XI 1,4",
+    "edition": "Duffy et al., CMG XI 1,4",
     "volume": "cmg_11_01_04",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_11_01_04/?pn=121",
     "printed": "Vaticanus Palat. Gr. 296",
@@ -12891,7 +13205,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Duffy/Bell/Carpenter/Schmidt/Sham/Vardon/Westerink, CMG XI 1,4",
+    "edition": "Duffy et al., CMG XI 1,4",
     "volume": "cmg_11_01_04",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_11_01_04/?pn=121",
     "printed": "Parisinus Gr. 2224",
@@ -12908,7 +13222,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Duffy/Bell/Carpenter/Schmidt/Sham/Vardon/Westerink, CMG XI 1,4",
+    "edition": "Duffy et al., CMG XI 1,4",
     "volume": "cmg_11_01_04",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_11_01_04/?pn=121",
     "printed": "Bodleianus Laud. Gr. 59",
@@ -12927,7 +13241,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Duffy/Bell/Carpenter/Schmidt/Sham/Vardon/Westerink, CMG XI 1,4",
+    "edition": "Duffy et al., CMG XI 1,4",
     "volume": "cmg_11_01_04",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_11_01_04/?pn=129",
     "printed": "Laurentianus Gr. 59,14",
@@ -12937,42 +13251,6 @@
     "date": "s. XV",
     "key": "florence||59.14",
     "status": "ours"
-   }
-  ],
-  "hippocrates-065": [
-   {
-    "siglum": {
-     "base": "",
-     "sup": "",
-     "sub": ""
-    },
-    "edition": "Bergsträßer, CMG XI 2,1",
-    "volume": "cmg_11_02_01",
-    "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_11_02_01/?pn=26",
-    "printed": "Monacens. arab. 802 (Aumer)",
-    "normalized": "Mon. arab. 802",
-    "city": "Munich",
-    "folios": "f. 1r–64r",
-    "date": "s. XI",
-    "key": "munich||802",
-    "status": "unverified"
-   },
-   {
-    "siglum": {
-     "base": "",
-     "sup": "",
-     "sub": ""
-    },
-    "edition": "Bergsträßer, CMG XI 2,1",
-    "volume": "cmg_11_02_01",
-    "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_11_02_01/?pn=26",
-    "printed": "Cantabrig. Bibl. Univ. 1386 (Browne)",
-    "normalized": "Cambridge, UL 1386",
-    "city": "Cambridge",
-    "folios": "f. 34v–36r",
-    "date": "s. XIII–XIV",
-    "key": "cambridge||1386",
-    "status": "unverified"
    }
   ],
   "scribonius-largus-001": [
@@ -13059,7 +13337,7 @@
     "folios": "",
     "date": "saec. IX",
     "key": "cologny||84",
-    "status": "unverified"
+    "status": "indirect"
    },
    {
     "siglum": {
@@ -13076,7 +13354,7 @@
     "folios": "",
     "date": "saec. XII uel XIII",
     "key": "milan|msup|19",
-    "status": "unverified"
+    "status": "indirect"
    },
    {
     "siglum": {
@@ -13093,7 +13371,7 @@
     "folios": "",
     "date": "saec. IX",
     "key": "montecassino||69",
-    "status": "unverified"
+    "status": "indirect"
    },
    {
     "siglum": {
@@ -13110,7 +13388,7 @@
     "folios": "",
     "date": "saec. XI ex.",
     "key": "vendome||109",
-    "status": "unverified"
+    "status": "indirect"
    },
    {
     "siglum": {
@@ -13127,7 +13405,7 @@
     "folios": "",
     "date": "saec. XI ex.",
     "key": "vendome||175",
-    "status": "unverified"
+    "status": "indirect"
    },
    {
     "siglum": {
@@ -13144,7 +13422,7 @@
     "folios": "",
     "date": "saec. IX",
     "key": "stgallen||751",
-    "status": "unverified"
+    "status": "indirect"
    },
    {
     "siglum": {
@@ -13161,7 +13439,7 @@
     "folios": "",
     "date": "saec IX in.",
     "key": "bamberg|med|1",
-    "status": "unverified"
+    "status": "indirect"
    }
   ],
   "quintus-serenus-sammonicus-001": [
@@ -13983,7 +14261,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Lyons/Schöne/Kalbfleisch/Kollesch/Nickel/Strohmaier, CMG Suppl. Or. II",
+    "edition": "Lyons et al., CMG Suppl. Or. II",
     "volume": "suppl_or_02",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/suppl_or_02/?pn=22",
     "printed": "Aya Sofya 3725",
@@ -14002,7 +14280,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Lyons/Schöne/Kalbfleisch/Kollesch/Nickel/Strohmaier, CMG Suppl. Or. II",
+    "edition": "Lyons et al., CMG Suppl. Or. II",
     "volume": "suppl_or_02",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/suppl_or_02/?pn=50",
     "printed": "Aya Sofya 3725",
@@ -14019,7 +14297,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Lyons/Schöne/Kalbfleisch/Kollesch/Nickel/Strohmaier, CMG Suppl. Or. II",
+    "edition": "Lyons et al., CMG Suppl. Or. II",
     "volume": "suppl_or_02",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/suppl_or_02/?pn=132",
     "printed": "Parisinus lat. 6865",
@@ -14036,7 +14314,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Lyons/Schöne/Kalbfleisch/Kollesch/Nickel/Strohmaier, CMG Suppl. Or. II",
+    "edition": "Lyons et al., CMG Suppl. Or. II",
     "volume": "suppl_or_02",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/suppl_or_02/?pn=132",
     "printed": "Dresdensis Db 93",
@@ -14118,314 +14396,6 @@
     "date": "",
     "key": "bursa||1120",
     "status": "unverified"
-   }
-  ],
-  "hippocrates-005": [
-   {
-    "siglum": {
-     "base": "A",
-     "sup": "",
-     "sub": ""
-    },
-    "edition": "Vagelpohl, CMG Suppl. Or. V 1",
-    "volume": "suppl_or_05_01",
-    "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/suppl_or_05_01/?pn=66",
-    "printed": "codex Ayasofya 3642; s. XIV",
-    "normalized": "Istanbul, Ayasofya 3642",
-    "city": "Istanbul",
-    "folios": "",
-    "date": "s. XIV",
-    "key": "istanbul||3642",
-    "status": "unverified"
-   },
-   {
-    "siglum": {
-     "base": "E",
-     "sup": "",
-     "sub": ""
-    },
-    "edition": "Vagelpohl, CMG Suppl. Or. V 1",
-    "volume": "suppl_or_05_01",
-    "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/suppl_or_05_01/?pn=66",
-    "printed": "Scorialensis Arab. 804; s. XIII",
-    "normalized": "Scorial. arab. 804",
-    "city": "El Escorial",
-    "folios": "",
-    "date": "s. XIII",
-    "key": "escorial||804",
-    "status": "unverified"
-   },
-   {
-    "siglum": {
-     "base": "P",
-     "sup": "",
-     "sub": ""
-    },
-    "edition": "Vagelpohl, CMG Suppl. Or. V 1",
-    "volume": "suppl_or_05_01",
-    "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/suppl_or_05_01/?pn=66",
-    "printed": "Parisinus Arab. 6734; s. XIII",
-    "normalized": "Par. arab. 6734",
-    "city": "Paris",
-    "folios": "",
-    "date": "s. XIII",
-    "key": "paris||6734",
-    "status": "unverified"
-   },
-   {
-    "siglum": {
-     "base": "Gr.",
-     "sup": "M",
-     "sub": ""
-    },
-    "edition": "Vagelpohl, CMG Suppl. Or. V 1",
-    "volume": "suppl_or_05_01",
-    "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/suppl_or_05_01/?pn=66",
-    "printed": "Monacensis 231; s. XV vel XVI",
-    "normalized": "Mon. gr. 231",
-    "city": "Munich",
-    "folios": "",
-    "date": "s. XV vel XVI",
-    "key": "munich||231",
-    "status": "unverified"
-   },
-   {
-    "siglum": {
-     "base": "Gr.",
-     "sup": "Q",
-     "sub": ""
-    },
-    "edition": "Vagelpohl, CMG Suppl. Or. V 1",
-    "volume": "suppl_or_05_01",
-    "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/suppl_or_05_01/?pn=66",
-    "printed": "Parisinus 2174; s. XVI",
-    "normalized": "Par. gr. 2174",
-    "city": "Paris",
-    "folios": "",
-    "date": "s. XVI",
-    "key": "paris||2174",
-    "status": "unverified"
-   },
-   {
-    "siglum": {
-     "base": "Gr.",
-     "sup": "V",
-     "sub": ""
-    },
-    "edition": "Vagelpohl, CMG Suppl. Or. V 1",
-    "volume": "suppl_or_05_01",
-    "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/suppl_or_05_01/?pn=66",
-    "printed": "Marcianus Venetus 1053; s. XV",
-    "normalized": "Marc. gr. 1053",
-    "city": "Venice",
-    "folios": "",
-    "date": "s. XV",
-    "key": "venice||1053",
-    "status": "unverified"
-   },
-   {
-    "siglum": {
-     "base": "A",
-     "sup": "",
-     "sub": ""
-    },
-    "edition": "Vagelpohl/Swain, CMG Suppl. Or. V 2",
-    "volume": "suppl_or_05_02",
-    "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/suppl_or_05_02/?pn=74",
-    "printed": "codex Ayasofya 3642",
-    "normalized": "Istanbul, Ayasofya 3642",
-    "city": "Istanbul",
-    "folios": "",
-    "date": "s. XIV",
-    "key": "istanbul||3642",
-    "status": "unverified"
-   },
-   {
-    "siglum": {
-     "base": "E",
-     "sup": "",
-     "sub": ""
-    },
-    "edition": "Vagelpohl/Swain, CMG Suppl. Or. V 2",
-    "volume": "suppl_or_05_02",
-    "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/suppl_or_05_02/?pn=74",
-    "printed": "Scorialensis Arab. 804",
-    "normalized": "Scorial. arab. 804",
-    "city": "El Escorial",
-    "folios": "",
-    "date": "s. XIII",
-    "key": "escorial||804",
-    "status": "unverified"
-   },
-   {
-    "siglum": {
-     "base": "K",
-     "sup": "",
-     "sub": ""
-    },
-    "edition": "Vagelpohl/Swain, CMG Suppl. Or. V 2",
-    "volume": "suppl_or_05_02",
-    "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/suppl_or_05_02/?pn=74",
-    "printed": "codex Ayasofya 3592",
-    "normalized": "Istanbul, Ayasofya 3592",
-    "city": "Istanbul",
-    "folios": "",
-    "date": "",
-    "key": "istanbul||3592",
-    "status": "unverified"
-   },
-   {
-    "siglum": {
-     "base": "M",
-     "sup": "",
-     "sub": ""
-    },
-    "edition": "Vagelpohl/Swain, CMG Suppl. Or. V 2",
-    "volume": "suppl_or_05_02",
-    "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/suppl_or_05_02/?pn=74",
-    "printed": "Ambrosianus B 135 sup.",
-    "normalized": "Ambros. B 135 sup.",
-    "city": "Milan",
-    "folios": "",
-    "date": "a. 1624",
-    "key": "milan|bsup|135",
-    "status": "unverified"
-   },
-   {
-    "siglum": {
-     "base": "Ǧālīnūs, TIfiḏīmiyā III",
-     "sup": "",
-     "sub": ""
-    },
-    "edition": "Vagelpohl/Swain, CMG Suppl. Or. V 2",
-    "volume": "suppl_or_05_02",
-    "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/suppl_or_05_02/?pn=74",
-    "printed": "Tafsīr Ǧālīnūs li-k. al-Ifiḏīmiyā (al-maqāla al-ṯāliṯa), codex Scorialensis Arab. 804, fol. 124r–182v",
-    "normalized": "Scorial. arab. 804",
-    "city": "El Escorial",
-    "folios": "fol. 124r–182v",
-    "date": "",
-    "key": "escorial||804",
-    "status": "indirect"
-   },
-   {
-    "siglum": {
-     "base": "Ǧālīnūs, TIfiḏīmiyā VI",
-     "sup": "",
-     "sub": ""
-    },
-    "edition": "Vagelpohl/Swain, CMG Suppl. Or. V 2",
-    "volume": "suppl_or_05_02",
-    "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/suppl_or_05_02/?pn=74",
-    "printed": "Tafsīr Ǧālīnūs li-k. al-Ifiḏīmiyā (al-maqāla al-sādisa), codex Scorialensis Arab. 805, fol. 1v–195r",
-    "normalized": "Scorial. arab. 805",
-    "city": "El Escorial",
-    "folios": "fol. 1v–195r",
-    "date": "",
-    "key": "escorial||805",
-    "status": "indirect"
-   },
-   {
-    "siglum": {
-     "base": "Ḥunayn, Ǧawāmiʿ",
-     "sup": "",
-     "sub": ""
-    },
-    "edition": "Vagelpohl/Swain, CMG Suppl. Or. V 2",
-    "volume": "suppl_or_05_02",
-    "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/suppl_or_05_02/?pn=74",
-    "printed": "Ǧawāmiʿ maʿānī tafsīr al-maqāla al-ṯāniya min kitāb Ibīḏīmiyā ʿalā sabīl al-masʾala wa-l-ǧawāb codex Ambrosianus B 135 sup., fol. 119r–131v",
-    "normalized": "Ambros. B 135 sup.",
-    "city": "Milan",
-    "folios": "fol. 119r–131v",
-    "date": "",
-    "key": "milan|bsup|135",
-    "status": "indirect"
-   },
-   {
-    "siglum": {
-     "base": "b. Riḍwān, Fawāʾid",
-     "sup": "",
-     "sub": ""
-    },
-    "edition": "Vagelpohl/Swain, CMG Suppl. Or. V 2",
-    "volume": "suppl_or_05_02",
-    "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/suppl_or_05_02/?pn=74",
-    "printed": "Taʿālīq ʿAlī ibn Riḍwān li-fawāʾid min kitāb Ibīḏīmiyā li-Abuqrāṭ tafsīr Ǧālīnūs codex Cantabrigiensis Dd. 12. 1, fol. 127v–197r",
-    "normalized": "Cambridge, UL Dd. 12. 1",
-    "city": "Cambridge",
-    "folios": "fol. 127v–197r",
-    "date": "",
-    "key": "cambridge||12.1",
-    "status": "indirect"
-   },
-   {
-    "siglum": {
-     "base": "A",
-     "sup": "",
-     "sub": ""
-    },
-    "edition": "Vagelpohl, CMG Suppl. Or. V 3",
-    "volume": "suppl_or_05_03",
-    "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/suppl_or_05_03/?pn=90",
-    "printed": "codex Ayasofya 3642",
-    "normalized": "Istanbul, Aya Sofya 3642",
-    "city": "Istanbul",
-    "folios": "",
-    "date": "s. XIV",
-    "key": "istanbul||3642",
-    "status": "unverified"
-   },
-   {
-    "siglum": {
-     "base": "S",
-     "sup": "",
-     "sub": ""
-    },
-    "edition": "Vagelpohl, CMG Suppl. Or. V 3",
-    "volume": "suppl_or_05_03",
-    "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/suppl_or_05_03/?pn=90",
-    "printed": "Scorialensis Arab. 805",
-    "normalized": "Scorial. ár. 805",
-    "city": "El Escorial",
-    "folios": "",
-    "date": "a. 1210",
-    "key": "escorial||805",
-    "status": "unverified"
-   },
-   {
-    "siglum": {
-     "base": "Ḥunayn, Ǧawāmiʿ",
-     "sup": "",
-     "sub": ""
-    },
-    "edition": "Vagelpohl, CMG Suppl. Or. V 3",
-    "volume": "suppl_or_05_03",
-    "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/suppl_or_05_03/?pn=90",
-    "printed": "Masāʾil al-maqālah al-sādisah min tafsīr Ǧālīnūs ... min maqālāt ifiḏimiyā li-Abuqrāṭ codex Ambrosianus B 135 sup., fol. 133r–144r",
-    "normalized": "Ambros. B 135 sup.",
-    "city": "Milan",
-    "folios": "133r–144r",
-    "date": "",
-    "key": "milan|bsup|135",
-    "status": "indirect"
-   },
-   {
-    "siglum": {
-     "base": "b. Riḍwān, Fawāʾid",
-     "sup": "",
-     "sub": ""
-    },
-    "edition": "Vagelpohl, CMG Suppl. Or. V 3",
-    "volume": "suppl_or_05_03",
-    "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/suppl_or_05_03/?pn=90",
-    "printed": "Taʿālīq ʿAlī ibn Riḍwān li-fawāʾid min kitāb Ibīḏīmiyā li-Abuqrāṭ tafsīr Ǧālīnūs codex Cantabrigiensis Dd. 12. 1, fol. 127v–197r",
-    "normalized": "Cambridge, UL Dd. 12. 1",
-    "city": "Cambridge",
-    "folios": "127v–197r",
-    "date": "",
-    "key": "cambridge||12.1",
-    "status": "indirect"
    }
   ],
   "galenus-049": [
@@ -15041,7 +15011,7 @@
     "folios": "",
     "date": "",
     "key": "florence||73.41",
-    "status": "unverified"
+    "status": "indirect"
    },
    {
     "siglum": {
@@ -15058,7 +15028,7 @@
     "folios": "",
     "date": "",
     "key": "florence||73.16",
-    "status": "unverified"
+    "status": "indirect"
    },
    {
     "siglum": {
@@ -15777,7 +15747,7 @@
     "folios": "f. 50—57",
     "date": "s. XII",
     "key": "vendome||109",
-    "status": "unverified"
+    "status": "indirect"
    },
    {
     "siglum": {
@@ -15794,7 +15764,7 @@
     "folios": "f. 1 sqq.",
     "date": "s. IX",
     "key": "vienna|lat|68",
-    "status": "unverified"
+    "status": "indirect"
    },
    {
     "siglum": {
@@ -15845,7 +15815,7 @@
     "folios": "",
     "date": "s. XII",
     "key": "bamberg||11",
-    "status": "unverified"
+    "status": "indirect"
    },
    {
     "siglum": {
@@ -16308,7 +16278,7 @@
     "date": "s. XII",
     "key": "vatican||276",
     "works": [
-     "hippocrates-040"
+     "hippocrates-039"
     ]
    },
    {
@@ -16488,7 +16458,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Mewaldt/Helmreich/Westenberger, CMG V 9,1",
+    "edition": "Mewaldt et al., CMG V 9,1",
     "volume": "cmg_05_09_01",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_09_01/?pn=416",
     "printed": "Vaticanus gr. 276",
@@ -16517,7 +16487,7 @@
     "date": "s. XII",
     "key": "vatican||276",
     "works": [
-     "hippocrates-012"
+     "galenus-079"
     ]
    },
    {
@@ -16789,7 +16759,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Mewaldt/Helmreich/Westenberger, CMG V 9,1",
+    "edition": "Mewaldt et al., CMG V 9,1",
     "volume": "cmg_05_09_01",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_09_01/?pn=416",
     "printed": "Parisinus gr. 2253",
@@ -17114,7 +17084,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Mewaldt/Helmreich/Westenberger, CMG V 9,1",
+    "edition": "Mewaldt et al., CMG V 9,1",
     "volume": "cmg_05_09_01",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_09_01/?pn=416",
     "printed": "Venetus gr. 269",
@@ -17143,7 +17113,7 @@
     "date": "s. X",
     "key": "venice||269",
     "works": [
-     "hippocrates-012"
+     "galenus-079"
     ]
    },
    {
@@ -17289,7 +17259,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Mewaldt/Helmreich/Westenberger, CMG V 9,1",
+    "edition": "Mewaldt et al., CMG V 9,1",
     "volume": "cmg_05_09_01",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_09_01/?pn=50",
     "printed": "Laurent. gr. 59, 14",
@@ -17327,7 +17297,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Duffy/Bell/Carpenter/Schmidt/Sham/Vardon/Westerink, CMG XI 1,4",
+    "edition": "Duffy et al., CMG XI 1,4",
     "volume": "cmg_11_01_04",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_11_01_04/?pn=129",
     "printed": "Laurentianus Gr. 59,14",
@@ -17367,7 +17337,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Mewaldt/Helmreich/Westenberger, CMG V 9,1",
+    "edition": "Mewaldt et al., CMG V 9,1",
     "volume": "cmg_05_09_01",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_09_01/?pn=50",
     "printed": "Marcian. gr. 278 (continet librum III solum)",
@@ -17396,7 +17366,7 @@
     "date": "s. XIII",
     "key": "venice||278",
     "works": [
-     "hippocrates-012"
+     "galenus-079"
     ]
    }
   ],
@@ -17426,7 +17396,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Koch/Helmreich/Kalbfleisch/Hartlich, CMG V 4,2",
+    "edition": "Koch et al., CMG V 4,2",
     "volume": "cmg_05_04_02",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_04_02/?pn=66",
     "printed": "Marcianus 282",
@@ -17445,7 +17415,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Mewaldt/Helmreich/Westenberger, CMG V 9,1",
+    "edition": "Mewaldt et al., CMG V 9,1",
     "volume": "cmg_05_09_01",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_09_01/?pn=50",
     "printed": "Marcian. gr. 282",
@@ -17778,7 +17748,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Koch/Helmreich/Kalbfleisch/Hartlich, CMG V 4,2",
+    "edition": "Koch et al., CMG V 4,2",
     "volume": "cmg_05_04_02",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_04_02/?pn=518",
     "printed": "Parisinus 2267",
@@ -18073,7 +18043,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Koch/Helmreich/Kalbfleisch/Hartlich, CMG V 4,2",
+    "edition": "Koch et al., CMG V 4,2",
     "volume": "cmg_05_04_02",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_04_02/?pn=66",
     "printed": "Marcianus 276",
@@ -18189,7 +18159,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Mewaldt/Helmreich/Westenberger, CMG V 9,1",
+    "edition": "Mewaldt et al., CMG V 9,1",
     "volume": "cmg_05_09_01",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_09_01/?pn=164",
     "printed": "Marcianus App. class. V 5",
@@ -18440,7 +18410,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Diels/Mewaldt/Heeg, CMG V 9,2",
+    "edition": "Diels et al., CMG V 9,2",
     "volume": "cmg_05_09_02",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_09_02/?pn=36",
     "printed": "Ambrosianus gr. 659 (Q 3 sup.)",
@@ -18640,7 +18610,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Mewaldt/Helmreich/Westenberger, CMG V 9,1",
+    "edition": "Mewaldt et al., CMG V 9,1",
     "volume": "cmg_05_09_01",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_09_01/?pn=416",
     "printed": "Vindobonensis gr. med. 4",
@@ -19120,7 +19090,7 @@
     "date": "s. XVI",
     "key": "vatican||278",
     "works": [
-     "hippocrates-040"
+     "hippocrates-039"
     ]
    },
    {
@@ -19660,7 +19630,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Koch/Helmreich/Kalbfleisch/Hartlich, CMG V 4,2",
+    "edition": "Koch et al., CMG V 4,2",
     "volume": "cmg_05_04_02",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_04_02/?pn=264",
     "printed": "Parisinus 634 supplementi graeci",
@@ -19679,7 +19649,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Koch/Helmreich/Kalbfleisch/Hartlich, CMG V 4,2",
+    "edition": "Koch et al., CMG V 4,2",
     "volume": "cmg_05_04_02",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_04_02/?pn=452",
     "printed": "Parisinus supplementi graeci 634",
@@ -19698,7 +19668,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Koch/Helmreich/Kalbfleisch/Hartlich, CMG V 4,2",
+    "edition": "Koch et al., CMG V 4,2",
     "volume": "cmg_05_04_02",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_04_02/?pn=496",
     "printed": "Parisinus supplementi graeci 634",
@@ -19738,7 +19708,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Koch/Helmreich/Kalbfleisch/Hartlich, CMG V 4,2",
+    "edition": "Koch et al., CMG V 4,2",
     "volume": "cmg_05_04_02",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_04_02/?pn=264",
     "printed": "Cheltenhamensis Phillipps. 4614",
@@ -19778,7 +19748,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Koch/Helmreich/Kalbfleisch/Hartlich, CMG V 4,2",
+    "edition": "Koch et al., CMG V 4,2",
     "volume": "cmg_05_04_02",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_04_02/?pn=264",
     "printed": "Venetus bibliothecae Marcianae 279",
@@ -20285,7 +20255,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Mewaldt/Helmreich/Westenberger, CMG V 9,1",
+    "edition": "Mewaldt et al., CMG V 9,1",
     "volume": "cmg_05_09_01",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_09_01/?pn=164",
     "printed": "Monacensis 469",
@@ -20325,7 +20295,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Duffy/Bell/Carpenter/Schmidt/Sham/Vardon/Westerink, CMG XI 1,4",
+    "edition": "Duffy et al., CMG XI 1,4",
     "volume": "cmg_11_01_04",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_11_01_04/?pn=27",
     "printed": "Bodleianus Laud. Gr. 59",
@@ -20344,7 +20314,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Duffy/Bell/Carpenter/Schmidt/Sham/Vardon/Westerink, CMG XI 1,4",
+    "edition": "Duffy et al., CMG XI 1,4",
     "volume": "cmg_11_01_04",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_11_01_04/?pn=121",
     "printed": "Bodleianus Laud. Gr. 59",
@@ -20668,7 +20638,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Mewaldt/Helmreich/Westenberger, CMG V 9,1",
+    "edition": "Mewaldt et al., CMG V 9,1",
     "volume": "cmg_05_09_01",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_09_01/?pn=416",
     "printed": "Laurentianus gr. 74, 3",
@@ -20687,7 +20657,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Diels/Mewaldt/Heeg, CMG V 9,2",
+    "edition": "Diels et al., CMG V 9,2",
     "volume": "cmg_05_09_02",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_09_02/?pn=214",
     "printed": "Laurent. gr. 74, 3",
@@ -21361,7 +21331,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Diels/Mewaldt/Heeg, CMG V 9,2",
+    "edition": "Diels et al., CMG V 9,2",
     "volume": "cmg_05_09_02",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_09_02/?pn=230",
     "printed": "Vaticanus 1063",
@@ -21411,7 +21381,7 @@
     "date": "s. XII ex.–XIII in.",
     "key": "vatican||283",
     "works": [
-     "hippocrates-012"
+     "galenus-079"
     ]
    },
    {
@@ -21698,7 +21668,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Mewaldt/Helmreich/Westenberger, CMG V 9,1",
+    "edition": "Mewaldt et al., CMG V 9,1",
     "volume": "cmg_05_09_01",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_09_01/?pn=164",
     "printed": "Parisinus 2165",
@@ -21940,7 +21910,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Lyons/Schöne/Kalbfleisch/Kollesch/Nickel/Strohmaier, CMG Suppl. Or. II",
+    "edition": "Lyons et al., CMG Suppl. Or. II",
     "volume": "suppl_or_02",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/suppl_or_02/?pn=74",
     "printed": "Aya Sofya 3590",
@@ -22060,7 +22030,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Koch/Helmreich/Kalbfleisch/Hartlich, CMG V 4,2",
+    "edition": "Koch et al., CMG V 4,2",
     "volume": "cmg_05_04_02",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_04_02/?pn=496",
     "printed": "cod. Malatest. lat. S V 4",
@@ -22079,7 +22049,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Koch/Helmreich/Kalbfleisch/Hartlich, CMG V 4,2",
+    "edition": "Koch et al., CMG V 4,2",
     "volume": "cmg_05_04_02",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_04_02/?pn=496",
     "printed": "cod. Malatest. lat. S XXVI 4",
@@ -22214,7 +22184,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Koch/Helmreich/Kalbfleisch/Hartlich, CMG V 4,2",
+    "edition": "Koch et al., CMG V 4,2",
     "volume": "cmg_05_04_02",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_04_02/?pn=496",
     "printed": "cod. Paris. lat. 6865",
@@ -22252,7 +22222,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Lyons/Schöne/Kalbfleisch/Kollesch/Nickel/Strohmaier, CMG Suppl. Or. II",
+    "edition": "Lyons et al., CMG Suppl. Or. II",
     "volume": "suppl_or_02",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/suppl_or_02/?pn=132",
     "printed": "Parisinus lat. 6865",
@@ -22557,7 +22527,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Koch/Helmreich/Kalbfleisch/Hartlich, CMG V 4,2",
+    "edition": "Koch et al., CMG V 4,2",
     "volume": "cmg_05_04_02",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_04_02/?pn=496",
     "printed": "cod. Dresd. lat. D b 92",
@@ -22780,7 +22750,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Mewaldt/Helmreich/Westenberger, CMG V 9,1",
+    "edition": "Mewaldt et al., CMG V 9,1",
     "volume": "cmg_05_09_01",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_09_01/?pn=416",
     "printed": "Marcianus gr. App. class. V 4",
@@ -22915,7 +22885,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Koch/Helmreich/Kalbfleisch/Hartlich, CMG V 4,2",
+    "edition": "Koch et al., CMG V 4,2",
     "volume": "cmg_05_04_02",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_04_02/?pn=452",
     "printed": "Parisin. graec. 2164",
@@ -23012,7 +22982,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Mewaldt/Helmreich/Westenberger, CMG V 9,1",
+    "edition": "Mewaldt et al., CMG V 9,1",
     "volume": "cmg_05_09_01",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_09_01/?pn=164",
     "printed": "Marcianus 281",
@@ -23214,7 +23184,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Koch/Helmreich/Kalbfleisch/Hartlich, CMG V 4,2",
+    "edition": "Koch et al., CMG V 4,2",
     "volume": "cmg_05_04_02",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_04_02/?pn=66",
     "printed": "Reginensis 173",
@@ -23233,7 +23203,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Koch/Helmreich/Kalbfleisch/Hartlich, CMG V 4,2",
+    "edition": "Koch et al., CMG V 4,2",
     "volume": "cmg_05_04_02",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_04_02/?pn=518",
     "printed": "Reginensis 173",
@@ -23252,7 +23222,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Mewaldt/Helmreich/Westenberger, CMG V 9,1",
+    "edition": "Mewaldt et al., CMG V 9,1",
     "volume": "cmg_05_09_01",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_09_01/?pn=50",
     "printed": "Reginens. gr. 173",
@@ -23271,7 +23241,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Mewaldt/Helmreich/Westenberger, CMG V 9,1",
+    "edition": "Mewaldt et al., CMG V 9,1",
     "volume": "cmg_05_09_01",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_09_01/?pn=164",
     "printed": "Reginensis 173",
@@ -23292,7 +23262,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Koch/Helmreich/Kalbfleisch/Hartlich, CMG V 4,2",
+    "edition": "Koch et al., CMG V 4,2",
     "volume": "cmg_05_04_02",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_04_02/?pn=264",
     "printed": "Guelferbytanus Wissenburgensis 64",
@@ -23313,7 +23283,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Koch/Helmreich/Kalbfleisch/Hartlich, CMG V 4,2",
+    "edition": "Koch et al., CMG V 4,2",
     "volume": "cmg_05_04_02",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_04_02/?pn=264",
     "printed": "Parisinus 764 supplementi graeci",
@@ -23334,7 +23304,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Koch/Helmreich/Kalbfleisch/Hartlich, CMG V 4,2",
+    "edition": "Koch et al., CMG V 4,2",
     "volume": "cmg_05_04_02",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_04_02/?pn=264",
     "printed": "Vaticanus Palatinus 199",
@@ -23393,7 +23363,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Koch/Helmreich/Kalbfleisch/Hartlich, CMG V 4,2",
+    "edition": "Koch et al., CMG V 4,2",
     "volume": "cmg_05_04_02",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_04_02/?pn=452",
     "printed": "Laurentianus Florentinus graec. 74, 25",
@@ -23433,7 +23403,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Koch/Helmreich/Kalbfleisch/Hartlich, CMG V 4,2",
+    "edition": "Koch et al., CMG V 4,2",
     "volume": "cmg_05_04_02",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_04_02/?pn=452",
     "printed": "Marcianus Venetus graec. 285",
@@ -23473,7 +23443,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Koch/Helmreich/Kalbfleisch/Hartlich, CMG V 4,2",
+    "edition": "Koch et al., CMG V 4,2",
     "volume": "cmg_05_04_02",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_04_02/?pn=452",
     "printed": "Londinensis (Stowe Brit. Mus.) graec. 1073",
@@ -23494,7 +23464,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Koch/Helmreich/Kalbfleisch/Hartlich, CMG V 4,2",
+    "edition": "Koch et al., CMG V 4,2",
     "volume": "cmg_05_04_02",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_04_02/?pn=452",
     "printed": "Oxoniensis graec. Miscell. 132 (Marshal 72)",
@@ -24281,7 +24251,7 @@
     "date": "s. X",
     "key": "paris|suppl|446",
     "works": [
-     "hippocrates-012"
+     "galenus-079"
     ]
    },
    {
@@ -24469,7 +24439,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Mewaldt/Helmreich/Westenberger, CMG V 9,1",
+    "edition": "Mewaldt et al., CMG V 9,1",
     "volume": "cmg_05_09_01",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_09_01/?pn=164",
     "printed": "Athous Laurae Ω 70",
@@ -24490,7 +24460,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Mewaldt/Helmreich/Westenberger, CMG V 9,1",
+    "edition": "Mewaldt et al., CMG V 9,1",
     "volume": "cmg_05_09_01",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_09_01/?pn=164",
     "printed": "Scorialensis Σ II 5",
@@ -24511,7 +24481,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Mewaldt/Helmreich/Westenberger, CMG V 9,1",
+    "edition": "Mewaldt et al., CMG V 9,1",
     "volume": "cmg_05_09_01",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_09_01/?pn=164",
     "printed": "Athous Iberon 4304. 184",
@@ -24532,7 +24502,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Mewaldt/Helmreich/Westenberger, CMG V 9,1",
+    "edition": "Mewaldt et al., CMG V 9,1",
     "volume": "cmg_05_09_01",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_09_01/?pn=164",
     "printed": "Trivultianus 685",
@@ -24551,7 +24521,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Diels/Mewaldt/Heeg, CMG V 9,2",
+    "edition": "Diels et al., CMG V 9,2",
     "volume": "cmg_05_09_02",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_09_02/?pn=36",
     "printed": "Trivultianus Mediolanensis 685",
@@ -24572,7 +24542,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Mewaldt/Helmreich/Westenberger, CMG V 9,1",
+    "edition": "Mewaldt et al., CMG V 9,1",
     "volume": "cmg_05_09_01",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_09_01/?pn=164",
     "printed": "Athous Iberon 4309. 189",
@@ -24593,7 +24563,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Mewaldt/Helmreich/Westenberger, CMG V 9,1",
+    "edition": "Mewaldt et al., CMG V 9,1",
     "volume": "cmg_05_09_01",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_09_01/?pn=164",
     "printed": "Mosquensis 465, olim Athous",
@@ -24614,7 +24584,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Diels/Mewaldt/Heeg, CMG V 9,2",
+    "edition": "Diels et al., CMG V 9,2",
     "volume": "cmg_05_09_02",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_09_02/?pn=36",
     "printed": "Vaticanus Regius 175",
@@ -24633,7 +24603,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Diels/Mewaldt/Heeg, CMG V 9,2",
+    "edition": "Diels et al., CMG V 9,2",
     "volume": "cmg_05_09_02",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_09_02/?pn=230",
     "printed": "Reginensis 175",
@@ -24654,7 +24624,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Diels/Mewaldt/Heeg, CMG V 9,2",
+    "edition": "Diels et al., CMG V 9,2",
     "volume": "cmg_05_09_02",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_09_02/?pn=36",
     "printed": "Laurentianus Florentinus 75, 5",
@@ -24694,7 +24664,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Diels/Mewaldt/Heeg, CMG V 9,2",
+    "edition": "Diels et al., CMG V 9,2",
     "volume": "cmg_05_09_02",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_09_02/?pn=230",
     "printed": "Vaticanus 1858",
@@ -24715,7 +24685,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Diels/Mewaldt/Heeg, CMG V 9,2",
+    "edition": "Diels et al., CMG V 9,2",
     "volume": "cmg_05_09_02",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_09_02/?pn=230",
     "printed": "Palatinus 157",
@@ -24736,7 +24706,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Diels/Mewaldt/Heeg, CMG V 9,2",
+    "edition": "Diels et al., CMG V 9,2",
     "volume": "cmg_05_09_02",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_05_09_02/?pn=230",
     "printed": "Parisinus (Fontanebl.) 2266",
@@ -24765,7 +24735,7 @@
     "date": "s. XII ex.",
     "key": "paris||2266",
     "works": [
-     "hippocrates-012"
+     "galenus-079"
     ]
    }
   ],
@@ -24864,7 +24834,7 @@
     "date": "s. XV vel XVI",
     "key": "munich||231",
     "works": [
-     "hippocrates-005"
+     "galenus-078"
     ]
    }
   ],
@@ -24923,7 +24893,7 @@
     "date": "s. XVI",
     "key": "paris||2174",
     "works": [
-     "hippocrates-005"
+     "galenus-078"
     ]
    }
   ],
@@ -25043,7 +25013,7 @@
     "date": "",
     "key": "escorial||805",
     "works": [
-     "hippocrates-005"
+     "galenus-078"
     ]
    },
    {
@@ -25062,7 +25032,7 @@
     "date": "a. 1210",
     "key": "escorial||805",
     "works": [
-     "hippocrates-005"
+     "galenus-078"
     ]
    }
   ],
@@ -25083,7 +25053,7 @@
     "date": "s. XIII/XIV",
     "key": "escorial|ΦIII|7",
     "works": [
-     "hippocrates-012"
+     "galenus-079"
     ]
    }
   ],
@@ -25104,7 +25074,7 @@
     "date": "s. XIV",
     "key": "vatican|urb|65",
     "works": [
-     "hippocrates-012"
+     "galenus-079"
     ]
    }
   ],
@@ -25125,7 +25095,7 @@
     "date": "s. XII",
     "key": "vatican|urb|64",
     "works": [
-     "hippocrates-012"
+     "galenus-079"
     ]
    },
    {
@@ -28226,7 +28196,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Duffy/Bell/Carpenter/Schmidt/Sham/Vardon/Westerink, CMG XI 1,4",
+    "edition": "Duffy et al., CMG XI 1,4",
     "volume": "cmg_11_01_04",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_11_01_04/?pn=27",
     "printed": "Vaticanus Gr. 300",
@@ -28247,7 +28217,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Duffy/Bell/Carpenter/Schmidt/Sham/Vardon/Westerink, CMG XI 1,4",
+    "edition": "Duffy et al., CMG XI 1,4",
     "volume": "cmg_11_01_04",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_11_01_04/?pn=27",
     "printed": "Vindobonensis med. Gr. 20",
@@ -28266,7 +28236,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Duffy/Bell/Carpenter/Schmidt/Sham/Vardon/Westerink, CMG XI 1,4",
+    "edition": "Duffy et al., CMG XI 1,4",
     "volume": "cmg_11_01_04",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_11_01_04/?pn=121",
     "printed": "Vindobonensis med. Gr. 20",
@@ -28287,7 +28257,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Duffy/Bell/Carpenter/Schmidt/Sham/Vardon/Westerink, CMG XI 1,4",
+    "edition": "Duffy et al., CMG XI 1,4",
     "volume": "cmg_11_01_04",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_11_01_04/?pn=27",
     "printed": "Parisinus Gr. 2239",
@@ -28306,7 +28276,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Duffy/Bell/Carpenter/Schmidt/Sham/Vardon/Westerink, CMG XI 1,4",
+    "edition": "Duffy et al., CMG XI 1,4",
     "volume": "cmg_11_01_04",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_11_01_04/?pn=121",
     "printed": "Parisinus Gr. 2239",
@@ -28327,7 +28297,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Duffy/Bell/Carpenter/Schmidt/Sham/Vardon/Westerink, CMG XI 1,4",
+    "edition": "Duffy et al., CMG XI 1,4",
     "volume": "cmg_11_01_04",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_11_01_04/?pn=27",
     "printed": "Vaticanus Angel. Gr. 68",
@@ -28346,7 +28316,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Duffy/Bell/Carpenter/Schmidt/Sham/Vardon/Westerink, CMG XI 1,4",
+    "edition": "Duffy et al., CMG XI 1,4",
     "volume": "cmg_11_01_04",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_11_01_04/?pn=121",
     "printed": "Vaticanus Angel. Gr. 68",
@@ -28367,7 +28337,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Duffy/Bell/Carpenter/Schmidt/Sham/Vardon/Westerink, CMG XI 1,4",
+    "edition": "Duffy et al., CMG XI 1,4",
     "volume": "cmg_11_01_04",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_11_01_04/?pn=27",
     "printed": "Laurentianus Gr. 75,4",
@@ -28386,7 +28356,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Duffy/Bell/Carpenter/Schmidt/Sham/Vardon/Westerink, CMG XI 1,4",
+    "edition": "Duffy et al., CMG XI 1,4",
     "volume": "cmg_11_01_04",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_11_01_04/?pn=121",
     "printed": "Laurentianus Gr. 75,4",
@@ -28407,7 +28377,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Duffy/Bell/Carpenter/Schmidt/Sham/Vardon/Westerink, CMG XI 1,4",
+    "edition": "Duffy et al., CMG XI 1,4",
     "volume": "cmg_11_01_04",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_11_01_04/?pn=27",
     "printed": "Vaticanus Palat. Gr. 296",
@@ -28426,7 +28396,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Duffy/Bell/Carpenter/Schmidt/Sham/Vardon/Westerink, CMG XI 1,4",
+    "edition": "Duffy et al., CMG XI 1,4",
     "volume": "cmg_11_01_04",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_11_01_04/?pn=121",
     "printed": "Vaticanus Palat. Gr. 296",
@@ -28447,7 +28417,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Duffy/Bell/Carpenter/Schmidt/Sham/Vardon/Westerink, CMG XI 1,4",
+    "edition": "Duffy et al., CMG XI 1,4",
     "volume": "cmg_11_01_04",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_11_01_04/?pn=27",
     "printed": "Parisinus Gr. 2224",
@@ -28466,7 +28436,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Duffy/Bell/Carpenter/Schmidt/Sham/Vardon/Westerink, CMG XI 1,4",
+    "edition": "Duffy et al., CMG XI 1,4",
     "volume": "cmg_11_01_04",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_11_01_04/?pn=121",
     "printed": "Parisinus Gr. 2224",
@@ -28477,48 +28447,6 @@
     "key": "paris||2224",
     "works": [
      "johannes-alexandrinus-002"
-    ]
-   }
-  ],
-  "munich||802": [
-   {
-    "siglum": {
-     "base": "",
-     "sup": "",
-     "sub": ""
-    },
-    "edition": "Bergsträßer, CMG XI 2,1",
-    "volume": "cmg_11_02_01",
-    "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_11_02_01/?pn=26",
-    "printed": "Monacens. arab. 802 (Aumer)",
-    "normalized": "Mon. arab. 802",
-    "city": "Munich",
-    "folios": "f. 1r–64r",
-    "date": "s. XI",
-    "key": "munich||802",
-    "works": [
-     "hippocrates-065"
-    ]
-   }
-  ],
-  "cambridge||1386": [
-   {
-    "siglum": {
-     "base": "",
-     "sup": "",
-     "sub": ""
-    },
-    "edition": "Bergsträßer, CMG XI 2,1",
-    "volume": "cmg_11_02_01",
-    "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/cmg_11_02_01/?pn=26",
-    "printed": "Cantabrig. Bibl. Univ. 1386 (Browne)",
-    "normalized": "Cambridge, UL 1386",
-    "city": "Cambridge",
-    "folios": "f. 34v–36r",
-    "date": "s. XIII–XIV",
-    "key": "cambridge||1386",
-    "works": [
-     "hippocrates-065"
     ]
    }
   ],
@@ -29628,7 +29556,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Lyons/Schöne/Kalbfleisch/Kollesch/Nickel/Strohmaier, CMG Suppl. Or. II",
+    "edition": "Lyons et al., CMG Suppl. Or. II",
     "volume": "suppl_or_02",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/suppl_or_02/?pn=22",
     "printed": "Aya Sofya 3725",
@@ -29647,7 +29575,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Lyons/Schöne/Kalbfleisch/Kollesch/Nickel/Strohmaier, CMG Suppl. Or. II",
+    "edition": "Lyons et al., CMG Suppl. Or. II",
     "volume": "suppl_or_02",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/suppl_or_02/?pn=50",
     "printed": "Aya Sofya 3725",
@@ -29668,7 +29596,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Lyons/Schöne/Kalbfleisch/Kollesch/Nickel/Strohmaier, CMG Suppl. Or. II",
+    "edition": "Lyons et al., CMG Suppl. Or. II",
     "volume": "suppl_or_02",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/suppl_or_02/?pn=74",
     "printed": "Aya Sofya 3631",
@@ -29708,7 +29636,7 @@
      "sup": "",
      "sub": ""
     },
-    "edition": "Lyons/Schöne/Kalbfleisch/Kollesch/Nickel/Strohmaier, CMG Suppl. Or. II",
+    "edition": "Lyons et al., CMG Suppl. Or. II",
     "volume": "suppl_or_02",
     "viewer": "https://alchemiesofscent.github.io/cmg-viewer/viewer/suppl_or_02/?pn=132",
     "printed": "Dresdensis Db 93",
@@ -29802,7 +29730,7 @@
     "date": "s. XIV",
     "key": "istanbul||3642",
     "works": [
-     "hippocrates-005"
+     "galenus-078"
     ]
    },
    {
@@ -29821,7 +29749,7 @@
     "date": "s. XIV",
     "key": "istanbul||3642",
     "works": [
-     "hippocrates-005"
+     "galenus-078"
     ]
    },
    {
@@ -29840,7 +29768,7 @@
     "date": "s. XIV",
     "key": "istanbul||3642",
     "works": [
-     "hippocrates-005"
+     "galenus-078"
     ]
    }
   ],
@@ -29861,7 +29789,7 @@
     "date": "s. XIII",
     "key": "escorial||804",
     "works": [
-     "hippocrates-005"
+     "galenus-078"
     ]
    },
    {
@@ -29880,7 +29808,7 @@
     "date": "s. XIII",
     "key": "escorial||804",
     "works": [
-     "hippocrates-005"
+     "galenus-078"
     ]
    },
    {
@@ -29899,7 +29827,7 @@
     "date": "",
     "key": "escorial||804",
     "works": [
-     "hippocrates-005"
+     "galenus-078"
     ]
    }
   ],
@@ -29920,7 +29848,7 @@
     "date": "s. XIII",
     "key": "paris||6734",
     "works": [
-     "hippocrates-005"
+     "galenus-078"
     ]
    }
   ],
@@ -29941,7 +29869,7 @@
     "date": "s. XV",
     "key": "venice||1053",
     "works": [
-     "hippocrates-005"
+     "galenus-078"
     ]
    }
   ],
@@ -29962,7 +29890,7 @@
     "date": "",
     "key": "istanbul||3592",
     "works": [
-     "hippocrates-005"
+     "galenus-078"
     ]
    }
   ],
@@ -29983,7 +29911,7 @@
     "date": "a. 1624",
     "key": "milan|bsup|135",
     "works": [
-     "hippocrates-005"
+     "galenus-078"
     ]
    },
    {
@@ -30002,7 +29930,7 @@
     "date": "",
     "key": "milan|bsup|135",
     "works": [
-     "hippocrates-005"
+     "galenus-078"
     ]
    },
    {
@@ -30021,7 +29949,7 @@
     "date": "",
     "key": "milan|bsup|135",
     "works": [
-     "hippocrates-005"
+     "galenus-078"
     ]
    }
   ],
@@ -30042,7 +29970,7 @@
     "date": "",
     "key": "cambridge||12.1",
     "works": [
-     "hippocrates-005"
+     "galenus-078"
     ]
    },
    {
@@ -30061,7 +29989,7 @@
     "date": "",
     "key": "cambridge||12.1",
     "works": [
-     "hippocrates-005"
+     "galenus-078"
     ]
    }
   ],
