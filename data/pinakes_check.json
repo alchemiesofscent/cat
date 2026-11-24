@@ -1,6 +1,6 @@
 {
  "checked": 995,
- "confirmed": 921,
+ "confirmed": 922,
  "fixes": [
   {
    "work": "aretaeus-cappadox-001",
@@ -60,7 +60,7 @@
    "work": "alexander-trallianus-001",
    "title": "De febribus",
    "city": "Paris",
-   "shelfmark": "Par. gr. 2718",
+   "shelfmark": "Par. gr. 2178",
    "folios": "11v–41v",
    "candidates": []
   },
@@ -356,14 +356,6 @@
    "work": "galenus-077",
    "title": "In Hippocratis Prorrheticum I commentaria",
    "city": "Paris",
-   "shelfmark": "Par. gr. 2186",
-   "folios": "172–232v",
-   "candidates": []
-  },
-  {
-   "work": "galenus-077",
-   "title": "In Hippocratis Prorrheticum I commentaria",
-   "city": "Paris",
    "shelfmark": "Par. gr. 2228",
    "folios": "66–91v",
    "candidates": []
@@ -640,15 +632,6 @@
  "links_checked": 675,
  "link_mismatch": [
   {
-   "work": "alexander-trallianus-001",
-   "title": "De febribus",
-   "shelfmark": "Par. gr. 2718",
-   "folios": "11v–41v",
-   "url": "https://gallica.bnf.fr/ark:/12148/btv1b107225608/f16.item",
-   "link_names": "paris||2178",
-   "evidence": "Pinakes (Grec 2178)"
-  },
-  {
    "work": "aretaeus-cappadox-001",
    "title": "De causis et signis acutorum morborum libri II",
    "shelfmark": "Harley 6236",
@@ -683,15 +666,6 @@
    "url": "https://gallica.bnf.fr/ark:/12148/btv1b107232737",
    "link_names": "paris||2163",
    "evidence": "Pinakes (Grec 2163)"
-  },
-  {
-   "work": "galenus-077",
-   "title": "In Hippocratis Prorrheticum I commentaria",
-   "shelfmark": "Par. gr. 2186",
-   "folios": "172–232v",
-   "url": "https://gallica.bnf.fr/ark:/12148/btv1b10722303c/f175.item",
-   "link_names": "paris||2168",
-   "evidence": "Pinakes (Grec 2168)"
   }
  ]
 }

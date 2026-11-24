@@ -102,7 +102,8 @@ _CITY_KEY = {"par": "paris", "paris": "paris", "vat": "vatican", "vatican": "vat
              "wrocław": "wroclaw", "rehd": "wroclaw", "siena": "siena", "lincoln": "lincoln", "bourges": "bourges",
              "avranches": "avranches", "bursa": "bursa", "alexandria": "alexandria", "tehran": "tehran",
              "phillipps": "phillipps", "phill": "phillipps", "cheltenham": "phillipps", "hamburg": "hamburg",
-             "bodmer": "cologny", "cologny": "cologny", "gallipoli": "gallipoli", "york": "newyork"}
+             "bodmer": "cologny", "cologny": "cologny", "gallipoli": "gallipoli", "york": "newyork",
+             "bamb": "bamberg", "bamberg": "bamberg", "bernens": "bern", "bern": "bern"}
 _KEEP = {"suppl", "urb", "pal", "barb", "reg", "ottob", "coisl", "coislin", "barocc", "med", "hist", "phil", "theol",
          "harley", "add", "sloane", "lat", "chis", "ross"}
 
@@ -176,6 +177,21 @@ for _o in PK["oeuvres"].values():
         _k = ms_key(_x["city"], f"{_x['fonds']} {_x['cote']}")
         if _k and _x["cote_id"] in PKDIG:
             PKDIG_BY_KEY.setdefault(_k, _x["cote_id"])
+
+# folio-level links entered by hand (scripts/folio_worklist.py writes the worklist)
+FOLIO_LINKS = {}
+_FL = ROOT / "data" / "folio_links.csv"
+if _FL.exists():
+    with _FL.open(newline="", encoding="utf-8") as _fh:
+        for _r in csv.DictReader(_fh):
+            if _r["folio_url"].strip():
+                FOLIO_LINKS[(_r["work_id"], _r["shelfmark"], _r["folios"])] = (_r["folio_url"].strip(), _r["start"])
+
+
+def hand_link(wid, shelf, folios):
+    x = FOLIO_LINKS.get((wid, shelf, folios))
+    return f'<a class="go" href="{esc(x[0])}">view f. {esc(x[1])}</a>' if x else None
+
 
 # shelfmarks corrected by scripts/pinakes_check.py (one digit off, same start folio)
 PCFILE = ROOT / "data" / "pinakes_check.json"
@@ -338,7 +354,14 @@ OUT = ROOT / "docs"
 CITY_EN = {"Florenz": "Florence", "Vatikanstadt": "Vatican City", "Venedig": "Venice",
            "Wien": "Vienna", "München": "Munich", "Mailand": "Milan", "Rom": "Rome",
            "Neapel": "Naples", "Genf": "Geneva", "Zürich": "Zurich", "Warschau": "Warsaw",
-           "Freiburg (Schweiz)": "Fribourg", "Bayern": "Bavaria"}
+           "Freiburg (Schweiz)": "Fribourg", "Bayern": "Bavaria",
+           # Pinakes' city names
+           "Città del Vaticano": "Vatican City", "Venezia": "Venice", "Firenze": "Florence", "Milano": "Milan",
+           "San Lorenzo de El Escorial": "El Escorial", "København": "Copenhagen", "Hagion Oros": "Mount Athos",
+           "Moskva": "Moscow", "Napoli": "Naples", "Athēna": "Athens", "Thessalonikē": "Thessaloniki",
+           "Kraków": "Krakow", "New Haven (CT)": "New Haven", "Torino": "Turin", "Roma": "Rome", "Sīnāʾ": "Sinai",
+           "Sankt-Peterburg": "St Petersburg", "Sofiâ": "Sofia", "İzmir": "Izmir", "New York (NY)": "New York",
+           "Bruxelles": "Brussels", "Warszawa": "Warsaw", "Gelibolu": "Gallipoli"}
 LANG = {"de": "German", "en": "English", "fr": "French", "it": "Italian",
         "es": "Spanish", "other": "Other languages"}
 
@@ -387,6 +410,46 @@ def go(m, folio_label="view"):
     if stale(u):
         return f'<a class="go stale" href="{esc(u)}" title="This viewer has been retired; the link no longer resolves">old link</a>'
     return f'<a class="go" href="{esc(u)}">{folio_label}</a>'
+
+
+_KEEP_PREFIX = {"sang", "sangall", "harley", "sloane", "arundel", "phill", "phillipps", "bodmer", "malatest", "rehd"}
+
+
+def _city_of(name):
+    return next((_CITY_KEY[w.lower()] for w in re.findall(r"[A-Za-zÀ-ÿ]+", name or "") if w.lower() in _CITY_KEY), "")
+
+
+def display_shelf(city_name, shelf):
+    """Shelfmark without the city abbreviation when the city is shown beside it: Florence | Plut. 75.12."""
+    m = re.match(r"^([A-Za-zÀ-ÿ]+)\.?\s+(?=\S)", shelf or "")
+    if m and m[1].lower() not in _KEEP_PREFIX and _CITY_KEY.get(m[1].lower()) and \
+            _CITY_KEY[m[1].lower()] == _city_of(city_name):
+        shelf = shelf[m.end():]
+    shelf = re.sub(r"\b(Plut\.\s*\d+),\s*(\d)", r"\1.\2", shelf)
+    shelf = re.sub(r"\b(Plut\.\s*\d+)\.0+(\d)", r"\1.\2", shelf)  # Plut. 74.02 -> 74.2
+    return "Cod. " + shelf if re.fullmatch(r"\d+\w?", shelf) else shelf
+
+
+_PK_FONDS = {"Grec": "gr.", "Supplément grec": "Suppl. gr.", "Coislin": "Coisl.", "Latin": "lat.", "Mss.": "",
+             "Nouvelles acquisitions latines": "n.a.l.", "Supplément turc": "Suppl. turc"}
+
+
+def pk_shelf(x):
+    """Pinakes fonds + cote in house style: 'Grec 0634' -> 'gr. 634', 'Plut. 57. 12' -> 'Plut. 57.12'."""
+    cote = re.sub(r"(\d)\.\s+(\d)", r"\1.\2", x["cote"])
+    cote = re.sub(r"(?<![\d.])0+(\d)", r"\1", cote)
+    return display_shelf(x["city"], " ".join(t for t in (_PK_FONDS.get(x["fonds"], x["fonds"]), cote) if t))
+
+
+def mm_split(shelf):
+    """MediManus 'Florence 74.07' -> ('Florence', 'Plut. 74.7'); 'New Haven Beinecke 234' -> ('New Haven', ...)."""
+    m = re.match(r"^(New Haven|[A-Z][a-zà-ÿ]+)\s+(.*)$", shelf or "")
+    if not m:
+        return "", shelf
+    rest = m[2]
+    if m[1] == "Florence" and re.match(r"^\d+\.\d+", rest):
+        rest = "Plut. " + re.sub(r"(?<![\d.])0+(\d)", r"\1", rest)
+    return m[1], rest
 
 
 def shelf_html(sm):
@@ -465,13 +528,14 @@ def page(title, body, depth=0):
 </body></html>"""
 
 
-def witness_rows(mss, show_work=None, sig=None):
+def witness_rows(mss, show_work=None, sig=None, wid=None):
     rows = []
     for m in mss:
+        hl = hand_link(wid, display_shelf(m["city"], m["shelfmark"]), m["folios"]) if wid else None
         sg = sig_cell(sig.get(ms_key(m["city"], m["shelfmark"]) or "-", [])) if sig is not None else ""
-        view = go(m, f"view f. {esc(m['start'])}" if m["start"] else "view") if m["url"] else ""
+        view = hl or (go(m, f"view f. {esc(m['start'])}" if m["start"] else "view") if m["url"] else "")
         lead = f"<td>{show_work(m)}</td>" if show_work else ""
-        rows.append(f"<tr>{lead}<td>{esc(city(m['city']))}</td><td class='sm'>{shelf_html(m['shelfmark'])}</td>{sg}"
+        rows.append(f"<tr>{lead}<td>{esc(city(m['city']))}</td><td class='sm'>{shelf_html(display_shelf(m['city'], m['shelfmark']))}<span hidden>{esc(m['shelfmark'])}</span></td>{sg}"
                     + date_cell(ms_date(m["city"], m["shelfmark"])) +
                     f"<td class='fol'>{esc(dash(m['folios']))}"
                     + f"</td><td>{view}</td></tr>")
@@ -528,7 +592,7 @@ def work_html(a, w):
     if w["mss"]:
         parts.append(f'<h4>Manuscripts <span class="n">{len(w["mss"])} digitized</span></h4>'
                      f'<table class="mss sortable"><thead><tr><th>City</th><th>Shelfmark</th>{sth}<th>Date</th><th>Folios</th><th>Digitization</th></tr></thead>'
-                     f'<tbody>{witness_rows(w["mss"], sig=sig)}</tbody></table>')
+                     f'<tbody>{witness_rows(w["mss"], sig=sig, wid=w["id"])}</tbody></table>')
     else:
         parts.append('<h4>Manuscripts</h4><p class="none">No digitized manuscripts recorded in the catalogue.</p>')
     mmw = MM_BY_WORK.get(w["id"], [])
@@ -553,12 +617,13 @@ def work_html(a, w):
                         f'CMG: f. {esc(", ".join(starts))}</span>')
             label = esc(x["title"]) if core_differs(x["title"], w["title_lat"]) else ""
             d = ms_date("", x["shelfmark"]) or ({"cs": x["centuries"], "date": "", "src": "MediManus"} if x.get("centuries") else None)
-            trs.append(f"<tr><td class='sm'>{esc(x['shelfmark'])}</td>" + (sig_cell(sigs.get(ms_key('', x['shelfmark']), [])) if sig is not None else "") + date_cell(d) +
+            mc, mrest = mm_split(x["shelfmark"])
+            trs.append(f"<tr><td>{esc(mc)}</td><td class='sm'>{esc(mrest)}<span hidden>{esc(x['shelfmark'])}</span></td>" + (sig_cell(sigs.get(ms_key('', x['shelfmark']), [])) if sig is not None else "") + date_cell(d) +
                        f"<td class='fol'>{esc(x['unit'] if x['folios'] else '')} {esc(x['folios'])}</td>"
                        f"<td class='mmt'>{label}</td><td>{flag}</td>"
                        f"<td><a class='go' href='{esc(x['url'])}'>MediManus</a></td></tr>")
         parts.append(f'<h4>In MediManus <span class="n">{len(mmw)}</span></h4>'
-                     f'<table class="mss mm sortable"><thead><tr><th>Shelfmark</th>{sth}<th>Date</th><th>Folios</th><th></th><th>CMG list</th><th></th></tr></thead><tbody>{"".join(trs)}</tbody></table>')
+                     f'<table class="mss mm sortable"><thead><tr><th>City</th><th>Shelfmark</th>{sth}<th>Date</th><th>Folios</th><th></th><th>CMG list</th><th></th></tr></thead><tbody>{"".join(trs)}</tbody></table>')
     # digitized manuscripts Pinakes lists for this work that are in neither list above
     seen = {ms_key(m["city"], m["shelfmark"]) for m in w["mss"]} | {ms_key("", x["shelfmark"]) for x in mmw}
     extra, done = [], set()
@@ -570,12 +635,13 @@ def work_html(a, w):
     if extra:
         trs = []
         for x in sorted(extra, key=lambda x: (x["city"], x["fonds"], x["cote"])):
-            links = " ".join(f'<a class="go" href="{esc(d["url"])}" title="{esc(d["label"], quote=True)}">view ms.</a>'
-                             for d in PKDIG[x["cote_id"]][:2])
+            links = hand_link(w["id"], pk_shelf(x), x["folios"]) or " ".join(
+                f'<a class="go" href="{esc(d["url"])}" title="{esc(d["label"], quote=True)}">view ms.</a>'
+                for d in PKDIG[x["cote_id"]][:2])
             d = {"cs": _pk_centuries(x["century"]), "part": _pk_part(x["century"]), "date": x["date"], "src": "Pinakes",
                  "url": f"https://pinakes.irht.cnrs.fr/notices/cote/{x['cote_id']}/"} if _pk_centuries(x["century"]) else None
             trs.append(f"<tr><td>{esc(city(x['city']))}</td><td class='sm'><a href='https://pinakes.irht.cnrs.fr/notices/cote/{x['cote_id']}/'>"
-                       f"{esc(x['fonds'])} {esc(x['cote'])}</a></td>"
+                       f"{esc(pk_shelf(x))}</a></td>"
                        + (sig_cell(sigs.get(ms_key(x['city'], f"{x['fonds']} {x['cote']}"), [])) if sig is not None else "") + date_cell(d) +
                        f"<td class='fol'>{esc(x['folios'])}</td><td>{links}</td></tr>")
         parts.append(f'<h4>Also digitized, according to Pinakes <span class="n">{len(extra)}</span></h4>'
@@ -599,7 +665,7 @@ def work_html(a, w):
             flag = (' <span class="unv" title="Not listed for this work by Pinakes or MediManus; see SIGLA-CHECK.md">?</span>'
                     if unv else ' <span class="mmt" title="Commentary, translation or parallel text cited in the edition">(indirect tradition)</span>'
                     if ind else "")
-            shelf = r["normalized"] or r["printed"]
+            shelf = display_shelf(r["city"], r["normalized"]) if r["normalized"] else r["printed"]
             trs.append(f"<tr class='nd'><td>{esc(r['city'])}</td><td class='sm' title='{esc(r['printed'], quote=True)}'>{esc(shelf)}{flag}</td>"
                        + sig_cell(recs) + date_cell(d)
                        + f"<td class='fol'>{esc(r['folios'] or (pk['folios'] if pk else ''))}</td><td>{link}</td></tr>")
@@ -732,7 +798,7 @@ def main():
             search.append({"t": w["title_lat"], "g": w.get("title_gr", ""), "b": w.get("abbr", ""),
                            "a": a["name"], "u": f"authors/{a['id']}.html#{w['id']}", "n": len(w["mss"])})
             for m in w["mss"]:
-                by_ms[(city(m["city"]), dash(m["shelfmark"]))].append((a, w, m))
+                by_ms[(city(m["city"]), re.sub(r"\s*\(.*?\)\s*$", "", display_shelf(m["city"], dash(m["shelfmark"]))))].append((a, w, m))
 
     # author pages
     for a in authors:
@@ -813,7 +879,7 @@ def main():
                     f'<a class="sig" href="{esc(r["viewer"])}" title="{esc(r["printed"], quote=True)}"><span class="sg">{sig_html(r["siglum"])}</span></a> '
                     f'<span class="mmt">({esc(r["edition"])})</span>'
                     for r in {(r["edition"], json.dumps(r["siglum"])): r for r in sg}.values()) + "</td></tr>")
-            lis.append(f'<details data-c="{d["cs"][0] if d else 99:02d}"><summary><span class="sm">{esc(sm)}</span> '
+            lis.append(f'<details data-c="{d["cs"][0] if d else 99:02d}"><summary><span class="sm">{esc(sm)}</span><span hidden>{esc(items[0][2]["shelfmark"])}</span> '
                        f'<span class="mdate">{esc(roman_c(d["cs"])) if d else ""}</span> <span class="n">{len(items)}</span></summary>'
                        f'<table class="mss"><tbody>{trs}</tbody></table></details>')
         sections.append(f'<section class="city"><h2 id="{esc(re.sub(r"[^a-z]+", "-", c.lower()))}">{esc(c)}</h2>' + "".join(lis) + "</section>")

@@ -629,11 +629,12 @@
       },
       {
        "city": "Paris",
-       "shelfmark": "Par. gr. 2718",
+       "shelfmark": "Par. gr. 2178",
        "folios": "11v–41v",
        "start": "11v",
        "url": "https://gallica.bnf.fr/ark:/12148/btv1b107225608/f16.item",
-       "raw": "Par. gr. 2718, 11v--41v"
+       "raw": "Par. gr. 2718, 11v--41v",
+       "corrected": "Digits transposed: the link is Gallica btv1b107225608 = Grec 2178 (Pinakes); confirmed by S. Coughlin, Nov 2026."
       }
      ],
      "date": "",
@@ -11697,11 +11698,12 @@
       },
       {
        "city": "Paris",
-       "shelfmark": "Par. gr. 2186",
+       "shelfmark": "Par. gr. 2168",
        "folios": "172–232v",
        "start": "172",
        "url": "https://gallica.bnf.fr/ark:/12148/btv1b10722303c/f175.item",
-       "raw": "Par. gr. 2186, fol. 172–232v"
+       "raw": "Par. gr. 2186, fol. 172–232v",
+       "corrected": "Digits transposed: the link is Gallica btv1b10722303c = Grec 2168 (Pinakes); confirmed by S. Coughlin, Nov 2026."
       },
       {
        "city": "Paris",

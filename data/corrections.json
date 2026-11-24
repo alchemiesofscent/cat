@@ -57,6 +57,16 @@
    "match": {"work": "aetius-amidenus-001", "shelfmark": "Laur. Plut. 72.12 (libri I--III)"},
    "set": {"shelfmark": "Laur. Plut. 75.12 (libri I--III)", "url": "https://tecabml.contentdm.oclc.org/digital/collection/plutei/id/925811"},
    "reason": "Wrong shelfmark: Aetius I–III are in Plut. 75.12, not 72.12 (S. Coughlin, Nov 2026; Teca BML plutei/id/925811)."
+  },
+  {
+   "match": {"work": "alexander-trallianus-001", "shelfmark": "Par. gr. 2718"},
+   "set": {"shelfmark": "Par. gr. 2178"},
+   "reason": "Digits transposed: the link is Gallica btv1b107225608 = Grec 2178 (Pinakes); confirmed by S. Coughlin, Nov 2026."
+  },
+  {
+   "match": {"work": "galenus-077", "shelfmark": "Par. gr. 2186"},
+   "set": {"shelfmark": "Par. gr. 2168"},
+   "reason": "Digits transposed: the link is Gallica btv1b10722303c = Grec 2168 (Pinakes); confirmed by S. Coughlin, Nov 2026."
   }
  ]
 }

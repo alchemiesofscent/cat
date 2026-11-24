@@ -5,6 +5,7 @@ Applied automatically by `scripts/extract.py` from `data/corrections.json`. The 
 | Work | Before | After | Why |
 |---|---|---|---|
 | aetius-amidenus-001 libri Medicinales | Florenz: Laur. Plut. 72.12 (libri I--III), 1–102v | Florenz: Laur. Plut. 75.12 (libri I--III), 1–102v | Wrong shelfmark: Aetius I–III are in Plut. 75.12, not 72.12 (S. Coughlin, Nov 2026; Teca BML plutei/id/925811). (link changed) |
+| alexander-trallianus-001 De febribus | Paris: Par. gr. 2718, 11v–41v | Paris: Par. gr. 2178, 11v–41v | Digits transposed: the link is Gallica btv1b107225608 = Grec 2178 (Pinakes); confirmed by S. Coughlin, Nov 2026. |
 | anonymus-003 Anonymi de morbis acutis et chroniis (Anonymus Parisinus) | Paris: Par. suppl. gr. 36, 21–82 | Paris: Par. Suppl. gr. 36, 21–82 | Par. Suppl. gr. spelling |
 | cassius-felix-001 Questiones et problemata | Venedig: Marc. gr. Z, 49v–56v | Venedig: Marc. gr. Z. 257 (=622), 49v–56v | Shelfmark number missing. The link is Marciana CSTOR.240.9902 = Gr. Z. 257 (=622). |
 | dioscorides-001 De materia medica | Florenz: Laur. Plut. 74.23., 21–185 | Florenz: Laur. Plut. 74.23, 21–185 | trailing full stop |
@@ -19,6 +20,7 @@ Applied automatically by `scripts/extract.py` from `data/corrections.json`. The 
 | galenus-070 De compositione medicamentorum secundum locos | Vatikanstadt: Vat. Pal. gr. 103v–308,  | Vatikanstadt: Vat. Pal. gr. 54, 103v–308 | Shelfmark number missing. The link is Heidelberg bav_pal_gr_54. |
 | galenus-070 De compositione medicamentorum secundum locos | Vatikanstadt: Vat. Urb. gr. 53–186v,  | Vatikanstadt: Vat. Urb. gr. 67, 53–186v | Shelfmark number missing. The link is MSS_Urb.gr.67. |
 | galenus-074 De praecognitione | Wien: Vind. med. gr. 15, 137rv | Wien: Vind. med. gr. 15, 137rv | Link opened image 1, not the folio. Image = 2 x folio + 9 in this codex (checked on 10 other links). (link changed) |
+| galenus-077 In Hippocratis Prorrheticum I commentaria | Paris: Par. gr. 2186, 172–232v | Paris: Par. gr. 2168, 172–232v | Digits transposed: the link is Gallica btv1b10722303c = Grec 2168 (Pinakes); confirmed by S. Coughlin, Nov 2026. |
 | galenus-077 In Hippocratis Prorrheticum I commentaria | Paris: Par gr. 2257, 129–130v | Paris: Par. gr. 2257, 129–130v | Par. gr. spelling |
 | galenus-079 In Hippocratis Aphorismos commentaria | Vatikanstadt: Vat gr. 307, 5–6 | Vatikanstadt: Vat. gr. 307, 5–6 | Vat. gr. spelling |
 | galenus-079 In Hippocratis Aphorismos commentaria | Vatikanstadt: Vat. Barb. gr., 1–83 | Vatikanstadt: Vat. Barb. gr. 5, 1–83 | Shelfmark number missing. The link is MSS_Barb.gr.5. |
