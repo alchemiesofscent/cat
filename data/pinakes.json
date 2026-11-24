@@ -1,0 +1,5694 @@
+{
+ "source": "Pinakes, IRHT (pinakes.irht.cnrs.fr)",
+ "retrieved": "2026-11-24",
+ "oeuvres": {
+  "2032": {
+   "works": [
+    "aelius-promotus-001"
+   ],
+   "witnesses": [
+    {
+     "country": "Vaticano",
+     "city": "Città del Vaticano",
+     "library": "Biblioteca Apostolica Vaticana (BAV)",
+     "fonds": "Vat. gr.",
+     "cote": "0299",
+     "cote_id": "66930",
+     "folios": "473",
+     "century": "14 (3/4)",
+     "date": ""
+    },
+    {
+     "country": "Polska",
+     "city": "Kraków",
+     "library": "Biblioteka Jagiellońska",
+     "fonds": "Berlin, graec.",
+     "cote": "1°.39 (275)",
+     "cote_id": "9110",
+     "folios": "Pars 07. 21",
+     "century": "19",
+     "date": ""
+    },
+    {
+     "country": "Italia",
+     "city": "Milano",
+     "library": "Biblioteca Ambrosiana",
+     "fonds": "Mss.",
+     "cote": "S 003 sup. (Martini-Bassi 728)",
+     "cote_id": "43205",
+     "folios": "",
+     "century": "16",
+     "date": ""
+    }
+   ]
+  },
+  "4646": {
+   "works": [
+    "aelius-promotus-002"
+   ],
+   "witnesses": [
+    {
+     "country": "Vaticano",
+     "city": "Città del Vaticano",
+     "library": "Biblioteca Apostolica Vaticana (BAV)",
+     "fonds": "Vat. gr.",
+     "cote": "0299",
+     "cote_id": "66930",
+     "folios": "451--452v",
+     "century": "14 (3/4)",
+     "date": ""
+    },
+    {
+     "country": "España",
+     "city": "San Lorenzo de El Escorial",
+     "library": "Real Biblioteca",
+     "fonds": "Mss.",
+     "cote": "Φ. I. 02 (Andrés 180)",
+     "cote_id": "15134",
+     "folios": "136-188v",
+     "century": "16",
+     "date": ""
+    },
+    {
+     "country": "Italia",
+     "city": "Venezia",
+     "library": "Biblioteca Nazionale Marciana (BNM)",
+     "fonds": "gr. Z.",
+     "cote": "295 (coll. 0729)",
+     "cote_id": "69766",
+     "folios": "195-274v",
+     "century": "15",
+     "date": "1470"
+    }
+   ]
+  },
+  "11486": {
+   "works": [
+    "aelius-promotus-003"
+   ],
+   "witnesses": [
+    {
+     "country": "Vaticano",
+     "city": "Città del Vaticano",
+     "library": "Biblioteca Apostolica Vaticana (BAV)",
+     "fonds": "Vat. gr.",
+     "cote": "0299",
+     "cote_id": "66930",
+     "folios": "494",
+     "century": "14 (3/4)",
+     "date": ""
+    },
+    {
+     "country": "Hellas",
+     "city": "Hagion Oros",
+     "library": "Μονή Ιβήρων",
+     "fonds": "Mss.",
+     "cote": "0156 (Lambros 4276)",
+     "cote_id": "23753",
+     "folios": "001-2*",
+     "century": "18",
+     "date": ""
+    },
+    {
+     "country": "Nederland",
+     "city": "Leiden",
+     "library": "Universitaire Bibliotheken",
+     "fonds": "Voss.",
+     "cote": "gr. F° 29",
+     "cote_id": "38039",
+     "folios": "003-5",
+     "century": "16",
+     "date": ""
+    },
+    {
+     "country": "Italia",
+     "city": "Milano",
+     "library": "Biblioteca Ambrosiana",
+     "fonds": "Mss.",
+     "cote": "S 003 sup. (Martini-Bassi 728)",
+     "cote_id": "43205",
+     "folios": "114-117*",
+     "century": "16",
+     "date": ""
+    }
+   ]
+  },
+  "9206": {
+   "works": [
+    "aetius-amidenus-001"
+   ],
+   "witnesses": [
+    {
+     "country": "Hellas",
+     "city": "Athēna",
+     "library": "Βιβλιοθήκη της Βουλής",
+     "fonds": "Mss.",
+     "cote": "084",
+     "cote_id": "1180",
+     "folios": "pars 1, 047v-48*",
+     "century": "14",
+     "date": ""
+    },
+    {
+     "country": "Deutschland",
+     "city": "Berlin",
+     "library": "Staatsbibliothek zu Berlin (Preussischer Kulturbesitz)",
+     "fonds": "Phillipps",
+     "cote": "1534 (130)",
+     "cote_id": "9435",
+     "folios": "001-248v*",
+     "century": "15",
+     "date": ""
+    },
+    {
+     "country": "Deutschland",
+     "city": "Berlin",
+     "library": "Staatsbibliothek zu Berlin (Preussischer Kulturbesitz)",
+     "fonds": "Phillipps",
+     "cote": "1534 (130)",
+     "cote_id": "9435",
+     "folios": "001-294v*",
+     "century": "15",
+     "date": ""
+    },
+    {
+     "country": "Deutschland",
+     "city": "Berlin",
+     "library": "Staatsbibliothek zu Berlin (Preussischer Kulturbesitz)",
+     "fonds": "Phillipps",
+     "cote": "1565 (161)",
+     "cote_id": "9466",
+     "folios": "179r-v*,181r-v*",
+     "century": "15",
+     "date": ""
+    },
+    {
+     "country": "Suisse",
+     "city": "Bern",
+     "library": "Burgerbibliothek",
+     "fonds": "Mss.",
+     "cote": "579",
+     "cote_id": "9568",
+     "folios": "097v",
+     "century": "15 (3/4)",
+     "date": ""
+    },
+    {
+     "country": "Italia",
+     "city": "Bologna",
+     "library": "Biblioteca Universitaria",
+     "fonds": "Mss.",
+     "cote": "1808",
+     "cote_id": "9712",
+     "folios": "006-15*",
+     "century": "14 (2/2)",
+     "date": ""
+    },
+    {
+     "country": "Italia",
+     "city": "Bologna",
+     "library": "Biblioteca Universitaria",
+     "fonds": "Mss.",
+     "cote": "1808",
+     "cote_id": "9712",
+     "folios": "015-30v*, 35v-38*, 43v-46v*, 70-72v*, 80-89*, 153-",
+     "century": "14 (2/2)",
+     "date": ""
+    },
+    {
+     "country": "Italia",
+     "city": "Bologna",
+     "library": "Biblioteca Universitaria",
+     "fonds": "Mss.",
+     "cote": "3632",
+     "cote_id": "9761",
+     "folios": "059-60v*",
+     "century": "15",
+     "date": ""
+    },
+    {
+     "country": "Italia",
+     "city": "Bologna",
+     "library": "Biblioteca Universitaria",
+     "fonds": "Mss.",
+     "cote": "3632",
+     "cote_id": "9761",
+     "folios": "114--125, 142--143, 233v--234v*",
+     "century": "15",
+     "date": ""
+    },
+    {
+     "country": "Italia",
+     "city": "Bologna",
+     "library": "Biblioteca Universitaria",
+     "fonds": "Mss.",
+     "cote": "3632",
+     "cote_id": "9761",
+     "folios": "139--171v",
+     "century": "15",
+     "date": ""
+    },
+    {
+     "country": "Italia",
+     "city": "Bologna",
+     "library": "Biblioteca Universitaria",
+     "fonds": "Mss.",
+     "cote": "3632",
+     "cote_id": "9761",
+     "folios": "172v-181",
+     "century": "15",
+     "date": ""
+    },
+    {
+     "country": "Magyarország",
+     "city": "Budapest",
+     "library": "Országos Széchényi Könyvtár",
+     "fonds": "Mss.",
+     "cote": "4° Gr. 06 (Kubinyi 15)",
+     "cote_id": "11736",
+     "folios": "027-29",
+     "century": "16",
+     "date": ""
+    },
+    {
+     "country": "Vaticano",
+     "city": "Città del Vaticano",
+     "library": "Biblioteca Apostolica Vaticana (BAV)",
+     "fonds": "Barb. gr.",
+     "cote": "049",
+     "cote_id": "64597",
+     "folios": "152v-165",
+     "century": "17",
+     "date": ""
+    },
+    {
+     "country": "Vaticano",
+     "city": "Città del Vaticano",
+     "library": "Biblioteca Apostolica Vaticana (BAV)",
+     "fonds": "Barb. gr.",
+     "cote": "127",
+     "cote_id": "64675",
+     "folios": "255-261",
+     "century": "15",
+     "date": ""
+    },
+    {
+     "country": "Vaticano",
+     "city": "Città del Vaticano",
+     "library": "Biblioteca Apostolica Vaticana (BAV)",
+     "fonds": "Ott. gr.",
+     "cote": "311",
+     "cote_id": "65554",
+     "folios": "095v-100*",
+     "century": "15-16",
+     "date": ""
+    },
+    {
+     "country": "Vaticano",
+     "city": "Città del Vaticano",
+     "library": "Biblioteca Apostolica Vaticana (BAV)",
+     "fonds": "Pal. gr.",
+     "cote": "199",
+     "cote_id": "65931",
+     "folios": "101-471*",
+     "century": "13-14",
+     "date": "1300 ca"
+    },
+    {
+     "country": "Vaticano",
+     "city": "Città del Vaticano",
+     "library": "Biblioteca Apostolica Vaticana (BAV)",
+     "fonds": "Pal. gr.",
+     "cote": "358",
+     "cote_id": "66090",
+     "folios": "230r-v*",
+     "century": "15-16",
+     "date": ""
+    },
+    {
+     "country": "Vaticano",
+     "city": "Città del Vaticano",
+     "library": "Biblioteca Apostolica Vaticana (BAV)",
+     "fonds": "Vat. gr.",
+     "cote": "0178",
+     "cote_id": "66809",
+     "folios": "136-166*",
+     "century": "14 med.",
+     "date": ""
+    },
+    {
+     "country": "Vaticano",
+     "city": "Città del Vaticano",
+     "library": "Biblioteca Apostolica Vaticana (BAV)",
+     "fonds": "Vat. gr.",
+     "cote": "0216",
+     "cote_id": "66847",
+     "folios": "010v,12v-13",
+     "century": "14",
+     "date": "1342"
+    },
+    {
+     "country": "Vaticano",
+     "city": "Città del Vaticano",
+     "library": "Biblioteca Apostolica Vaticana (BAV)",
+     "fonds": "Vat. gr.",
+     "cote": "0279",
+     "cote_id": "66910",
+     "folios": "312v--357v",
+     "century": "14",
+     "date": ""
+    },
+    {
+     "country": "Vaticano",
+     "city": "Città del Vaticano",
+     "library": "Biblioteca Apostolica Vaticana (BAV)",
+     "fonds": "Vat. gr.",
+     "cote": "0280",
+     "cote_id": "66911",
+     "folios": "169-176v",
+     "century": "14",
+     "date": ""
+    },
+    {
+     "country": "Vaticano",
+     "city": "Città del Vaticano",
+     "library": "Biblioteca Apostolica Vaticana (BAV)",
+     "fonds": "Vat. gr.",
+     "cote": "0282",
+     "cote_id": "66913",
+     "folios": "146--432v",
+     "century": "15 in.",
+     "date": ""
+    },
+    {
+     "country": "Vaticano",
+     "city": "Città del Vaticano",
+     "library": "Biblioteca Apostolica Vaticana (BAV)",
+     "fonds": "Vat. gr.",
+     "cote": "0297",
+     "cote_id": "66928",
+     "folios": "001-225",
+     "century": "14",
+     "date": ""
+    },
+    {
+     "country": "Vaticano",
+     "city": "Città del Vaticano",
+     "library": "Biblioteca Apostolica Vaticana (BAV)",
+     "fonds": "Vat. gr.",
+     "cote": "0298",
+     "cote_id": "66929",
+     "folios": "004-590v",
+     "century": "14 ex.",
+     "date": "1385-1389"
+    },
+    {
+     "country": "Vaticano",
+     "city": "Città del Vaticano",
+     "library": "Biblioteca Apostolica Vaticana (BAV)",
+     "fonds": "Vat. gr.",
+     "cote": "0298",
+     "cote_id": "66929",
+     "folios": "598v",
+     "century": "14 ex.",
+     "date": "1385-1389"
+    },
+    {
+     "country": "Vaticano",
+     "city": "Città del Vaticano",
+     "library": "Biblioteca Apostolica Vaticana (BAV)",
+     "fonds": "Vat. gr.",
+     "cote": "0299",
+     "cote_id": "66930",
+     "folios": "156-217v*",
+     "century": "14 (3/4)",
+     "date": ""
+    },
+    {
+     "country": "Vaticano",
+     "city": "Città del Vaticano",
+     "library": "Biblioteca Apostolica Vaticana (BAV)",
+     "fonds": "Vat. gr.",
+     "cote": "0495",
+     "cote_id": "67126",
+     "folios": "025",
+     "century": "11-12",
+     "date": ""
+    },
+    {
+     "country": "Vaticano",
+     "city": "Città del Vaticano",
+     "library": "Biblioteca Apostolica Vaticana (BAV)",
+     "fonds": "Vat. gr.",
+     "cote": "1911",
+     "cote_id": "68540",
+     "folios": "001-77v",
+     "century": "14",
+     "date": ""
+    },
+    {
+     "country": "Vaticano",
+     "city": "Città del Vaticano",
+     "library": "Biblioteca Apostolica Vaticana (BAV)",
+     "fonds": "Vat. gr.",
+     "cote": "2202",
+     "cote_id": "68833",
+     "folios": "003-318v",
+     "century": "14",
+     "date": ""
+    },
+    {
+     "country": "Deutschland",
+     "city": "Erlangen",
+     "library": "Universitätsbibliothek",
+     "fonds": "Mss.",
+     "cote": "A 03",
+     "cote_id": "14293",
+     "folios": "1-184v",
+     "century": "15",
+     "date": ""
+    },
+    {
+     "country": "Deutschland",
+     "city": "Erlangen",
+     "library": "Universitätsbibliothek",
+     "fonds": "Mss.",
+     "cote": "A 07",
+     "cote_id": "14297",
+     "folios": "",
+     "century": "16",
+     "date": ""
+    },
+    {
+     "country": "Italia",
+     "city": "Firenze",
+     "library": "Biblioteca Medicea Laurenziana (BML)",
+     "fonds": "Plut.",
+     "cote": "07. 19",
+     "cote_id": "16042",
+     "folios": "221v-222",
+     "century": "14 (1/2)",
+     "date": ""
+    },
+    {
+     "country": "Italia",
+     "city": "Firenze",
+     "library": "Biblioteca Medicea Laurenziana (BML)",
+     "fonds": "Plut.",
+     "cote": "75. 02",
+     "cote_id": "16687",
+     "folios": "",
+     "century": "12",
+     "date": ""
+    },
+    {
+     "country": "Italia",
+     "city": "Firenze",
+     "library": "Biblioteca Medicea Laurenziana (BML)",
+     "fonds": "Plut.",
+     "cote": "75. 05",
+     "cote_id": "16690",
+     "folios": "001-158v",
+     "century": "12 (2/2)",
+     "date": ""
+    },
+    {
+     "country": "Italia",
+     "city": "Firenze",
+     "library": "Biblioteca Medicea Laurenziana (BML)",
+     "fonds": "Plut.",
+     "cote": "75. 05",
+     "cote_id": "16690",
+     "folios": "158v-162v",
+     "century": "12 (2/2)",
+     "date": ""
+    },
+    {
+     "country": "Italia",
+     "city": "Firenze",
+     "library": "Biblioteca Medicea Laurenziana (BML)",
+     "fonds": "Plut.",
+     "cote": "75. 07",
+     "cote_id": "16692",
+     "folios": "001-214",
+     "century": "12 (2/2)",
+     "date": ""
+    },
+    {
+     "country": "Italia",
+     "city": "Firenze",
+     "library": "Biblioteca Medicea Laurenziana (BML)",
+     "fonds": "Plut.",
+     "cote": "75. 08",
+     "cote_id": "16693",
+     "folios": "003v-4*",
+     "century": "15",
+     "date": ""
+    },
+    {
+     "country": "Italia",
+     "city": "Firenze",
+     "library": "Biblioteca Medicea Laurenziana (BML)",
+     "fonds": "Plut.",
+     "cote": "75. 10",
+     "cote_id": "16695",
+     "folios": "055-134v",
+     "century": "13",
+     "date": ""
+    },
+    {
+     "country": "Italia",
+     "city": "Firenze",
+     "library": "Biblioteca Medicea Laurenziana (BML)",
+     "fonds": "Plut.",
+     "cote": "75. 12",
+     "cote_id": "16697",
+     "folios": "",
+     "century": "15",
+     "date": ""
+    },
+    {
+     "country": "Italia",
+     "city": "Firenze",
+     "library": "Biblioteca Medicea Laurenziana (BML)",
+     "fonds": "Plut.",
+     "cote": "75. 13",
+     "cote_id": "16698",
+     "folios": "001-121*",
+     "century": "15",
+     "date": ""
+    },
+    {
+     "country": "Italia",
+     "city": "Firenze",
+     "library": "Biblioteca Medicea Laurenziana (BML)",
+     "fonds": "Plut.",
+     "cote": "75. 18",
+     "cote_id": "16703",
+     "folios": "001-278",
+     "century": "12, 16",
+     "date": ""
+    },
+    {
+     "country": "Italia",
+     "city": "Firenze",
+     "library": "Biblioteca Medicea Laurenziana (BML)",
+     "fonds": "Plut.",
+     "cote": "75. 19",
+     "cote_id": "16704",
+     "folios": "082v--158",
+     "century": "14",
+     "date": ""
+    },
+    {
+     "country": "Italia",
+     "city": "Firenze",
+     "library": "Biblioteca Medicea Laurenziana (BML)",
+     "fonds": "Plut.",
+     "cote": "75. 20",
+     "cote_id": "16705",
+     "folios": "003-255",
+     "century": "12",
+     "date": ""
+    },
+    {
+     "country": "Italia",
+     "city": "Firenze",
+     "library": "Biblioteca Medicea Laurenziana (BML)",
+     "fonds": "Plut.",
+     "cote": "75. 21",
+     "cote_id": "16706",
+     "folios": "001-251*",
+     "century": "13",
+     "date": ""
+    },
+    {
+     "country": "Türkiye",
+     "city": "Gelibolu",
+     "library": "Βιβλιοθήκη Κοινότητος",
+     "fonds": "Mss.",
+     "cote": "38",
+     "cote_id": "17165",
+     "folios": "080-81*",
+     "century": "14",
+     "date": ""
+    },
+    {
+     "country": "Hellas",
+     "city": "Hagion Oros",
+     "library": "Μονή Βατοπεδίου",
+     "fonds": "Mss.",
+     "cote": "0029",
+     "cote_id": "18176",
+     "folios": "001-419v",
+     "century": "15",
+     "date": "1430 ca"
+    },
+    {
+     "country": "Hellas",
+     "city": "Hagion Oros",
+     "library": "Μονή Ιβήρων",
+     "fonds": "Mss.",
+     "cote": "0220 (Lambros 4340)",
+     "cote_id": "23817",
+     "folios": "Item 1S",
+     "century": "17",
+     "date": ""
+    },
+    {
+     "country": "Hellas",
+     "city": "Hagion Oros",
+     "library": "Μονή Μεγίστης Λαύρας",
+     "fonds": "Mss.",
+     "cote": "Ζ 064 (2053)",
+     "cote_id": "27666",
+     "folios": "263-270",
+     "century": "17",
+     "date": ""
+    },
+    {
+     "country": "Hellas",
+     "city": "Hagion Oros",
+     "library": "Μονή Μεγίστης Λαύρας",
+     "fonds": "Mss.",
+     "cote": "Ω 056 (Eustratiades 1866)",
+     "cote_id": "28918",
+     "folios": "081--85*",
+     "century": "18",
+     "date": "1791"
+    },
+    {
+     "country": "Hellas",
+     "city": "Hagion Oros",
+     "library": "Μονή Μεγίστης Λαύρας",
+     "fonds": "Mss.",
+     "cote": "Ω 063 (Eustratiades 1873)",
+     "cote_id": "28925",
+     "folios": "001-543*",
+     "century": "15",
+     "date": "1440"
+    },
+    {
+     "country": "Hellas",
+     "city": "Hagion Oros",
+     "library": "Μονή Μεγίστης Λαύρας",
+     "fonds": "Mss.",
+     "cote": "Ω 064 (Eustratiades 1874)",
+     "cote_id": "28926",
+     "folios": "",
+     "century": "18",
+     "date": ""
+    },
+    {
+     "country": "Hellas",
+     "city": "Hagion Oros",
+     "library": "Μονή Μεγίστης Λαύρας",
+     "fonds": "Mss.",
+     "cote": "Ω 065 (Eustratiades 1875)",
+     "cote_id": "28927",
+     "folios": "1-321v",
+     "century": "13",
+     "date": ""
+    },
+    {
+     "country": "**",
+     "city": "Jerusalem",
+     "library": "Πατριαρχική Βιβλιοθήκη",
+     "fonds": "Παναγίου Τάφου",
+     "cote": "273",
+     "cote_id": "35510",
+     "folios": "001-2*",
+     "century": "18",
+     "date": ""
+    },
+    {
+     "country": "Danmark",
+     "city": "København",
+     "library": "Det Kongelige Bibliotek",
+     "fonds": "GKS",
+     "cote": "1683 4°",
+     "cote_id": "37177",
+     "folios": "082-87",
+     "century": "16",
+     "date": ""
+    },
+    {
+     "country": "Danmark",
+     "city": "København",
+     "library": "Det Kongelige Bibliotek",
+     "fonds": "GKS",
+     "cote": "1683 4°",
+     "cote_id": "37177",
+     "folios": "088r-v",
+     "century": "16",
+     "date": ""
+    },
+    {
+     "country": "Danmark",
+     "city": "København",
+     "library": "Det Kongelige Bibliotek",
+     "fonds": "GKS",
+     "cote": "1683 4°",
+     "cote_id": "37177",
+     "folios": "090-93",
+     "century": "16",
+     "date": ""
+    },
+    {
+     "country": "Danmark",
+     "city": "København",
+     "library": "Det Kongelige Bibliotek",
+     "fonds": "GKS",
+     "cote": "1683 4°",
+     "cote_id": "37177",
+     "folios": "102v-103",
+     "century": "16",
+     "date": ""
+    },
+    {
+     "country": "Danmark",
+     "city": "København",
+     "library": "Det Kongelige Bibliotek",
+     "fonds": "GKS",
+     "cote": "1683 4°",
+     "cote_id": "37177",
+     "folios": "104",
+     "century": "16",
+     "date": ""
+    },
+    {
+     "country": "Polska",
+     "city": "Kraków",
+     "library": "Biblioteka Jagiellońska",
+     "fonds": "Berlin, graec.",
+     "cote": "1°.37 (273)",
+     "cote_id": "9108",
+     "folios": "001-501",
+     "century": "16",
+     "date": ""
+    },
+    {
+     "country": "Polska",
+     "city": "Kraków",
+     "library": "Biblioteka Jagiellońska",
+     "fonds": "Berlin, graec.",
+     "cote": "1°.38 (274)",
+     "cote_id": "9109",
+     "folios": "",
+     "century": "18",
+     "date": ""
+    },
+    {
+     "country": "Polska",
+     "city": "Kraków",
+     "library": "Biblioteka Jagiellońska",
+     "fonds": "Berlin, graec.",
+     "cote": "1°.39 (275)",
+     "cote_id": "9110",
+     "folios": "",
+     "century": "19",
+     "date": ""
+    },
+    {
+     "country": "Nederland",
+     "city": "Leiden",
+     "library": "Universitaire Bibliotheken",
+     "fonds": "BPG",
+     "cote": "006",
+     "cote_id": "37629",
+     "folios": "001-200v",
+     "century": "16 (1/2)",
+     "date": ""
+    },
+    {
+     "country": "Nederland",
+     "city": "Leiden",
+     "library": "Universitaire Bibliotheken",
+     "fonds": "Voss.",
+     "cote": "gr. F° 31",
+     "cote_id": "38041",
+     "folios": "001-6v,7",
+     "century": "16",
+     "date": ""
+    },
+    {
+     "country": "Nederland",
+     "city": "Leiden",
+     "library": "Universitaire Bibliotheken",
+     "fonds": "Voss.",
+     "cote": "gr. F° 32",
+     "cote_id": "38042",
+     "folios": "360-365v",
+     "century": "16",
+     "date": ""
+    },
+    {
+     "country": "Nederland",
+     "city": "Leiden",
+     "library": "Universitaire Bibliotheken",
+     "fonds": "Voss.",
+     "cote": "gr. F° 58",
+     "cote_id": "38068",
+     "folios": "001-232v",
+     "century": "14",
+     "date": ""
+    },
+    {
+     "country": "Nederland",
+     "city": "Leiden",
+     "library": "Universitaire Bibliotheken",
+     "fonds": "Voss.",
+     "cote": "gr. F° 58",
+     "cote_id": "38068",
+     "folios": "236v--242v",
+     "century": "14",
+     "date": ""
+    },
+    {
+     "country": "Nederland",
+     "city": "Leiden",
+     "library": "Universitaire Bibliotheken",
+     "fonds": "Voss.",
+     "cote": "gr. F° 59",
+     "cote_id": "38069",
+     "folios": "276-278*",
+     "century": "15",
+     "date": ""
+    },
+    {
+     "country": "Nederland",
+     "city": "Leiden",
+     "library": "Universitaire Bibliotheken",
+     "fonds": "Voss.",
+     "cote": "gr. O° 18",
+     "cote_id": "38105",
+     "folios": "001--182v",
+     "century": "16",
+     "date": ""
+    },
+    {
+     "country": "Nederland",
+     "city": "Leiden",
+     "library": "Universitaire Bibliotheken",
+     "fonds": "Voss.",
+     "cote": "gr. Q° 20",
+     "cote_id": "38127",
+     "folios": "239v",
+     "century": "13",
+     "date": ""
+    },
+    {
+     "country": "Deutschland",
+     "city": "Leipzig",
+     "library": "Universitätsbibliothek",
+     "fonds": "gr.",
+     "cote": "65",
+     "cote_id": "38380",
+     "folios": "",
+     "century": "19",
+     "date": ""
+    },
+    {
+     "country": "Deutschland",
+     "city": "Leipzig",
+     "library": "Universitätsbibliothek",
+     "fonds": "Rep.",
+     "cote": "I. 36aa",
+     "cote_id": "38421",
+     "folios": "001-407",
+     "century": "18 (1/2)",
+     "date": ""
+    },
+    {
+     "country": "United Kingdom",
+     "city": "London",
+     "library": "British Library (BL)",
+     "fonds": "Add.",
+     "cote": "17900",
+     "cote_id": "38937",
+     "folios": "160v-161",
+     "century": "15",
+     "date": ""
+    },
+    {
+     "country": "United Kingdom",
+     "city": "London",
+     "library": "British Library (BL)",
+     "fonds": "Harley",
+     "cote": "5626",
+     "cote_id": "39586",
+     "folios": "001v-79v",
+     "century": "16 ex.",
+     "date": ""
+    },
+    {
+     "country": "United Kingdom",
+     "city": "London",
+     "library": "British Library (BL)",
+     "fonds": "Royal",
+     "cote": "16 C II",
+     "cote_id": "39780",
+     "folios": "021-36v*",
+     "century": "15 ex.",
+     "date": ""
+    },
+    {
+     "country": "United Kingdom",
+     "city": "London",
+     "library": "British Library (BL)",
+     "fonds": "Sloane",
+     "cote": "2434",
+     "cote_id": "39833",
+     "folios": "",
+     "century": "18",
+     "date": ""
+    },
+    {
+     "country": "United Kingdom",
+     "city": "London",
+     "library": "Wellcome Library for the History of Medicine",
+     "fonds": "MS.MSL",
+     "cote": "052",
+     "cote_id": "39923",
+     "folios": "346r-v",
+     "century": "15 med.",
+     "date": ""
+    },
+    {
+     "country": "United Kingdom",
+     "city": "London",
+     "library": "Wellcome Library for the History of Medicine",
+     "fonds": "MS.MSL",
+     "cote": "109",
+     "cote_id": "39926",
+     "folios": "001-316",
+     "century": "16 in.",
+     "date": ""
+    },
+    {
+     "country": "Italia",
+     "city": "Messina",
+     "library": "Biblioteca Regionale Universitaria 'Giacomo Longo'",
+     "fonds": "S.S. Salvatore",
+     "cote": "084",
+     "cote_id": "40745",
+     "folios": "",
+     "century": "10",
+     "date": ""
+    },
+    {
+     "country": "Italia",
+     "city": "Milano",
+     "library": "Biblioteca Ambrosiana",
+     "fonds": "Mss.",
+     "cote": "A 175 sup. (Martini-Bassi 68)",
+     "cote_id": "42263",
+     "folios": "II",
+     "century": "14 (1/3)",
+     "date": ""
+    },
+    {
+     "country": "Italia",
+     "city": "Milano",
+     "library": "Biblioteca Ambrosiana",
+     "fonds": "Mss.",
+     "cote": "N 248 sup. (Martini-Bassi 572)",
+     "cote_id": "43048",
+     "folios": "030-31v",
+     "century": "16 in.",
+     "date": ""
+    },
+    {
+     "country": "Italia",
+     "city": "Modena",
+     "library": "Biblioteca Estense universitaria",
+     "fonds": "Mss.",
+     "cote": "α. U. 9. 04 (Puntoni 61)",
+     "cote_id": "43471",
+     "folios": "029v",
+     "century": "15 ex",
+     "date": ""
+    },
+    {
+     "country": "Rossijskaja Federacija",
+     "city": "Moskva",
+     "library": "Государственный Исторический музей (ГИМ)",
+     "fonds": "Син. гр.",
+     "cote": "508 (Vlad. 468)",
+     "cote_id": "44133",
+     "folios": "152-161*",
+     "century": "16",
+     "date": ""
+    },
+    {
+     "country": "Deutschland",
+     "city": "München",
+     "library": "Bayerische Staatsbibliothek (BSB)",
+     "fonds": "Cod.graec.",
+     "cote": "105",
+     "cote_id": "44549",
+     "folios": "345r-v",
+     "century": "16",
+     "date": "1555 ca"
+    },
+    {
+     "country": "Deutschland",
+     "city": "München",
+     "library": "Bayerische Staatsbibliothek (BSB)",
+     "fonds": "Cod.graec.",
+     "cote": "494",
+     "cote_id": "44942",
+     "folios": "015",
+     "century": "16 in.",
+     "date": ""
+    },
+    {
+     "country": "Deutschland",
+     "city": "München",
+     "library": "Bayerische Staatsbibliothek (BSB)",
+     "fonds": "Cod.graec.",
+     "cote": "633",
+     "cote_id": "45083",
+     "folios": "099--172",
+     "century": "13, 14-15",
+     "date": ""
+    },
+    {
+     "country": "Italia",
+     "city": "Napoli",
+     "library": "Biblioteca Nazionale Vittorio Emanuele III",
+     "fonds": "ex-Vind. gr.",
+     "cote": "18",
+     "cote_id": "45974",
+     "folios": "050v",
+     "century": "16 in.",
+     "date": ""
+    },
+    {
+     "country": "Česká republika",
+     "city": "Nelahozeves",
+     "library": "Zamek. Roudnická Lobkowiczká knihovna",
+     "fonds": "Mss.",
+     "cote": "VI Fc 37",
+     "cote_id": "46463",
+     "folios": "p. 003-139",
+     "century": "14 (1/2)",
+     "date": ""
+    },
+    {
+     "country": "Česká republika",
+     "city": "Nelahozeves",
+     "library": "Zamek. Roudnická Lobkowiczká knihovna",
+     "fonds": "Mss.",
+     "cote": "VI Fc 37",
+     "cote_id": "46463",
+     "folios": "p. 142-728",
+     "century": "14 (1/2)",
+     "date": ""
+    },
+    {
+     "country": "Česká republika",
+     "city": "Nelahozeves",
+     "library": "Zamek. Roudnická Lobkowiczká knihovna",
+     "fonds": "Mss.",
+     "cote": "VI Fc 37",
+     "cote_id": "46463",
+     "folios": "p. 509-*",
+     "century": "",
+     "date": ""
+    },
+    {
+     "country": "United Kingdom",
+     "city": "Oxford",
+     "library": "Bodleian Library",
+     "fonds": "Auct.",
+     "cote": "T. 1. 11 (Misc. 189)",
+     "cote_id": "47137",
+     "folios": "001r-v",
+     "century": "15 (2/2)",
+     "date": ""
+    },
+    {
+     "country": "United Kingdom",
+     "city": "Oxford",
+     "library": "Bodleian Library",
+     "fonds": "Barocci",
+     "cote": "088",
+     "cote_id": "47375",
+     "folios": "109-170*",
+     "century": "15",
+     "date": ""
+    },
+    {
+     "country": "United Kingdom",
+     "city": "Oxford",
+     "library": "Bodleian Library",
+     "fonds": "Canon. gr.",
+     "cote": "109",
+     "cote_id": "47659",
+     "folios": "",
+     "century": "14",
+     "date": ""
+    },
+    {
+     "country": "United Kingdom",
+     "city": "Oxford",
+     "library": "Bodleian Library",
+     "fonds": "Holkham",
+     "cote": "gr. 108",
+     "cote_id": "48176",
+     "folios": "",
+     "century": "16",
+     "date": ""
+    },
+    {
+     "country": "United Kingdom",
+     "city": "Oxford",
+     "library": "Bodleian Library",
+     "fonds": "Laud",
+     "cote": "gr. 60",
+     "cote_id": "48281",
+     "folios": "",
+     "century": "16",
+     "date": ""
+    },
+    {
+     "country": "United Kingdom",
+     "city": "Oxford",
+     "library": "Bodleian Library",
+     "fonds": "Roe",
+     "cote": "14",
+     "cote_id": "48396",
+     "folios": "282-305v*",
+     "century": "14-15",
+     "date": ""
+    },
+    {
+     "country": "Italia",
+     "city": "Palermo",
+     "library": "Biblioteca centrale della Regione siciliana “Alberto Bombace”",
+     "fonds": "Mss.",
+     "cote": "XIII. C. 03",
+     "cote_id": "48905",
+     "folios": "940-1047",
+     "century": "16",
+     "date": ""
+    },
+    {
+     "country": "France",
+     "city": "Paris",
+     "library": "Bibliothèque interuniversitaire de santé – médecine",
+     "fonds": "Mss.",
+     "cote": "2105",
+     "cote_id": "49114",
+     "folios": "p. 001-603*",
+     "century": "16-17",
+     "date": ""
+    },
+    {
+     "country": "France",
+     "city": "Paris",
+     "library": "Bibliothèque nationale de France (BNF)",
+     "fonds": "Grec",
+     "cote": "1043",
+     "cote_id": "50636",
+     "folios": "133v-150",
+     "century": "15",
+     "date": ""
+    },
+    {
+     "country": "France",
+     "city": "Paris",
+     "library": "Bibliothèque nationale de France (BNF)",
+     "fonds": "Grec",
+     "cote": "1630",
+     "cote_id": "51252",
+     "folios": "111-112",
+     "century": "14 (1/2)",
+     "date": ""
+    },
+    {
+     "country": "France",
+     "city": "Paris",
+     "library": "Bibliothèque nationale de France (BNF)",
+     "fonds": "Grec",
+     "cote": "1883",
+     "cote_id": "51509",
+     "folios": "180v-720",
+     "century": "14",
+     "date": ""
+    },
+    {
+     "country": "France",
+     "city": "Paris",
+     "library": "Bibliothèque nationale de France (BNF)",
+     "fonds": "Grec",
+     "cote": "2180",
+     "cote_id": "51809",
+     "folios": "057-58v, 74v",
+     "century": "15 (2/2)",
+     "date": ""
+    },
+    {
+     "country": "France",
+     "city": "Paris",
+     "library": "Bibliothèque nationale de France (BNF)",
+     "fonds": "Grec",
+     "cote": "2191",
+     "cote_id": "51820",
+     "folios": "001-344*",
+     "century": "14",
+     "date": ""
+    },
+    {
+     "country": "France",
+     "city": "Paris",
+     "library": "Bibliothèque nationale de France (BNF)",
+     "fonds": "Grec",
+     "cote": "2192",
+     "cote_id": "51821",
+     "folios": "001--316v*",
+     "century": "15",
+     "date": ""
+    },
+    {
+     "country": "France",
+     "city": "Paris",
+     "library": "Bibliothèque nationale de France (BNF)",
+     "fonds": "Grec",
+     "cote": "2193",
+     "cote_id": "51822",
+     "folios": "001-402*",
+     "century": "15",
+     "date": ""
+    },
+    {
+     "country": "France",
+     "city": "Paris",
+     "library": "Bibliothèque nationale de France (BNF)",
+     "fonds": "Grec",
+     "cote": "2194",
+     "cote_id": "51823",
+     "folios": "003-399v",
+     "century": "15 med.",
+     "date": ""
+    },
+    {
+     "country": "France",
+     "city": "Paris",
+     "library": "Bibliothèque nationale de France (BNF)",
+     "fonds": "Grec",
+     "cote": "2195",
+     "cote_id": "51824",
+     "folios": "001-467v",
+     "century": "13",
+     "date": ""
+    },
+    {
+     "country": "France",
+     "city": "Paris",
+     "library": "Bibliothèque nationale de France (BNF)",
+     "fonds": "Grec",
+     "cote": "2196",
+     "cote_id": "51825",
+     "folios": "001-286v*",
+     "century": "11",
+     "date": ""
+    },
+    {
+     "country": "France",
+     "city": "Paris",
+     "library": "Bibliothèque nationale de France (BNF)",
+     "fonds": "Grec",
+     "cote": "2197",
+     "cote_id": "51826",
+     "folios": "001-196v*",
+     "century": "16",
+     "date": ""
+    },
+    {
+     "country": "France",
+     "city": "Paris",
+     "library": "Bibliothèque nationale de France (BNF)",
+     "fonds": "Grec",
+     "cote": "2198",
+     "cote_id": "51827",
+     "folios": "001-532v*",
+     "century": "16",
+     "date": "1522"
+    },
+    {
+     "country": "France",
+     "city": "Paris",
+     "library": "Bibliothèque nationale de France (BNF)",
+     "fonds": "Grec",
+     "cote": "2199",
+     "cote_id": "51828",
+     "folios": "001-520v*",
+     "century": "16",
+     "date": ""
+    },
+    {
+     "country": "France",
+     "city": "Paris",
+     "library": "Bibliothèque nationale de France (BNF)",
+     "fonds": "Grec",
+     "cote": "2228",
+     "cote_id": "51857",
+     "folios": "150-189",
+     "century": "11 ex - 12",
+     "date": ""
+    },
+    {
+     "country": "France",
+     "city": "Paris",
+     "library": "Bibliothèque nationale de France (BNF)",
+     "fonds": "Grec",
+     "cote": "2228",
+     "cote_id": "51857",
+     "folios": "189-232v",
+     "century": "11 ex - 12",
+     "date": ""
+    },
+    {
+     "country": "France",
+     "city": "Paris",
+     "library": "Bibliothèque nationale de France (BNF)",
+     "fonds": "Grec",
+     "cote": "2228",
+     "cote_id": "51857",
+     "folios": "232v-242v",
+     "century": "11 ex - 12",
+     "date": ""
+    },
+    {
+     "country": "France",
+     "city": "Paris",
+     "library": "Bibliothèque nationale de France (BNF)",
+     "fonds": "Grec",
+     "cote": "2230",
+     "cote_id": "51859",
+     "folios": "156-220v*",
+     "century": "14",
+     "date": ""
+    },
+    {
+     "country": "France",
+     "city": "Paris",
+     "library": "Bibliothèque nationale de France (BNF)",
+     "fonds": "Grec",
+     "cote": "2237",
+     "cote_id": "51866",
+     "folios": "163-314v",
+     "century": "13 ex.-14 in.",
+     "date": ""
+    },
+    {
+     "country": "France",
+     "city": "Paris",
+     "library": "Bibliothèque nationale de France (BNF)",
+     "fonds": "Grec",
+     "cote": "2256",
+     "cote_id": "51886",
+     "folios": "034-142",
+     "century": "15",
+     "date": ""
+    },
+    {
+     "country": "France",
+     "city": "Paris",
+     "library": "Bibliothèque nationale de France (BNF)",
+     "fonds": "Grec",
+     "cote": "2256",
+     "cote_id": "51886",
+     "folios": "562-565",
+     "century": "15",
+     "date": ""
+    },
+    {
+     "country": "France",
+     "city": "Paris",
+     "library": "Bibliothèque nationale de France (BNF)",
+     "fonds": "Grec",
+     "cote": "2270",
+     "cote_id": "51900",
+     "folios": "177-230v",
+     "century": "14",
+     "date": ""
+    },
+    {
+     "country": "France",
+     "city": "Paris",
+     "library": "Bibliothèque nationale de France (BNF)",
+     "fonds": "Grec",
+     "cote": "2286",
+     "cote_id": "51916",
+     "folios": "133r-v",
+     "century": "14 med.",
+     "date": ""
+    },
+    {
+     "country": "France",
+     "city": "Paris",
+     "library": "Bibliothèque nationale de France (BNF)",
+     "fonds": "Grec",
+     "cote": "2381",
+     "cote_id": "52013",
+     "folios": "080v-81",
+     "century": "14 (4/4)",
+     "date": ""
+    },
+    {
+     "country": "France",
+     "city": "Paris",
+     "library": "Bibliothèque nationale de France (BNF)",
+     "fonds": "Grec",
+     "cote": "2847",
+     "cote_id": "52485",
+     "folios": "139--141*",
+     "century": "16",
+     "date": ""
+    },
+    {
+     "country": "France",
+     "city": "Paris",
+     "library": "Bibliothèque nationale de France (BNF)",
+     "fonds": "Supplément grec",
+     "cote": "0020",
+     "cote_id": "52791",
+     "folios": "274--275v",
+     "century": "17",
+     "date": ""
+    },
+    {
+     "country": "France",
+     "city": "Paris",
+     "library": "Bibliothèque nationale de France (BNF)",
+     "fonds": "Supplément grec",
+     "cote": "0630",
+     "cote_id": "53365",
+     "folios": "",
+     "century": "14",
+     "date": ""
+    },
+    {
+     "country": "France",
+     "city": "Paris",
+     "library": "Bibliothèque nationale de France (BNF)",
+     "fonds": "Supplément grec",
+     "cote": "0631",
+     "cote_id": "53366",
+     "folios": "",
+     "century": "11",
+     "date": ""
+    },
+    {
+     "country": "France",
+     "city": "Paris",
+     "library": "Bibliothèque nationale de France (BNF)",
+     "fonds": "Supplément grec",
+     "cote": "0632",
+     "cote_id": "53367",
+     "folios": "",
+     "century": "19",
+     "date": ""
+    },
+    {
+     "country": "France",
+     "city": "Paris",
+     "library": "Bibliothèque nationale de France (BNF)",
+     "fonds": "Supplément grec",
+     "cote": "0637",
+     "cote_id": "53372",
+     "folios": "067v--75*",
+     "century": "15",
+     "date": ""
+    },
+    {
+     "country": "France",
+     "city": "Paris",
+     "library": "Bibliothèque nationale de France (BNF)",
+     "fonds": "Supplément grec",
+     "cote": "0683",
+     "cote_id": "53418",
+     "folios": "01v-5*, item 2",
+     "century": "18",
+     "date": ""
+    },
+    {
+     "country": "France",
+     "city": "Paris",
+     "library": "Bibliothèque nationale de France (BNF)",
+     "fonds": "Supplément grec",
+     "cote": "0683",
+     "cote_id": "53418",
+     "folios": "55v-58v*",
+     "century": "16",
+     "date": ""
+    },
+    {
+     "country": "France",
+     "city": "Paris",
+     "library": "Bibliothèque nationale de France (BNF)",
+     "fonds": "Supplément grec",
+     "cote": "1240",
+     "cote_id": "53904",
+     "folios": "",
+     "century": "12-19",
+     "date": ""
+    },
+    {
+     "country": "France",
+     "city": "Paris",
+     "library": "Bibliothèque nationale de France (BNF)",
+     "fonds": "Supplément grec",
+     "cote": "1252",
+     "cote_id": "53916",
+     "folios": "005v",
+     "century": "19",
+     "date": ""
+    },
+    {
+     "country": "Hellas",
+     "city": "Patmos",
+     "library": "Μονή Αγίου Ιωάννου του Θεολόγου",
+     "fonds": "Mss.",
+     "cote": "0277",
+     "cote_id": "54521",
+     "folios": "",
+     "century": "17",
+     "date": ""
+    },
+    {
+     "country": "Italia",
+     "city": "Roma",
+     "library": "Biblioteca Angelica",
+     "fonds": "gr.",
+     "cote": "017",
+     "cote_id": "55924",
+     "folios": "141--236",
+     "century": "14",
+     "date": ""
+    },
+    {
+     "country": "España",
+     "city": "San Lorenzo de El Escorial",
+     "library": "Real Biblioteca",
+     "fonds": "Mss.",
+     "cote": "67. VI. 15 (Andrés 634)",
+     "cote_id": "14941",
+     "folios": "",
+     "century": "",
+     "date": ""
+    },
+    {
+     "country": "España",
+     "city": "San Lorenzo de El Escorial",
+     "library": "Real Biblioteca",
+     "fonds": "Mss.",
+     "cote": "R. I. 12 (Revilla 012)",
+     "cote_id": "15284",
+     "folios": "001-290",
+     "century": "15",
+     "date": ""
+    },
+    {
+     "country": "España",
+     "city": "San Lorenzo de El Escorial",
+     "library": "Real Biblioteca",
+     "fonds": "Mss.",
+     "cote": "R. III. 03 (Revilla 037)",
+     "cote_id": "15308",
+     "folios": "141v-153v",
+     "century": "11",
+     "date": ""
+    },
+    {
+     "country": "España",
+     "city": "San Lorenzo de El Escorial",
+     "library": "Real Biblioteca",
+     "fonds": "Mss.",
+     "cote": "Δ. IV. 03 (Andrés 248) [ms. détruit]",
+     "cote_id": "14477",
+     "folios": "041-48*",
+     "century": "",
+     "date": ""
+    },
+    {
+     "country": "España",
+     "city": "San Lorenzo de El Escorial",
+     "library": "Real Biblioteca",
+     "fonds": "Mss.",
+     "cote": "Δ. IV. 18 (Andrés 260) [ms. détruit]",
+     "cote_id": "14489",
+     "folios": "125",
+     "century": "",
+     "date": ""
+    },
+    {
+     "country": "España",
+     "city": "San Lorenzo de El Escorial",
+     "library": "Real Biblioteca",
+     "fonds": "Mss.",
+     "cote": "Δ. IV. 21 (Andrés 263) [ms. détruit]",
+     "cote_id": "14492",
+     "folios": "213-217",
+     "century": "",
+     "date": ""
+    },
+    {
+     "country": "España",
+     "city": "San Lorenzo de El Escorial",
+     "library": "Real Biblioteca",
+     "fonds": "Mss.",
+     "cote": "Δ. IV. 21 (Andrés 263) [ms. détruit]",
+     "cote_id": "14492",
+     "folios": "372",
+     "century": "",
+     "date": ""
+    },
+    {
+     "country": "España",
+     "city": "San Lorenzo de El Escorial",
+     "library": "Real Biblioteca",
+     "fonds": "Mss.",
+     "cote": "Ε. IV. 23 (Andrés 316) [ms. détruit]",
+     "cote_id": "14541",
+     "folios": "",
+     "century": "",
+     "date": ""
+    },
+    {
+     "country": "España",
+     "city": "San Lorenzo de El Escorial",
+     "library": "Real Biblioteca",
+     "fonds": "Mss.",
+     "cote": "Σ. III. 17 (Revilla 116)",
+     "cote_id": "15387",
+     "folios": "001-24v, 102-109v, 220-227v",
+     "century": "15",
+     "date": ""
+    },
+    {
+     "country": "España",
+     "city": "San Lorenzo de El Escorial",
+     "library": "Real Biblioteca",
+     "fonds": "Mss.",
+     "cote": "Τ. II. 14 (Revilla 153)",
+     "cote_id": "15425",
+     "folios": "199v-234",
+     "century": "15",
+     "date": ""
+    },
+    {
+     "country": "España",
+     "city": "San Lorenzo de El Escorial",
+     "library": "Real Biblioteca",
+     "fonds": "Mss.",
+     "cote": "Φ. I. 06 (Andrés 184)",
+     "cote_id": "15138",
+     "folios": "",
+     "century": "16",
+     "date": ""
+    },
+    {
+     "country": "España",
+     "city": "San Lorenzo de El Escorial",
+     "library": "Real Biblioteca",
+     "fonds": "Mss.",
+     "cote": "Φ. II. 15 (Andrés 212)",
+     "cote_id": "15166",
+     "folios": "001--154v",
+     "century": "13-14",
+     "date": ""
+    },
+    {
+     "country": "España",
+     "city": "San Lorenzo de El Escorial",
+     "library": "Real Biblioteca",
+     "fonds": "Mss.",
+     "cote": "Ψ. II. 17 (Andrés 452)",
+     "cote_id": "15223",
+     "folios": "040v-43(SECUNDO)",
+     "century": "15",
+     "date": ""
+    },
+    {
+     "country": "España",
+     "city": "San Lorenzo de El Escorial",
+     "library": "Real Biblioteca",
+     "fonds": "Mss.",
+     "cote": "Ψ. IV. 14 (Andrés 488)",
+     "cote_id": "15259",
+     "folios": "001-370*",
+     "century": "13, 15",
+     "date": ""
+    },
+    {
+     "country": "España",
+     "city": "San Lorenzo de El Escorial",
+     "library": "Real Biblioteca",
+     "fonds": "Mss.",
+     "cote": "Ω. I. 08 (Andrés 509)",
+     "cote_id": "15058",
+     "folios": "001--9",
+     "century": "14",
+     "date": ""
+    },
+    {
+     "country": "España",
+     "city": "San Lorenzo de El Escorial",
+     "library": "Real Biblioteca",
+     "fonds": "Mss.",
+     "cote": "Ω. I. 08 (Andrés 509)",
+     "cote_id": "15058",
+     "folios": "009--384v",
+     "century": "14",
+     "date": ""
+    },
+    {
+     "country": "Rossijskaja Federacija",
+     "city": "Sankt-Peterburg",
+     "library": "Российская Национальная Библиотека (РНБ)",
+     "fonds": "Ф. № 906 (Греч.)",
+     "cote": "115a (Granstrem 173)",
+     "cote_id": "57187",
+     "folios": "001-6v",
+     "century": "10-11",
+     "date": ""
+    },
+    {
+     "country": "Türkiye",
+     "city": "Selçuk",
+     "library": "Αστική Σχολή",
+     "fonds": "Mss.",
+     "cote": "sine numero",
+     "cote_id": "58085",
+     "folios": "",
+     "century": "19",
+     "date": ""
+    },
+    {
+     "country": "Bălgarija",
+     "city": "Sofiâ",
+     "library": "Българска академия на науките (БАН)",
+     "fonds": "Mss.",
+     "cote": "gr. 05",
+     "cote_id": "61878",
+     "folios": "1--8v",
+     "century": "12 (2/2)",
+     "date": ""
+    },
+    {
+     "country": "Bălgarija",
+     "city": "Sofiâ",
+     "library": "Българска академия на науките (БАН)",
+     "fonds": "Mss.",
+     "cote": "gr. 05",
+     "cote_id": "61878",
+     "folios": "1-2v",
+     "century": "12 (2/2)",
+     "date": ""
+    },
+    {
+     "country": "Bălgarija",
+     "city": "Sofiâ",
+     "library": "Българска академия на науките (БАН)",
+     "fonds": "Mss.",
+     "cote": "gr. 05",
+     "cote_id": "61878",
+     "folios": "3-8v",
+     "century": "12 (2/2)",
+     "date": ""
+    },
+    {
+     "country": "Italia",
+     "city": "Torino",
+     "library": "Biblioteca Nazionale Universitaria",
+     "fonds": "Mss.",
+     "cote": "B. I. 06 (Pasini 006)",
+     "cote_id": "63626",
+     "folios": "187v-190v",
+     "century": "16 med.",
+     "date": ""
+    },
+    {
+     "country": "Italia",
+     "city": "Venezia",
+     "library": "Biblioteca Nazionale Marciana (BNM)",
+     "fonds": "gr.",
+     "cote": "II. 171 (coll. 0445)",
+     "cote_id": "70340",
+     "folios": "057-241, 289-296v",
+     "century": "17",
+     "date": ""
+    },
+    {
+     "country": "Italia",
+     "city": "Venezia",
+     "library": "Biblioteca Nazionale Marciana (BNM)",
+     "fonds": "gr.",
+     "cote": "V. 008 (coll. 1334)",
+     "cote_id": "70496",
+     "folios": "156--157v",
+     "century": "14",
+     "date": ""
+    },
+    {
+     "country": "Italia",
+     "city": "Venezia",
+     "library": "Biblioteca Nazionale Marciana (BNM)",
+     "fonds": "gr.",
+     "cote": "V. 013 (coll. 1221)",
+     "cote_id": "70501",
+     "folios": "136-138v",
+     "century": "14",
+     "date": "1376"
+    },
+    {
+     "country": "Italia",
+     "city": "Venezia",
+     "library": "Biblioteca Nazionale Marciana (BNM)",
+     "fonds": "gr.",
+     "cote": "V. 016 (coll. 1318)",
+     "cote_id": "70504",
+     "folios": "042v--79v",
+     "century": "16 in.",
+     "date": ""
+    },
+    {
+     "country": "Italia",
+     "city": "Venezia",
+     "library": "Biblioteca Nazionale Marciana (BNM)",
+     "fonds": "gr.",
+     "cote": "V. 016 (coll. 1318)",
+     "cote_id": "70504",
+     "folios": "154v-155",
+     "century": "16 in.",
+     "date": ""
+    },
+    {
+     "country": "Italia",
+     "city": "Venezia",
+     "library": "Biblioteca Nazionale Marciana (BNM)",
+     "fonds": "gr. Z.",
+     "cote": "289 (coll. 0627)",
+     "cote_id": "69760",
+     "folios": "002-332v",
+     "century": "15 med.",
+     "date": ""
+    },
+    {
+     "country": "Italia",
+     "city": "Venezia",
+     "library": "Biblioteca Nazionale Marciana (BNM)",
+     "fonds": "gr. Z.",
+     "cote": "290 (coll. 0628)",
+     "cote_id": "69761",
+     "folios": "002-303v",
+     "century": "15 med.",
+     "date": ""
+    },
+    {
+     "country": "Italia",
+     "city": "Venezia",
+     "library": "Biblioteca Nazionale Marciana (BNM)",
+     "fonds": "gr. Z.",
+     "cote": "291 (coll. 0298)",
+     "cote_id": "69762",
+     "folios": "005-448v",
+     "century": "15 in.",
+     "date": ""
+    },
+    {
+     "country": "Italia",
+     "city": "Venezia",
+     "library": "Biblioteca Nazionale Marciana (BNM)",
+     "fonds": "gr. Z.",
+     "cote": "291 (coll. 0298)",
+     "cote_id": "69762",
+     "folios": "451r-v",
+     "century": "15 in.",
+     "date": ""
+    },
+    {
+     "country": "Italia",
+     "city": "Venezia",
+     "library": "Biblioteca Nazionale Marciana (BNM)",
+     "fonds": "gr. Z.",
+     "cote": "517 (coll. 0886)",
+     "cote_id": "69988",
+     "folios": "124-125",
+     "century": "15 med.",
+     "date": ""
+    },
+    {
+     "country": "Italia",
+     "city": "Venezia",
+     "library": "Biblioteca Nazionale Marciana (BNM)",
+     "fonds": "gr. Z.",
+     "cote": "596 (coll. 0867)",
+     "cote_id": "70067",
+     "folios": "004-280",
+     "century": "14 (2/2)",
+     "date": ""
+    },
+    {
+     "country": "Österreich",
+     "city": "Wien",
+     "library": "Österreichische Nationalbibliothek (ÖNB)",
+     "fonds": "med. gr.",
+     "cote": "05",
+     "cote_id": "71030",
+     "folios": "9",
+     "century": "16",
+     "date": ""
+    },
+    {
+     "country": "Österreich",
+     "city": "Wien",
+     "library": "Österreichische Nationalbibliothek (ÖNB)",
+     "fonds": "med. gr.",
+     "cote": "06",
+     "cote_id": "71031",
+     "folios": "003-272v, 273-275v",
+     "century": "13",
+     "date": ""
+    },
+    {
+     "country": "Österreich",
+     "city": "Wien",
+     "library": "Österreichische Nationalbibliothek (ÖNB)",
+     "fonds": "med. gr.",
+     "cote": "06",
+     "cote_id": "71031",
+     "folios": "III",
+     "century": "13",
+     "date": ""
+    },
+    {
+     "country": "Österreich",
+     "city": "Wien",
+     "library": "Österreichische Nationalbibliothek (ÖNB)",
+     "fonds": "med. gr.",
+     "cote": "12",
+     "cote_id": "71037",
+     "folios": "001--269v",
+     "century": "14",
+     "date": ""
+    },
+    {
+     "country": "Österreich",
+     "city": "Wien",
+     "library": "Österreichische Nationalbibliothek (ÖNB)",
+     "fonds": "med. gr.",
+     "cote": "25",
+     "cote_id": "71050",
+     "folios": "103-121",
+     "century": "15 (2/2)",
+     "date": ""
+    },
+    {
+     "country": "Österreich",
+     "city": "Wien",
+     "library": "Österreichische Nationalbibliothek (ÖNB)",
+     "fonds": "med. gr.",
+     "cote": "28",
+     "cote_id": "71053",
+     "folios": "115v-135v",
+     "century": "14 ex.",
+     "date": ""
+    },
+    {
+     "country": "Österreich",
+     "city": "Wien",
+     "library": "Österreichische Nationalbibliothek (ÖNB)",
+     "fonds": "med. gr.",
+     "cote": "32",
+     "cote_id": "71057",
+     "folios": "110",
+     "century": "16",
+     "date": "1529"
+    },
+    {
+     "country": "Österreich",
+     "city": "Wien",
+     "library": "Österreichische Nationalbibliothek (ÖNB)",
+     "fonds": "med. gr.",
+     "cote": "37",
+     "cote_id": "71062",
+     "folios": "001-3v,8-9v, 30v, 39-46*",
+     "century": "14",
+     "date": ""
+    },
+    {
+     "country": "Österreich",
+     "city": "Wien",
+     "library": "Österreichische Nationalbibliothek (ÖNB)",
+     "fonds": "med. gr.",
+     "cote": "37",
+     "cote_id": "71062",
+     "folios": "070-74v",
+     "century": "14",
+     "date": ""
+    },
+    {
+     "country": "Österreich",
+     "city": "Wien",
+     "library": "Österreichische Nationalbibliothek (ÖNB)",
+     "fonds": "med. gr.",
+     "cote": "37",
+     "cote_id": "71062",
+     "folios": "078-79v",
+     "century": "14",
+     "date": ""
+    },
+    {
+     "country": "Österreich",
+     "city": "Wien",
+     "library": "Österreichische Nationalbibliothek (ÖNB)",
+     "fonds": "med. gr.",
+     "cote": "37",
+     "cote_id": "71062",
+     "folios": "084-94v,96-119",
+     "century": "14",
+     "date": ""
+    },
+    {
+     "country": "Österreich",
+     "city": "Wien",
+     "library": "Österreichische Nationalbibliothek (ÖNB)",
+     "fonds": "med. gr.",
+     "cote": "52",
+     "cote_id": "71077",
+     "folios": "036v-38v",
+     "century": "14 (1/2)",
+     "date": ""
+    },
+    {
+     "country": "Österreich",
+     "city": "Wien",
+     "library": "Österreichische Nationalbibliothek (ÖNB)",
+     "fonds": "suppl. gr.",
+     "cote": "008",
+     "cote_id": "71469",
+     "folios": "Pars I. 1-274v, Pars II. 1-314v",
+     "century": "16",
+     "date": ""
+    },
+    {
+     "country": "Österreich",
+     "city": "Wien",
+     "library": "Österreichische Nationalbibliothek (ÖNB)",
+     "fonds": "suppl. gr.",
+     "cote": "081",
+     "cote_id": "71544",
+     "folios": "001-307v",
+     "century": "16",
+     "date": "1523"
+    }
+   ]
+  },
+  "2648": {
+   "works": [
+    "alexander-trallianus-001"
+   ],
+   "witnesses": [
+    {
+     "country": "Vaticano",
+     "city": "Città del Vaticano",
+     "library": "Biblioteca Apostolica Vaticana (BAV)",
+     "fonds": "Vat. gr.",
+     "cote": "0299",
+     "cote_id": "66930",
+     "folios": "291v, 298, 345",
+     "century": "14 (3/4)",
+     "date": ""
+    },
+    {
+     "country": "Vaticano",
+     "city": "Città del Vaticano",
+     "library": "Biblioteca Apostolica Vaticana (BAV)",
+     "fonds": "Vat. gr.",
+     "cote": "1896",
+     "cote_id": "68525",
+     "folios": "256r-v",
+     "century": "16",
+     "date": ""
+    },
+    {
+     "country": "France",
+     "city": "Paris",
+     "library": "Bibliothèque nationale de France (BNF)",
+     "fonds": "Grec",
+     "cote": "1831",
+     "cote_id": "51457",
+     "folios": "121v-126v",
+     "century": "15 ex.",
+     "date": ""
+    },
+    {
+     "country": "España",
+     "city": "San Lorenzo de El Escorial",
+     "library": "Real Biblioteca",
+     "fonds": "Mss.",
+     "cote": "Ε. IV. 15 (Andrés 311) [ms. détruit]",
+     "cote_id": "14538",
+     "folios": "001-38*",
+     "century": "",
+     "date": ""
+    }
+   ]
+  },
+  "13005": {
+   "works": [
+    "alexander-trallianus-003"
+   ],
+   "witnesses": [
+    {
+     "country": "Deutschland",
+     "city": "Berlin",
+     "library": "Staatsbibliothek zu Berlin (Preussischer Kulturbesitz)",
+     "fonds": "Phillipps",
+     "cote": "1535 (131)",
+     "cote_id": "9436",
+     "folios": "",
+     "century": "",
+     "date": ""
+    },
+    {
+     "country": "United Kingdom",
+     "city": "Cambridge",
+     "library": "Gonville & Caius College",
+     "fonds": "Mss.",
+     "cote": "077 (44)",
+     "cote_id": "11866",
+     "folios": "001-173*",
+     "century": "15 ex. - 16 in.",
+     "date": ""
+    },
+    {
+     "country": "Vaticano",
+     "city": "Città del Vaticano",
+     "library": "Biblioteca Apostolica Vaticana (BAV)",
+     "fonds": "Ott. gr.",
+     "cote": "089",
+     "cote_id": "65330",
+     "folios": "001-214v*",
+     "century": "16",
+     "date": ""
+    },
+    {
+     "country": "Italia",
+     "city": "Firenze",
+     "library": "Biblioteca Medicea Laurenziana (BML)",
+     "fonds": "Plut.",
+     "cote": "74. 10",
+     "cote_id": "16665",
+     "folios": "086-330*",
+     "century": "14 (3/4)",
+     "date": ""
+    },
+    {
+     "country": "Italia",
+     "city": "Firenze",
+     "library": "Biblioteca Riccardiana",
+     "fonds": "Mss.",
+     "cote": "0010",
+     "cote_id": "17011",
+     "folios": "067-242v*",
+     "century": "15-16",
+     "date": ""
+    },
+    {
+     "country": "Rossijskaja Federacija",
+     "city": "Moskva",
+     "library": "Государственный Исторический музей (ГИМ)",
+     "fonds": "Син. гр.",
+     "cote": "001 (Vlad. 446)",
+     "cote_id": "43626",
+     "folios": "005-113v*",
+     "century": "15",
+     "date": ""
+    },
+    {
+     "country": "France",
+     "city": "Paris",
+     "library": "Bibliothèque nationale de France (BNF)",
+     "fonds": "Grec",
+     "cote": "2178",
+     "cote_id": "51807",
+     "folios": "011v--127*",
+     "century": "15",
+     "date": ""
+    },
+    {
+     "country": "France",
+     "city": "Paris",
+     "library": "Bibliothèque nationale de France (BNF)",
+     "fonds": "Grec",
+     "cote": "2200",
+     "cote_id": "51829",
+     "folios": "001-148*",
+     "century": "15",
+     "date": ""
+    },
+    {
+     "country": "France",
+     "city": "Paris",
+     "library": "Bibliothèque nationale de France (BNF)",
+     "fonds": "Grec",
+     "cote": "2201",
+     "cote_id": "51830",
+     "folios": "001-150*",
+     "century": "15",
+     "date": ""
+    },
+    {
+     "country": "France",
+     "city": "Paris",
+     "library": "Bibliothèque nationale de France (BNF)",
+     "fonds": "Grec",
+     "cote": "2202",
+     "cote_id": "51831",
+     "folios": "001-129v*",
+     "century": "16 (1/4)",
+     "date": ""
+    },
+    {
+     "country": "France",
+     "city": "Paris",
+     "library": "Bibliothèque nationale de France (BNF)",
+     "fonds": "Grec",
+     "cote": "2203",
+     "cote_id": "51832",
+     "folios": "01-35",
+     "century": "16",
+     "date": ""
+    },
+    {
+     "country": "France",
+     "city": "Paris",
+     "library": "Bibliothèque nationale de France (BNF)",
+     "fonds": "Grec",
+     "cote": "2204",
+     "cote_id": "51833",
+     "folios": "007-22v",
+     "century": "15 (4/4)",
+     "date": ""
+    },
+    {
+     "country": "France",
+     "city": "Paris",
+     "library": "Bibliothèque nationale de France (BNF)",
+     "fonds": "Supplément grec",
+     "cote": "1297",
+     "cote_id": "53961",
+     "folios": "001-44, 091-97",
+     "century": "10",
+     "date": ""
+    },
+    {
+     "country": "Italia",
+     "city": "Roma",
+     "library": "Biblioteca Vallicelliana",
+     "fonds": "Mss.",
+     "cote": "B 070",
+     "cote_id": "56265",
+     "folios": "001-19v",
+     "century": "15",
+     "date": ""
+    },
+    {
+     "country": "España",
+     "city": "San Lorenzo de El Escorial",
+     "library": "Real Biblioteca",
+     "fonds": "Mss.",
+     "cote": "Φ. I. 02 (Andrés 180)",
+     "cote_id": "15134",
+     "folios": "191-232, 282-287, 308-312",
+     "century": "16",
+     "date": ""
+    },
+    {
+     "country": "Italia",
+     "city": "Venezia",
+     "library": "Biblioteca Nazionale Marciana (BNM)",
+     "fonds": "gr.",
+     "cote": "II. 171 (coll. 0445)",
+     "cote_id": "70340",
+     "folios": "004-16v",
+     "century": "17",
+     "date": ""
+    },
+    {
+     "country": "Italia",
+     "city": "Venezia",
+     "library": "Biblioteca Nazionale Marciana (BNM)",
+     "fonds": "gr.",
+     "cote": "V. 009 (coll. 1017)",
+     "cote_id": "70497",
+     "folios": "236-365v",
+     "century": "15",
+     "date": ""
+    },
+    {
+     "country": "Italia",
+     "city": "Venezia",
+     "library": "Biblioteca Nazionale Marciana (BNM)",
+     "fonds": "gr. Z.",
+     "cote": "295 (coll. 0729)",
+     "cote_id": "69766",
+     "folios": "001-57",
+     "century": "15",
+     "date": "1470"
+    },
+    {
+     "country": "Italia",
+     "city": "Venezia",
+     "library": "Biblioteca Nazionale Marciana (BNM)",
+     "fonds": "gr. Z.",
+     "cote": "295 (coll. 0729)",
+     "cote_id": "69766",
+     "folios": "132-140v",
+     "century": "15",
+     "date": "1470"
+    }
+   ]
+  },
+  "4196": {
+   "works": [
+    "alexander-trallianus-004"
+   ],
+   "witnesses": [
+    {
+     "country": "Italia",
+     "city": "Firenze",
+     "library": "Biblioteca Medicea Laurenziana (BML)",
+     "fonds": "Antinori",
+     "cote": "101",
+     "cote_id": "15735",
+     "folios": "323-327v*",
+     "century": "15",
+     "date": ""
+    },
+    {
+     "country": "Italia",
+     "city": "Milano",
+     "library": "Biblioteca Ambrosiana",
+     "fonds": "Mss.",
+     "cote": "R 111 sup. (Martini-Bassi 722)",
+     "cote_id": "43199",
+     "folios": "264-266v",
+     "century": "16 (3/4)",
+     "date": ""
+    },
+    {
+     "country": "Italia",
+     "city": "Milano",
+     "library": "Biblioteca Ambrosiana",
+     "fonds": "Mss.",
+     "cote": "S 003 sup. (Martini-Bassi 728)",
+     "cote_id": "43205",
+     "folios": "170-176*",
+     "century": "16",
+     "date": ""
+    },
+    {
+     "country": "United Kingdom",
+     "city": "Oxford",
+     "library": "Bodleian Library",
+     "fonds": "D'Orville",
+     "cote": "034",
+     "cote_id": "47825",
+     "folios": "014-20*",
+     "century": "18",
+     "date": ""
+    }
+   ]
+  },
+  "7939": {
+   "works": [
+    "apollonius-citiensis-001"
+   ],
+   "witnesses": [
+    {
+     "country": "Deutschland",
+     "city": "Berlin",
+     "library": "Staatsbibliothek zu Berlin (Preussischer Kulturbesitz)",
+     "fonds": "Phillipps",
+     "cote": "1533 (129)",
+     "cote_id": "9434",
+     "folios": "90-115*, 121-148*",
+     "century": "17",
+     "date": ""
+    },
+    {
+     "country": "Italia",
+     "city": "Firenze",
+     "library": "Biblioteca Medicea Laurenziana (BML)",
+     "fonds": "Plut.",
+     "cote": "74. 07",
+     "cote_id": "16662",
+     "folios": "180v-225v",
+     "century": "10",
+     "date": ""
+    },
+    {
+     "country": "Italia",
+     "city": "Firenze",
+     "library": "Biblioteca Nazionale centrale (BNC)",
+     "fonds": "Del Furia (Raccolta Palatina)",
+     "cote": "55 (Olivieri 71)",
+     "cote_id": "77297",
+     "folios": "55-*",
+     "century": "",
+     "date": ""
+    },
+    {
+     "country": "Deutschland",
+     "city": "Leipzig",
+     "library": "Universitätsbibliothek",
+     "fonds": "gr.",
+     "cote": "64",
+     "cote_id": "38379",
+     "folios": "001-34",
+     "century": "18",
+     "date": ""
+    },
+    {
+     "country": "France",
+     "city": "Paris",
+     "library": "Bibliothèque nationale de France (BNF)",
+     "fonds": "Grec",
+     "cote": "3095",
+     "cote_id": "52740",
+     "folios": "081-83*, 093-98*",
+     "century": "17",
+     "date": ""
+    },
+    {
+     "country": "France",
+     "city": "Paris",
+     "library": "Bibliothèque nationale de France (BNF)",
+     "fonds": "Supplément grec",
+     "cote": "0270",
+     "cote_id": "53034",
+     "folios": "351-359*",
+     "century": "17",
+     "date": ""
+    },
+    {
+     "country": "Italia",
+     "city": "Torino",
+     "library": "Biblioteca Nazionale Universitaria",
+     "fonds": "Mss.",
+     "cote": "B. IV. 20 (Pasini 229)",
+     "cote_id": "63726",
+     "folios": "",
+     "century": "16",
+     "date": ""
+    }
+   ]
+  },
+  "6523": {
+   "works": [
+    "archigenes-apamensis-001"
+   ],
+   "witnesses": [
+    {
+     "country": "Vaticano",
+     "city": "Città del Vaticano",
+     "library": "Biblioteca Apostolica Vaticana (BAV)",
+     "fonds": "Vat. gr.",
+     "cote": "0292",
+     "cote_id": "66923",
+     "folios": "114-116v*",
+     "century": "14",
+     "date": ""
+    },
+    {
+     "country": "Polska",
+     "city": "Kraków",
+     "library": "Biblioteka Jagiellońska",
+     "fonds": "Berlin, graec.",
+     "cote": "1°.39 (275)",
+     "cote_id": "9110",
+     "folios": "Pars 06. 16",
+     "century": "19",
+     "date": ""
+    },
+    {
+     "country": "France",
+     "city": "Paris",
+     "library": "Bibliothèque nationale de France (BNF)",
+     "fonds": "Grec",
+     "cote": "2276",
+     "cote_id": "51906",
+     "folios": "217-220*",
+     "century": "15 ex. - 16 in.",
+     "date": ""
+    },
+    {
+     "country": "France",
+     "city": "Paris",
+     "library": "Bibliothèque nationale de France (BNF)",
+     "fonds": "Grec",
+     "cote": "3076",
+     "cote_id": "52721",
+     "folios": "056-61*",
+     "century": "17",
+     "date": "1616"
+    },
+    {
+     "country": "France",
+     "city": "Paris",
+     "library": "Bibliothèque nationale de France (BNF)",
+     "fonds": "Supplément grec",
+     "cote": "1202",
+     "cote_id": "53880",
+     "folios": "016--17v",
+     "century": "14",
+     "date": ""
+    },
+    {
+     "country": "España",
+     "city": "San Lorenzo de El Escorial",
+     "library": "Real Biblioteca",
+     "fonds": "Mss.",
+     "cote": "Ω. I. 08 (Andrés 509)",
+     "cote_id": "15058",
+     "folios": "086--231",
+     "century": "14",
+     "date": ""
+    },
+    {
+     "country": "España",
+     "city": "San Lorenzo de El Escorial",
+     "library": "Real Biblioteca",
+     "fonds": "Mss.",
+     "cote": "Ω. I. 08 (Andrés 509)",
+     "cote_id": "15058",
+     "folios": "231--341v",
+     "century": "14",
+     "date": ""
+    },
+    {
+     "country": "España",
+     "city": "San Lorenzo de El Escorial",
+     "library": "Real Biblioteca",
+     "fonds": "Mss.",
+     "cote": "Ω. I. 08 (Andrés 509)",
+     "cote_id": "15058",
+     "folios": "359--384v",
+     "century": "14",
+     "date": ""
+    },
+    {
+     "country": "Italia",
+     "city": "Venezia",
+     "library": "Biblioteca Nazionale Marciana (BNM)",
+     "fonds": "gr.",
+     "cote": "V. 008 (coll. 1334)",
+     "cote_id": "70496",
+     "folios": "157r-v*",
+     "century": "14",
+     "date": ""
+    }
+   ]
+  },
+  "2199": {
+   "works": [
+    "aretaeus-cappadox-001"
+   ],
+   "witnesses": [
+    {
+     "country": "Deutschland",
+     "city": "Berlin",
+     "library": "Staatsbibliothek zu Berlin (Preussischer Kulturbesitz)",
+     "fonds": "Phillipps",
+     "cote": "1531 (127)",
+     "cote_id": "9432",
+     "folios": "001-16v*",
+     "century": "16",
+     "date": ""
+    },
+    {
+     "country": "Deutschland",
+     "city": "Berlin",
+     "library": "Staatsbibliothek zu Berlin (Preussischer Kulturbesitz)",
+     "fonds": "Phillipps",
+     "cote": "1532 (128)",
+     "cote_id": "9433",
+     "folios": "077-154* item 1",
+     "century": "16",
+     "date": ""
+    },
+    {
+     "country": "Vaticano",
+     "city": "Città del Vaticano",
+     "library": "Biblioteca Apostolica Vaticana (BAV)",
+     "fonds": "Vat. gr.",
+     "cote": "0286",
+     "cote_id": "66917",
+     "folios": "001-32",
+     "century": "16",
+     "date": ""
+    },
+    {
+     "country": "Italia",
+     "city": "Firenze",
+     "library": "Biblioteca Medicea Laurenziana (BML)",
+     "fonds": "Plut.",
+     "cote": "75. 15",
+     "cote_id": "16700",
+     "folios": "001-40*",
+     "century": "15",
+     "date": ""
+    },
+    {
+     "country": "Deutschland",
+     "city": "Leipzig",
+     "library": "Universitätsbibliothek",
+     "fonds": "gr.",
+     "cote": "63 (olim 1109)",
+     "cote_id": "38378",
+     "folios": "001-25v",
+     "century": "16",
+     "date": ""
+    },
+    {
+     "country": "United Kingdom",
+     "city": "London",
+     "library": "British Library (BL)",
+     "fonds": "Harley",
+     "cote": "6326",
+     "cote_id": "39715",
+     "folios": "008-118",
+     "century": "16 (2/4)",
+     "date": ""
+    },
+    {
+     "country": "United Kingdom",
+     "city": "London",
+     "library": "Wellcome Library for the History of Medicine",
+     "fonds": "MS.MSL",
+     "cote": "062",
+     "cote_id": "39925",
+     "folios": "001-31",
+     "century": "16 (1/2)",
+     "date": ""
+    },
+    {
+     "country": "Italia",
+     "city": "Milano",
+     "library": "Biblioteca Ambrosiana",
+     "fonds": "Mss.",
+     "cote": "B 157 sup. (Martini-Bassi 155)",
+     "cote_id": "42378",
+     "folios": "001-24v",
+     "century": "16",
+     "date": ""
+    },
+    {
+     "country": "Deutschland",
+     "city": "München",
+     "library": "Bayerische Staatsbibliothek (BSB)",
+     "fonds": "Cod.graec.",
+     "cote": "070",
+     "cote_id": "44514",
+     "folios": "254-272",
+     "century": "16 med.",
+     "date": "1550 ca"
+    },
+    {
+     "country": "Deutschland",
+     "city": "München",
+     "library": "Bayerische Staatsbibliothek (BSB)",
+     "fonds": "Cod.graec.",
+     "cote": "072",
+     "cote_id": "44516",
+     "folios": "113-129v",
+     "century": "16",
+     "date": "1550 ca"
+    },
+    {
+     "country": "Deutschland",
+     "city": "München",
+     "library": "Bayerische Staatsbibliothek (BSB)",
+     "fonds": "Cod.graec.",
+     "cote": "350",
+     "cote_id": "44798",
+     "folios": "",
+     "century": "15-16",
+     "date": ""
+    },
+    {
+     "country": "Italia",
+     "city": "Napoli",
+     "library": "Biblioteca Nazionale Vittorio Emanuele III",
+     "fonds": "Mss.",
+     "cote": "III D 21",
+     "cote_id": "46326",
+     "folios": "001-9",
+     "century": "15 ex",
+     "date": ""
+    },
+    {
+     "country": "France",
+     "city": "Paris",
+     "library": "Bibliothèque nationale de France (BNF)",
+     "fonds": "Grec",
+     "cote": "2186",
+     "cote_id": "51815",
+     "folios": "01--50*",
+     "century": "16 (1/2)",
+     "date": ""
+    },
+    {
+     "country": "France",
+     "city": "Paris",
+     "library": "Bibliothèque nationale de France (BNF)",
+     "fonds": "Grec",
+     "cote": "2187",
+     "cote_id": "51816",
+     "folios": "001v--68*",
+     "century": "16",
+     "date": ""
+    },
+    {
+     "country": "France",
+     "city": "Paris",
+     "library": "Bibliothèque nationale de France (BNF)",
+     "fonds": "Grec",
+     "cote": "2202",
+     "cote_id": "51831",
+     "folios": "147-154v*",
+     "century": "16 (1/4)",
+     "date": ""
+    },
+    {
+     "country": "France",
+     "city": "Paris",
+     "library": "Bibliothèque nationale de France (BNF)",
+     "fonds": "Grec",
+     "cote": "2288",
+     "cote_id": "51918",
+     "folios": "001--89",
+     "century": "16",
+     "date": ""
+    },
+    {
+     "country": "France",
+     "city": "Paris",
+     "library": "Bibliothèque nationale de France (BNF)",
+     "fonds": "Grec",
+     "cote": "2289",
+     "cote_id": "51919",
+     "folios": "001--88*",
+     "century": "16 (1/3)",
+     "date": ""
+    },
+    {
+     "country": "France",
+     "city": "Paris",
+     "library": "Bibliothèque nationale de France (BNF)",
+     "fonds": "Grec",
+     "cote": "2334",
+     "cote_id": "51965",
+     "folios": "001--219*",
+     "century": "16",
+     "date": ""
+    },
+    {
+     "country": "España",
+     "city": "San Lorenzo de El Escorial",
+     "library": "Real Biblioteca",
+     "fonds": "Mss.",
+     "cote": "y. I. 08 (Andrés 301)",
+     "cote_id": "15514",
+     "folios": "162-181",
+     "century": "16 (2/4)",
+     "date": ""
+    },
+    {
+     "country": "Italia",
+     "city": "Venezia",
+     "library": "Biblioteca Nazionale Marciana (BNM)",
+     "fonds": "gr. Z.",
+     "cote": "270 (coll. 0624)",
+     "cote_id": "69741",
+     "folios": "001-18v",
+     "century": "15 med.",
+     "date": ""
+    }
+   ]
+  },
+  "2200": {
+   "works": [
+    "aretaeus-cappadox-002"
+   ],
+   "witnesses": [
+    {
+     "country": "Deutschland",
+     "city": "Berlin",
+     "library": "Staatsbibliothek zu Berlin (Preussischer Kulturbesitz)",
+     "fonds": "Phillipps",
+     "cote": "1531 (127)",
+     "cote_id": "9432",
+     "folios": "016v-48v",
+     "century": "16",
+     "date": ""
+    },
+    {
+     "country": "Deutschland",
+     "city": "Berlin",
+     "library": "Staatsbibliothek zu Berlin (Preussischer Kulturbesitz)",
+     "fonds": "Phillipps",
+     "cote": "1532 (128)",
+     "cote_id": "9433",
+     "folios": "077-154* item 2",
+     "century": "16",
+     "date": ""
+    },
+    {
+     "country": "Vaticano",
+     "city": "Città del Vaticano",
+     "library": "Biblioteca Apostolica Vaticana (BAV)",
+     "fonds": "Vat. gr.",
+     "cote": "0286",
+     "cote_id": "66917",
+     "folios": "032v-144v*",
+     "century": "16",
+     "date": ""
+    },
+    {
+     "country": "United Kingdom",
+     "city": "London",
+     "library": "Wellcome Library for the History of Medicine",
+     "fonds": "MS.MSL",
+     "cote": "062",
+     "cote_id": "39925",
+     "folios": "031v-78v",
+     "century": "16 (1/2)",
+     "date": ""
+    },
+    {
+     "country": "Italia",
+     "city": "Milano",
+     "library": "Biblioteca Ambrosiana",
+     "fonds": "Mss.",
+     "cote": "B 157 sup. (Martini-Bassi 155)",
+     "cote_id": "42378",
+     "folios": "024-70*",
+     "century": "16",
+     "date": ""
+    },
+    {
+     "country": "Deutschland",
+     "city": "München",
+     "library": "Bayerische Staatsbibliothek (BSB)",
+     "fonds": "Cod.graec.",
+     "cote": "070",
+     "cote_id": "44514",
+     "folios": "272-305",
+     "century": "16 med.",
+     "date": "1550 ca"
+    },
+    {
+     "country": "Deutschland",
+     "city": "München",
+     "library": "Bayerische Staatsbibliothek (BSB)",
+     "fonds": "Cod.graec.",
+     "cote": "072",
+     "cote_id": "44516",
+     "folios": "129v-162",
+     "century": "16",
+     "date": "1550 ca"
+    },
+    {
+     "country": "Italia",
+     "city": "Napoli",
+     "library": "Biblioteca Nazionale Vittorio Emanuele III",
+     "fonds": "Mss.",
+     "cote": "III D 21",
+     "cote_id": "46326",
+     "folios": "009-27",
+     "century": "15 ex",
+     "date": ""
+    },
+    {
+     "country": "France",
+     "city": "Paris",
+     "library": "Bibliothèque nationale de France (BNF)",
+     "fonds": "Grec",
+     "cote": "2186",
+     "cote_id": "51815",
+     "folios": "01--50*",
+     "century": "16 (1/2)",
+     "date": ""
+    },
+    {
+     "country": "France",
+     "city": "Paris",
+     "library": "Bibliothèque nationale de France (BNF)",
+     "fonds": "Grec",
+     "cote": "2187",
+     "cote_id": "51816",
+     "folios": "001v--68*",
+     "century": "16",
+     "date": ""
+    },
+    {
+     "country": "France",
+     "city": "Paris",
+     "library": "Bibliothèque nationale de France (BNF)",
+     "fonds": "Grec",
+     "cote": "2202",
+     "cote_id": "51831",
+     "folios": "154v-175v*",
+     "century": "16 (1/4)",
+     "date": ""
+    },
+    {
+     "country": "France",
+     "city": "Paris",
+     "library": "Bibliothèque nationale de France (BNF)",
+     "fonds": "Grec",
+     "cote": "2288",
+     "cote_id": "51918",
+     "folios": "001--89*",
+     "century": "16",
+     "date": ""
+    },
+    {
+     "country": "France",
+     "city": "Paris",
+     "library": "Bibliothèque nationale de France (BNF)",
+     "fonds": "Grec",
+     "cote": "2289",
+     "cote_id": "51919",
+     "folios": "001--88*",
+     "century": "16 (1/3)",
+     "date": ""
+    },
+    {
+     "country": "France",
+     "city": "Paris",
+     "library": "Bibliothèque nationale de France (BNF)",
+     "fonds": "Grec",
+     "cote": "2334",
+     "cote_id": "51965",
+     "folios": "001--219*",
+     "century": "16",
+     "date": ""
+    },
+    {
+     "country": "España",
+     "city": "San Lorenzo de El Escorial",
+     "library": "Real Biblioteca",
+     "fonds": "Mss.",
+     "cote": "y. I. 08 (Andrés 301)",
+     "cote_id": "15514",
+     "folios": "181v-217v",
+     "century": "16 (2/4)",
+     "date": ""
+    },
+    {
+     "country": "Italia",
+     "city": "Venezia",
+     "library": "Biblioteca Nazionale Marciana (BNM)",
+     "fonds": "gr. Z.",
+     "cote": "270 (coll. 0624)",
+     "cote_id": "69741",
+     "folios": "019-52v",
+     "century": "15 med.",
+     "date": ""
+    }
+   ]
+  },
+  "2363": {
+   "works": [
+    "aretaeus-cappadox-003"
+   ],
+   "witnesses": [
+    {
+     "country": "Deutschland",
+     "city": "Berlin",
+     "library": "Staatsbibliothek zu Berlin (Preussischer Kulturbesitz)",
+     "fonds": "Phillipps",
+     "cote": "1531 (127)",
+     "cote_id": "9432",
+     "folios": "048v-81v*",
+     "century": "16",
+     "date": ""
+    },
+    {
+     "country": "Deutschland",
+     "city": "Berlin",
+     "library": "Staatsbibliothek zu Berlin (Preussischer Kulturbesitz)",
+     "fonds": "Phillipps",
+     "cote": "1532 (128)",
+     "cote_id": "9433",
+     "folios": "077-154* item 3",
+     "century": "16",
+     "date": ""
+    },
+    {
+     "country": "Italia",
+     "city": "Firenze",
+     "library": "Biblioteca Medicea Laurenziana (BML)",
+     "fonds": "Plut.",
+     "cote": "75. 15",
+     "cote_id": "16700",
+     "folios": "040-63*",
+     "century": "15",
+     "date": ""
+    },
+    {
+     "country": "Deutschland",
+     "city": "Leipzig",
+     "library": "Universitätsbibliothek",
+     "fonds": "gr.",
+     "cote": "63 (olim 1109)",
+     "cote_id": "38378",
+     "folios": "061-67v",
+     "century": "16",
+     "date": ""
+    },
+    {
+     "country": "United Kingdom",
+     "city": "London",
+     "library": "British Library (BL)",
+     "fonds": "Harley",
+     "cote": "6326",
+     "cote_id": "39715",
+     "folios": "118-183v",
+     "century": "16",
+     "date": ""
+    },
+    {
+     "country": "United Kingdom",
+     "city": "London",
+     "library": "Wellcome Library for the History of Medicine",
+     "fonds": "MS.MSL",
+     "cote": "062",
+     "cote_id": "39925",
+     "folios": "078v-122",
+     "century": "16 (1/2)",
+     "date": ""
+    },
+    {
+     "country": "Italia",
+     "city": "Milano",
+     "library": "Biblioteca Ambrosiana",
+     "fonds": "Mss.",
+     "cote": "B 157 sup. (Martini-Bassi 155)",
+     "cote_id": "42378",
+     "folios": "070-111*",
+     "century": "16",
+     "date": ""
+    },
+    {
+     "country": "Deutschland",
+     "city": "München",
+     "library": "Bayerische Staatsbibliothek (BSB)",
+     "fonds": "Cod.graec.",
+     "cote": "070",
+     "cote_id": "44514",
+     "folios": "305-336",
+     "century": "16 med.",
+     "date": "1550 ca"
+    },
+    {
+     "country": "Deutschland",
+     "city": "München",
+     "library": "Bayerische Staatsbibliothek (BSB)",
+     "fonds": "Cod.graec.",
+     "cote": "072",
+     "cote_id": "44516",
+     "folios": "162v-192v",
+     "century": "16",
+     "date": "1550 ca"
+    },
+    {
+     "country": "Italia",
+     "city": "Napoli",
+     "library": "Biblioteca Nazionale Vittorio Emanuele III",
+     "fonds": "Mss.",
+     "cote": "III D 21",
+     "cote_id": "46326",
+     "folios": "027-50v",
+     "century": "15 ex",
+     "date": ""
+    },
+    {
+     "country": "France",
+     "city": "Paris",
+     "library": "Bibliothèque nationale de France (BNF)",
+     "fonds": "Grec",
+     "cote": "2186",
+     "cote_id": "51815",
+     "folios": "50--98v*",
+     "century": "16 (1/2)",
+     "date": ""
+    },
+    {
+     "country": "France",
+     "city": "Paris",
+     "library": "Bibliothèque nationale de France (BNF)",
+     "fonds": "Grec",
+     "cote": "2187",
+     "cote_id": "51816",
+     "folios": "068--120v*",
+     "century": "16",
+     "date": ""
+    },
+    {
+     "country": "France",
+     "city": "Paris",
+     "library": "Bibliothèque nationale de France (BNF)",
+     "fonds": "Grec",
+     "cote": "2202",
+     "cote_id": "51831",
+     "folios": "175v-196*",
+     "century": "16 (1/4)",
+     "date": ""
+    },
+    {
+     "country": "France",
+     "city": "Paris",
+     "library": "Bibliothèque nationale de France (BNF)",
+     "fonds": "Grec",
+     "cote": "2220",
+     "cote_id": "51849",
+     "folios": "076-90v",
+     "century": "16 med.",
+     "date": ""
+    },
+    {
+     "country": "France",
+     "city": "Paris",
+     "library": "Bibliothèque nationale de France (BNF)",
+     "fonds": "Grec",
+     "cote": "2288",
+     "cote_id": "51918",
+     "folios": "089--161*",
+     "century": "16",
+     "date": ""
+    },
+    {
+     "country": "France",
+     "city": "Paris",
+     "library": "Bibliothèque nationale de France (BNF)",
+     "fonds": "Grec",
+     "cote": "2289",
+     "cote_id": "51919",
+     "folios": "088-142v*",
+     "century": "16 (1/3)",
+     "date": ""
+    },
+    {
+     "country": "France",
+     "city": "Paris",
+     "library": "Bibliothèque nationale de France (BNF)",
+     "fonds": "Grec",
+     "cote": "2334",
+     "cote_id": "51965",
+     "folios": "219--420*",
+     "century": "16",
+     "date": ""
+    },
+    {
+     "country": "España",
+     "city": "San Lorenzo de El Escorial",
+     "library": "Real Biblioteca",
+     "fonds": "Mss.",
+     "cote": "y. I. 08 (Andrés 301)",
+     "cote_id": "15514",
+     "folios": "218-252",
+     "century": "16 (2/4)",
+     "date": ""
+    },
+    {
+     "country": "España",
+     "city": "San Lorenzo de El Escorial",
+     "library": "Real Biblioteca",
+     "fonds": "Mss.",
+     "cote": "Δ. IV. 03 (Andrés 248) [ms. détruit]",
+     "cote_id": "14477",
+     "folios": "001-9*",
+     "century": "",
+     "date": ""
+    },
+    {
+     "country": "España",
+     "city": "San Lorenzo de El Escorial",
+     "library": "Real Biblioteca",
+     "fonds": "Mss.",
+     "cote": "Δ. IV. 03 (Andrés 248) [ms. détruit]",
+     "cote_id": "14477",
+     "folios": "009-17*",
+     "century": "",
+     "date": ""
+    },
+    {
+     "country": "Italia",
+     "city": "Venezia",
+     "library": "Biblioteca Nazionale Marciana (BNM)",
+     "fonds": "gr. Z.",
+     "cote": "270 (coll. 0624)",
+     "cote_id": "69741",
+     "folios": "053-85",
+     "century": "15 med.",
+     "date": ""
+    }
+   ]
+  },
+  "2364": {
+   "works": [
+    "aretaeus-cappadox-004"
+   ],
+   "witnesses": [
+    {
+     "country": "Deutschland",
+     "city": "Berlin",
+     "library": "Staatsbibliothek zu Berlin (Preussischer Kulturbesitz)",
+     "fonds": "Phillipps",
+     "cote": "1531 (127)",
+     "cote_id": "9432",
+     "folios": "081v-90",
+     "century": "16",
+     "date": ""
+    },
+    {
+     "country": "Deutschland",
+     "city": "Berlin",
+     "library": "Staatsbibliothek zu Berlin (Preussischer Kulturbesitz)",
+     "fonds": "Phillipps",
+     "cote": "1532 (128)",
+     "cote_id": "9433",
+     "folios": "077-154* item 4",
+     "century": "16",
+     "date": ""
+    },
+    {
+     "country": "Vaticano",
+     "city": "Città del Vaticano",
+     "library": "Biblioteca Apostolica Vaticana (BAV)",
+     "fonds": "Vat. gr.",
+     "cote": "0286",
+     "cote_id": "66917",
+     "folios": "145-167*",
+     "century": "16",
+     "date": ""
+    },
+    {
+     "country": "Italia",
+     "city": "Firenze",
+     "library": "Biblioteca Medicea Laurenziana (BML)",
+     "fonds": "Plut.",
+     "cote": "75. 15",
+     "cote_id": "16700",
+     "folios": "063-69v*",
+     "century": "15",
+     "date": ""
+    },
+    {
+     "country": "United Kingdom",
+     "city": "London",
+     "library": "British Library (BL)",
+     "fonds": "Harley",
+     "cote": "6326",
+     "cote_id": "39715",
+     "folios": "002-7v",
+     "century": "16 (2/4)",
+     "date": ""
+    },
+    {
+     "country": "United Kingdom",
+     "city": "London",
+     "library": "British Library (BL)",
+     "fonds": "Harley",
+     "cote": "6326",
+     "cote_id": "39715",
+     "folios": "183v-212",
+     "century": "16 (2/4)",
+     "date": ""
+    },
+    {
+     "country": "Italia",
+     "city": "Milano",
+     "library": "Biblioteca Ambrosiana",
+     "fonds": "Mss.",
+     "cote": "B 157 sup. (Martini-Bassi 155)",
+     "cote_id": "42378",
+     "folios": "111v-133*",
+     "century": "16",
+     "date": ""
+    },
+    {
+     "country": "Deutschland",
+     "city": "München",
+     "library": "Bayerische Staatsbibliothek (BSB)",
+     "fonds": "Cod.graec.",
+     "cote": "072",
+     "cote_id": "44516",
+     "folios": "193-209v",
+     "century": "16",
+     "date": "1550 ca"
+    },
+    {
+     "country": "France",
+     "city": "Paris",
+     "library": "Bibliothèque nationale de France (BNF)",
+     "fonds": "Grec",
+     "cote": "2186",
+     "cote_id": "51815",
+     "folios": "50--98v*",
+     "century": "16 (1/2)",
+     "date": ""
+    },
+    {
+     "country": "France",
+     "city": "Paris",
+     "library": "Bibliothèque nationale de France (BNF)",
+     "fonds": "Grec",
+     "cote": "2187",
+     "cote_id": "51816",
+     "folios": "068--120v*",
+     "century": "16",
+     "date": ""
+    },
+    {
+     "country": "France",
+     "city": "Paris",
+     "library": "Bibliothèque nationale de France (BNF)",
+     "fonds": "Grec",
+     "cote": "2202",
+     "cote_id": "51831",
+     "folios": "141-147*",
+     "century": "16 (1/4)",
+     "date": ""
+    },
+    {
+     "country": "France",
+     "city": "Paris",
+     "library": "Bibliothèque nationale de France (BNF)",
+     "fonds": "Grec",
+     "cote": "2288",
+     "cote_id": "51918",
+     "folios": "089-161*",
+     "century": "16",
+     "date": ""
+    },
+    {
+     "country": "France",
+     "city": "Paris",
+     "library": "Bibliothèque nationale de France (BNF)",
+     "fonds": "Grec",
+     "cote": "2334",
+     "cote_id": "51965",
+     "folios": "219-420*",
+     "century": "16",
+     "date": ""
+    },
+    {
+     "country": "España",
+     "city": "San Lorenzo de El Escorial",
+     "library": "Real Biblioteca",
+     "fonds": "Mss.",
+     "cote": "y. I. 08 (Andrés 301)",
+     "cote_id": "15514",
+     "folios": "252-268",
+     "century": "16 (2/4)",
+     "date": ""
+    },
+    {
+     "country": "Italia",
+     "city": "Venezia",
+     "library": "Biblioteca Nazionale Marciana (BNM)",
+     "fonds": "gr. Z.",
+     "cote": "270 (coll. 0624)",
+     "cote_id": "69741",
+     "folios": "085v-102v",
+     "century": "15 med.",
+     "date": ""
+    }
+   ]
+  },
+  "6670": {
+   "works": [
+    "asclepiades-bithyniensis-001"
+   ],
+   "witnesses": []
+  },
+  "10487": {
+   "works": [
+    "asclepiades-bithyniensis-001"
+   ],
+   "witnesses": [
+    {
+     "country": "Italia",
+     "city": "Bologna",
+     "library": "Biblioteca Universitaria",
+     "fonds": "Mss.",
+     "cote": "1808",
+     "cote_id": "9712",
+     "folios": "128-129*",
+     "century": "14 (2/2)",
+     "date": ""
+    },
+    {
+     "country": "Vaticano",
+     "city": "Città del Vaticano",
+     "library": "Biblioteca Apostolica Vaticana (BAV)",
+     "fonds": "Vat. gr.",
+     "cote": "0316",
+     "cote_id": "66947",
+     "folios": "",
+     "century": "13",
+     "date": ""
+    },
+    {
+     "country": "España",
+     "city": "San Lorenzo de El Escorial",
+     "library": "Real Biblioteca",
+     "fonds": "Mss.",
+     "cote": "Ω. I. 08 (Andrés 509)",
+     "cote_id": "15058",
+     "folios": "009--26v, 086--231",
+     "century": "14",
+     "date": ""
+    }
+   ]
+  },
+  "11535": {
+   "works": [
+    "asclepiades-bithyniensis-002"
+   ],
+   "witnesses": []
+  },
+  "10241": {
+   "works": [
+    "athenaeus-attalensis-001"
+   ],
+   "witnesses": [
+    {
+     "country": "France",
+     "city": "Paris",
+     "library": "Bibliothèque nationale de France (BNF)",
+     "fonds": "Grec",
+     "cote": "2171",
+     "cote_id": "51800",
+     "folios": "236v*",
+     "century": "16 in.",
+     "date": ""
+    }
+   ]
+  },
+  "12724": {
+   "works": [
+    "athenaeus-attalensis-002"
+   ],
+   "witnesses": [
+    {
+     "country": "Deutschland",
+     "city": "Berlin",
+     "library": "Staatsbibliothek zu Berlin (Preussischer Kulturbesitz)",
+     "fonds": "Phillipps",
+     "cote": "1571 (167)",
+     "cote_id": "9472",
+     "folios": "009-13v*",
+     "century": "16",
+     "date": ""
+    },
+    {
+     "country": "France",
+     "city": "Paris",
+     "library": "Bibliothèque nationale de France (BNF)",
+     "fonds": "Grec",
+     "cote": "2320",
+     "cote_id": "51950",
+     "folios": "018v-20v*",
+     "century": "16",
+     "date": ""
+    }
+   ]
+  },
+  "9294": {
+   "works": [
+    "cassius-felix-001"
+   ],
+   "witnesses": [
+    {
+     "country": "Italia",
+     "city": "Bologna",
+     "library": "Biblioteca Universitaria",
+     "fonds": "Mss.",
+     "cote": "3635",
+     "cote_id": "9763",
+     "folios": "076-94*",
+     "century": "14",
+     "date": ""
+    },
+    {
+     "country": "Vaticano",
+     "city": "Città del Vaticano",
+     "library": "Biblioteca Apostolica Vaticana (BAV)",
+     "fonds": "Barb. gr.",
+     "cote": "147",
+     "cote_id": "64695",
+     "folios": "001-32",
+     "century": "15 ex.",
+     "date": "1491-1494 ca"
+    },
+    {
+     "country": "Vaticano",
+     "city": "Città del Vaticano",
+     "library": "Biblioteca Apostolica Vaticana (BAV)",
+     "fonds": "Vat. gr.",
+     "cote": "1614",
+     "cote_id": "68245",
+     "folios": "157-171v",
+     "century": "15 ex.",
+     "date": ""
+    },
+    {
+     "country": "Italia",
+     "city": "Firenze",
+     "library": "Biblioteca Medicea Laurenziana (BML)",
+     "fonds": "Plut.",
+     "cote": "75. 13",
+     "cote_id": "16698",
+     "folios": "141v-142",
+     "century": "",
+     "date": ""
+    },
+    {
+     "country": "Polska",
+     "city": "Kraków",
+     "library": "Biblioteka Jagiellońska",
+     "fonds": "Berlin, graec.",
+     "cote": "1°.39 (275)",
+     "cote_id": "9110",
+     "folios": "vol.13, item 36-37",
+     "century": "19",
+     "date": ""
+    },
+    {
+     "country": "España",
+     "city": "Madrid",
+     "library": "Biblioteca Nacional de España (BNE)",
+     "fonds": "Mss.",
+     "cote": "04616",
+     "cote_id": "40096",
+     "folios": "055-56v",
+     "century": "15 (2/2)",
+     "date": ""
+    },
+    {
+     "country": "Italia",
+     "city": "Milano",
+     "library": "Biblioteca Ambrosiana",
+     "fonds": "Mss.",
+     "cote": "A 092 sup. (Martini-Bassi 23)",
+     "cote_id": "42205",
+     "folios": "045-72v*",
+     "century": "16",
+     "date": ""
+    },
+    {
+     "country": "Italia",
+     "city": "Modena",
+     "library": "Biblioteca Estense universitaria",
+     "fonds": "Mss.",
+     "cote": "α. P. 5. 20 (Puntoni 109)",
+     "cote_id": "43360",
+     "folios": "031-38v, 079v-82v",
+     "century": "13 ex - 14 in",
+     "date": "1295-1302 ca"
+    },
+    {
+     "country": "Italia",
+     "city": "Modena",
+     "library": "Biblioteca Estense universitaria",
+     "fonds": "Mss.",
+     "cote": "α. V. 6. 12 (Puntoni 210)",
+     "cote_id": "43501",
+     "folios": "371--387*",
+     "century": "16",
+     "date": ""
+    },
+    {
+     "country": "Italia",
+     "city": "Modena",
+     "library": "Biblioteca Estense universitaria",
+     "fonds": "Mss.",
+     "cote": "α. V. 7. 17 (Puntoni 145)",
+     "cote_id": "43513",
+     "folios": "070-73*",
+     "century": "15",
+     "date": ""
+    },
+    {
+     "country": "France",
+     "city": "Paris",
+     "library": "Bibliothèque nationale de France (BNF)",
+     "fonds": "Grec",
+     "cote": "1943",
+     "cote_id": "51570",
+     "folios": "043v--54v*",
+     "century": "16",
+     "date": ""
+    },
+    {
+     "country": "France",
+     "city": "Paris",
+     "library": "Bibliothèque nationale de France (BNF)",
+     "fonds": "Grec",
+     "cote": "2047A",
+     "cote_id": "51675",
+     "folios": "051-76v*",
+     "century": "14",
+     "date": ""
+    },
+    {
+     "country": "Italia",
+     "city": "Venezia",
+     "library": "Biblioteca Nazionale Marciana (BNM)",
+     "fonds": "gr. Z.",
+     "cote": "257 (coll. 0622)",
+     "cote_id": "69728",
+     "folios": "049v-56v",
+     "century": "14 in.",
+     "date": ""
+    },
+    {
+     "country": "Italia",
+     "city": "Venezia",
+     "library": "Biblioteca Nazionale Marciana (BNM)",
+     "fonds": "gr. Z.",
+     "cote": "259 (coll. 0982)",
+     "cote_id": "69730",
+     "folios": "045v-54v",
+     "century": "14 med.",
+     "date": ""
+    },
+    {
+     "country": "Italia",
+     "city": "Venezia",
+     "library": "Biblioteca Nazionale Marciana (BNM)",
+     "fonds": "gr. Z.",
+     "cote": "521 (coll. 0316)",
+     "cote_id": "69992",
+     "folios": "097-99v",
+     "century": "13 med.",
+     "date": ""
+    }
+   ]
+  },
+  "909": {
+   "works": [
+    "diocles-carystius-001"
+   ],
+   "witnesses": [
+    {
+     "country": "Italia",
+     "city": "Firenze",
+     "library": "Biblioteca Nazionale centrale (BNC)",
+     "fonds": "Conventi Soppressi",
+     "cote": "J.IX.30 (Olivieri 58)",
+     "cote_id": "16936",
+     "folios": "035v-37",
+     "century": "16",
+     "date": ""
+    },
+    {
+     "country": "Italia",
+     "city": "Milano",
+     "library": "Biblioteca Ambrosiana",
+     "fonds": "Mss.",
+     "cote": "I 040 inf. (Martini-Bassi 1049)",
+     "cote_id": "42902",
+     "folios": "3",
+     "century": "17",
+     "date": ""
+    }
+   ]
+  },
+  "3117": {
+   "works": [
+    "dioscorides-001"
+   ],
+   "witnesses": [
+    {
+     "country": "Deutschland",
+     "city": "Berlin",
+     "library": "Staatsbibliothek zu Berlin (Preussischer Kulturbesitz)",
+     "fonds": "Phillipps",
+     "cote": "1530 (126)",
+     "cote_id": "9431",
+     "folios": "008-219",
+     "century": "16 med.",
+     "date": ""
+    },
+    {
+     "country": "Italia",
+     "city": "Bologna",
+     "library": "Biblioteca Universitaria",
+     "fonds": "Mss.",
+     "cote": "3632",
+     "cote_id": "9761",
+     "folios": "385-416v",
+     "century": "15",
+     "date": ""
+    },
+    {
+     "country": "United States of America",
+     "city": "Boston (MA)",
+     "library": "The Francis A. Countway Library of Medicine",
+     "fonds": "Mss.",
+     "cote": "Ballard 736",
+     "cote_id": "9793",
+     "folios": "001-234v",
+     "century": "15 (3/4)",
+     "date": ""
+    },
+    {
+     "country": "United Kingdom",
+     "city": "Cambridge",
+     "library": "University Library",
+     "fonds": "fonds ancien",
+     "cote": "Ee. V. 7 (1385)",
+     "cote_id": "73497",
+     "folios": "001-385v*",
+     "century": "15",
+     "date": ""
+    },
+    {
+     "country": "Vaticano",
+     "city": "Città del Vaticano",
+     "library": "Biblioteca Apostolica Vaticana (BAV)",
+     "fonds": "Chig.",
+     "cote": "F. VII. 159 (gr. 53)",
+     "cote_id": "65187",
+     "folios": "",
+     "century": "15 (2/4)",
+     "date": ""
+    },
+    {
+     "country": "Vaticano",
+     "city": "Città del Vaticano",
+     "library": "Biblioteca Apostolica Vaticana (BAV)",
+     "fonds": "Pal. gr.",
+     "cote": "048",
+     "cote_id": "65781",
+     "folios": "1-166v",
+     "century": "16",
+     "date": ""
+    },
+    {
+     "country": "Vaticano",
+     "city": "Città del Vaticano",
+     "library": "Biblioteca Apostolica Vaticana (BAV)",
+     "fonds": "Pal. gr.",
+     "cote": "077",
+     "cote_id": "65810",
+     "folios": "015-102v",
+     "century": "14 (2/4), 15",
+     "date": ""
+    },
+    {
+     "country": "Vaticano",
+     "city": "Città del Vaticano",
+     "library": "Biblioteca Apostolica Vaticana (BAV)",
+     "fonds": "Urb. gr.",
+     "cote": "066",
+     "cote_id": "66533",
+     "folios": "001-146",
+     "century": "15",
+     "date": ""
+    },
+    {
+     "country": "Vaticano",
+     "city": "Città del Vaticano",
+     "library": "Biblioteca Apostolica Vaticana (BAV)",
+     "fonds": "Vat. gr.",
+     "cote": "0178",
+     "cote_id": "66809",
+     "folios": "213v-216v",
+     "century": "14 med.",
+     "date": ""
+    },
+    {
+     "country": "Vaticano",
+     "city": "Città del Vaticano",
+     "library": "Biblioteca Apostolica Vaticana (BAV)",
+     "fonds": "Vat. gr.",
+     "cote": "0284",
+     "cote_id": "66915",
+     "folios": "001--251v*",
+     "century": "10",
+     "date": ""
+    },
+    {
+     "country": "Vaticano",
+     "city": "Città del Vaticano",
+     "library": "Biblioteca Apostolica Vaticana (BAV)",
+     "fonds": "Vat. gr.",
+     "cote": "0289",
+     "cote_id": "66920",
+     "folios": "005-98",
+     "century": "14, 15",
+     "date": ""
+    },
+    {
+     "country": "Vaticano",
+     "city": "Città del Vaticano",
+     "library": "Biblioteca Apostolica Vaticana (BAV)",
+     "fonds": "Vat. gr.",
+     "cote": "2182",
+     "cote_id": "68813",
+     "folios": "058-80v",
+     "century": "15 (1/2)",
+     "date": ""
+    },
+    {
+     "country": "Vaticano",
+     "city": "Città del Vaticano",
+     "library": "Biblioteca Apostolica Vaticana (BAV)",
+     "fonds": "Vat. gr.",
+     "cote": "2672",
+     "cote_id": "69298",
+     "folios": "",
+     "century": "",
+     "date": ""
+    },
+    {
+     "country": "Hellas",
+     "city": "Elassona",
+     "library": "Μονή Παναγίας Ολυμπιωτίσσης",
+     "fonds": "Mss.",
+     "cote": "113",
+     "cote_id": "14010",
+     "folios": "p. 226-232",
+     "century": "18",
+     "date": ""
+    },
+    {
+     "country": "Hayastan",
+     "city": "Erevan",
+     "library": "Մատենադարան",
+     "fonds": "Manuscrits arméniens",
+     "cote": "00141",
+     "cote_id": "14227",
+     "folios": "Ir-v",
+     "century": "07",
+     "date": ""
+    },
+    {
+     "country": "Italia",
+     "city": "Firenze",
+     "library": "Biblioteca Medicea Laurenziana (BML)",
+     "fonds": "Conv. Soppr.",
+     "cote": "059",
+     "cote_id": "15811",
+     "folios": "001-26",
+     "century": "14",
+     "date": ""
+    },
+    {
+     "country": "Italia",
+     "city": "Firenze",
+     "library": "Biblioteca Medicea Laurenziana (BML)",
+     "fonds": "Plut.",
+     "cote": "74. 17",
+     "cote_id": "16672",
+     "folios": "112-132",
+     "century": "13 in.",
+     "date": ""
+    },
+    {
+     "country": "Italia",
+     "city": "Firenze",
+     "library": "Biblioteca Medicea Laurenziana (BML)",
+     "fonds": "Plut.",
+     "cote": "74. 23",
+     "cote_id": "16678",
+     "folios": "021-185r",
+     "century": "14 in.",
+     "date": ""
+    },
+    {
+     "country": "Hellas",
+     "city": "Hagion Oros",
+     "library": "Μονή Ιβήρων",
+     "fonds": "Mss.",
+     "cote": "0216 (Lambros 4336)",
+     "cote_id": "23813",
+     "folios": "001-171v",
+     "century": "15",
+     "date": ""
+    },
+    {
+     "country": "Hellas",
+     "city": "Hagion Oros",
+     "library": "Μονή Μεγίστης Λαύρας",
+     "fonds": "Mss.",
+     "cote": "Ω 075 (Eustratiades 1885)",
+     "cote_id": "28937",
+     "folios": "009-218v",
+     "century": "11",
+     "date": ""
+    },
+    {
+     "country": "Türkiye",
+     "city": "İzmir",
+     "library": "Ευαγγελική σχολή",
+     "fonds": "Mss.",
+     "cote": "A-15 [ms. détruit]",
+     "cote_id": "34045",
+     "folios": "Item 1",
+     "century": "16",
+     "date": ""
+    },
+    {
+     "country": "Hellas",
+     "city": "Karditsa",
+     "library": "Μονή Κορώνης",
+     "fonds": "Mss.",
+     "cote": "04",
+     "cote_id": "36548",
+     "folios": "001-100",
+     "century": "15",
+     "date": ""
+    },
+    {
+     "country": "Polska",
+     "city": "Kraków",
+     "library": "Biblioteka Jagiellońska",
+     "fonds": "Berlin, graec.",
+     "cote": "1°.39 (275)",
+     "cote_id": "9110",
+     "folios": "vol. 8, item 25",
+     "century": "19",
+     "date": ""
+    },
+    {
+     "country": "Nederland",
+     "city": "Leiden",
+     "library": "Universitaire Bibliotheken",
+     "fonds": "Voss.",
+     "cote": "gr. F° 58",
+     "cote_id": "38068",
+     "folios": "243-305v",
+     "century": "14",
+     "date": ""
+    },
+    {
+     "country": "Nederland",
+     "city": "Leiden",
+     "library": "Universitaire Bibliotheken",
+     "fonds": "Voss.",
+     "cote": "gr. F° 59",
+     "cote_id": "38069",
+     "folios": "012-246",
+     "century": "15 (3/4), 15 ex.",
+     "date": ""
+    },
+    {
+     "country": "United Kingdom",
+     "city": "London",
+     "library": "British Library (BL)",
+     "fonds": "Harley",
+     "cote": "5679",
+     "cote_id": "39637",
+     "folios": "010-209",
+     "century": "15 ex.",
+     "date": ""
+    },
+    {
+     "country": "United Kingdom",
+     "city": "London",
+     "library": "Natural History Museum",
+     "fonds": "Ms. Banks Coll.",
+     "cote": "Dio. 1",
+     "cote_id": "73494",
+     "folios": "001--418v*",
+     "century": "15",
+     "date": ""
+    },
+    {
+     "country": "Hellas",
+     "city": "Meleai",
+     "library": "Δημόσια βιβλιοθήκη",
+     "fonds": "Mss.",
+     "cote": "078",
+     "cote_id": "40592",
+     "folios": "001-251v*",
+     "century": "18",
+     "date": "1774"
+    },
+    {
+     "country": "Italia",
+     "city": "Milano",
+     "library": "Archivio del Capitolo Metropolitano",
+     "fonds": "Mss.",
+     "cote": "2",
+     "cote_id": "42153",
+     "folios": "001--117v",
+     "century": "15 (2/2)",
+     "date": ""
+    },
+    {
+     "country": "Italia",
+     "city": "Milano",
+     "library": "Biblioteca Ambrosiana",
+     "fonds": "Mss.",
+     "cote": "A 095 sup. (Martini-Bassi 24)",
+     "cote_id": "42206",
+     "folios": "110r-v*, 129v-133v*",
+     "century": "14 (1/2)",
+     "date": ""
+    },
+    {
+     "country": "Italia",
+     "city": "Milano",
+     "library": "Biblioteca Ambrosiana",
+     "fonds": "Mss.",
+     "cote": "A 095 sup. (Martini-Bassi 24)",
+     "cote_id": "42206",
+     "folios": "110v-123v*",
+     "century": "14 (1/2)",
+     "date": ""
+    },
+    {
+     "country": "Italia",
+     "city": "Milano",
+     "library": "Biblioteca Ambrosiana",
+     "fonds": "Mss.",
+     "cote": "C 102 sup. (Martini-Bassi 198)",
+     "cote_id": "42437",
+     "folios": "001-6",
+     "century": "15 ex.-16 in.",
+     "date": ""
+    },
+    {
+     "country": "Italia",
+     "city": "Milano",
+     "library": "Biblioteca Ambrosiana",
+     "fonds": "Mss.",
+     "cote": "C 102 sup. (Martini-Bassi 198)",
+     "cote_id": "42437",
+     "folios": "030-120v",
+     "century": "15 ex.-16 in.",
+     "date": ""
+    },
+    {
+     "country": "Italia",
+     "city": "Milano",
+     "library": "Biblioteca Ambrosiana",
+     "fonds": "Mss.",
+     "cote": "L 119 sup. (Martini-Bassi 505)",
+     "cote_id": "42978",
+     "folios": "001-177v",
+     "century": "15 (3/4)",
+     "date": ""
+    },
+    {
+     "country": "Italia",
+     "city": "Milano",
+     "library": "Biblioteca Ambrosiana",
+     "fonds": "Mss.",
+     "cote": "Q 087 sup. (Martini-Bassi 687)",
+     "cote_id": "43164",
+     "folios": "241-270v",
+     "century": "14 (3/4)",
+     "date": ""
+    },
+    {
+     "country": "Italia",
+     "city": "Modena",
+     "library": "Biblioteca Estense universitaria",
+     "fonds": "Mss.",
+     "cote": "α. P. 5. 17 (Puntoni 115)",
+     "cote_id": "43357",
+     "folios": "019-167v",
+     "century": "15 (4/4)",
+     "date": "1487"
+    },
+    {
+     "country": "Rossijskaja Federacija",
+     "city": "Moskva",
+     "library": "Государственный Исторический музей (ГИМ)",
+     "fonds": "Син. гр.",
+     "cote": "506 (Vlad. 477)",
+     "cote_id": "44131",
+     "folios": "008--140*",
+     "century": "17",
+     "date": "1624"
+    },
+    {
+     "country": "Deutschland",
+     "city": "München",
+     "library": "Bayerische Staatsbibliothek (BSB)",
+     "fonds": "Cod.graec.",
+     "cote": "525",
+     "cote_id": "44974",
+     "folios": "174-175",
+     "century": "14",
+     "date": ""
+    },
+    {
+     "country": "Hellas",
+     "city": "Mutilene",
+     "library": "Αʹ Λύκειο Μυτιλήνης",
+     "fonds": "Mss.",
+     "cote": "33",
+     "cote_id": "45170",
+     "folios": "p. 001-424",
+     "century": "18",
+     "date": "1774"
+    },
+    {
+     "country": "Italia",
+     "city": "Napoli",
+     "library": "Biblioteca Nazionale Vittorio Emanuele III",
+     "fonds": "ex-Vind. gr.",
+     "cote": "01",
+     "cote_id": "45957",
+     "folios": "001-172v",
+     "century": "04-05",
+     "date": ""
+    },
+    {
+     "country": "Italia",
+     "city": "Napoli",
+     "library": "Biblioteca Nazionale Vittorio Emanuele III",
+     "fonds": "ex-Vind. lat.",
+     "cote": "2",
+     "cote_id": "46383",
+     "folios": "62-65v",
+     "century": "05 ex. - 06 in.",
+     "date": ""
+    },
+    {
+     "country": "Italia",
+     "city": "Napoli",
+     "library": "Biblioteca Nazionale Vittorio Emanuele III",
+     "fonds": "Mss.",
+     "cote": "III D 23",
+     "cote_id": "46328",
+     "folios": "072v-78v",
+     "century": "16 (1/2)",
+     "date": "1542 ante"
+    },
+    {
+     "country": "United States of America",
+     "city": "New Haven (CT)",
+     "library": "Yale University, Harvey Cushing/John Hay Whitney Medical Library",
+     "fonds": "Mss.",
+     "cote": "31",
+     "cote_id": "46576",
+     "folios": "001-108v*",
+     "century": "16 med.",
+     "date": "1539-1542 ca"
+    },
+    {
+     "country": "United States of America",
+     "city": "New York (NY)",
+     "library": "The Morgan Library & Museum",
+     "fonds": "MS",
+     "cote": "M.0652",
+     "cote_id": "46634",
+     "folios": "001-214v, 216-305v, 385r-v",
+     "century": "10 in.",
+     "date": ""
+    },
+    {
+     "country": "United Kingdom",
+     "city": "Oxford",
+     "library": "Bodleian Library",
+     "fonds": "Gr. class.",
+     "cote": "e. 019",
+     "cote_id": "47974",
+     "folios": "01-6v",
+     "century": "19",
+     "date": "1888"
+    },
+    {
+     "country": "Italia",
+     "city": "Padova",
+     "library": "Biblioteca Antica del Seminario vescovile",
+     "fonds": "Mss.",
+     "cote": "194",
+     "cote_id": "48824",
+     "folios": "001-200v",
+     "century": "14 (2/2)",
+     "date": ""
+    },
+    {
+     "country": "France",
+     "city": "Paris",
+     "library": "Bibliothèque nationale de France (BNF)",
+     "fonds": "Grec",
+     "cote": "1603",
+     "cote_id": "51223",
+     "folios": "178-194",
+     "century": "15",
+     "date": ""
+    },
+    {
+     "country": "France",
+     "city": "Paris",
+     "library": "Bibliothèque nationale de France (BNF)",
+     "fonds": "Grec",
+     "cote": "1603",
+     "cote_id": "51223",
+     "folios": "196-197",
+     "century": "15",
+     "date": ""
+    },
+    {
+     "country": "France",
+     "city": "Paris",
+     "library": "Bibliothèque nationale de France (BNF)",
+     "fonds": "Grec",
+     "cote": "2179",
+     "cote_id": "51808",
+     "folios": "001-171v",
+     "century": "08 ex.",
+     "date": ""
+    },
+    {
+     "country": "France",
+     "city": "Paris",
+     "library": "Bibliothèque nationale de France (BNF)",
+     "fonds": "Grec",
+     "cote": "2180",
+     "cote_id": "51809",
+     "folios": "001r-v, 5-56v, 67-73v",
+     "century": "15 (2/2)",
+     "date": ""
+    },
+    {
+     "country": "France",
+     "city": "Paris",
+     "library": "Bibliothèque nationale de France (BNF)",
+     "fonds": "Grec",
+     "cote": "2182",
+     "cote_id": "51811",
+     "folios": "007-147",
+     "century": "15",
+     "date": "1481"
+    },
+    {
+     "country": "France",
+     "city": "Paris",
+     "library": "Bibliothèque nationale de France (BNF)",
+     "fonds": "Grec",
+     "cote": "2183",
+     "cote_id": "51812",
+     "folios": "001--147",
+     "century": "14 (3/4)",
+     "date": ""
+    },
+    {
+     "country": "France",
+     "city": "Paris",
+     "library": "Bibliothèque nationale de France (BNF)",
+     "fonds": "Grec",
+     "cote": "2184",
+     "cote_id": "51813",
+     "folios": "001-187v",
+     "century": "15 (2/2)",
+     "date": ""
+    },
+    {
+     "country": "France",
+     "city": "Paris",
+     "library": "Bibliothèque nationale de France (BNF)",
+     "fonds": "Grec",
+     "cote": "2185",
+     "cote_id": "51814",
+     "folios": "001-175*",
+     "century": "15 (3/4)",
+     "date": "ca 1487-1490"
+    },
+    {
+     "country": "France",
+     "city": "Paris",
+     "library": "Bibliothèque nationale de France (BNF)",
+     "fonds": "Grec",
+     "cote": "2224",
+     "cote_id": "51853",
+     "folios": "284-443v*",
+     "century": "15",
+     "date": ""
+    },
+    {
+     "country": "France",
+     "city": "Paris",
+     "library": "Bibliothèque nationale de France (BNF)",
+     "fonds": "Grec",
+     "cote": "2260",
+     "cote_id": "51890",
+     "folios": "260-385v",
+     "century": "15 (2/4)",
+     "date": ""
+    },
+    {
+     "country": "France",
+     "city": "Paris",
+     "library": "Bibliothèque nationale de France (BNF)",
+     "fonds": "Grec",
+     "cote": "2286",
+     "cote_id": "51916",
+     "folios": "001-54",
+     "century": "14",
+     "date": ""
+    },
+    {
+     "country": "France",
+     "city": "Paris",
+     "library": "Bibliothèque nationale de France (BNF)",
+     "fonds": "Grec",
+     "cote": "2287",
+     "cote_id": "51917",
+     "folios": "001-180v",
+     "century": "15",
+     "date": ""
+    },
+    {
+     "country": "France",
+     "city": "Paris",
+     "library": "Bibliothèque nationale de France (BNF)",
+     "fonds": "Grec",
+     "cote": "2294",
+     "cote_id": "51924",
+     "folios": "138-258*",
+     "century": "15",
+     "date": ""
+    },
+    {
+     "country": "France",
+     "city": "Paris",
+     "library": "Bibliothèque nationale de France (BNF)",
+     "fonds": "Supplément grec",
+     "cote": "1098",
+     "cote_id": "53762",
+     "folios": "",
+     "century": "16",
+     "date": "1518"
+    },
+    {
+     "country": "France",
+     "city": "Paris",
+     "library": "Bibliothèque nationale de France (BNF)",
+     "fonds": "Supplément grec",
+     "cote": "1297",
+     "cote_id": "53961",
+     "folios": "128",
+     "century": "11 ?",
+     "date": ""
+    },
+    {
+     "country": "España",
+     "city": "Salamanca",
+     "library": "Biblioteca Universitaria, Biblioteca Histórica",
+     "fonds": "Mss.",
+     "cote": "2659",
+     "cote_id": "56493",
+     "folios": "013v-164v",
+     "century": "15 (3/4)",
+     "date": ""
+    },
+    {
+     "country": "España",
+     "city": "San Lorenzo de El Escorial",
+     "library": "Real Biblioteca",
+     "fonds": "Mss.",
+     "cote": "R. III. 03 (Revilla 037)",
+     "cote_id": "15308",
+     "folios": "001-129v",
+     "century": "11",
+     "date": ""
+    },
+    {
+     "country": "España",
+     "city": "San Lorenzo de El Escorial",
+     "library": "Real Biblioteca",
+     "fonds": "Mss.",
+     "cote": "Β. V. 17 (Andrés 131) [ms. détruit]",
+     "cote_id": "14433",
+     "folios": "",
+     "century": "",
+     "date": ""
+    },
+    {
+     "country": "España",
+     "city": "San Lorenzo de El Escorial",
+     "library": "Real Biblioteca",
+     "fonds": "Mss.",
+     "cote": "Δ. IV. 26 (Andrés 266) [ms. détruit]",
+     "cote_id": "14495",
+     "folios": "142--167",
+     "century": "",
+     "date": ""
+    },
+    {
+     "country": "España",
+     "city": "San Lorenzo de El Escorial",
+     "library": "Real Biblioteca",
+     "fonds": "Mss.",
+     "cote": "Ε. IV. 13 (Andrés 310) [ms. détruit]",
+     "cote_id": "14537",
+     "folios": "001-145*",
+     "century": "",
+     "date": ""
+    },
+    {
+     "country": "España",
+     "city": "San Lorenzo de El Escorial",
+     "library": "Real Biblioteca",
+     "fonds": "Mss.",
+     "cote": "Σ. I. 17 (Revilla 077)",
+     "cote_id": "15348",
+     "folios": "001-188",
+     "century": "14",
+     "date": ""
+    },
+    {
+     "country": "España",
+     "city": "San Lorenzo de El Escorial",
+     "library": "Real Biblioteca",
+     "fonds": "Mss.",
+     "cote": "Τ. II. 12 (Revilla 151)",
+     "cote_id": "15423",
+     "folios": "004-138",
+     "century": "15",
+     "date": ""
+    },
+    {
+     "country": "Italia",
+     "city": "Venezia",
+     "library": "Biblioteca Nazionale Marciana (BNM)",
+     "fonds": "gr.",
+     "cote": "V. 008 (coll. 1334)",
+     "cote_id": "70496",
+     "folios": "001--9v",
+     "century": "14",
+     "date": ""
+    },
+    {
+     "country": "Italia",
+     "city": "Venezia",
+     "library": "Biblioteca Nazionale Marciana (BNM)",
+     "fonds": "gr.",
+     "cote": "V. 008 (coll. 1334)",
+     "cote_id": "70496",
+     "folios": "137v",
+     "century": "14",
+     "date": ""
+    },
+    {
+     "country": "Italia",
+     "city": "Venezia",
+     "library": "Biblioteca Nazionale Marciana (BNM)",
+     "fonds": "gr.",
+     "cote": "V. 008 (coll. 1334)",
+     "cote_id": "70496",
+     "folios": "166-170v",
+     "century": "14",
+     "date": ""
+    },
+    {
+     "country": "Italia",
+     "city": "Venezia",
+     "library": "Biblioteca Nazionale Marciana (BNM)",
+     "fonds": "gr.",
+     "cote": "V. 016 (coll. 1318)",
+     "cote_id": "70504",
+     "folios": "168bisv-177bisv",
+     "century": "16 in.",
+     "date": ""
+    },
+    {
+     "country": "Italia",
+     "city": "Venezia",
+     "library": "Biblioteca Nazionale Marciana (BNM)",
+     "fonds": "gr.",
+     "cote": "V. 016 (coll. 1318)",
+     "cote_id": "70504",
+     "folios": "202r-v",
+     "century": "16 in.",
+     "date": ""
+    },
+    {
+     "country": "Italia",
+     "city": "Venezia",
+     "library": "Biblioteca Nazionale Marciana (BNM)",
+     "fonds": "gr.",
+     "cote": "XI. 021 (coll. 0453)",
+     "cote_id": "70657",
+     "folios": "051-65",
+     "century": "14",
+     "date": ""
+    },
+    {
+     "country": "Italia",
+     "city": "Venezia",
+     "library": "Biblioteca Nazionale Marciana (BNM)",
+     "fonds": "gr.",
+     "cote": "XI. 021 (coll. 0453)",
+     "cote_id": "70657",
+     "folios": "075v-76",
+     "century": "14",
+     "date": ""
+    },
+    {
+     "country": "Italia",
+     "city": "Venezia",
+     "library": "Biblioteca Nazionale Marciana (BNM)",
+     "fonds": "gr.",
+     "cote": "XI. 021 (coll. 0453)",
+     "cote_id": "70657",
+     "folios": "092-163v",
+     "century": "14",
+     "date": ""
+    },
+    {
+     "country": "Italia",
+     "city": "Venezia",
+     "library": "Biblioteca Nazionale Marciana (BNM)",
+     "fonds": "gr. Z.",
+     "cote": "271 (coll. 0727)",
+     "cote_id": "69742",
+     "folios": "014-137",
+     "century": "14 (1/2)",
+     "date": ""
+    },
+    {
+     "country": "Italia",
+     "city": "Venezia",
+     "library": "Biblioteca Nazionale Marciana (BNM)",
+     "fonds": "gr. Z.",
+     "cote": "272 (coll. 0728)",
+     "cote_id": "69743",
+     "folios": "007-232v",
+     "century": "15 med.",
+     "date": ""
+    },
+    {
+     "country": "Italia",
+     "city": "Venezia",
+     "library": "Biblioteca Nazionale Marciana (BNM)",
+     "fonds": "gr. Z.",
+     "cote": "273 (coll. 0669)",
+     "cote_id": "69744",
+     "folios": "004-128v",
+     "century": "13",
+     "date": ""
+    },
+    {
+     "country": "Italia",
+     "city": "Venezia",
+     "library": "Biblioteca Nazionale Marciana (BNM)",
+     "fonds": "gr. Z.",
+     "cote": "597 (coll. 0611)",
+     "cote_id": "70068",
+     "folios": "005-118v",
+     "century": "15 (3/4)",
+     "date": ""
+    },
+    {
+     "country": "Österreich",
+     "city": "Wien",
+     "library": "Österreichische Nationalbibliothek (ÖNB)",
+     "fonds": "med. gr.",
+     "cote": "01",
+     "cote_id": "71026",
+     "folios": "002-387",
+     "century": "06 in.",
+     "date": ""
+    },
+    {
+     "country": "Österreich",
+     "city": "Wien",
+     "library": "Österreichische Nationalbibliothek (ÖNB)",
+     "fonds": "med. gr.",
+     "cote": "05",
+     "cote_id": "71030",
+     "folios": "001-8v",
+     "century": "16",
+     "date": ""
+    },
+    {
+     "country": "Österreich",
+     "city": "Wien",
+     "library": "Österreichische Nationalbibliothek (ÖNB)",
+     "fonds": "med. gr.",
+     "cote": "05",
+     "cote_id": "71030",
+     "folios": "010v",
+     "century": "16",
+     "date": ""
+    },
+    {
+     "country": "Österreich",
+     "city": "Wien",
+     "library": "Österreichische Nationalbibliothek (ÖNB)",
+     "fonds": "med. gr.",
+     "cote": "05",
+     "cote_id": "71030",
+     "folios": "9",
+     "century": "16",
+     "date": ""
+    },
+    {
+     "country": "Österreich",
+     "city": "Wien",
+     "library": "Österreichische Nationalbibliothek (ÖNB)",
+     "fonds": "med. gr.",
+     "cote": "14",
+     "cote_id": "71039",
+     "folios": "001-46v",
+     "century": "15 ex.",
+     "date": ""
+    },
+    {
+     "country": "Österreich",
+     "city": "Wien",
+     "library": "Österreichische Nationalbibliothek (ÖNB)",
+     "fonds": "med. gr.",
+     "cote": "16",
+     "cote_id": "71041",
+     "folios": "043-48v",
+     "century": "14",
+     "date": ""
+    },
+    {
+     "country": "Österreich",
+     "city": "Wien",
+     "library": "Österreichische Nationalbibliothek (ÖNB)",
+     "fonds": "med. gr.",
+     "cote": "16",
+     "cote_id": "71041",
+     "folios": "056-179",
+     "century": "14",
+     "date": ""
+    },
+    {
+     "country": "Österreich",
+     "city": "Wien",
+     "library": "Österreichische Nationalbibliothek (ÖNB)",
+     "fonds": "med. gr.",
+     "cote": "25",
+     "cote_id": "71050",
+     "folios": "122-124v",
+     "century": "16 (1/2)",
+     "date": ""
+    },
+    {
+     "country": "Österreich",
+     "city": "Wien",
+     "library": "Österreichische Nationalbibliothek (ÖNB)",
+     "fonds": "med. gr.",
+     "cote": "28",
+     "cote_id": "71053",
+     "folios": "067-69v, 73-115",
+     "century": "14 ex.",
+     "date": ""
+    },
+    {
+     "country": "Österreich",
+     "city": "Wien",
+     "library": "Österreichische Nationalbibliothek (ÖNB)",
+     "fonds": "suppl. gr.",
+     "cote": "105",
+     "cote_id": "71569",
+     "folios": "001-202",
+     "century": "18",
+     "date": ""
+    },
+    {
+     "country": "Suisse",
+     "city": "Zürich",
+     "library": "Zentralbibliothek",
+     "fonds": "Mss.",
+     "cote": "C 136",
+     "cote_id": "72793",
+     "folios": "115, item 2",
+     "century": "15 (2/2)",
+     "date": ""
+    },
+    {
+     "country": "Suisse",
+     "city": "Zürich",
+     "library": "Zentralbibliothek",
+     "fonds": "Mss.",
+     "cote": "C 136",
+     "cote_id": "72793",
+     "folios": "120-125v",
+     "century": "15 (2/2)",
+     "date": ""
+    }
+   ]
+  },
+  "462": {
+   "works": [
+    "dioscorides-002"
+   ],
+   "witnesses": [
+    {
+     "country": "Deutschland",
+     "city": "Berlin",
+     "library": "Staatsbibliothek zu Berlin (Preussischer Kulturbesitz)",
+     "fonds": "Phillipps",
+     "cote": "1530 (126)",
+     "cote_id": "9431",
+     "folios": "219v-229v",
+     "century": "16 med.",
+     "date": ""
+    },
+    {
+     "country": "Vaticano",
+     "city": "Città del Vaticano",
+     "library": "Biblioteca Apostolica Vaticana (BAV)",
+     "fonds": "Pal. gr.",
+     "cote": "048",
+     "cote_id": "65781",
+     "folios": "166v-177",
+     "century": "16",
+     "date": ""
+    },
+    {
+     "country": "Vaticano",
+     "city": "Città del Vaticano",
+     "library": "Biblioteca Apostolica Vaticana (BAV)",
+     "fonds": "Pal. gr.",
+     "cote": "077",
+     "cote_id": "65810",
+     "folios": "103-107",
+     "century": "14 (2/4)",
+     "date": ""
+    },
+    {
+     "country": "Vaticano",
+     "city": "Città del Vaticano",
+     "library": "Biblioteca Apostolica Vaticana (BAV)",
+     "fonds": "Urb. gr.",
+     "cote": "066",
+     "cote_id": "66533",
+     "folios": "146v-155",
+     "century": "15",
+     "date": ""
+    },
+    {
+     "country": "Vaticano",
+     "city": "Città del Vaticano",
+     "library": "Biblioteca Apostolica Vaticana (BAV)",
+     "fonds": "Vat. gr.",
+     "cote": "0284",
+     "cote_id": "66915",
+     "folios": "251v-264*",
+     "century": "10",
+     "date": ""
+    },
+    {
+     "country": "Vaticano",
+     "city": "Città del Vaticano",
+     "library": "Biblioteca Apostolica Vaticana (BAV)",
+     "fonds": "Vat. gr.",
+     "cote": "0289",
+     "cote_id": "66920",
+     "folios": "098-102",
+     "century": "14",
+     "date": ""
+    },
+    {
+     "country": "Italia",
+     "city": "Firenze",
+     "library": "Biblioteca Medicea Laurenziana (BML)",
+     "fonds": "Plut.",
+     "cote": "74. 23",
+     "cote_id": "16678",
+     "folios": "185v-192",
+     "century": "14 in.",
+     "date": ""
+    },
+    {
+     "country": "Hellas",
+     "city": "Hagion Oros",
+     "library": "Μονή Μεγίστης Λαύρας",
+     "fonds": "Mss.",
+     "cote": "Ω 075 (Eustratiades 1885)",
+     "cote_id": "28937",
+     "folios": "218v-227v",
+     "century": "11",
+     "date": ""
+    },
+    {
+     "country": "Nederland",
+     "city": "Leiden",
+     "library": "Universitaire Bibliotheken",
+     "fonds": "Voss.",
+     "cote": "gr. F° 59",
+     "cote_id": "38069",
+     "folios": "247-259v",
+     "century": "15 (3/4)",
+     "date": ""
+    },
+    {
+     "country": "United Kingdom",
+     "city": "London",
+     "library": "British Library (BL)",
+     "fonds": "Harley",
+     "cote": "5679",
+     "cote_id": "39637",
+     "folios": "209-218v",
+     "century": "15 ex.",
+     "date": ""
+    },
+    {
+     "country": "Italia",
+     "city": "Milano",
+     "library": "Archivio del Capitolo Metropolitano",
+     "fonds": "Mss.",
+     "cote": "2",
+     "cote_id": "42153",
+     "folios": "118-123",
+     "century": "15 (2/2)",
+     "date": ""
+    },
+    {
+     "country": "Italia",
+     "city": "Milano",
+     "library": "Biblioteca Ambrosiana",
+     "fonds": "Mss.",
+     "cote": "L 119 sup. (Martini-Bassi 505)",
+     "cote_id": "42978",
+     "folios": "177v-186",
+     "century": "15 (3/4)",
+     "date": ""
+    },
+    {
+     "country": "Italia",
+     "city": "Modena",
+     "library": "Biblioteca Estense universitaria",
+     "fonds": "Mss.",
+     "cote": "α. P. 5. 17 (Puntoni 115)",
+     "cote_id": "43357",
+     "folios": "167v-175",
+     "century": "15 (4/4)",
+     "date": "1487"
+    },
+    {
+     "country": "Deutschland",
+     "city": "München",
+     "library": "Bayerische Staatsbibliothek (BSB)",
+     "fonds": "Cod.graec.",
+     "cote": "236",
+     "cote_id": "44683",
+     "folios": "083-100",
+     "century": "15 (2/2)",
+     "date": ""
+    },
+    {
+     "country": "United States of America",
+     "city": "New York (NY)",
+     "library": "The Morgan Library & Museum",
+     "fonds": "MS",
+     "cote": "M.0652",
+     "cote_id": "46634",
+     "folios": "306-319v",
+     "century": "10 in.",
+     "date": ""
+    },
+    {
+     "country": "France",
+     "city": "Paris",
+     "library": "Bibliothèque Mazarine",
+     "fonds": "Mss.",
+     "cote": "4461",
+     "cote_id": "49130",
+     "folios": "104--146*",
+     "century": "15 (3/4)",
+     "date": ""
+    },
+    {
+     "country": "France",
+     "city": "Paris",
+     "library": "Bibliothèque nationale de France (BNF)",
+     "fonds": "Grec",
+     "cote": "2182",
+     "cote_id": "51811",
+     "folios": "147v-149v, 130-133v",
+     "century": "15",
+     "date": "1481"
+    },
+    {
+     "country": "France",
+     "city": "Paris",
+     "library": "Bibliothèque nationale de France (BNF)",
+     "fonds": "Grec",
+     "cote": "2183",
+     "cote_id": "51812",
+     "folios": "147-155",
+     "century": "14 (3/4)",
+     "date": ""
+    },
+    {
+     "country": "France",
+     "city": "Paris",
+     "library": "Bibliothèque nationale de France (BNF)",
+     "fonds": "Grec",
+     "cote": "2184",
+     "cote_id": "51813",
+     "folios": "188-197v",
+     "century": "15 (2/2)",
+     "date": ""
+    },
+    {
+     "country": "France",
+     "city": "Paris",
+     "library": "Bibliothèque nationale de France (BNF)",
+     "fonds": "Grec",
+     "cote": "2185",
+     "cote_id": "51814",
+     "folios": "184-194v*",
+     "century": "15 (3/4)",
+     "date": "ca 1487-1490"
+    },
+    {
+     "country": "France",
+     "city": "Paris",
+     "library": "Bibliothèque nationale de France (BNF)",
+     "fonds": "Grec",
+     "cote": "2287",
+     "cote_id": "51917",
+     "folios": "181-190",
+     "century": "15",
+     "date": ""
+    },
+    {
+     "country": "España",
+     "city": "Salamanca",
+     "library": "Biblioteca Universitaria, Biblioteca Histórica",
+     "fonds": "Mss.",
+     "cote": "2659",
+     "cote_id": "56493",
+     "folios": "164v-171",
+     "century": "15 (3/4)",
+     "date": ""
+    },
+    {
+     "country": "España",
+     "city": "San Lorenzo de El Escorial",
+     "library": "Real Biblioteca",
+     "fonds": "Mss.",
+     "cote": "R. III. 03 (Revilla 037)",
+     "cote_id": "15308",
+     "folios": "129v-137",
+     "century": "11",
+     "date": ""
+    },
+    {
+     "country": "España",
+     "city": "San Lorenzo de El Escorial",
+     "library": "Real Biblioteca",
+     "fonds": "Mss.",
+     "cote": "Σ. I. 17 (Revilla 077)",
+     "cote_id": "15348",
+     "folios": "188-197v",
+     "century": "14",
+     "date": ""
+    },
+    {
+     "country": "Italia",
+     "city": "Venezia",
+     "library": "Biblioteca Nazionale Marciana (BNM)",
+     "fonds": "gr.",
+     "cote": "XI. 021 (coll. 0453)",
+     "cote_id": "70657",
+     "folios": "079-83v",
+     "century": "14",
+     "date": ""
+    },
+    {
+     "country": "Italia",
+     "city": "Venezia",
+     "library": "Biblioteca Nazionale Marciana (BNM)",
+     "fonds": "gr. Z.",
+     "cote": "271 (coll. 0727)",
+     "cote_id": "69742",
+     "folios": "137-142v",
+     "century": "14 (1/2)",
+     "date": ""
+    },
+    {
+     "country": "Italia",
+     "city": "Venezia",
+     "library": "Biblioteca Nazionale Marciana (BNM)",
+     "fonds": "gr. Z.",
+     "cote": "272 (coll. 0728)",
+     "cote_id": "69743",
+     "folios": "233-243v",
+     "century": "15 med.",
+     "date": ""
+    },
+    {
+     "country": "Österreich",
+     "city": "Wien",
+     "library": "Österreichische Nationalbibliothek (ÖNB)",
+     "fonds": "med. gr.",
+     "cote": "16",
+     "cote_id": "71041",
+     "folios": "179-184v",
+     "century": "14",
+     "date": ""
+    }
+   ]
+  },
+  "13007": {
+   "works": [
+    "dioscorides-003"
+   ],
+   "witnesses": [
+    {
+     "country": "Deutschland",
+     "city": "Berlin",
+     "library": "Staatsbibliothek zu Berlin (Preussischer Kulturbesitz)",
+     "fonds": "Phillipps",
+     "cote": "1530 (126)",
+     "cote_id": "9431",
+     "folios": "230-241v",
+     "century": "16 med.",
+     "date": ""
+    },
+    {
+     "country": "Vaticano",
+     "city": "Città del Vaticano",
+     "library": "Biblioteca Apostolica Vaticana (BAV)",
+     "fonds": "Barb. gr.",
+     "cote": "237",
+     "cote_id": "64783",
+     "folios": "047-51",
+     "century": "16",
+     "date": ""
+    },
+    {
+     "country": "Vaticano",
+     "city": "Città del Vaticano",
+     "library": "Biblioteca Apostolica Vaticana (BAV)",
+     "fonds": "Pal. gr.",
+     "cote": "048",
+     "cote_id": "65781",
+     "folios": "177-190v",
+     "century": "16",
+     "date": ""
+    },
+    {
+     "country": "Vaticano",
+     "city": "Città del Vaticano",
+     "library": "Biblioteca Apostolica Vaticana (BAV)",
+     "fonds": "Pal. gr.",
+     "cote": "077",
+     "cote_id": "65810",
+     "folios": "107-112",
+     "century": "14 (2/4)",
+     "date": ""
+    },
+    {
+     "country": "Vaticano",
+     "city": "Città del Vaticano",
+     "library": "Biblioteca Apostolica Vaticana (BAV)",
+     "fonds": "Urb. gr.",
+     "cote": "066",
+     "cote_id": "66533",
+     "folios": "155-164",
+     "century": "15",
+     "date": ""
+    },
+    {
+     "country": "Vaticano",
+     "city": "Città del Vaticano",
+     "library": "Biblioteca Apostolica Vaticana (BAV)",
+     "fonds": "Vat. gr.",
+     "cote": "0289",
+     "cote_id": "66920",
+     "folios": "102-106v",
+     "century": "14",
+     "date": ""
+    },
+    {
+     "country": "Vaticano",
+     "city": "Città del Vaticano",
+     "library": "Biblioteca Apostolica Vaticana (BAV)",
+     "fonds": "Vat. gr.",
+     "cote": "1826",
+     "cote_id": "68455",
+     "folios": "333v",
+     "century": "16",
+     "date": ""
+    },
+    {
+     "country": "Italia",
+     "city": "Firenze",
+     "library": "Biblioteca Medicea Laurenziana (BML)",
+     "fonds": "Plut.",
+     "cote": "74. 23",
+     "cote_id": "16678",
+     "folios": "192v-200v",
+     "century": "14 in.",
+     "date": ""
+    },
+    {
+     "country": "Hellas",
+     "city": "Hagion Oros",
+     "library": "Μονή Μεγίστης Λαύρας",
+     "fonds": "Mss.",
+     "cote": "Ω 075 (Eustratiades 1885)",
+     "cote_id": "28937",
+     "folios": "227v-238",
+     "century": "11",
+     "date": ""
+    },
+    {
+     "country": "Türkiye",
+     "city": "İzmir",
+     "library": "Ευαγγελική σχολή",
+     "fonds": "Mss.",
+     "cote": "A-15 [ms. détruit]",
+     "cote_id": "34045",
+     "folios": "Item 2",
+     "century": "16",
+     "date": ""
+    },
+    {
+     "country": "Nederland",
+     "city": "Leiden",
+     "library": "Universitaire Bibliotheken",
+     "fonds": "Voss.",
+     "cote": "gr. F° 59",
+     "cote_id": "38069",
+     "folios": "260-275",
+     "century": "15 (3/4)",
+     "date": ""
+    },
+    {
+     "country": "United Kingdom",
+     "city": "London",
+     "library": "British Library (BL)",
+     "fonds": "Harley",
+     "cote": "5679",
+     "cote_id": "39637",
+     "folios": "218v-230",
+     "century": "15 ex.",
+     "date": ""
+    },
+    {
+     "country": "Italia",
+     "city": "Milano",
+     "library": "Archivio del Capitolo Metropolitano",
+     "fonds": "Mss.",
+     "cote": "2",
+     "cote_id": "42153",
+     "folios": "123v-130",
+     "century": "15 (2/2)",
+     "date": ""
+    },
+    {
+     "country": "Italia",
+     "city": "Milano",
+     "library": "Biblioteca Ambrosiana",
+     "fonds": "Mss.",
+     "cote": "L 119 sup. (Martini-Bassi 505)",
+     "cote_id": "42978",
+     "folios": "186-196v",
+     "century": "15 (3/4)",
+     "date": ""
+    },
+    {
+     "country": "Italia",
+     "city": "Modena",
+     "library": "Biblioteca Estense universitaria",
+     "fonds": "Mss.",
+     "cote": "α. P. 5. 17 (Puntoni 115)",
+     "cote_id": "43357",
+     "folios": "175-184v",
+     "century": "15 (4/4)",
+     "date": "1487"
+    },
+    {
+     "country": "Rossijskaja Federacija",
+     "city": "Moskva",
+     "library": "Государственный Исторический музей (ГИМ)",
+     "fonds": "Син. гр.",
+     "cote": "506 (Vlad. 477)",
+     "cote_id": "44131",
+     "folios": "140-141",
+     "century": "17",
+     "date": "1624"
+    },
+    {
+     "country": "Deutschland",
+     "city": "München",
+     "library": "Bayerische Staatsbibliothek (BSB)",
+     "fonds": "Cod.graec.",
+     "cote": "236",
+     "cote_id": "44683",
+     "folios": "100v-123v",
+     "century": "15 (2/2)",
+     "date": ""
+    },
+    {
+     "country": "United States of America",
+     "city": "New York (NY)",
+     "library": "The Morgan Library & Museum",
+     "fonds": "MS",
+     "cote": "M.0652",
+     "cote_id": "46634",
+     "folios": "319v-330v",
+     "century": "10 in.",
+     "date": ""
+    },
+    {
+     "country": "France",
+     "city": "Paris",
+     "library": "Bibliothèque Mazarine",
+     "fonds": "Mss.",
+     "cote": "4461",
+     "cote_id": "49130",
+     "folios": "104--146*",
+     "century": "15 (3/4)",
+     "date": ""
+    },
+    {
+     "country": "France",
+     "city": "Paris",
+     "library": "Bibliothèque nationale de France (BNF)",
+     "fonds": "Grec",
+     "cote": "1603",
+     "cote_id": "51223",
+     "folios": "194-195v",
+     "century": "15",
+     "date": ""
+    },
+    {
+     "country": "France",
+     "city": "Paris",
+     "library": "Bibliothèque nationale de France (BNF)",
+     "fonds": "Grec",
+     "cote": "2182",
+     "cote_id": "51811",
+     "folios": "0133v-139v, 150-151",
+     "century": "15",
+     "date": "1481"
+    },
+    {
+     "country": "France",
+     "city": "Paris",
+     "library": "Bibliothèque nationale de France (BNF)",
+     "fonds": "Grec",
+     "cote": "2183",
+     "cote_id": "51812",
+     "folios": "155-163v",
+     "century": "14 (3/4)",
+     "date": ""
+    },
+    {
+     "country": "France",
+     "city": "Paris",
+     "library": "Bibliothèque nationale de France (BNF)",
+     "fonds": "Grec",
+     "cote": "2184",
+     "cote_id": "51813",
+     "folios": "197v-208v",
+     "century": "15 (2/2)",
+     "date": ""
+    },
+    {
+     "country": "France",
+     "city": "Paris",
+     "library": "Bibliothèque nationale de France (BNF)",
+     "fonds": "Grec",
+     "cote": "2185",
+     "cote_id": "51814",
+     "folios": "175-184*",
+     "century": "15 (3/4)",
+     "date": "ca 1487-1490"
+    },
+    {
+     "country": "España",
+     "city": "Salamanca",
+     "library": "Biblioteca Universitaria, Biblioteca Histórica",
+     "fonds": "Mss.",
+     "cote": "2659",
+     "cote_id": "56493",
+     "folios": "171-179v",
+     "century": "15 (3/4)",
+     "date": ""
+    },
+    {
+     "country": "España",
+     "city": "San Lorenzo de El Escorial",
+     "library": "Real Biblioteca",
+     "fonds": "Mss.",
+     "cote": "Σ. I. 17 (Revilla 077)",
+     "cote_id": "15348",
+     "folios": "197v-208r",
+     "century": "14",
+     "date": ""
+    },
+    {
+     "country": "Italia",
+     "city": "Venezia",
+     "library": "Biblioteca Nazionale Marciana (BNM)",
+     "fonds": "gr. Z.",
+     "cote": "271 (coll. 0727)",
+     "cote_id": "69742",
+     "folios": "143-150",
+     "century": "14 (1/2)",
+     "date": ""
+    },
+    {
+     "country": "Italia",
+     "city": "Venezia",
+     "library": "Biblioteca Nazionale Marciana (BNM)",
+     "fonds": "gr. Z.",
+     "cote": "272 (coll. 0728)",
+     "cote_id": "69743",
+     "folios": "244-256",
+     "century": "15 med.",
+     "date": ""
+    }
+   ]
+  },
+  "3612": {
+   "works": [
+    "hippocrates-001"
+   ],
+   "witnesses": [
+    {
+     "country": "Italia",
+     "city": "Bologna",
+     "library": "Biblioteca Universitaria",
+     "fonds": "Mss.",
+     "cote": "3632",
+     "cote_id": "9761",
+     "folios": "028--v*",
+     "century": "15",
+     "date": ""
+    },
+    {
+     "country": "United Kingdom",
+     "city": "Cambridge",
+     "library": "Gonville & Caius College",
+     "fonds": "Mss.",
+     "cote": "050 (27)",
+     "cote_id": "11864",
+     "folios": "006v-15v*",
+     "century": "16 (1/2)",
+     "date": ""
+    },
+    {
+     "country": "Vaticano",
+     "city": "Città del Vaticano",
+     "library": "Biblioteca Apostolica Vaticana (BAV)",
+     "fonds": "Urb. gr.",
+     "cote": "068",
+     "cote_id": "66535",
+     "folios": "020-26v",
+     "century": "14",
+     "date": ""
+    },
+    {
+     "country": "Vaticano",
+     "city": "Città del Vaticano",
+     "library": "Biblioteca Apostolica Vaticana (BAV)",
+     "fonds": "Vat. gr.",
+     "cote": "0277",
+     "cote_id": "66908",
+     "folios": "029v",
+     "century": "",
+     "date": ""
+    },
+    {
+     "country": "Vaticano",
+     "city": "Città del Vaticano",
+     "library": "Biblioteca Apostolica Vaticana (BAV)",
+     "fonds": "Vat. gr.",
+     "cote": "0278",
+     "cote_id": "66909",
+     "folios": "030--36*",
+     "century": "16",
+     "date": "1512"
+    },
+    {
+     "country": "Vaticano",
+     "city": "Città del Vaticano",
+     "library": "Biblioteca Apostolica Vaticana (BAV)",
+     "fonds": "Vat. gr.",
+     "cote": "2256",
+     "cote_id": "68887",
+     "folios": "037-40v, 099-v",
+     "century": "14 (2/2)",
+     "date": ""
+    },
+    {
+     "country": "Italia",
+     "city": "Firenze",
+     "library": "Biblioteca Medicea Laurenziana (BML)",
+     "fonds": "Plut.",
+     "cote": "74. 01",
+     "cote_id": "16656",
+     "folios": "012-18v",
+     "century": "15 (4/4)",
+     "date": ""
+    },
+    {
+     "country": "Danmark",
+     "city": "København",
+     "library": "Det Kongelige Bibliotek",
+     "fonds": "GKS",
+     "cote": "0224 2°",
+     "cote_id": "37151",
+     "folios": "016-21r",
+     "century": "15",
+     "date": ""
+    },
+    {
+     "country": "Nederland",
+     "city": "Leiden",
+     "library": "Universitaire Bibliotheken",
+     "fonds": "Voss.",
+     "cote": "gr. F° 10(I)",
+     "cote_id": "38018",
+     "folios": "011-22v",
+     "century": "15 ex. - 16 in.",
+     "date": ""
+    },
+    {
+     "country": "Italia",
+     "city": "Milano",
+     "library": "Biblioteca Ambrosiana",
+     "fonds": "Mss.",
+     "cote": "L 110 sup. (Martini-Bassi 496)",
+     "cote_id": "42969",
+     "folios": "235v",
+     "century": "16 (1/2)",
+     "date": ""
+    },
+    {
+     "country": "Deutschland",
+     "city": "München",
+     "library": "Bayerische Staatsbibliothek (BSB)",
+     "fonds": "Cod.graec.",
+     "cote": "071",
+     "cote_id": "44515",
+     "folios": "014r-v, 16-22v",
+     "century": "15",
+     "date": "1480 ca"
+    },
+    {
+     "country": "Italia",
+     "city": "Napoli",
+     "library": "Biblioteca Nazionale Vittorio Emanuele III",
+     "fonds": "Mss.",
+     "cote": "II C 32",
+     "cote_id": "46078",
+     "folios": "362v",
+     "century": "14 in.",
+     "date": ""
+    },
+    {
+     "country": "United Kingdom",
+     "city": "Oxford",
+     "library": "Bodleian Library",
+     "fonds": "Barocci",
+     "cote": "204",
+     "cote_id": "47492",
+     "folios": "012v-18*",
+     "century": "14",
+     "date": ""
+    },
+    {
+     "country": "United Kingdom",
+     "city": "Oxford",
+     "library": "Bodleian Library",
+     "fonds": "Holkham",
+     "cote": "gr. 092",
+     "cote_id": "48160",
+     "folios": "001--489v",
+     "century": "16",
+     "date": ""
+    },
+    {
+     "country": "France",
+     "city": "Paris",
+     "library": "Bibliothèque nationale de France (BNF)",
+     "fonds": "Grec",
+     "cote": "1868",
+     "cote_id": "51494",
+     "folios": "379v-381, 397",
+     "century": "15",
+     "date": ""
+    },
+    {
+     "country": "France",
+     "city": "Paris",
+     "library": "Bibliothèque nationale de France (BNF)",
+     "fonds": "Grec",
+     "cote": "2140",
+     "cote_id": "51769",
+     "folios": "013-19*",
+     "century": "12 (2/2)",
+     "date": ""
+    },
+    {
+     "country": "France",
+     "city": "Paris",
+     "library": "Bibliothèque nationale de France (BNF)",
+     "fonds": "Grec",
+     "cote": "2141",
+     "cote_id": "51770",
+     "folios": "011v-16v*",
+     "century": "15",
+     "date": ""
+    },
+    {
+     "country": "France",
+     "city": "Paris",
+     "library": "Bibliothèque nationale de France (BNF)",
+     "fonds": "Grec",
+     "cote": "2142",
+     "cote_id": "51771",
+     "folios": "017-25v*",
+     "century": "12-13",
+     "date": ""
+    },
+    {
+     "country": "France",
+     "city": "Paris",
+     "library": "Bibliothèque nationale de France (BNF)",
+     "fonds": "Grec",
+     "cote": "2143",
+     "cote_id": "51772",
+     "folios": "015v-21v*",
+     "century": "14",
+     "date": ""
+    },
+    {
+     "country": "France",
+     "city": "Paris",
+     "library": "Bibliothèque nationale de France (BNF)",
+     "fonds": "Grec",
+     "cote": "2144",
+     "cote_id": "51773",
+     "folios": "017-25*",
+     "century": "14",
+     "date": ""
+    },
+    {
+     "country": "France",
+     "city": "Paris",
+     "library": "Bibliothèque nationale de France (BNF)",
+     "fonds": "Grec",
+     "cote": "2145",
+     "cote_id": "51774",
+     "folios": "019v-28v*",
+     "century": "15",
+     "date": ""
+    },
+    {
+     "country": "France",
+     "city": "Paris",
+     "library": "Bibliothèque nationale de France (BNF)",
+     "fonds": "Grec",
+     "cote": "2253",
+     "cote_id": "51883",
+     "folios": "117-130v*",
+     "century": "11",
+     "date": ""
+    },
+    {
+     "country": "France",
+     "city": "Paris",
+     "library": "Bibliothèque nationale de France (BNF)",
+     "fonds": "Grec",
+     "cote": "2255",
+     "cote_id": "51885",
+     "folios": "062v-83v*",
+     "century": "15",
+     "date": ""
+    },
+    {
+     "country": "France",
+     "city": "Paris",
+     "library": "Bibliothèque nationale de France (BNF)",
+     "fonds": "Grec",
+     "cote": "2332",
+     "cote_id": "51963",
+     "folios": "204v",
+     "century": "",
+     "date": ""
+    },
+    {
+     "country": "Italia",
+     "city": "Venezia",
+     "library": "Biblioteca Nazionale Marciana (BNM)",
+     "fonds": "gr. Z.",
+     "cote": "269 (coll. 0533)",
+     "cote_id": "69740",
+     "folios": "016v-23v",
+     "century": "10 in.",
+     "date": ""
+    },
+    {
+     "country": "Österreich",
+     "city": "Wien",
+     "library": "Österreichische Nationalbibliothek (ÖNB)",
+     "fonds": "med. gr.",
+     "cote": "15",
+     "cote_id": "71040",
+     "folios": "139v-140",
+     "century": "16 (1/2)",
+     "date": ""
+    },
+    {
+     "country": "Österreich",
+     "city": "Wien",
+     "library": "Österreichische Nationalbibliothek (ÖNB)",
+     "fonds": "suppl. gr.",
+     "cote": "013",
+     "cote_id": "71475",
+     "folios": "017v-26",
+     "century": "16",
+     "date": ""
+    }
+   ]
+  }
+ }
+}

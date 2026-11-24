@@ -59,3 +59,16 @@ a.go.stale{color:var(--muted);font-weight:400;text-decoration:line-through}
 @media (prefers-color-scheme:dark){.ok{color:#7cc487}.diff{color:#f0a55a}}
 .gr,[lang=grc],[lang=grc] *{font-style:normal}
 .gr,[lang=grc]{font-family:"GFS Porson",serif;font-size:1.15rem;letter-spacing:.01em}
+header form.filter{flex-basis:100%;margin:.2rem 0 0}
+#filter{width:100%;max-width:36rem;font:inherit;font-size:.95rem;padding:.35rem .6rem;border:1px solid var(--rule);border-radius:5px;background:var(--soft);color:var(--ink)}
+.sortsw{font-size:.85rem;color:var(--muted)}
+.sortsw button{font:inherit;color:var(--accent);background:none;border:1px solid var(--rule);border-radius:4px;padding:.1rem .5rem;margin-left:.3rem;cursor:pointer}
+.sortsw button.on{background:var(--soft);color:var(--ink);border-color:var(--muted)}
+table.sortable th{cursor:pointer}
+table.sortable th[data-dir=asc]::after{content:" ▲";font-size:.6rem}
+table.sortable th[data-dir=desc]::after{content:" ▼";font-size:.6rem}
+.dt{white-space:nowrap;font-variant-numeric:tabular-nums}
+.wdate{margin:.1rem 0;font-size:.9rem;color:var(--muted)}
+.mdate{font-size:.85rem;color:var(--muted);margin-left:.4rem}
+.cityname{margin:0 .5rem 0 0}
+[hidden]{display:none!important}

@@ -16,6 +16,24 @@ GVFILE = ROOT / "data" / "galenus_verbatim.json"
 GV = json.loads(GVFILE.read_text())["works"] if GVFILE.exists() else {}
 # catalogue entries that cover more than one TLG text
 EXTRA_TLG = {"galenus-078": ["0057.090", "0057.091"], "galenus-042": ["0057.047"]}
+WDFILE = ROOT / "data" / "work_dates.json"
+WD = json.loads(WDFILE.read_text()) if WDFILE.exists() else {}
+PKFILE = ROOT / "data" / "pinakes.json"
+PK = json.loads(PKFILE.read_text()) if PKFILE.exists() else {"oeuvres": {}, "retrieved": ""}
+CVFILE = ROOT / "data" / "cmg_viewer_volumes.json"
+CV_VOLS = set(json.loads(CVFILE.read_text())["volumes"]) if CVFILE.exists() else set()
+CV_BASE = "https://alchemiesofscent.github.io/cmg-viewer/viewer/"
+_CMG_RE = re.compile(r"cmg\.bbaw\.de/epubl/online/([A-Za-z0-9_]+?)\.(?:php|html)\?.*?\bpn=(\d+)", re.I)
+
+
+def viewer_url(u):
+    """Old BBAW scan page -> the same page in the CMG viewer (pn is the same physical scan order)."""
+    m = _CMG_RE.search(u or "")
+    if m and m[1] in CV_VOLS:
+        return f"{CV_BASE}{m[1]}/?pn={m[2]}"
+    return None
+
+
 MM_BY_WORK = defaultdict(list)
 for _w in MM["witnesses"]:
     MM_BY_WORK[_w["work"]].append(_w)
@@ -25,18 +43,95 @@ _CITY_KEY = {"par": "paris", "paris": "paris", "vat": "vatican", "vatican": "vat
              "laur": "florence", "florence": "florence", "florenz": "florence", "marc": "venice", "venice": "venice",
              "venedig": "venice", "vind": "vienna", "vienna": "vienna", "wien": "vienna", "monac": "munich",
              "mon": "munich", "munich": "munich", "münchen": "munich", "ambros": "milan", "milan": "milan",
-             "mailand": "milan", "oxford": "oxford", "london": "london", "leiden": "leiden"}
+             "mailand": "milan", "oxford": "oxford", "london": "london", "leiden": "leiden",
+             "firenze": "florence", "venezia": "venice", "milano": "milan", "vaticano": "vatican",
+             "napoli": "naples", "neapel": "naples", "naples": "naples", "roma": "rome", "rom": "rome", "rome": "rome",
+             "modena": "modena", "cambridge": "cambridge", "berlin": "berlin", "leipzig": "leipzig",
+             "madrid": "madrid", "heidelberg": "heidelberg", "bologna": "bologna", "haven": "newhaven",
+             "yale": "newhaven", "bamberg": "bamberg", "zwickau": "zwickau", "wolfenbüttel": "wolfenbuttel",
+             "leidensis": "leiden", "scal": "leiden", "vulc": "leiden"}
 _KEEP = {"suppl", "urb", "pal", "barb", "reg", "ottob", "coisl", "coislin", "barocc", "med", "hist", "phil", "theol",
          "harley", "add", "sloane", "lat", "chis", "ross"}
 
 
 def ms_key(city_name, shelf):
-    shelf = re.split(r",\s*(?:MS|ff?\.|f\.)", shelf)[0]
+    shelf = re.sub(r"\(.*?\)|=.*$", "", re.split(r",\s*(?:MS|ff?\.|f\.)", shelf)[0])
     words = re.findall(r"[A-Za-zÀ-ÿ]+", (city_name or "") + " " + shelf)
     c = next((_CITY_KEY[w.lower()] for w in words if w.lower() in _CITY_KEY), "")
-    fonds = sorted({("coisl" if w.lower() == "coislin" else w.lower()) for w in words if w.lower() in _KEEP})
+    norm = lambda w: "coisl" if w == "coislin" else "suppl" if w.startswith(("suppl", "supplément")) else w
+    fonds = sorted({norm(w.lower()) for w in words if norm(w.lower()) in _KEEP})
     nums = [str(int(n)) for n in re.findall(r"\d+", shelf)]
     return f"{c}|{' '.join(fonds)}|{'.'.join(nums)}" if c and nums else None
+
+
+ROMAN = ["", "I", "II", "III", "IV", "V", "VI", "VII", "VIII", "IX", "X", "XI", "XII", "XIII", "XIV", "XV",
+         "XVI", "XVII", "XVIII", "XIX", "XX", "XXI"]
+
+
+def roman_c(cs):
+    """[14, 15] -> 's. XIV–XV'"""
+    cs = sorted({c for c in cs if 0 < c < len(ROMAN)})
+    if not cs:
+        return ""
+    return "s. " + ROMAN[cs[0]] + (f"–{ROMAN[cs[-1]]}" if cs[-1] != cs[0] else "")
+
+
+def _pk_centuries(c):
+    """'14 (3/4)' -> [14]; '14-15' -> [14, 15]; fractions in brackets are parts of a century."""
+    return [int(n) for n in re.findall(r"\d{1,2}", re.sub(r"\(.*?\)", "", c or "")) if 0 < int(n) < 22]
+
+
+def _pk_part(c):
+    m = re.search(r"\((\d/\d|in\.|ex\.|med\.)\)", c or "")
+    return f" ({m[1]})" if m else ""
+
+
+# manuscript dates: Pinakes first, MediManus for the rest
+MSDATE = {}
+for _o in PK["oeuvres"].values():
+    for _x in _o["witnesses"]:
+        _k = ms_key(_x["city"], f"{_x['fonds']} {_x['cote']}")
+        _cs = _pk_centuries(_x["century"])
+        if _k and _cs and _k not in MSDATE:
+            MSDATE[_k] = {"cs": _cs, "part": _pk_part(_x["century"]), "date": _x["date"], "src": "Pinakes",
+                          "url": f"https://pinakes.irht.cnrs.fr/notices/cote/{_x['cote_id']}/"}
+for _sid, _x in (MM.get("all_manuscripts") or {}).items():
+    _k = ms_key("", _sid)
+    if _k and _x["centuries"] and _k not in MSDATE:
+        MSDATE[_k] = {"cs": _x["centuries"], "date": "", "src": "MediManus", "url": _x["url"]}
+
+
+def ms_date(city_name, shelf):
+    return MSDATE.get(ms_key(city_name, shelf))
+
+
+def date_cell(d):
+    if not d:
+        return "<td class='dt' data-v='9999'></td>"
+    tip = f"{d['date']} · {d['src']}" if d["date"] else d["src"]
+    return (f"<td class='dt' data-v='{d['cs'][0]:02d}' title='{esc(tip, quote=True)}'>{esc(roman_c(d['cs']) + d.get('part', ''))}"
+            + (f" <span class='mmt'>{esc(d['date'])}</span>" if d["date"] and len(d["date"]) < 14 else "") + "</td>")
+
+
+ED_ORDER = {"Galenus": "Kühn", "Hippocrates": "Littré"}
+_RV = {"I": 1, "V": 5, "X": 10, "L": 50}
+
+
+def _roman(r):
+    n = 0
+    for a, b in zip(r, r[1:] + " "):
+        v = _RV[a]
+        n += -v if b in _RV and _RV[b] > v else v
+    return n
+
+
+def ed_key(w, editor):
+    """Sort key from the location in Kühn / Littré, e.g. 'XVIIB, 345-887' -> vol 17, part B, p. 345."""
+    loc = next(("".join(t for t, _ in p["loc"]) for p in w["prints"] if p["name"].startswith(editor)), "")
+    m = re.match(r"\s*([IVXL]+)\s*([AB])?\s*(?:\([^)]*\))?\s*,\s*(\d+)", loc)
+    if not m:
+        return None
+    return (_roman(m[1]) * 10 + (1 if m[2] == "B" else 0)) * 10000 + int(m[3])
 
 
 def fol_key(f):
@@ -85,7 +180,11 @@ def rich(r):
             out.append(f' <a class="wc" href="{esc(u)}" title="WorldCat record">WorldCat</a>')
             continue
         body = esc(t).replace("\n", "<br>")
-        out.append(f'<a href="{esc(u)}">{body}</a>' if u else body)
+        v = viewer_url(u)
+        if v:
+            out.append(f'<a href="{esc(v)}" title="Open in the CMG viewer">{body}</a>')
+        else:
+            out.append(f'<a href="{esc(u)}">{body}</a>' if u else body)
     s = re.sub(r";{2,}", ";", "".join(out))
     return re.sub(r"(<br>\s*)+$", "", re.sub(r"[;,]\s*$", "", s.strip()))
 
@@ -114,9 +213,12 @@ def page(title, body, depth=0):
 </head><body>
 <header class="site"><a class="brand" href="{up}index.html">Medici Graeci</a>
 <span class="tag">works · manuscripts · printed editions · translations</span>
-<nav><a href="{up}index.html">Authors</a><a href="{up}manuscripts.html">Manuscripts</a><a href="{up}about.html">About</a></nav></header>
+<nav><a href="{up}index.html">Authors</a><a href="{up}manuscripts.html">Manuscripts</a><a href="{up}about.html">About</a></nav>
+<form class="filter" action="{up}index.html" role="search"><input id="filter" name="q" type="search" placeholder="Filter this page · Enter searches everything" autocomplete="off" aria-label="Filter"></form>
+</header>
 <main>{body}</main>
-<footer>Compiled and built by Sean Coughlin, from the work catalogues he prepared for the CMG (2019–2020), with manuscript data from MediManus (CHS, retrieved {MM["retrieved"]}) and Galen texts from Galenus Verbatim. Built {date.today().isoformat()}.</footer>
+<script src="{up}site.js" data-root="{up}"></script>
+<footer>Compiled and built by Sean Coughlin, from the work catalogues he prepared for the CMG (2019–2020), with manuscript data from Pinakes (IRHT, retrieved {PK["retrieved"]}) and MediManus (CHS, retrieved {MM["retrieved"]}) and Galen texts from Galenus Verbatim. Built {date.today().isoformat()}.</footer>
 </body></html>"""
 
 
@@ -126,6 +228,7 @@ def witness_rows(mss, show_work=None):
         view = go(m["url"], f"view f. {esc(m['start'])}" if m["start"] else "view") if m["url"] else ""
         lead = f"<td>{show_work(m)}</td>" if show_work else ""
         rows.append(f"<tr>{lead}<td>{esc(city(m['city']))}</td><td class='sm'>{esc(dash(m['shelfmark']))}</td>"
+                    + date_cell(ms_date(m["city"], m["shelfmark"])) +
                     f"<td class='fol'>{esc(dash(m['folios']))}"
                     + (f" <span class='corr' title='Corrected: {esc(m['corrected'], quote=True)}'>†</span>" if m.get("corrected") else "")
                     + f"</td><td>{view}</td></tr>")
@@ -138,11 +241,17 @@ def core_differs(mm_title, our_title):
 
 
 def work_html(a, w):
-    parts = [f'<section class="work" id="{w["id"]}">',
+    wd = WD.get(w["id"])
+    ek = ed_key(w, ED_ORDER[a["name"]]) if a["name"] in ED_ORDER else None
+    attrs = (f' data-ed="{ek}"' if ek else "") + (f' data-year="{wd["year"]}"' if wd and wd.get("year") is not None else "") + \
+        (f' data-order="{wd["order"]}"' if wd and wd.get("order") else "")
+    parts = [f'<section class="work" id="{w["id"]}"{attrs}>',
              f'<h3><a class="anchor" href="#{w["id"]}">{esc(w["title_lat"])}</a>'
              + (f' <span class="abbr">{esc(w["abbr"])}</span>' if w.get("abbr") else "") + "</h3>"]
     if w.get("title_gr"):
         parts.append(f'<p class="gr" lang="grc">{esc(w["title_gr"])}</p>')
+    if wd:
+        parts.append(f'<p class="wdate">{esc(wd["label"])}</p>')
     refs = ref_links(w)
     if refs:
         parts.append('<p class="refs">' + " · ".join(
@@ -150,7 +259,7 @@ def work_html(a, w):
 
     if w["mss"]:
         parts.append(f'<h4>Manuscripts <span class="n">{len(w["mss"])} digitized</span></h4>'
-                     '<table class="mss"><thead><tr><th>City</th><th>Shelfmark</th><th>Folios</th><th>Digitization</th></tr></thead>'
+                     '<table class="mss sortable"><thead><tr><th>City</th><th>Shelfmark</th><th>Date</th><th>Folios</th><th>Digitization</th></tr></thead>'
                      f'<tbody>{witness_rows(w["mss"])}</tbody></table>')
     else:
         parts.append('<h4>Manuscripts</h4><p class="none">No digitized manuscripts recorded in the catalogue.</p>')
@@ -175,12 +284,13 @@ def work_html(a, w):
                 flag = (f'<span class="diff" title="CMG list gives {esc(given, quote=True)}">'
                         f'CMG: f. {esc(", ".join(starts))}</span>')
             label = esc(x["title"]) if core_differs(x["title"], w["title_lat"]) else ""
-            trs.append(f"<tr><td class='sm'>{esc(x['shelfmark'])}</td>"
+            d = ms_date("", x["shelfmark"]) or ({"cs": x["centuries"], "date": "", "src": "MediManus"} if x.get("centuries") else None)
+            trs.append(f"<tr><td class='sm'>{esc(x['shelfmark'])}</td>" + date_cell(d) +
                        f"<td class='fol'>{esc(x['unit'] if x['folios'] else '')} {esc(x['folios'])}</td>"
                        f"<td class='mmt'>{label}</td><td>{flag}</td>"
                        f"<td><a class='go' href='{esc(x['url'])}'>MediManus</a></td></tr>")
         parts.append(f'<h4>In MediManus <span class="n">{len(mmw)}</span></h4>'
-                     f'<table class="mss mm"><tbody>{"".join(trs)}</tbody></table>')
+                     f'<table class="mss mm sortable"><thead><tr><th>Shelfmark</th><th>Date</th><th>Folios</th><th></th><th>CMG list</th><th></th></tr></thead><tbody>{"".join(trs)}</tbody></table>')
     more = []
     pk = next((u for _, u in refs.get("Pinakes", []) if u), None)
     if pk:
@@ -218,7 +328,15 @@ def work_html(a, w):
             dl.append((f"Translations: {label}", rich(w["translations"][lang])))
     if w.get("translations_prep"):
         dl.append(("Translation in preparation", rich(w["translations_prep"])))
-    if w.get("date"):
+    if wd:
+        rows_ = [f"{esc(d['by'])}: {esc(d['date'])}" + (f" <span class='mmt'>({esc(d['ref'])})</span>" if d["ref"] else "")
+                 for d in wd.get("datings", [])]
+        if wd.get("period"):
+            rows_.append("Period: " + esc(wd["period"]) + (f" <span class='mmt'>(no. {wd['order']} in the relative chronology)</span>" if wd.get("order") else ""))
+        if wd.get("note"):
+            rows_.append(f"<span class='mmt'>{esc(wd['note'])}</span>")
+        dl.append(("Date of composition", "<br>".join(rows_)))
+    elif w.get("date"):
         dl.append(("Date", esc(w["date"])))
     if w.get("note") and w["note"].strip() not in ("--", "-"):
         dl.append(("Note", esc(w["note"])))
@@ -233,7 +351,7 @@ def main():
         shutil.rmtree(OUT)
     (OUT / "authors").mkdir(parents=True)
     shutil.copy(ROOT / "site" / "style.css", OUT / "style.css")
-    shutil.copy(ROOT / "site" / "search.js", OUT / "search.js")
+    shutil.copy(ROOT / "site" / "site.js", OUT / "site.js")
     shutil.copytree(ROOT / "site" / "fonts", OUT / "fonts")
     (OUT / ".nojekyll").write_text("")
     shutil.copy(ROOT / "data" / "catalogue.json", OUT / "catalogue.json")
@@ -249,13 +367,20 @@ def main():
 
     # author pages
     for a in authors:
-        toc = "".join(f'<li><a href="#{w["id"]}">{esc(w["title_lat"])}</a>'
+        dated = sum(1 for w in a["works"] if w["id"] in WD)
+        toc = "".join(f'<li data-for="{w["id"]}"><a href="#{w["id"]}">{esc(w["title_lat"])}</a>'
                       f'<span class="n">{len(w["mss"]) or ""}</span></li>' for w in a["works"])
         body = (f'<p class="crumb"><a href="../index.html">Authors</a></p><h1>{esc(a["name"])}</h1>'
                 f'<p class="meta">{len(a["works"])} works · {sum(len(w["mss"]) for w in a["works"])} manuscript witnesses'
                 f' · catalogue state {esc(a["source_date"][:4])}-{esc(a["source_date"][4:6])}-{esc(a["source_date"][6:])}</p>'
+                + (f'<p class="sortsw" data-target="works">Order: <button data-mode="cat" class="on">catalogue</button>'
+                   + (f'<button data-mode="chron">chronological</button>' if dated else "")
+                   + (f'<button data-mode="ed">{ED_ORDER[a["name"]]}</button>' if a["name"] in ED_ORDER else "")
+                   + (f' <span class="mmt">{dated} of {len(a["works"])} works dated</span>' if dated else "") + "</p>"
+                   if dated or a["name"] in ED_ORDER else "")
                 + (f'<ol class="toc">{toc}</ol>' if len(a["works"]) > 3 else "")
-                + "".join(work_html(a, w) for w in a["works"]))
+                + '<div id="works">' 
+                + "".join(work_html(a, w) for w in a["works"]) + "</div>")
         (OUT / "authors" / f"{a['id']}.html").write_text(page(a["name"], body, 1))
 
     # index
@@ -268,10 +393,9 @@ def main():
             f'<p class="lede">For each work: the manuscripts that transmit it, <strong>the folio where the text begins</strong>, '
             f'and a link straight to that page of the digitized manuscript, along with early printed editions, '
             f'authoritative modern editions and translations. {len(authors)} authors, {nw} works, {nm} manuscript witnesses.</p>'
-            '<div class="search"><input id="q" type="search" placeholder="Search a work: Latin or Greek title, abbreviation, author …" autocomplete="off">'
-            '<ul id="hits"></ul></div>'
+            '<ul id="hits"></ul>'
             '<table class="authors"><thead><tr><th>Author</th><th class="num">Works</th><th class="num">Witnesses</th></tr></thead>'
-            f'<tbody>{rows}</tbody></table><script src="search.js"></script>')
+            f'<tbody>{rows}</tbody></table>')
     (OUT / "index.html").write_text(page("Medici Graeci: works, manuscripts, editions", body))
     (OUT / "search.json").write_text(json.dumps(search, ensure_ascii=False))
 
@@ -293,14 +417,18 @@ def main():
                 f'<td><a href="authors/{a["id"]}.html#{w["id"]}">{esc(a["name"])}, {esc(w["title_lat"])}</a></td>'
                 f'<td>' + (go(m["url"], "view") if m["url"] else "") + "</td></tr>"
                 for a, w, m in items)
-            lis.append(f'<details><summary><span class="sm">{esc(sm)}</span> <span class="n">{len(items)}</span></summary>'
+            d = ms_date(items[0][2]["city"], items[0][2]["shelfmark"])
+            lis.append(f'<details data-c="{d["cs"][0] if d else 99:02d}"><summary><span class="sm">{esc(sm)}</span> '
+                       f'<span class="mdate">{esc(roman_c(d["cs"])) if d else ""}</span> <span class="n">{len(items)}</span></summary>'
                        f'<table class="mss"><tbody>{trs}</tbody></table></details>')
-        sections.append(f'<h2 id="{esc(re.sub(r"[^a-z]+", "-", c.lower()))}">{esc(c)}</h2>' + "".join(lis))
+        sections.append(f'<section class="city"><h2 id="{esc(re.sub(r"[^a-z]+", "-", c.lower()))}">{esc(c)}</h2>' + "".join(lis) + "</section>")
     cities = " · ".join(f'<a href="#{esc(re.sub(r"[^a-z]+", "-", c.lower()))}">{esc(c)}</a>'
                         for c in sorted(by_city, key=lambda x: (x == "—", x)))
     body = (f'<h1>Manuscripts</h1><p class="lede">{len(by_ms)} shelfmarks. Open one to see the works it contains, '
-            f'in folio order, with links to the digitized pages.</p><p class="cities">{cities}</p>'
-            + "".join(sections))
+            f'in folio order, with links to the digitized pages. Dates from Pinakes, otherwise MediManus.</p>'
+            '<p class="sortsw" data-target="mslist">Order: <button data-mode="city" class="on">by city</button>'
+            '<button data-mode="date">by date</button></p>'
+            f'<p class="cities">{cities}</p><div id="mslist">' + "".join(sections) + "</div>")
     (OUT / "manuscripts.html").write_text(page("Manuscripts: Medici Graeci", body))
 
     about = (ROOT / "site" / "about.html").read_text()

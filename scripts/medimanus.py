@@ -18,6 +18,34 @@ COLLECTION = "7388"
 PAGE = "https://medimanus.chs.harvard.edu/app/en/collections/7388/manifests/{}"
 
 
+def query(facets):
+    body = json.dumps({"facets": facets, "facet_fields": [], "contexts": [f"urn:madoc:collection:{COLLECTION}"],
+                       "ordering": {"type": "metadata", "subtype": "ll.mss_short_id", "direction": "ascending"}})
+    req = urllib.request.Request(API, data=body.encode(), method="POST",
+                                 headers={"Content-Type": "application/json", "User-Agent": "cat-catalogue/1.0"})
+    with urllib.request.urlopen(req, timeout=180) as r:
+        return json.load(r)
+
+
+def glance_centuries(text):
+    """'A late 15th- or early 16th-century copy', '11th-12th century' -> [15, 16], [11, 12]."""
+    if not re.search(r"centur", text or ""):
+        return []
+    return sorted({int(n) for n in re.findall(r"\b(\d{1,2})(?:st|nd|rd|th)\b", text) if 4 <= int(n) <= 20})
+
+
+def centuries():
+    """MediManus keeps each manuscript's century as a search facet (ll.century), not in the listing:
+    ask once per century and record which manuscripts come back."""
+    out = {}
+    for c in range(5, 20):
+        d = query([{"type": "metadata", "subtype": "ll.century", "value": str(c)}])
+        for r in d["results"]:
+            out.setdefault(r["resource_id"].split(":")[-1], []).append(c)
+    (CACHE.parent / "medimanus_centuries.json").write_text(json.dumps(out))
+    return out
+
+
 def fetch():
     body = json.dumps({"facets": [{"type": "metadata", "subtype": "ll.city"}], "facet_fields": [], "contexts": [f"urn:madoc:collection:{COLLECTION}"],
                        "ordering": {"type": "metadata", "subtype": "ll.mss_short_id", "direction": "ascending"}})
@@ -62,7 +90,18 @@ def core(t):
 
 
 def main():
-    data = json.loads(CACHE.read_text()) if "--offline" in sys.argv else fetch()
+    offline = "--offline" in sys.argv
+    data = json.loads(CACHE.read_text()) if offline else fetch()
+    cfile = CACHE.parent / "medimanus_centuries.json"
+    cents = json.loads(cfile.read_text()) if offline and cfile.exists() else centuries()
+    mss = {}
+    for r in data["results"]:
+        mid = r["resource_id"].split(":")[-1]
+        glance = (md(r, "LL.At_a_glance") or [""])[0]
+        if not cents.get(mid):
+            cents[mid] = glance_centuries(glance)
+        mss[md(r, "LL.MSS_Short_ID")[0]] = {"url": PAGE.format(mid), "centuries": sorted(cents.get(mid, [])),
+                                            "glance": glance}
     cat = json.loads((ROOT / "data" / "catalogue.json").read_text())
     conc = json.loads((ROOT / "data" / "medimanus_titles.json").read_text())
     authors = {a["name"]: a for a in cat["authors"]}
@@ -96,12 +135,13 @@ def main():
                 continue
             fol = re.sub(r"^(ff?|pp?)\.\s*", "", folios).replace("-", "–")
             start = re.split(r"\s*[–,]\s*", fol)[0] if fol else ""
-            out.append({"work": wid, "shelfmark": sid, "folios": fol,
+            out.append({"work": wid, "shelfmark": sid, "folios": fol, "centuries": sorted(cents.get(mid, [])),
                         "unit": "pp." if folios.startswith("p") else "ff.",
                         "start": start, "title": title, "url": PAGE.format(mid)})
     (ROOT / "data" / "medimanus.json").write_text(json.dumps(
         {"source": "MediManus, Center for Hellenic Studies (medimanus.chs.harvard.edu)",
-         "retrieved": date.today().isoformat(), "manuscripts": len(data["results"]), "witnesses": out},
+         "retrieved": date.today().isoformat(), "manuscripts": len(data["results"]), "witnesses": out,
+         "all_manuscripts": mss},
         ensure_ascii=False, indent=1))
     print(f"{len(data['results'])} MediManus manuscripts -> {len(out)} witnesses of {len({o['work'] for o in out})} catalogue works")
     if unreviewed:
