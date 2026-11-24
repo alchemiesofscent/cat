@@ -95,3 +95,4 @@ table.mss td.sm{min-width:9.5rem}
 .sigc .mmt a{color:inherit}
 td.dt{white-space:nowrap}
 @media (max-width:720px){table.mss td,table.mss td:first-child,.smm,.sigc,td.dt{white-space:normal}table.mss td.sm{min-width:0}}
+.ver{margin-bottom:.2rem}

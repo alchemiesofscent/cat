@@ -461,7 +461,6 @@ def witness_rows(mss, show_work=None, sig=None):
         rows.append(f"<tr>{lead}<td>{esc(city(m['city']))}</td><td class='sm'>{shelf_html(m['shelfmark'])}</td>{sg}"
                     + date_cell(ms_date(m["city"], m["shelfmark"])) +
                     f"<td class='fol'>{esc(dash(m['folios']))}"
-                    + (f" <span class='corr' title='Corrected: {esc(m['corrected'], quote=True)}'>†</span>" if m.get("corrected") else "")
                     + f"</td><td>{view}</td></tr>")
     return "".join(rows)
 
@@ -647,6 +646,32 @@ def work_html(a, w):
     return "".join(parts)
 
 
+REPO = "https://github.com/alchemiesofscent/cat"
+
+
+def changelog_html():
+    """CHANGELOG.md -> the version history on the About page, each version linked to its GitHub release."""
+    f = ROOT / "CHANGELOG.md"
+    if not f.exists():
+        return ""
+    out, open_ul = ['<h2 id="versions">Version history</h2>',
+                    f'<p>Every version is published as a <a href="{REPO}/releases">release on GitHub</a>; '
+                    f'the full record of changes is the <a href="{REPO}/commits/main">commit history</a>. '
+                    f'Corrections to the source tables: <a href="{REPO}/blob/main/CORRECTIONS.md">CORRECTIONS.md</a>; '
+                    f'checks against Pinakes: <a href="{REPO}/blob/main/PINAKES-CHECK.md">PINAKES-CHECK.md</a>; '
+                    f'sigla to review: <a href="{REPO}/blob/main/SIGLA-CHECK.md">SIGLA-CHECK.md</a>.</p>'], False
+    for line in f.read_text().splitlines():
+        m = re.match(r"## (v[\d.]+) · (.*)", line)
+        if m:
+            if open_ul:
+                out.append("</ul>")
+            out.append(f'<h3 class="ver"><a href="{REPO}/releases/tag/{m[1]}">{m[1]}</a> <span class="mmt">{esc(m[2])}</span></h3><ul>')
+            open_ul = True
+        elif line.startswith("- ") and open_ul:
+            out.append(f"<li>{esc(line[2:])}</li>")
+    return "\n".join(out + (["</ul>"] if open_ul else []))
+
+
 def main():
     if OUT.exists():
         shutil.rmtree(OUT)
@@ -758,7 +783,7 @@ def main():
             f'<p class="cities">{cities}</p><div id="mslist">' + "".join(sections) + "</div>")
     (OUT / "manuscripts.html").write_text(page("Manuscripts: Medici Graeci", body))
 
-    about = (ROOT / "site" / "about.html").read_text()
+    about = (ROOT / "site" / "about.html").read_text() + changelog_html()
     (OUT / "about.html").write_text(page("About: Medici Graeci", about))
     print(f"built {len(authors)} authors, {nw} works, {nm} witnesses, {len(by_ms)} shelfmarks -> {OUT}")
 

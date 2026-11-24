@@ -19,10 +19,10 @@
 <p>The lists record <em>digitized</em> witnesses with folio-level links. They are not complete censuses. For the full and current manuscript tradition of a work, use
 <a target="_blank" rel="noopener" href="https://pinakes.irht.cnrs.fr/">Pinakes</a> (IRHT), <a target="_blank" rel="noopener" href="https://portail.biblissima.fr/">Biblissima</a> and
 <a target="_blank" rel="noopener" href="https://medimanus.chs.harvard.edu/app">MediManus</a> (CHS). Each work page links to its Pinakes record where one is known.</p>
-<p>Errors found in the source tables (missing shelfmark numbers, reversed folio ranges, links that opened the wrong page, inconsistent spellings) have been corrected from the evidence in the links themselves. Corrected entries are marked †; hover for the reason. The <a target="_blank" rel="noopener" href="https://github.com/alchemiesofscent/cat/blob/main/CORRECTIONS.md">full list of corrections</a> is in the repository.</p>
+<p>Errors found in the source tables (missing shelfmark numbers, reversed folio ranges, links that opened the wrong page, inconsistent spellings) have been corrected from the evidence in the links themselves. The <a target="_blank" rel="noopener" href="https://github.com/alchemiesofscent/cat/blob/main/CORRECTIONS.md">full list of corrections</a> is in the repository.</p>
 <h2>Galen texts online</h2>
 <p>Galen works link to their Greek text in <a target="_blank" rel="noopener" href="https://galenus-verbatim.github.io/mera-galeni-folia/">Galenus Verbatim</a> (<em>Mera Galeni Folia</em>), which publishes Kühn’s edition and some later editions, matched by TLG number. The critical editions Galenus Verbatim records for each work are listed beside the link.</p>
-<p>Every shelfmark is checked against the manuscripts Pinakes lists for the same work (<code>scripts/pinakes_check.py</code>). Where Pinakes lists exactly one manuscript of the same collection whose number differs by one digit and whose text starts on the same folio, the shelfmark is corrected (marked †, with the reason on hover) and the link is taken from Pinakes. Shelfmarks that neither Pinakes nor MediManus list for the work are listed for checking by hand in <a target="_blank" rel="noopener" href="https://github.com/alchemiesofscent/cat/blob/main/PINAKES-CHECK.md">PINAKES-CHECK.md</a>. Under “Also digitized, according to Pinakes”, each work lists the digitized manuscripts Pinakes knows that are in neither the CMG list nor MediManus; these open the manuscript, not the folio.</p>
+<p>Every shelfmark is checked against the manuscripts Pinakes lists for the same work (<code>scripts/pinakes_check.py</code>). Where Pinakes lists exactly one manuscript of the same collection whose number differs by one digit and whose text starts on the same folio, the shelfmark is corrected and the link is taken from Pinakes. Shelfmarks that neither Pinakes nor MediManus list for the work are listed for checking by hand in <a target="_blank" rel="noopener" href="https://github.com/alchemiesofscent/cat/blob/main/PINAKES-CHECK.md">PINAKES-CHECK.md</a>. Under “Also digitized, according to Pinakes”, each work lists the digitized manuscripts Pinakes knows that are in neither the CMG list nor MediManus; these open the manuscript, not the folio.</p>
 <p><strong>Sigla.</strong> The sigla of the critical editions (CMG, CML and other editions in the <a target="_blank" rel="noopener" href="https://alchemiesofscent.github.io/cmg-viewer/">CMG viewer</a>) are transcribed from each volume’s conspectus siglorum, found through the viewer’s tables of contents, and checked automatically (<code>scripts/sigla_check.py</code>). Each siglum links to the page of the edition it was read from. On a work’s page, the <em>Siglum</em> column gives the sigla used for that work; the edition’s other manuscripts, digitized or not, follow in a separate table, with a <span class="unv">?</span> where neither Pinakes nor MediManus lists the manuscript for that work. The manuscripts page gives every siglum a manuscript has in any edition. Transcriptions were made by an AI model from zoomed page images; readings it was unsure of, and every failed check, are listed in <a target="_blank" rel="noopener" href="https://github.com/alchemiesofscent/cat/blob/main/SIGLA-CHECK.md">SIGLA-CHECK.md</a>.</p>
 <p>Arabic translations of Galen and Hippocrates, and the Arabic summaries made of them (the Alexandrian Summaries, Ḥunayn ibn Isḥāq, Ibn Zurʿah, Ibn Riḍwān, Maimonides), link to their text in the <a target="_blank" rel="noopener" href="https://www.graeco-arabic-studies.org/texts">Digital Corpus for Graeco-Arabic Studies</a>. A Galen commentary lost in Greek and known only from Ibn Riḍwān’s notes (on <i>De alimento</i>, <i>De humoribus</i>) is listed under the Hippocratic work. Links to other sites open in a new tab.</p>
 <h2>Reference numbers</h2>
@@ -31,7 +31,46 @@
 <p>Greek is set in <a target="_blank" rel="noopener" href="https://www.greekfontsociety-gfs.gr/">GFS Porson</a> (Greek Font Society, SIL Open Font License), a revival of the Greek type cut for Cambridge University Press after Richard Porson’s hand. Latin and English are set in <a target="_blank" rel="noopener" href="https://github.com/impallari/Libre-Baskerville">Libre Baskerville</a> (Pablo Impallari, SIL Open Font License), a transitional roman from the same English tradition. Greek is never set in italic.</p>
 <h2>Data</h2>
 <p>The full dataset is a single JSON file, <a href="catalogue.json">catalogue.json</a>. It is generated from the source tables by <code>scripts/extract.py</code>.</p>
-</main>
+<h2 id="versions">Version history</h2>
+<p>Every version is published as a <a target="_blank" rel="noopener" href="https://github.com/alchemiesofscent/cat/releases">release on GitHub</a>; the full record of changes is the <a target="_blank" rel="noopener" href="https://github.com/alchemiesofscent/cat/commits/main">commit history</a>. Corrections to the source tables: <a target="_blank" rel="noopener" href="https://github.com/alchemiesofscent/cat/blob/main/CORRECTIONS.md">CORRECTIONS.md</a>; checks against Pinakes: <a target="_blank" rel="noopener" href="https://github.com/alchemiesofscent/cat/blob/main/PINAKES-CHECK.md">PINAKES-CHECK.md</a>; sigla to review: <a target="_blank" rel="noopener" href="https://github.com/alchemiesofscent/cat/blob/main/SIGLA-CHECK.md">SIGLA-CHECK.md</a>.</p>
+<h3 class="ver"><a target="_blank" rel="noopener" href="https://github.com/alchemiesofscent/cat/releases/tag/v0.8">v0.8</a> <span class="mmt">24 Nov 2026</span></h3><ul>
+<li>Sigla of the critical editions: the conspectus siglorum of 77 volumes in the CMG viewer, transcribed and checked against the catalogue, Pinakes and MediManus. Each work shows the sigla of its editions, linked to the page they come from.</li>
+<li>New table under each work: the other manuscripts used in its critical editions, digitized or not.</li>
+<li>The manuscripts page lists every siglum a manuscript has in any edition.</li>
+<li>Manuscript tables: more space between columns; the contents of a manuscript (e.g. &quot;libri I–III&quot;) on a line of its own.</li>
+<li>Corrections are no longer marked in the tables; they are listed in CORRECTIONS.md and PINAKES-CHECK.md, and this version history is on the About page.</li>
+</ul>
+<h3 class="ver"><a target="_blank" rel="noopener" href="https://github.com/alchemiesofscent/cat/releases/tag/v0.7">v0.7</a> <span class="mmt">24 Nov 2026</span></h3><ul>
+<li>Every shelfmark is checked against the manuscripts Pinakes lists for the same work; two one-digit slips corrected (Harley 6326 for three Aretaeus works, Par. gr. 2163 for Ars medica), others listed for checking by hand.</li>
+<li>Every link that names its manuscript (Vatican, British Library, Heidelberg) is checked against the shelfmark.</li>
+<li>Aetius I–III: Laur. Plut. 75.12 (the source table had 72.12).</li>
+<li>Shelfmarks listed in numerical order within each city.</li>
+</ul>
+<h3 class="ver"><a target="_blank" rel="noopener" href="https://github.com/alchemiesofscent/cat/releases/tag/v0.6">v0.6</a> <span class="mmt">24 Nov 2026</span></h3><ul>
+<li>Arabic translations and summaries of Galen and Hippocrates, linked to the Digital Corpus for Graeco-Arabic Studies.</li>
+<li>Links to other sites open in a new tab.</li>
+</ul>
+<h3 class="ver"><a target="_blank" rel="noopener" href="https://github.com/alchemiesofscent/cat/releases/tag/v0.5">v0.5</a> <span class="mmt">24 Nov 2026</span></h3><ul>
+<li>Dates: of composition for Galen (chronology tables) and Hippocrates (Craik); of the manuscripts (Pinakes, MediManus); of the authors (Pinakes, Wikipedia, the compiler).</li>
+<li>Works can be ordered by catalogue, by date, and for Galen by Kühn volume and page, for Hippocrates by Littré.</li>
+<li>A filter box on every page; search across the whole catalogue from the front page.</li>
+<li>Editions in the CMG link to the CMG viewer.</li>
+<li>Dead digitization links moved to the libraries&#x27; current viewers.</li>
+</ul>
+<h3 class="ver"><a target="_blank" rel="noopener" href="https://github.com/alchemiesofscent/cat/releases/tag/v0.4">v0.4</a> <span class="mmt">24 Nov 2026</span></h3><ul>
+<li>Galen works link to their Greek text in Galenus Verbatim.</li>
+<li>Latin and English set in Libre Baskerville.</li>
+</ul>
+<h3 class="ver"><a target="_blank" rel="noopener" href="https://github.com/alchemiesofscent/cat/releases/tag/v0.3">v0.3</a> <span class="mmt">24 Nov 2026</span></h3><ul>
+<li>Greek set in GFS Porson, never italic.</li>
+</ul>
+<h3 class="ver"><a target="_blank" rel="noopener" href="https://github.com/alchemiesofscent/cat/releases/tag/v0.2">v0.2</a> <span class="mmt">24 Nov 2026</span></h3><ul>
+<li>Errors in the source tables corrected (shelfmarks, folios, links, spellings).</li>
+<li>Manuscripts and start folios from MediManus, compared with the CMG list.</li>
+</ul>
+<h3 class="ver"><a target="_blank" rel="noopener" href="https://github.com/alchemiesofscent/cat/releases/tag/v0.1">v0.1</a> <span class="mmt">24 Nov 2026</span></h3><ul>
+<li>First version: the catalogue of Greek medical works prepared for the CMG (2019–2020), with each manuscript&#x27;s start folio and a link to its digitization, early printed editions, modern editions and translations.</li>
+</ul></main>
 <script src="site.js" data-root=""></script>
 <footer>Compiled and built by Sean Coughlin, from the work catalogues he prepared for the CMG (2019–2020), with manuscript data from Pinakes (IRHT, retrieved 2026-11-24) and MediManus (CHS, retrieved 2026-11-24) Galen texts from Galenus Verbatim and Arabic texts from the Digital Corpus for Graeco-Arabic Studies. Built 2026-11-24.</footer>
 </body></html>
