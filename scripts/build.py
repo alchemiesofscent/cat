@@ -201,6 +201,24 @@ def author_date(name):
     return label, year
 
 
+def ed_label(w, editor):
+    """'I, 1-39 K.' -> 'K. I 1–39'; Littré 'I,570--636' -> 'L. I 570–636'."""
+    loc = next(("".join(t for t, _ in p["loc"]) for p in w["prints"] if p["name"].startswith(editor)), "")
+    loc = re.sub(r"\s*K\.\s*$", "", loc.strip()).replace("--", "–").replace("-", "–")
+    loc = "; ".join(re.sub(r"^([IVXL]+[AB]?)\s*,\s*", r"\1 ", part.strip()) for part in loc.split(";"))
+    return f"{editor[0]}. {loc}" if loc else ""
+
+
+def short_date(wd):
+    """Compact date for the work list: first span only, e.g. '162–166 CE', '420–400 BCE'."""
+    if not wd:
+        return ""
+    lab = wd.get("label", "")
+    era = " BCE" if "BCE" in lab else " CE"
+    m = re.search(r"(\d{2,3}(?:\s*[–/-]\s*\d{2,3})?)", lab.split(";")[0])
+    return (m[1].replace("-", "–").replace(" ", "") + era) if m else ""
+
+
 def fol_key(f):
     m = re.match(r"(\d+)\s*([rv]?)", f or "")
     return (int(m[1]), m[2] or "r") if m else None
@@ -462,7 +480,13 @@ def main():
     # author pages
     for a in authors:
         dated = sum(1 for w in a["works"] if w["id"] in WD)
-        toc = "".join(f'<li data-for="{w["id"]}"><a href="#{w["id"]}">{esc(w["title_lat"])}</a>'
+        edn = ED_ORDER.get(a["name"])
+        def _tl(w):
+            el = ed_label(w, edn) if edn else ""
+            dl_ = short_date(WD.get(w["id"]))
+            return ((f'<span class="edl">{esc(el)}</span>' if el else '<span class="edl">–</span>' if edn else "")
+                    + (f'<span class="chl">{esc(dl_)}</span>' if dl_ else '<span class="chl">–</span>'))
+        toc = "".join(f'<li data-for="{w["id"]}">{_tl(w)}<a href="#{w["id"]}">{esc(w["title_lat"])}</a>'
                       f'<span class="n">{len(w["mss"]) or ""}</span></li>' for w in a["works"])
         _lab, _ = author_date(a["name"])
         _src, _url, _quote = author_source(a["name"])

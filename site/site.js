@@ -86,7 +86,11 @@
         const cmp = (a, b) => { const x = key(a), y = key(b); for (let i = 0; i < x.length; i++) if (x[i] !== y[i]) return x[i] - y[i]; return 0; };
         const sorted = [...target.children].sort(cmp);
         sorted.forEach(el => target.appendChild(el));
-        if (toc) sorted.forEach(el => { const li = toc.querySelector(`li[data-for="${el.id}"]`); if (li) toc.appendChild(li); });
+        if (toc) {
+          sorted.forEach(el => { const li = toc.querySelector(`li[data-for="${el.id}"]`); if (li) toc.appendChild(li); });
+          toc.classList.toggle("mode-ed", mode === "ed");
+          toc.classList.toggle("mode-chron", mode === "chron");
+        }
       } else {
         // manuscripts page: by city (original grouping) or one list by date
         if (mode === "date") {
