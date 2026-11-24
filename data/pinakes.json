@@ -37971,6 +37971,1156 @@
   }
  },
  "cotes": {
+  "66930": {
+   "digitized": [
+    {
+     "label": "Vatican numérisation",
+     "url": "https://digi.vatlib.it/view/MSS_Vat.gr.299",
+     "text": "Vat. gr. 299"
+    }
+   ]
+  },
+  "9110": {
+   "digitized": []
+  },
+  "43205": {
+   "digitized": []
+  },
+  "15134": {
+   "digitized": [
+    {
+     "label": "RBME Digital",
+     "url": "https://rbme.patrimonionacional.es/s/rbme/item/15947",
+     "text": "Φ. I. 2"
+    }
+   ]
+  },
+  "69766": {
+   "digitized": []
+  },
+  "23753": {
+   "digitized": []
+  },
+  "38039": {
+   "digitized": []
+  },
+  "1180": {
+   "digitized": []
+  },
+  "9435": {
+   "digitized": []
+  },
+  "9466": {
+   "digitized": []
+  },
+  "9568": {
+   "digitized": []
+  },
+  "9712": {
+   "digitized": []
+  },
+  "9761": {
+   "digitized": []
+  },
+  "11736": {
+   "digitized": []
+  },
+  "64597": {
+   "digitized": [
+    {
+     "label": "Vatican numérisation",
+     "url": "https://digi.vatlib.it/view/MSS_Barb.gr.49",
+     "text": "Barb. gr. 049"
+    }
+   ]
+  },
+  "64675": {
+   "digitized": [
+    {
+     "label": "Vatican numérisation",
+     "url": "https://digi.vatlib.it/view/MSS_Barb.gr.127",
+     "text": "Barb. gr. 127"
+    }
+   ]
+  },
+  "65554": {
+   "digitized": []
+  },
+  "65931": {
+   "digitized": [
+    {
+     "label": "Vatican numérisation",
+     "url": "https://digi.vatlib.it/view/MSS_Pal.gr.199",
+     "text": "Pal. gr. 199"
+    }
+   ]
+  },
+  "66090": {
+   "digitized": [
+    {
+     "label": "Vatican numérisation",
+     "url": "https://digi.vatlib.it/view/MSS_Pal.gr.358",
+     "text": "Pal. gr. 358"
+    }
+   ]
+  },
+  "66809": {
+   "digitized": []
+  },
+  "66847": {
+   "digitized": [
+    {
+     "label": "Vatican numérisation",
+     "url": "https://digi.vatlib.it/view/MSS_Vat.gr.216",
+     "text": "Vat. gr. 216"
+    }
+   ]
+  },
+  "66910": {
+   "digitized": [
+    {
+     "label": "Vatican numérisation",
+     "url": "https://digi.vatlib.it/view/MSS_Vat.gr.279",
+     "text": "Vat. gr. 279"
+    }
+   ]
+  },
+  "66911": {
+   "digitized": [
+    {
+     "label": "Vatican numérisation",
+     "url": "https://digi.vatlib.it/view/MSS_Vat.gr.280",
+     "text": "Vat. gr. 280"
+    }
+   ]
+  },
+  "66913": {
+   "digitized": [
+    {
+     "label": "Vatican numérisation",
+     "url": "https://digi.vatlib.it/view/MSS_Vat.gr.282",
+     "text": "Vat. gr. 282"
+    }
+   ]
+  },
+  "66928": {
+   "digitized": [
+    {
+     "label": "Vatican numérisation",
+     "url": "https://digi.vatlib.it/view/MSS_Vat.gr.297",
+     "text": "Vat. gr. 297"
+    }
+   ]
+  },
+  "66929": {
+   "digitized": [
+    {
+     "label": "Vatican numérisation",
+     "url": "https://digi.vatlib.it/view/MSS_Vat.gr.298",
+     "text": "Vat. gr. 298"
+    }
+   ]
+  },
+  "67126": {
+   "digitized": [
+    {
+     "label": "Vatican numérisation",
+     "url": "https://digi.vatlib.it/view/MSS_Vat.gr.495",
+     "text": "Vat. gr. 495"
+    }
+   ]
+  },
+  "68540": {
+   "digitized": [
+    {
+     "label": "Vatican numérisation",
+     "url": "https://digi.vatlib.it/view/MSS_Vat.gr.1911",
+     "text": "Vat. gr. 1911"
+    }
+   ]
+  },
+  "68833": {
+   "digitized": []
+  },
+  "14293": {
+   "digitized": []
+  },
+  "14297": {
+   "digitized": []
+  },
+  "16042": {
+   "digitized": []
+  },
+  "16687": {
+   "digitized": []
+  },
+  "16690": {
+   "digitized": []
+  },
+  "16692": {
+   "digitized": []
+  },
+  "16693": {
+   "digitized": []
+  },
+  "16695": {
+   "digitized": []
+  },
+  "16697": {
+   "digitized": []
+  },
+  "16698": {
+   "digitized": []
+  },
+  "16703": {
+   "digitized": []
+  },
+  "16704": {
+   "digitized": []
+  },
+  "16705": {
+   "digitized": []
+  },
+  "16706": {
+   "digitized": []
+  },
+  "17165": {
+   "digitized": []
+  },
+  "18176": {
+   "digitized": []
+  },
+  "23817": {
+   "digitized": []
+  },
+  "27666": {
+   "digitized": []
+  },
+  "28918": {
+   "digitized": []
+  },
+  "28925": {
+   "digitized": []
+  },
+  "28926": {
+   "digitized": []
+  },
+  "28927": {
+   "digitized": []
+  },
+  "35510": {
+   "digitized": []
+  },
+  "37177": {
+   "digitized": []
+  },
+  "9108": {
+   "digitized": []
+  },
+  "9109": {
+   "digitized": []
+  },
+  "37629": {
+   "digitized": [
+    {
+     "label": "Leiden, numérisation",
+     "url": "https://hdl.handle.net/1887.1/item:848091",
+     "text": "BPG 006"
+    }
+   ]
+  },
+  "38041": {
+   "digitized": []
+  },
+  "38042": {
+   "digitized": []
+  },
+  "38068": {
+   "digitized": []
+  },
+  "38069": {
+   "digitized": []
+  },
+  "38105": {
+   "digitized": []
+  },
+  "38127": {
+   "digitized": [
+    {
+     "label": "Leiden, numérisation",
+     "url": "https://hdl.handle.net/1887.1/item:1522510",
+     "text": "Voss. gr. Q° 20"
+    }
+   ]
+  },
+  "38380": {
+   "digitized": []
+  },
+  "38421": {
+   "digitized": []
+  },
+  "38937": {
+   "digitized": []
+  },
+  "39586": {
+   "digitized": []
+  },
+  "39780": {
+   "digitized": []
+  },
+  "39833": {
+   "digitized": []
+  },
+  "39923": {
+   "digitized": []
+  },
+  "39926": {
+   "digitized": []
+  },
+  "40745": {
+   "digitized": []
+  },
+  "42263": {
+   "digitized": [
+    {
+     "label": "Ambrosiana biblioteca digitale",
+     "url": "https://ambrosiana.comperio.it/opac/detail/view/ambro:catalog:65060",
+     "text": "A 175 sup."
+    }
+   ]
+  },
+  "43048": {
+   "digitized": []
+  },
+  "43471": {
+   "digitized": []
+  },
+  "44133": {
+   "digitized": []
+  },
+  "44549": {
+   "digitized": []
+  },
+  "44942": {
+   "digitized": []
+  },
+  "45083": {
+   "digitized": []
+  },
+  "45974": {
+   "digitized": []
+  },
+  "46463": {
+   "digitized": []
+  },
+  "47137": {
+   "digitized": []
+  },
+  "47375": {
+   "digitized": [
+    {
+     "label": "Oxford numérisation",
+     "url": "https://digital.bodleian.ox.ac.uk/inquire/p/75ad47c5-024b-4964-90be-b2c0f96ba2c1",
+     "text": "Barocci 88"
+    }
+   ]
+  },
+  "47659": {
+   "digitized": []
+  },
+  "48176": {
+   "digitized": []
+  },
+  "48281": {
+   "digitized": []
+  },
+  "48396": {
+   "digitized": []
+  },
+  "48905": {
+   "digitized": []
+  },
+  "49114": {
+   "digitized": [
+    {
+     "label": "Archive.org Digital Library",
+     "url": "https://archive.org/details/BIUSante_ms02105/mode/2up",
+     "text": "Paris, BIUS, 2105"
+    }
+   ]
+  },
+  "50636": {
+   "digitized": []
+  },
+  "51252": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b10723587k",
+     "text": "Grec 1630 [MF]"
+    }
+   ]
+  },
+  "51509": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b110049963",
+     "text": "Grec 1883, f. 1-253v [MF]"
+    },
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b110052401",
+     "text": "Grec 1883, f. 254-530v [MF]"
+    },
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b11005235v",
+     "text": "Grec 1883, f. 531-fin [MF]"
+    }
+   ]
+  },
+  "51809": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b52509195s",
+     "text": "Grec 2180 [Couleurs]"
+    },
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b107221438",
+     "text": "Grec 2180 [MF]"
+    }
+   ]
+  },
+  "51820": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b107237109",
+     "text": "Grec 2191 [MF]"
+    }
+   ]
+  },
+  "51821": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b10723357k",
+     "text": "Grec 2192 [MF]"
+    }
+   ]
+  },
+  "51822": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b10723339n",
+     "text": "Grec 2193 [MF]"
+    }
+   ]
+  },
+  "51823": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b10723362r",
+     "text": "Grec 2194 [MF]"
+    }
+   ]
+  },
+  "51824": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b525112624",
+     "text": "Grec 2195 [Couleurs]"
+    }
+   ]
+  },
+  "51825": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b10723697c",
+     "text": "Grec 2196 [MF]"
+    }
+   ]
+  },
+  "51826": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b10723337r",
+     "text": "Grec 2197 [MF]"
+    }
+   ]
+  },
+  "51827": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b107233708",
+     "text": "Grec 2198 [MF]"
+    }
+   ]
+  },
+  "51828": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b107237143",
+     "text": "Grec 2199 [MF]"
+    }
+   ]
+  },
+  "51857": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b107221527",
+     "text": "Grec 2228 [MF]"
+    }
+   ]
+  },
+  "51859": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b10723342x",
+     "text": "Grec 2230 [MF]"
+    }
+   ]
+  },
+  "51866": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b107226274",
+     "text": "Grec 2237 [MF]"
+    }
+   ]
+  },
+  "51886": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b107227692",
+     "text": "Grec 2256 [MF]"
+    }
+   ]
+  },
+  "51900": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b10721871x",
+     "text": "Grec 2270 [MF]"
+    }
+   ]
+  },
+  "51916": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b107229740",
+     "text": "Grec 2286 [MF]"
+    }
+   ]
+  },
+  "52013": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b10722220g",
+     "text": "Grec 2381 [MF]"
+    }
+   ]
+  },
+  "52485": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b10722331q",
+     "text": "Grec 2847 [MF]"
+    }
+   ]
+  },
+  "52791": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b11000218n",
+     "text": "Supplément grec 0020 [MF]"
+    }
+   ]
+  },
+  "53365": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b52500699c",
+     "text": "Supplément grec 0630 [Couleurs]"
+    }
+   ]
+  },
+  "53366": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b110002193",
+     "text": "Supplément grec 0631 [MF]"
+    }
+   ]
+  },
+  "53367": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b11004983b?rk=1180263;2",
+     "text": "Supplément grec 0632 [MF]"
+    }
+   ]
+  },
+  "53372": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b110000645",
+     "text": "Supplément grec 0637 [MF]"
+    }
+   ]
+  },
+  "53418": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b11004033v?rk=128756;0",
+     "text": "Supplément grec 0683 [MF]"
+    }
+   ]
+  },
+  "53904": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b11005045h?rk=4034354;4",
+     "text": "Supplément grec 1240 [MF]"
+    }
+   ]
+  },
+  "53916": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b100351372?rk=2467823;2",
+     "text": "Supplément grec 1252 [MF]"
+    }
+   ]
+  },
+  "54521": {
+   "digitized": []
+  },
+  "55924": {
+   "digitized": []
+  },
+  "14941": {
+   "digitized": []
+  },
+  "15284": {
+   "digitized": [
+    {
+     "label": "RBME Digital",
+     "url": "https://rbme.patrimonionacional.es/s/rbme/item/15785",
+     "text": "R. I. 12"
+    }
+   ]
+  },
+  "15308": {
+   "digitized": [
+    {
+     "label": "RBME Digital",
+     "url": "https://rbme.patrimonionacional.es/s/rbme/item/15813",
+     "text": "R. III. 3"
+    }
+   ]
+  },
+  "14477": {
+   "digitized": []
+  },
+  "14489": {
+   "digitized": []
+  },
+  "14492": {
+   "digitized": []
+  },
+  "14541": {
+   "digitized": []
+  },
+  "15387": {
+   "digitized": [
+    {
+     "label": "RBME Digital",
+     "url": "https://rbme.patrimonionacional.es/s/rbme/item/15937",
+     "text": "Σ. III. 17"
+    }
+   ]
+  },
+  "15425": {
+   "digitized": [
+    {
+     "label": "RBME Digital",
+     "url": "https://rbme.patrimonionacional.es/s/rbme/item/15670",
+     "text": "T. II. 14"
+    }
+   ]
+  },
+  "15138": {
+   "digitized": [
+    {
+     "label": "RBME Digital",
+     "url": "https://rbme.patrimonionacional.es/s/rbme/item/15955",
+     "text": "Φ. I. 6"
+    }
+   ]
+  },
+  "15166": {
+   "digitized": [
+    {
+     "label": "RBME Digital",
+     "url": "https://rbme.patrimonionacional.es/s/rbme/item/16014",
+     "text": "Φ. II. 15"
+    }
+   ]
+  },
+  "15223": {
+   "digitized": [
+    {
+     "label": "RBME Digital",
+     "url": "https://rbme.patrimonionacional.es/s/rbme/item/16550",
+     "text": "Ψ. II. 17"
+    }
+   ]
+  },
+  "15259": {
+   "digitized": [
+    {
+     "label": "RBME Digital",
+     "url": "https://rbme.patrimonionacional.es/s/rbme/item/16625",
+     "text": "Ψ. IV. 14"
+    }
+   ]
+  },
+  "15058": {
+   "digitized": [
+    {
+     "label": "RBME Digital",
+     "url": "https://rbme.patrimonionacional.es/s/rbme/item/16226",
+     "text": "Ω. I. 8"
+    }
+   ]
+  },
+  "57187": {
+   "digitized": []
+  },
+  "58085": {
+   "digitized": []
+  },
+  "61878": {
+   "digitized": []
+  },
+  "63626": {
+   "digitized": []
+  },
+  "70340": {
+   "digitized": []
+  },
+  "70496": {
+   "digitized": [
+    {
+     "label": "Venezia, numérisation",
+     "url": "https://www.internetculturale.it/jmms/iccuviewer/iccu.jsp?id=oai%3A193.206.197.121%3A18%3AVE0049%3ACSTOR.241.10777&mode=all&teca=marciana",
+     "text": "gr. V. 08"
+    }
+   ]
+  },
+  "70501": {
+   "digitized": []
+  },
+  "70504": {
+   "digitized": []
+  },
+  "69760": {
+   "digitized": []
+  },
+  "69761": {
+   "digitized": []
+  },
+  "69762": {
+   "digitized": []
+  },
+  "69988": {
+   "digitized": [
+    {
+     "label": "Venezia, numérisation",
+     "url": "https://www.internetculturale.it/jmms/iccuviewer/iccu.jsp?id=oai%3A193.206.197.121%3A18%3AVE0049%3ACSTOR.240.10245",
+     "text": "gr. Z. 517"
+    }
+   ]
+  },
+  "70067": {
+   "digitized": []
+  },
+  "71030": {
+   "digitized": []
+  },
+  "71031": {
+   "digitized": []
+  },
+  "71037": {
+   "digitized": []
+  },
+  "71050": {
+   "digitized": []
+  },
+  "71053": {
+   "digitized": []
+  },
+  "71057": {
+   "digitized": []
+  },
+  "71062": {
+   "digitized": []
+  },
+  "71077": {
+   "digitized": []
+  },
+  "71469": {
+   "digitized": []
+  },
+  "71544": {
+   "digitized": []
+  },
+  "68525": {
+   "digitized": [
+    {
+     "label": "Vatican numérisation",
+     "url": "https://digi.vatlib.it/view/MSS_Vat.gr.1896",
+     "text": "Vat. gr. 1896"
+    }
+   ]
+  },
+  "51457": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b107230098",
+     "text": "Grec 1831 [MF]"
+    }
+   ]
+  },
+  "14538": {
+   "digitized": []
+  },
+  "9436": {
+   "digitized": []
+  },
+  "11866": {
+   "digitized": []
+  },
+  "65330": {
+   "digitized": [
+    {
+     "label": "Vatican numérisation",
+     "url": "https://digi.vatlib.it/view/MSS_Ott.gr.89",
+     "text": "Ott. gr. 089"
+    }
+   ]
+  },
+  "16665": {
+   "digitized": []
+  },
+  "17011": {
+   "digitized": []
+  },
+  "43626": {
+   "digitized": []
+  },
+  "51807": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b107225608",
+     "text": "Grec 2178 [MF]"
+    }
+   ]
+  },
+  "51829": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b10511041s",
+     "text": "Grec 2200 [Couleurs]"
+    },
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b10866687h",
+     "text": "Grec 2200 [MF]"
+    }
+   ]
+  },
+  "51830": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b10723727v",
+     "text": "Grec 2201 [MF]"
+    }
+   ]
+  },
+  "51831": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b107224889",
+     "text": "Grec 2202 [MF]"
+    }
+   ]
+  },
+  "51832": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b10723664s",
+     "text": "Grec 2203 [MF]"
+    }
+   ]
+  },
+  "51833": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b107236818",
+     "text": "Grec 2204 [MF]"
+    }
+   ]
+  },
+  "53961": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b525074885",
+     "text": "Supplément grec 1297 [Couleurs]"
+    },
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b110048189",
+     "text": "Supplément grec 1297 [MF]"
+    }
+   ]
+  },
+  "56265": {
+   "digitized": []
+  },
+  "70497": {
+   "digitized": []
+  },
+  "15735": {
+   "digitized": []
+  },
+  "43199": {
+   "digitized": []
+  },
+  "47825": {
+   "digitized": []
+  },
+  "9434": {
+   "digitized": []
+  },
+  "16662": {
+   "digitized": []
+  },
+  "77297": {
+   "digitized": []
+  },
+  "38379": {
+   "digitized": []
+  },
+  "52740": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b10723849z",
+     "text": "Grec 3095 [MF]"
+    }
+   ]
+  },
+  "53034": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b11004735d?rk=386268;0",
+     "text": "Supplément grec 0270 [MF]"
+    }
+   ]
+  },
+  "63726": {
+   "digitized": []
+  },
+  "66923": {
+   "digitized": [
+    {
+     "label": "Vatican numérisation",
+     "url": "https://digi.vatlib.it/view/MSS_Vat.gr.292",
+     "text": "Vat. gr. 292"
+    }
+   ]
+  },
+  "51906": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b10721866r",
+     "text": "Grec 2276 [MF]"
+    }
+   ]
+  },
+  "52721": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b107228987",
+     "text": "Grec 3076 [MF]"
+    }
+   ]
+  },
+  "53880": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b110044481?rk=278971;2",
+     "text": "Supplément grec 1202 [MF]"
+    }
+   ]
+  },
+  "9432": {
+   "digitized": []
+  },
+  "9433": {
+   "digitized": []
+  },
+  "66917": {
+   "digitized": [
+    {
+     "label": "Vatican numérisation",
+     "url": "https://digi.vatlib.it/view/MSS_Vat.gr.286",
+     "text": "Vat. gr. 286"
+    }
+   ]
+  },
+  "16700": {
+   "digitized": []
+  },
+  "38378": {
+   "digitized": []
+  },
+  "39715": {
+   "digitized": []
+  },
+  "39925": {
+   "digitized": []
+  },
+  "42378": {
+   "digitized": []
+  },
+  "44514": {
+   "digitized": []
+  },
+  "44516": {
+   "digitized": []
+  },
+  "44798": {
+   "digitized": []
+  },
+  "46326": {
+   "digitized": []
+  },
+  "51815": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b52501013f.image",
+     "text": "Grec 2186 [Couleurs]"
+    }
+   ]
+  },
+  "51816": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b52500247w",
+     "text": "Grec 2187 [Couleurs]"
+    }
+   ]
+  },
+  "51918": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b10722264x",
+     "text": "Grec 2288 [MF]"
+    }
+   ]
+  },
+  "51919": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b52500285n",
+     "text": "Grec 2289 [Couleurs]"
+    }
+   ]
+  },
+  "51965": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b525002829",
+     "text": "Grec 2334 [Couleurs]"
+    }
+   ]
+  },
+  "15514": {
+   "digitized": [
+    {
+     "label": "RBME Digital",
+     "url": "https://rbme.patrimonionacional.es/s/rbme/item/16375",
+     "text": "y. I. 8"
+    }
+   ]
+  },
+  "69741": {
+   "digitized": []
+  },
+  "51849": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b107232754",
+     "text": "Grec 2220 [MF]"
+    }
+   ]
+  },
+  "66947": {
+   "digitized": [
+    {
+     "label": "Vatican numérisation",
+     "url": "https://digi.vatlib.it/view/MSS_Vat.gr.316",
+     "text": "Vat. gr. 316"
+    }
+   ]
+  },
   "51800": {
    "digitized": [
     {
@@ -37979,6 +39129,4293 @@
      "text": "Grec 2171 [MF]"
     }
    ]
+  },
+  "9472": {
+   "digitized": []
+  },
+  "51950": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b10722593v",
+     "text": "Grec 2320 [MF]"
+    }
+   ]
+  },
+  "9763": {
+   "digitized": []
+  },
+  "64695": {
+   "digitized": [
+    {
+     "label": "Vatican numérisation",
+     "url": "https://digi.vatlib.it/view/MSS_Barb.gr.147",
+     "text": "Barb. gr. 147"
+    }
+   ]
+  },
+  "68245": {
+   "digitized": []
+  },
+  "40096": {
+   "digitized": []
+  },
+  "42205": {
+   "digitized": [
+    {
+     "label": "Ambrosiana biblioteca digitale",
+     "url": "https://ambrosiana.comperio.it/opac/detail/view/ambro:catalog:63913",
+     "text": "A 092 sup."
+    }
+   ]
+  },
+  "43360": {
+   "digitized": [
+    {
+     "label": "Modena numérisation",
+     "url": "https://edl.beniculturali.it/beu/850010869",
+     "text": "α.P.5.20 (gr. 109)"
+    }
+   ]
+  },
+  "43501": {
+   "digitized": []
+  },
+  "43513": {
+   "digitized": [
+    {
+     "label": "Modena numérisation",
+     "url": "https://edl.beniculturali.it/beu/850010946",
+     "text": "α.V.7.17 (gr. 145)"
+    }
+   ]
+  },
+  "51570": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b107234033",
+     "text": "Grec 1943 [MF]"
+    }
+   ]
+  },
+  "51675": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b107238650",
+     "text": "Grec 2047 A [MF]"
+    }
+   ]
+  },
+  "69728": {
+   "digitized": [
+    {
+     "label": "Venezia, numérisation",
+     "url": "https://www.internetculturale.it/jmms/iccuviewer/iccu.jsp?id=oai%3A193.206.197.121%3A18%3AVE0049%3ACSTOR.240.9902&mode=all&teca=marciana",
+     "text": "gr. Z. 257"
+    }
+   ]
+  },
+  "69730": {
+   "digitized": []
+  },
+  "69992": {
+   "digitized": []
+  },
+  "16936": {
+   "digitized": []
+  },
+  "42902": {
+   "digitized": []
+  },
+  "9431": {
+   "digitized": []
+  },
+  "9793": {
+   "digitized": []
+  },
+  "73497": {
+   "digitized": []
+  },
+  "65187": {
+   "digitized": [
+    {
+     "label": "Vatican numérisation",
+     "url": "https://digi.vatlib.it/view/MSS_Chig.F.VII.159",
+     "text": "Chig. F. VII. 159"
+    }
+   ]
+  },
+  "65781": {
+   "digitized": [
+    {
+     "label": "Vatican numérisation",
+     "url": "https://digi.vatlib.it/view/MSS_Pal.gr.48",
+     "text": "Pal. gr. 48"
+    }
+   ]
+  },
+  "65810": {
+   "digitized": [
+    {
+     "label": "Vatican numérisation",
+     "url": "https://digi.vatlib.it/view/MSS_Pal.gr.77",
+     "text": "Pal. gr. 77"
+    }
+   ]
+  },
+  "66533": {
+   "digitized": [
+    {
+     "label": "Vatican numérisation",
+     "url": "https://digi.vatlib.it/view/MSS_Urb.gr.66",
+     "text": "Urb. gr. 66"
+    }
+   ]
+  },
+  "66915": {
+   "digitized": [
+    {
+     "label": "Vatican numérisation",
+     "url": "https://digi.vatlib.it/view/MSS_Vat.gr.284",
+     "text": "Vat. gr. 284"
+    }
+   ]
+  },
+  "66920": {
+   "digitized": [
+    {
+     "label": "Vatican numérisation",
+     "url": "https://digi.vatlib.it/view/MSS_Vat.gr.289",
+     "text": "Vat. gr. 289"
+    }
+   ]
+  },
+  "68813": {
+   "digitized": []
+  },
+  "69298": {
+   "digitized": []
+  },
+  "14010": {
+   "digitized": []
+  },
+  "14227": {
+   "digitized": []
+  },
+  "15811": {
+   "digitized": []
+  },
+  "16672": {
+   "digitized": []
+  },
+  "16678": {
+   "digitized": []
+  },
+  "23813": {
+   "digitized": []
+  },
+  "28937": {
+   "digitized": []
+  },
+  "34045": {
+   "digitized": []
+  },
+  "36548": {
+   "digitized": []
+  },
+  "39637": {
+   "digitized": []
+  },
+  "73494": {
+   "digitized": []
+  },
+  "40592": {
+   "digitized": []
+  },
+  "42153": {
+   "digitized": []
+  },
+  "42206": {
+   "digitized": [
+    {
+     "label": "Ambrosiana biblioteca digitale",
+     "url": "https://ambrosiana.comperio.it/opac/detail/view/ambro:catalog:63943",
+     "text": "A 095 sup."
+    }
+   ]
+  },
+  "42437": {
+   "digitized": []
+  },
+  "42978": {
+   "digitized": [
+    {
+     "label": "Ambrosiana biblioteca digitale",
+     "url": "https://digitallibrary.unicatt.it/veneranda/0b02da82805c039b",
+     "text": "L 119 sup."
+    }
+   ]
+  },
+  "43164": {
+   "digitized": [
+    {
+     "label": "Ambrosiana biblioteca digitale",
+     "url": "https://ambrosiana.comperio.it/opac/detail/view/ambro:catalog:88626",
+     "text": "Q 087 sup."
+    }
+   ]
+  },
+  "43357": {
+   "digitized": []
+  },
+  "44131": {
+   "digitized": []
+  },
+  "44974": {
+   "digitized": []
+  },
+  "45170": {
+   "digitized": []
+  },
+  "45957": {
+   "digitized": [
+    {
+     "label": "World Digital Libr.",
+     "url": "https://www.loc.gov/item/2021667873/",
+     "text": "Napoli BN gr. 1*"
+    }
+   ]
+  },
+  "46383": {
+   "digitized": []
+  },
+  "46328": {
+   "digitized": []
+  },
+  "46576": {
+   "digitized": [
+    {
+     "label": "Archive.org Digital Library",
+     "url": "https://archive.org/details/4718670.med.yale.edu/page/n5",
+     "text": "New Haven, Yale Med. Libr., 31"
+    }
+   ]
+  },
+  "46634": {
+   "digitized": []
+  },
+  "47974": {
+   "digitized": []
+  },
+  "48824": {
+   "digitized": []
+  },
+  "51223": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b10721936w",
+     "text": "Grec 1603 [MF]"
+    }
+   ]
+  },
+  "51808": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b525002505",
+     "text": "Grec 2179 [Couleurs]"
+    },
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b10076563m",
+     "text": "Grec 2179 [MF]"
+    }
+   ]
+  },
+  "51811": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b10465181g",
+     "text": "Grec 2182 [Couleurs]"
+    },
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b10723351w",
+     "text": "Grec 2182 [MF]"
+    }
+   ]
+  },
+  "51812": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b10521259v",
+     "text": "Grec 2183 [Couleurs]"
+    },
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b10723206p",
+     "text": "Grec 2183 [MF]"
+    }
+   ]
+  },
+  "51813": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b107233492",
+     "text": "Grec 2184 [MF]"
+    }
+   ]
+  },
+  "51814": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b10723711r",
+     "text": "Grec 2185 [MF]"
+    }
+   ]
+  },
+  "51853": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b10722372t",
+     "text": "Grec 2224 [MF]"
+    }
+   ]
+  },
+  "51890": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b107223325",
+     "text": "Grec 2260 [MF]"
+    }
+   ]
+  },
+  "51917": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b10724307v",
+     "text": "Grec 2287 [MF]"
+    }
+   ]
+  },
+  "51924": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b10722604z",
+     "text": "Grec 2294 [MF]"
+    }
+   ]
+  },
+  "53762": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b110044358?rk=2446364;0",
+     "text": "Supplément grec 1098 [MF]"
+    }
+   ]
+  },
+  "56493": {
+   "digitized": []
+  },
+  "14433": {
+   "digitized": []
+  },
+  "14495": {
+   "digitized": []
+  },
+  "14537": {
+   "digitized": []
+  },
+  "15348": {
+   "digitized": [
+    {
+     "label": "RBME Digital",
+     "url": "https://rbme.patrimonionacional.es/s/rbme/item/15845",
+     "text": "Σ. I. 17"
+    }
+   ]
+  },
+  "15423": {
+   "digitized": [
+    {
+     "label": "RBME Digital",
+     "url": "https://rbme.patrimonionacional.es/s/rbme/item/15622",
+     "text": "T. II. 12"
+    }
+   ]
+  },
+  "70657": {
+   "digitized": []
+  },
+  "69742": {
+   "digitized": []
+  },
+  "69743": {
+   "digitized": []
+  },
+  "69744": {
+   "digitized": []
+  },
+  "70068": {
+   "digitized": []
+  },
+  "71026": {
+   "digitized": []
+  },
+  "71039": {
+   "digitized": []
+  },
+  "71041": {
+   "digitized": []
+  },
+  "71569": {
+   "digitized": []
+  },
+  "72793": {
+   "digitized": []
+  },
+  "44683": {
+   "digitized": []
+  },
+  "49130": {
+   "digitized": []
+  },
+  "64783": {
+   "digitized": [
+    {
+     "label": "Vatican numérisation",
+     "url": "https://digi.vatlib.it/view/MSS_Barb.gr.237",
+     "text": "Barb. gr. 237"
+    }
+   ]
+  },
+  "68455": {
+   "digitized": [
+    {
+     "label": "Vatican numérisation",
+     "url": "https://digi.vatlib.it/view/MSS_Vat.gr.1826",
+     "text": "Vat. gr. 1826"
+    }
+   ]
+  },
+  "66921": {
+   "digitized": []
+  },
+  "13605": {
+   "digitized": []
+  },
+  "16675": {
+   "digitized": []
+  },
+  "17090": {
+   "digitized": []
+  },
+  "23814": {
+   "digitized": []
+  },
+  "37090": {
+   "digitized": []
+  },
+  "39827": {
+   "digitized": []
+  },
+  "44837": {
+   "digitized": []
+  },
+  "51968": {
+   "digitized": []
+  },
+  "42310": {
+   "digitized": []
+  },
+  "6904": {
+   "digitized": []
+  },
+  "9954": {
+   "digitized": []
+  },
+  "12202": {
+   "digitized": []
+  },
+  "66908": {
+   "digitized": [
+    {
+     "label": "Vatican numérisation",
+     "url": "https://digi.vatlib.it/view/MSS_Vat.gr.277",
+     "text": "Vat. gr. 277"
+    }
+   ]
+  },
+  "68507": {
+   "digitized": [
+    {
+     "label": "Vatican numérisation",
+     "url": "https://digi.vatlib.it/view/MSS_Vat.gr.1878",
+     "text": "Vat. gr. 1878"
+    }
+   ]
+  },
+  "47820": {
+   "digitized": []
+  },
+  "51780": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b107225519",
+     "text": "Grec 2151 [MF]"
+    }
+   ]
+  },
+  "51806": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b525136128?rk=42918;4",
+     "text": "Grec 2177 [Couleurs]"
+    }
+   ]
+  },
+  "52249": {
+   "digitized": []
+  },
+  "52250": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b107224402",
+     "text": "Grec 2615 [MF]"
+    }
+   ]
+  },
+  "52286": {
+   "digitized": []
+  },
+  "56332": {
+   "digitized": []
+  },
+  "15515": {
+   "digitized": [
+    {
+     "label": "RBME Digital",
+     "url": "https://rbme.patrimonionacional.es/s/rbme/item/16379",
+     "text": "y. I. 9"
+    }
+   ]
+  },
+  "14806": {
+   "digitized": []
+  },
+  "70503": {
+   "digitized": []
+  },
+  "71068": {
+   "digitized": []
+  },
+  "23811": {
+   "digitized": []
+  },
+  "43224": {
+   "digitized": []
+  },
+  "16658": {
+   "digitized": []
+  },
+  "7586": {
+   "digitized": []
+  },
+  "66534": {
+   "digitized": [
+    {
+     "label": "Vatican numérisation",
+     "url": "https://digi.vatlib.it/view/MSS_Urb.gr.67",
+     "text": "Urb. gr. 67"
+    }
+   ]
+  },
+  "51793": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b107222945",
+     "text": "Grec 2164 [MF]"
+    }
+   ]
+  },
+  "70492": {
+   "digitized": []
+  },
+  "66029": {
+   "digitized": [
+    {
+     "label": "Vatican numérisation",
+     "url": "https://digi.ub.uni-heidelberg.de/diglit/bav_pal_gr_297_v2",
+     "text": "Pal. gr. 297"
+    }
+   ]
+  },
+  "16660": {
+   "digitized": []
+  },
+  "16666": {
+   "digitized": []
+  },
+  "43676": {
+   "digitized": []
+  },
+  "43908": {
+   "digitized": []
+  },
+  "52806": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b110047038",
+     "text": "Supplément grec 0035 [MF]"
+    }
+   ]
+  },
+  "53369": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b52501352s",
+     "text": "Supplément grec 0634 [Couleurs]"
+    },
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b100766329",
+     "text": "Supplément grec 0634 [MF]"
+    }
+   ]
+  },
+  "63149": {
+   "digitized": []
+  },
+  "69753": {
+   "digitized": []
+  },
+  "71055": {
+   "digitized": []
+  },
+  "9764": {
+   "digitized": []
+  },
+  "64553": {
+   "digitized": [
+    {
+     "label": "Vatican numérisation",
+     "url": "https://digi.vatlib.it/view/MSS_Barb.gr.5",
+     "text": "Barb. gr. 005"
+    }
+   ]
+  },
+  "65860": {
+   "digitized": [
+    {
+     "label": "Vatican numérisation",
+     "url": "https://digi.vatlib.it/view/MSS_Pal.gr.128",
+     "text": "Pal. gr. 128"
+    }
+   ]
+  },
+  "66323": {
+   "digitized": [
+    {
+     "label": "Vatican numérisation",
+     "url": "https://digi.vatlib.it/view/MSS_Reg.gr.154",
+     "text": "Reg. gr. 154"
+    }
+   ]
+  },
+  "66916": {
+   "digitized": [
+    {
+     "label": "Vatican numérisation",
+     "url": "https://digi.vatlib.it/view/MSS_Vat.gr.285",
+     "text": "Vat. gr. 285"
+    }
+   ]
+  },
+  "68474": {
+   "digitized": [
+    {
+     "label": "Vatican numérisation",
+     "url": "https://digi.vatlib.it/view/MSS_Vat.gr.1845",
+     "text": "Vat. gr. 1845"
+    }
+   ]
+  },
+  "37099": {
+   "digitized": []
+  },
+  "38124": {
+   "digitized": []
+  },
+  "38370": {
+   "digitized": []
+  },
+  "42841": {
+   "digitized": []
+  },
+  "43338": {
+   "digitized": []
+  },
+  "43490": {
+   "digitized": []
+  },
+  "44392": {
+   "digitized": []
+  },
+  "45944": {
+   "digitized": []
+  },
+  "51267": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b107232989",
+     "text": "Grec 1644 [MF]"
+    }
+   ]
+  },
+  "51782": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b107229115",
+     "text": "Grec 2153 [MF]"
+    }
+   ]
+  },
+  "51786": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b10722568v",
+     "text": "Grec 2157 [MF]"
+    }
+   ]
+  },
+  "51792": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b107232737",
+     "text": "Grec 2163 [MF]"
+    }
+   ]
+  },
+  "51798": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b10723725z",
+     "text": "Grec 2169 [MF]"
+    }
+   ]
+  },
+  "51895": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b107234480",
+     "text": "Grec 2265 [MF]"
+    }
+   ]
+  },
+  "51901": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b107226185",
+     "text": "Grec 2271 [MF]"
+    }
+   ]
+  },
+  "51903": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b10722628k",
+     "text": "Grec 2273 [MF]"
+    }
+   ]
+  },
+  "51907": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b10722815k",
+     "text": "Grec 2277 [MF]"
+    }
+   ]
+  },
+  "51915": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b10723227z",
+     "text": "Grec 2285 [MF]"
+    }
+   ]
+  },
+  "51936": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b10722494x",
+     "text": "Grec 2306 [MF]"
+    }
+   ]
+  },
+  "51937": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b107225894",
+     "text": "Grec 2307 [MF]"
+    }
+   ]
+  },
+  "51964": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b10723512f",
+     "text": "Grec 2333 [MF]"
+    }
+   ]
+  },
+  "52834": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b11000141c",
+     "text": "Supplément grec 0064 [MF]"
+    }
+   ]
+  },
+  "53280": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b110052045?rk=665239;2",
+     "text": "Supplément grec 0542 [MF]"
+    }
+   ]
+  },
+  "55759": {
+   "digitized": []
+  },
+  "70493": {
+   "digitized": []
+  },
+  "69746": {
+   "digitized": []
+  },
+  "71033": {
+   "digitized": []
+  },
+  "71040": {
+   "digitized": []
+  },
+  "71475": {
+   "digitized": []
+  },
+  "11869": {
+   "digitized": []
+  },
+  "16667": {
+   "digitized": []
+  },
+  "16699": {
+   "digitized": []
+  },
+  "37977": {
+   "digitized": [
+    {
+     "label": "Leiden, numérisation",
+     "url": "https://hdl.handle.net/1887.1/item:1597296",
+     "text": "Scaliger 18"
+    }
+   ]
+  },
+  "46320": {
+   "digitized": []
+  },
+  "48279": {
+   "digitized": []
+  },
+  "51897": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b10724059p",
+     "text": "Grec 2267 [MF]"
+    }
+   ]
+  },
+  "14638": {
+   "digitized": []
+  },
+  "68537": {
+   "digitized": [
+    {
+     "label": "Vatican numérisation",
+     "url": "https://digi.vatlib.it/view/MSS_Vat.gr.1908",
+     "text": "Vat. gr. 1908"
+    }
+   ]
+  },
+  "16954": {
+   "digitized": []
+  },
+  "42357": {
+   "digitized": [
+    {
+     "label": "Ambrosiana biblioteca digitale",
+     "url": "https://ambrosiana.comperio.it/opac/detail/view/ambro:catalog:66433",
+     "text": "B 113 sup."
+    }
+   ]
+  },
+  "42159": {
+   "digitized": []
+  },
+  "43340": {
+   "digitized": []
+  },
+  "46568": {
+   "digitized": []
+  },
+  "70812": {
+   "digitized": []
+  },
+  "43506": {
+   "digitized": [
+    {
+     "label": "Modena numérisation",
+     "url": "https://edl.beniculturali.it/beu/850010944",
+     "text": "α.V.7.04 (gr. 175)"
+    }
+   ]
+  },
+  "37152": {
+   "digitized": []
+  },
+  "38037": {
+   "digitized": []
+  },
+  "38259": {
+   "digitized": []
+  },
+  "38367": {
+   "digitized": []
+  },
+  "42423": {
+   "digitized": [
+    {
+     "label": "Ambrosiana biblioteca digitale",
+     "url": "https://ambrosiana.comperio.it/opac/detail/view/ambro:catalog:29330",
+     "text": "C 080 inf."
+    }
+   ]
+  },
+  "43342": {
+   "digitized": []
+  },
+  "47512": {
+   "digitized": [
+    {
+     "label": "Oxford numérisation",
+     "url": "https://digital.bodleian.ox.ac.uk/inquire/p/d46d77fb-4db4-4f10-97bc-c1d13d591683",
+     "text": "Barocci 224"
+    }
+   ]
+  },
+  "51475": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b10721651b",
+     "text": "Grec 1849 [MF]"
+    }
+   ]
+  },
+  "69750": {
+   "digitized": []
+  },
+  "9468": {
+   "digitized": []
+  },
+  "64628": {
+   "digitized": [
+    {
+     "label": "Vatican numérisation",
+     "url": "https://digi.vatlib.it/view/MSS_Barb.gr.80",
+     "text": "Barb. gr. 080"
+    }
+   ]
+  },
+  "64666": {
+   "digitized": [
+    {
+     "label": "Vatican numérisation",
+     "url": "https://digi.vatlib.it/view/MSS_Barb.gr.118",
+     "text": "Barb. gr. 118"
+    }
+   ]
+  },
+  "18021": {
+   "digitized": []
+  },
+  "51877": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b10724082s",
+     "text": "Grec 2248 [MF]"
+    }
+   ]
+  },
+  "53447": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b110046925?rk=429186;4",
+     "text": "Supplément grec 0727 [MF]"
+    }
+   ]
+  },
+  "53480": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b11004693m?rk=2618038;4",
+     "text": "Supplément grec 0765 [MF]"
+    }
+   ]
+  },
+  "80543": {
+   "digitized": []
+  },
+  "15439": {
+   "digitized": [
+    {
+     "label": "RBME Digital",
+     "url": "https://rbme.patrimonionacional.es/s/rbme/item/15579",
+     "text": "T. III. 7"
+    }
+   ]
+  },
+  "51848": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b53164671b",
+     "text": "Grec 2219 [Couleurs]"
+    },
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b107226507",
+     "text": "Grec 2219 [MF]"
+    }
+   ]
+  },
+  "69767": {
+   "digitized": []
+  },
+  "42389": {
+   "digitized": []
+  },
+  "49369": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b110048204?rk=3390574;4",
+     "text": "Coislin 228 [MF]"
+    }
+   ]
+  },
+  "49475": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b108663557",
+     "text": "Coislin 334 [MF]"
+    }
+   ]
+  },
+  "51794": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b10077182t",
+     "text": "Grec 2165 [MF]"
+    }
+   ]
+  },
+  "51899": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b107221544",
+     "text": "Grec 2269 [MF]"
+    }
+   ]
+  },
+  "11863": {
+   "digitized": []
+  },
+  "65983": {
+   "digitized": [
+    {
+     "label": "Vatican numérisation",
+     "url": "https://digi.vatlib.it/view/MSS_Pal.gr.251",
+     "text": "Pal. gr. 251"
+    }
+   ]
+  },
+  "66451": {
+   "digitized": [
+    {
+     "label": "Vatican numérisation",
+     "url": "https://digi.vatlib.it/view/MSS_Ross.982",
+     "text": "Ross. 982"
+    }
+   ]
+  },
+  "66536": {
+   "digitized": [
+    {
+     "label": "Vatican numérisation",
+     "url": "https://digi.vatlib.it/view/MSS_Urb.gr.69",
+     "text": "Urb. gr. 69"
+    }
+   ]
+  },
+  "16659": {
+   "digitized": []
+  },
+  "16664": {
+   "digitized": []
+  },
+  "16673": {
+   "digitized": []
+  },
+  "38882": {
+   "digitized": []
+  },
+  "39611": {
+   "digitized": []
+  },
+  "43341": {
+   "digitized": []
+  },
+  "49474": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b10081185d",
+     "text": "Coislin 333 [MF]"
+    }
+   ]
+  },
+  "50576": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b10724313g",
+     "text": "Grec 0985 [MF]"
+    }
+   ]
+  },
+  "51777": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b107230956",
+     "text": "Grec 2148 [MF]"
+    }
+   ]
+  },
+  "51783": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b10723348m",
+     "text": "Grec 2154 [MF]"
+    }
+   ]
+  },
+  "51883": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b107213946",
+     "text": "Grec 2253 [MF]"
+    }
+   ]
+  },
+  "51911": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b10723292m",
+     "text": "Grec 2281 [MF]"
+    }
+   ]
+  },
+  "69758": {
+   "digitized": []
+  },
+  "66344": {
+   "digitized": [
+    {
+     "label": "Vatican numérisation",
+     "url": "https://digi.vatlib.it/view/MSS_Reg.gr.175",
+     "text": "Reg. gr. 175"
+    }
+   ]
+  },
+  "43534": {
+   "digitized": []
+  },
+  "51908": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b10722306q",
+     "text": "Grec 2278 [MF]"
+    }
+   ]
+  },
+  "69747": {
+   "digitized": []
+  },
+  "10665": {
+   "digitized": []
+  },
+  "69752": {
+   "digitized": []
+  },
+  "51909": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b10722657c",
+     "text": "Grec 2279 [MF]"
+    }
+   ]
+  },
+  "59762": {
+   "digitized": []
+  },
+  "9765": {
+   "digitized": []
+  },
+  "16465": {
+   "digitized": []
+  },
+  "68329": {
+   "digitized": [
+    {
+     "label": "Vatican numérisation",
+     "url": "https://digi.vatlib.it/view/MSS_Vat.gr.1700",
+     "text": "Vat. gr. 1700"
+    }
+   ]
+  },
+  "43907": {
+   "digitized": []
+  },
+  "16357": {
+   "digitized": []
+  },
+  "43917": {
+   "digitized": []
+  },
+  "76096": {
+   "digitized": []
+  },
+  "44553": {
+   "digitized": []
+  },
+  "49477": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b10038024z?rk=128756;0",
+     "text": "Coislin 336 [MF]"
+    }
+   ]
+  },
+  "56271": {
+   "digitized": []
+  },
+  "71417": {
+   "digitized": []
+  },
+  "72775": {
+   "digitized": []
+  },
+  "47682": {
+   "digitized": []
+  },
+  "72150": {
+   "digitized": []
+  },
+  "9577": {
+   "digitized": []
+  },
+  "43136": {
+   "digitized": [
+    {
+     "label": "Ambrosiana biblioteca digitale",
+     "url": "https://ambrosiana.comperio.it/opac/detail/view/ambro:catalog:88033",
+     "text": "Q 003 sup."
+    }
+   ]
+  },
+  "43311": {
+   "digitized": []
+  },
+  "44132": {
+   "digitized": []
+  },
+  "51795": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b60012881",
+     "text": "Grec 2166 [Couleurs]"
+    }
+   ]
+  },
+  "69755": {
+   "digitized": []
+  },
+  "11868": {
+   "digitized": []
+  },
+  "15184": {
+   "digitized": [
+    {
+     "label": "RBME Digital",
+     "url": "https://rbme.patrimonionacional.es/s/rbme/item/16054",
+     "text": "Φ. III. 11"
+    }
+   ]
+  },
+  "9293": {
+   "digitized": [
+    {
+     "label": "Teuchos numérisation",
+     "url": "https://beta.teuchos.uni-hamburg.de/TeuchosWebUI/manuscripts/show-manuscript-frame?msPid=info%3Afedora%2Fteuchosx%3Aham270&withoutMenu=false&withoutHeader=false&mirrored=false",
+     "text": "Berlin Ham. 270"
+    }
+   ]
+  },
+  "16677": {
+   "digitized": []
+  },
+  "66342": {
+   "digitized": [
+    {
+     "label": "Vatican numérisation",
+     "url": "https://digi.vatlib.it/view/MSS_Reg.gr.173",
+     "text": "Reg. gr. 173"
+    }
+   ]
+  },
+  "38365": {
+   "digitized": []
+  },
+  "51801": {
+   "digitized": []
+  },
+  "66537": {
+   "digitized": [
+    {
+     "label": "Vatican numérisation",
+     "url": "https://digi.vatlib.it/view/MSS_Urb.gr.70",
+     "text": "Urb. gr. 70"
+    }
+   ]
+  },
+  "69313": {
+   "digitized": [
+    {
+     "label": "Vatican numérisation",
+     "url": "https://digi.vatlib.it/view/MSS_Vat.lat.5763",
+     "text": "Vat. lat. 5763"
+    }
+   ]
+  },
+  "42172": {
+   "digitized": [
+    {
+     "label": "Ambrosiana biblioteca digitale",
+     "url": "https://ambrosiana.comperio.it/opac/detail/view/ambro:catalog:63543",
+     "text": "A 045 sup."
+    }
+   ]
+  },
+  "42352": {
+   "digitized": []
+  },
+  "44483": {
+   "digitized": []
+  },
+  "44999": {
+   "digitized": []
+  },
+  "51796": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b10723344t",
+     "text": "Grec 2167 [MF]"
+    }
+   ]
+  },
+  "51802": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b525124661?rk=171674;4",
+     "text": "Grec 2173 [Couleurs]"
+    }
+   ]
+  },
+  "53479": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b110042236?rk=858373;2",
+     "text": "Supplément grec 0764 [MF]"
+    }
+   ]
+  },
+  "15497": {
+   "digitized": [
+    {
+     "label": "RBME Digital",
+     "url": "https://rbme.patrimonionacional.es/s/rbme/item/16335",
+     "text": "Y. III. 14"
+    }
+   ]
+  },
+  "70499": {
+   "digitized": []
+  },
+  "69768": {
+   "digitized": []
+  },
+  "72156": {
+   "digitized": []
+  },
+  "16680": {
+   "digitized": []
+  },
+  "39838": {
+   "digitized": []
+  },
+  "47121": {
+   "digitized": []
+  },
+  "69756": {
+   "digitized": []
+  },
+  "3786": {
+   "digitized": []
+  },
+  "9546": {
+   "digitized": []
+  },
+  "16671": {
+   "digitized": []
+  },
+  "16686": {
+   "digitized": []
+  },
+  "38152": {
+   "digitized": []
+  },
+  "51963": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b10721783v",
+     "text": "Grec 2332 [MF]"
+    }
+   ]
+  },
+  "15356": {
+   "digitized": [
+    {
+     "label": "RBME Digital",
+     "url": "https://rbme.patrimonionacional.es/s/rbme/item/15859",
+     "text": "Σ. II. 5"
+    }
+   ]
+  },
+  "47418": {
+   "digitized": [
+    {
+     "label": "Oxford numérisation",
+     "url": "https://digital.bodleian.ox.ac.uk/inquire/p/8f71e031-ea60-436f-937b-81275c271527",
+     "text": "Barocci 131"
+    }
+   ]
+  },
+  "70500": {
+   "digitized": [
+    {
+     "label": "Venezia, numérisation",
+     "url": "https://www.internetculturale.it/jmms/iccuviewer/iccu.jsp?id=oai%3A193.206.197.121%3A18%3AVE0049%3ACSTOR.241.10782&mode=all&teca=marciana",
+     "text": "gr. V. 12"
+    }
+   ]
+  },
+  "38021": {
+   "digitized": []
+  },
+  "38366": {
+   "digitized": []
+  },
+  "42775": {
+   "digitized": []
+  },
+  "51913": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b107240602",
+     "text": "Grec 2283 [MF]"
+    }
+   ]
+  },
+  "51914": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b107239030",
+     "text": "Grec 2284 [MF]"
+    }
+   ]
+  },
+  "15721": {
+   "digitized": []
+  },
+  "51576": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b10721839v",
+     "text": "Grec 1949 [MF]"
+    }
+   ]
+  },
+  "11865": {
+   "digitized": []
+  },
+  "65787": {
+   "digitized": [
+    {
+     "label": "Vatican numérisation",
+     "url": "https://digi.vatlib.it/view/MSS_Pal.gr.54",
+     "text": "Pal. gr. 54"
+    }
+   ]
+  },
+  "51784": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b52526925h",
+     "text": "Grec 2155 [Couleurs]"
+    },
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b107232932",
+     "text": "Grec 2155 [MF]"
+    }
+   ]
+  },
+  "51785": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b110000037",
+     "text": "Grec 2156 [MF]"
+    }
+   ]
+  },
+  "51787": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b10723670d",
+     "text": "Grec 2158 [MF]"
+    }
+   ]
+  },
+  "51875": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b107229617",
+     "text": "Grec 2246 [MF]"
+    }
+   ]
+  },
+  "51902": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b107225731",
+     "text": "Grec 2272 [MF]"
+    }
+   ]
+  },
+  "65875": {
+   "digitized": [
+    {
+     "label": "Vatican numérisation",
+     "url": "https://digi.vatlib.it/view/MSS_Pal.gr.143",
+     "text": "Pal. gr. 143"
+    }
+   ]
+  },
+  "43337": {
+   "digitized": []
+  },
+  "51836": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b107237378",
+     "text": "Grec 2207 [MF]"
+    }
+   ]
+  },
+  "51946": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b10510183c",
+     "text": "Grec 2316 [Couleurs]"
+    },
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b100771783",
+     "text": "Grec 2316 [MF]"
+    }
+   ]
+  },
+  "51799": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b10510173z",
+     "text": "Grec 2170 [Couleurs]"
+    },
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b10723696x",
+     "text": "Grec 2170 [MF]"
+    }
+   ]
+  },
+  "66914": {
+   "digitized": [
+    {
+     "label": "Vatican numérisation",
+     "url": "https://digi.vatlib.it/view/MSS_Vat.gr.283",
+     "text": "Vat. gr. 283"
+    }
+   ]
+  },
+  "47508": {
+   "digitized": [
+    {
+     "label": "Oxford numérisation",
+     "url": "https://digital.bodleian.ox.ac.uk/inquire/p/71e4b799-4be5-42d3-9c02-8ad32c39defc",
+     "text": "Barocci 220"
+    }
+   ]
+  },
+  "47594": {
+   "digitized": []
+  },
+  "67615": {
+   "digitized": [
+    {
+     "label": "Vatican numérisation",
+     "url": "https://digi.vatlib.it/view/MSS_Vat.gr.984",
+     "text": "Vat. gr. 984"
+    }
+   ]
+  },
+  "68511": {
+   "digitized": [
+    {
+     "label": "Vatican numérisation",
+     "url": "https://digi.vatlib.it/view/MSS_Vat.gr.1882",
+     "text": "Vat. gr. 1882"
+    }
+   ]
+  },
+  "16685": {
+   "digitized": []
+  },
+  "38063": {
+   "digitized": []
+  },
+  "39610": {
+   "digitized": []
+  },
+  "43156": {
+   "digitized": []
+  },
+  "51790": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b107231855",
+     "text": "Grec 2161 [MF]"
+    }
+   ]
+  },
+  "69751": {
+   "digitized": []
+  },
+  "71047": {
+   "digitized": []
+  },
+  "9425": {
+   "digitized": []
+  },
+  "66132": {
+   "digitized": [
+    {
+     "label": "Vatican numérisation",
+     "url": "https://digi.vatlib.it/view/MSS_Pal.gr.400",
+     "text": "Pal. gr. 400"
+    }
+   ]
+  },
+  "52468": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b10722969t",
+     "text": "Grec 2830 [MF]"
+    }
+   ]
+  },
+  "53179": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b11004080k",
+     "text": "Supplément grec 0446 [MF]"
+    }
+   ]
+  },
+  "56103": {
+   "digitized": []
+  },
+  "60279": {
+   "digitized": []
+  },
+  "15612": {
+   "digitized": []
+  },
+  "70641": {
+   "digitized": []
+  },
+  "72055": {
+   "digitized": []
+  },
+  "66912": {
+   "digitized": [
+    {
+     "label": "Vatican numérisation",
+     "url": "https://digi.vatlib.it/view/MSS_Vat.gr.281",
+     "text": "Vat. gr. 281"
+    }
+   ]
+  },
+  "67695": {
+   "digitized": [
+    {
+     "label": "Vatican numérisation",
+     "url": "https://digi.vatlib.it/view/MSS_Vat.gr.1064.pt.1",
+     "text": "Vat. gr. 1064 pt. 1"
+    },
+    {
+     "label": "Vatican numérisation",
+     "url": "https://digi.vatlib.it/view/MSS_Vat.gr.1064.pt.2",
+     "text": "Vat. gr. 1064 pt. 2"
+    }
+   ]
+  },
+  "16683": {
+   "digitized": []
+  },
+  "38252": {
+   "digitized": [
+    {
+     "label": "Leiden, numérisation",
+     "url": "https://hdl.handle.net/1887.1/item:1613252",
+     "text": "Vulc. 043"
+    }
+   ]
+  },
+  "39585": {
+   "digitized": []
+  },
+  "43064": {
+   "digitized": []
+  },
+  "48278": {
+   "digitized": []
+  },
+  "9647": {
+   "digitized": []
+  },
+  "37096": {
+   "digitized": []
+  },
+  "42452": {
+   "digitized": []
+  },
+  "42617": {
+   "digitized": []
+  },
+  "42655": {
+   "digitized": [
+    {
+     "label": "Ambrosiana biblioteca digitale",
+     "url": "https://ambrosiana.comperio.it/opac/detail/view/ambro:catalog:45258",
+     "text": "D 518 inf."
+    }
+   ]
+  },
+  "52680": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b10723058w",
+     "text": "Grec 3035 [MF]"
+    }
+   ]
+  },
+  "53364": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b110047072?rk=901292;0",
+     "text": "Supplément grec 0629 [MF]"
+    }
+   ]
+  },
+  "64548": {
+   "digitized": [
+    {
+     "label": "Vatican numérisation",
+     "url": "https://digi.vatlib.it/view/MSS_Arch.Cap.S.Pietro.H.45",
+     "text": "Arch. Cap. S. Pietro H 045"
+    }
+   ]
+  },
+  "64767": {
+   "digitized": [
+    {
+     "label": "Vatican numérisation",
+     "url": "https://digi.vatlib.it/view/MSS_Barb.gr.221",
+     "text": "Barb. gr. 221"
+    }
+   ]
+  },
+  "65889": {
+   "digitized": [
+    {
+     "label": "Vatican numérisation",
+     "url": "https://digi.vatlib.it/view/MSS_Pal.gr.157",
+     "text": "Pal. gr. 157"
+    }
+   ]
+  },
+  "66027": {
+   "digitized": [
+    {
+     "label": "Vatican numérisation",
+     "url": "https://digi.vatlib.it/view/MSS_Pal.gr.295",
+     "text": "Pal. gr. 295"
+    }
+   ]
+  },
+  "23786": {
+   "digitized": []
+  },
+  "39700": {
+   "digitized": []
+  },
+  "66931": {
+   "digitized": [
+    {
+     "label": "Vatican numérisation",
+     "url": "https://digi.vatlib.it/view/MSS_Vat.gr.300",
+     "text": "Vat. gr. 300"
+    }
+   ]
+  },
+  "39790": {
+   "digitized": []
+  },
+  "43170": {
+   "digitized": []
+  },
+  "44832": {
+   "digitized": []
+  },
+  "69980": {
+   "digitized": [
+    {
+     "label": "Venezia, numérisation",
+     "url": "https://www.internetculturale.it/jmms/iccuviewer/iccu.jsp?id=oai%3A193.206.197.121%3A18%3AVE0049%3ACSTOR.240.10237&mode=all&teca=marciana",
+     "text": "gr. Z. 509"
+    }
+   ]
+  },
+  "66343": {
+   "digitized": [
+    {
+     "label": "Vatican numérisation",
+     "url": "https://digi.vatlib.it/view/MSS_Reg.gr.174",
+     "text": "Reg. gr. 174"
+    }
+   ]
+  },
+  "16661": {
+   "digitized": []
+  },
+  "16694": {
+   "digitized": []
+  },
+  "16701": {
+   "digitized": []
+  },
+  "23748": {
+   "digitized": []
+  },
+  "23761": {
+   "digitized": []
+  },
+  "37625": {
+   "digitized": [
+    {
+     "label": "Leiden, numérisation",
+     "url": "https://hdl.handle.net/1887.1/item:1602402",
+     "text": "BPG 002A"
+    }
+   ]
+  },
+  "38198": {
+   "digitized": [
+    {
+     "label": "Leiden, numérisation",
+     "url": "https://socrates.leidenuniv.nl/R/-?func=dbin-jump-full&object_id=680876",
+     "text": "Voss. misc. 11"
+    }
+   ]
+  },
+  "38787": {
+   "digitized": []
+  },
+  "39288": {
+   "digitized": []
+  },
+  "40772": {
+   "digitized": []
+  },
+  "44404": {
+   "digitized": []
+  },
+  "45060": {
+   "digitized": []
+  },
+  "46078": {
+   "digitized": []
+  },
+  "48277": {
+   "digitized": []
+  },
+  "51789": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b11004512g?rk=2167392;4",
+     "text": "Grec 2160 [MF]"
+    }
+   ]
+  },
+  "51791": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b10723087p",
+     "text": "Grec 2162 [MF]"
+    }
+   ]
+  },
+  "51861": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b107225642",
+     "text": "Grec 2232 [MF]"
+    }
+   ]
+  },
+  "51904": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b110002695",
+     "text": "Grec 2274 [MF]"
+    }
+   ]
+  },
+  "51910": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b11000280z",
+     "text": "Grec 2280 [MF]"
+    }
+   ]
+  },
+  "51934": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b10722968c",
+     "text": "Grec 2304 [MF]"
+    }
+   ]
+  },
+  "71038": {
+   "digitized": []
+  },
+  "72101": {
+   "digitized": []
+  },
+  "68885": {
+   "digitized": []
+  },
+  "51938": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b107223270",
+     "text": "Grec 2308 [MF]"
+    }
+   ]
+  },
+  "71043": {
+   "digitized": []
+  },
+  "40258": {
+   "digitized": []
+  },
+  "56850": {
+   "digitized": []
+  },
+  "71054": {
+   "digitized": []
+  },
+  "8286": {
+   "digitized": []
+  },
+  "9738": {
+   "digitized": []
+  },
+  "12184": {
+   "digitized": []
+  },
+  "65764": {
+   "digitized": [
+    {
+     "label": "Vatican numérisation",
+     "url": "https://digi.vatlib.it/view/MSS_Pal.gr.31",
+     "text": "Pal. gr. 31"
+    }
+   ]
+  },
+  "67017": {
+   "digitized": []
+  },
+  "67697": {
+   "digitized": [
+    {
+     "label": "Vatican numérisation",
+     "url": "https://digi.vatlib.it/view/MSS_Vat.gr.1066",
+     "text": "Vat. gr. 1066"
+    }
+   ]
+  },
+  "13846": {
+   "digitized": []
+  },
+  "17193": {
+   "digitized": []
+  },
+  "9186": {
+   "digitized": []
+  },
+  "37634": {
+   "digitized": []
+  },
+  "42198": {
+   "digitized": []
+  },
+  "42722": {
+   "digitized": [
+    {
+     "label": "Ambrosiana biblioteca digitale",
+     "url": "https://ambrosiana.comperio.it/opac/detail/view/ambro:catalog:71785",
+     "text": "E 105 sup."
+    }
+   ]
+  },
+  "43358": {
+   "digitized": [
+    {
+     "label": "Modena numérisation",
+     "url": "https://edl.beniculturali.it/beu/850010868",
+     "text": "α.P.5.18 (gr. 107)"
+    }
+   ]
+  },
+  "43531": {
+   "digitized": []
+  },
+  "44917": {
+   "digitized": []
+  },
+  "51788": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b110042092",
+     "text": "Grec 2159 [MF]"
+    }
+   ]
+  },
+  "15362": {
+   "digitized": [
+    {
+     "label": "RBME Digital",
+     "url": "https://rbme.patrimonionacional.es/s/rbme/item/15885",
+     "text": "Σ. II. 11"
+    }
+   ]
+  },
+  "70494": {
+   "digitized": [
+    {
+     "label": "Venezia, numérisation",
+     "url": "https://www.internetculturale.it/jmms/iccuviewer/iccu.jsp?id=oai%3A193.206.197.121%3A18%3AVE0049%3ACSTOR.241.10775&mode=all&teca=marciana",
+     "text": "gr. V. 06"
+    }
+   ]
+  },
+  "69757": {
+   "digitized": []
+  },
+  "71060": {
+   "digitized": []
+  },
+  "71073": {
+   "digitized": []
+  },
+  "3776": {
+   "digitized": []
+  },
+  "9467": {
+   "digitized": []
+  },
+  "66341": {
+   "digitized": [
+    {
+     "label": "Vatican numérisation",
+     "url": "https://digi.vatlib.it/view/MSS_Reg.gr.172",
+     "text": "Reg. gr. 172"
+    }
+   ]
+  },
+  "16702": {
+   "digitized": []
+  },
+  "28931": {
+   "digitized": []
+  },
+  "37453": {
+   "digitized": []
+  },
+  "70495": {
+   "digitized": []
+  },
+  "69759": {
+   "digitized": []
+  },
+  "9430": {
+   "digitized": []
+  },
+  "23816": {
+   "digitized": []
+  },
+  "38828": {
+   "digitized": []
+  },
+  "46582": {
+   "digitized": []
+  },
+  "43317": {
+   "digitized": []
+  },
+  "23781": {
+   "digitized": []
+  },
+  "28932": {
+   "digitized": []
+  },
+  "53180": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b11004125q",
+     "text": "Supplément grec 0447 [MF]"
+    }
+   ]
+  },
+  "71322": {
+   "digitized": []
+  },
+  "55480": {
+   "digitized": []
+  },
+  "60276": {
+   "digitized": []
+  },
+  "66531": {
+   "digitized": [
+    {
+     "label": "Vatican numérisation",
+     "url": "https://digi.vatlib.it/view/MSS_Urb.gr.64",
+     "text": "Urb. gr. 64"
+    }
+   ]
+  },
+  "43310": {
+   "digitized": [
+    {
+     "label": "Modena numérisation",
+     "url": "https://n2t.net/ark:/65666/v1/10808",
+     "text": "α.G.3.11 (gr. 211)"
+    }
+   ]
+  },
+  "44678": {
+   "digitized": []
+  },
+  "51803": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b107229723",
+     "text": "Grec 2174 [MF]"
+    }
+   ]
+  },
+  "14363": {
+   "digitized": []
+  },
+  "69679": {
+   "digitized": []
+  },
+  "69754": {
+   "digitized": []
+  },
+  "71049": {
+   "digitized": []
+  },
+  "64818": {
+   "digitized": [
+    {
+     "label": "Vatican numérisation",
+     "url": "https://digi.vatlib.it/view/MSS_Barb.gr.272",
+     "text": "Barb. gr. 272"
+    }
+   ]
+  },
+  "66117": {
+   "digitized": [
+    {
+     "label": "Vatican numérisation",
+     "url": "https://digi.vatlib.it/view/MSS_Pal.gr.385",
+     "text": "Pal. gr. 385"
+    }
+   ]
+  },
+  "66532": {
+   "digitized": [
+    {
+     "label": "Vatican numérisation",
+     "url": "https://digi.vatlib.it/view/MSS_Urb.gr.65",
+     "text": "Urb. gr. 65"
+    }
+   ]
+  },
+  "66938": {
+   "digitized": [
+    {
+     "label": "Vatican numérisation",
+     "url": "https://digi.vatlib.it/view/MSS_Vat.gr.307",
+     "text": "Vat. gr. 307"
+    }
+   ]
+  },
+  "16663": {
+   "digitized": []
+  },
+  "17018": {
+   "digitized": []
+  },
+  "17044": {
+   "digitized": []
+  },
+  "34125": {
+   "digitized": []
+  },
+  "39570": {
+   "digitized": []
+  },
+  "41070": {
+   "digitized": []
+  },
+  "42243": {
+   "digitized": []
+  },
+  "51510": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b10724057s",
+     "text": "Grec 1884 [MF]"
+    }
+   ]
+  },
+  "51797": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b10722303c",
+     "text": "Grec 2168 [MF]"
+    }
+   ]
+  },
+  "51887": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b10722614c",
+     "text": "Grec 2257 [MF]"
+    }
+   ]
+  },
+  "51896": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b52524719f",
+     "text": "Grec 2266 [Couleurs]"
+    },
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b107225877",
+     "text": "Grec 2266 [MF]"
+    }
+   ]
+  },
+  "51898": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b10722576c",
+     "text": "Grec 2268 [MF]"
+    }
+   ]
+  },
+  "15500": {
+   "digitized": [
+    {
+     "label": "RBME Digital",
+     "url": "https://rbme.patrimonionacional.es/s/rbme/item/16341",
+     "text": "Y. III. 17"
+    }
+   ]
+  },
+  "15180": {
+   "digitized": [
+    {
+     "label": "RBME Digital",
+     "url": "https://rbme.patrimonionacional.es/s/rbme/item/16046",
+     "text": "Φ. III. 7"
+    }
+   ]
+  },
+  "70498": {
+   "digitized": []
+  },
+  "69748": {
+   "digitized": []
+  },
+  "69749": {
+   "digitized": []
+  },
+  "67694": {
+   "digitized": []
+  },
+  "68487": {
+   "digitized": [
+    {
+     "label": "Vatican numérisation",
+     "url": "https://digi.vatlib.it/view/MSS_Vat.gr.1858",
+     "text": "Vat. gr. 1858"
+    }
+   ]
+  },
+  "71069": {
+   "digitized": []
+  },
+  "38369": {
+   "digitized": []
+  },
+  "64552": {
+   "digitized": [
+    {
+     "label": "Vatican numérisation",
+     "url": "https://digi.vatlib.it/view/MSS_Barb.gr.4",
+     "text": "Barb. gr. 004"
+    }
+   ]
+  },
+  "9426": {
+   "digitized": []
+  },
+  "66535": {
+   "digitized": [
+    {
+     "label": "Vatican numérisation",
+     "url": "https://digi.vatlib.it/view/MSS_Urb.gr.68",
+     "text": "Urb. gr. 68"
+    }
+   ]
+  },
+  "66909": {
+   "digitized": [
+    {
+     "label": "Vatican numérisation",
+     "url": "https://digi.vatlib.it/view/MSS_Vat.gr.278",
+     "text": "Vat. gr. 278"
+    }
+   ]
+  },
+  "23779": {
+   "digitized": []
+  },
+  "34173": {
+   "digitized": []
+  },
+  "37151": {
+   "digitized": []
+  },
+  "38188": {
+   "digitized": []
+  },
+  "44515": {
+   "digitized": []
+  },
+  "51769": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b11000302x",
+     "text": "Grec 2140 [MF]"
+    }
+   ]
+  },
+  "51770": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b10721650w",
+     "text": "Grec 2141 [MF]"
+    }
+   ]
+  },
+  "51771": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b100855050?rk=214593;2",
+     "text": "Grec 2142 [MF]"
+    }
+   ]
+  },
+  "51772": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b10721854f",
+     "text": "Grec 2143 [MF]"
+    }
+   ]
+  },
+  "51773": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b107232860",
+     "text": "Grec 2144 [MF]"
+    }
+   ]
+  },
+  "51774": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b107228127",
+     "text": "Grec 2145 [MF]"
+    }
+   ]
+  },
+  "51885": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b10723096n",
+     "text": "Grec 2255 [MF]"
+    }
+   ]
+  },
+  "69740": {
+   "digitized": [
+    {
+     "label": "Venezia, numérisation",
+     "url": "https://www.internetculturale.it/jmms/iccuviewer/iccu.jsp?id=oai%3A193.206.197.121%3A18%3AVE0049%3ACSTOR.240.9919&mode=all&teca=marciana",
+     "text": "gr. Z. 269"
+    }
+   ]
+  },
+  "53410": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b85951080",
+     "text": "Supplément grec 0675 [Couleurs]"
+    },
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b10864111b",
+     "text": "Supplément grec 0675 [MF]"
+    }
+   ]
+  },
+  "46482": {
+   "digitized": []
+  },
+  "51776": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b10723267m",
+     "text": "Grec 2147 [MF]"
+    }
+   ]
+  },
+  "64700": {
+   "digitized": [
+    {
+     "label": "Vatican numérisation",
+     "url": "https://digi.vatlib.it/view/MSS_Barb.gr.152",
+     "text": "Barb. gr. 152"
+    }
+   ]
+  },
+  "16657": {
+   "digitized": []
+  },
+  "51839": {
+   "digitized": []
+  },
+  "52015": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b10723866f",
+     "text": "Grec 2383 [MF]"
+    }
+   ]
+  },
+  "22343": {
+   "digitized": []
+  },
+  "11864": {
+   "digitized": []
+  },
+  "68887": {
+   "digitized": []
+  },
+  "16656": {
+   "digitized": []
+  },
+  "38018": {
+   "digitized": []
+  },
+  "42969": {
+   "digitized": []
+  },
+  "47492": {
+   "digitized": [
+    {
+     "label": "Oxford numérisation",
+     "url": "https://digital.bodleian.ox.ac.uk/inquire/p/9a09027b-4dff-4150-b03b-8bc28fc90b85",
+     "text": "Barocci 204"
+    }
+   ]
+  },
+  "48160": {
+   "digitized": []
+  },
+  "51494": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b11005113r?rk=686698;4",
+     "text": "Grec 1868 [MF]"
+    }
+   ]
+  },
+  "65924": {
+   "digitized": [
+    {
+     "label": "Vatican numérisation",
+     "url": "https://digi.vatlib.it/view/MSS_Pal.gr.192",
+     "text": "Pal. gr. 192"
+    }
+   ]
+  },
+  "66907": {
+   "digitized": [
+    {
+     "label": "Vatican numérisation",
+     "url": "https://digi.vatlib.it/view/MSS_Vat.gr.276",
+     "text": "Vat. gr. 276"
+    }
+   ]
+  },
+  "43339": {
+   "digitized": []
+  },
+  "51775": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b107231101",
+     "text": "Grec 2146 [MF]"
+    }
+   ]
+  },
+  "70502": {
+   "digitized": []
+  },
+  "1164": {
+   "digitized": []
+  },
+  "64559": {
+   "digitized": [
+    {
+     "label": "Vatican numérisation",
+     "url": "https://digi.vatlib.it/view/MSS_Barb.gr.11",
+     "text": "Barb. gr. 011"
+    }
+   ]
+  },
+  "65435": {
+   "digitized": [
+    {
+     "label": "Vatican numérisation",
+     "url": "https://digi.vatlib.it/view/MSS_Ott.gr.192.pt.1",
+     "text": "Ottob. gr. 192.1"
+    },
+    {
+     "label": "Vatican numérisation",
+     "url": "https://digi.vatlib.it/view/MSS_Ott.gr.192.pt.2",
+     "text": "Ottob. gr. 192.2"
+    }
+   ]
+  },
+  "66925": {
+   "digitized": [
+    {
+     "label": "Vatican numérisation",
+     "url": "https://digi.vatlib.it/view/MSS_Vat.gr.294",
+     "text": "Vat. gr. 294"
+    }
+   ]
+  },
+  "15966": {
+   "digitized": []
+  },
+  "16688": {
+   "digitized": []
+  },
+  "38009": {
+   "digitized": []
+  },
+  "38020": {
+   "digitized": []
+  },
+  "39691": {
+   "digitized": []
+  },
+  "39796": {
+   "digitized": []
+  },
+  "39934": {
+   "digitized": []
+  },
+  "39924": {
+   "digitized": []
+  },
+  "40114": {
+   "digitized": []
+  },
+  "40322": {
+   "digitized": []
+  },
+  "42168": {
+   "digitized": []
+  },
+  "43110": {
+   "digitized": []
+  },
+  "43144": {
+   "digitized": []
+  },
+  "43378": {
+   "digitized": []
+  },
+  "47363": {
+   "digitized": [
+    {
+     "label": "Oxford numérisation",
+     "url": "https://digital.bodleian.ox.ac.uk/inquire/p/70fdf809-56ca-419d-ac71-fd45bc54b105",
+     "text": "Barocci 76"
+    }
+   ]
+  },
+  "49597": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b10722829s",
+     "text": "Grec 0036 [MF]"
+    }
+   ]
+  },
+  "49969": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b10724338j",
+     "text": "Grec 0396 [MF]"
+    }
+   ]
+  },
+  "51858": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b10722912m",
+     "text": "Grec 2229 [MF]"
+    }
+   ]
+  },
+  "51961": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b10722591z",
+     "text": "Grec 2330 [MF]"
+    }
+   ]
+  },
+  "54811": {
+   "digitized": []
+  },
+  "15185": {
+   "digitized": [
+    {
+     "label": "RBME Digital",
+     "url": "https://rbme.patrimonionacional.es/s/rbme/item/16060",
+     "text": "Φ. III. 12"
+    }
+   ]
+  },
+  "57649": {
+   "digitized": []
+  },
+  "63901": {
+   "digitized": []
+  },
+  "63907": {
+   "digitized": []
+  },
+  "71007": {
+   "digitized": []
+  },
+  "71292": {
+   "digitized": []
+  },
+  "51884": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b10722140x",
+     "text": "Grec 2254 [MF]"
+    }
+   ]
+  },
+  "43407": {
+   "digitized": []
+  },
+  "44682": {
+   "digitized": []
+  },
+  "42426": {
+   "digitized": []
+  },
+  "43344": {
+   "digitized": []
+  },
+  "3772": {
+   "digitized": []
+  },
+  "978": {
+   "digitized": []
+  },
+  "1232": {
+   "digitized": []
+  },
+  "4262": {
+   "digitized": []
+  },
+  "8147": {
+   "digitized": []
+  },
+  "8353": {
+   "digitized": []
+  },
+  "10587": {
+   "digitized": []
+  },
+  "65392": {
+   "digitized": [
+    {
+     "label": "Vatican numérisation",
+     "url": "https://digi.vatlib.it/view/MSS_Ott.gr.150",
+     "text": "Ott. gr. 150"
+    }
+   ]
+  },
+  "65399": {
+   "digitized": [
+    {
+     "label": "Vatican numérisation",
+     "url": "https://digi.vatlib.it/view/MSS_Ott.gr.157.pt.A",
+     "text": "Ottob. gr. 157"
+    }
+   ]
+  },
+  "65400": {
+   "digitized": [
+    {
+     "label": "Vatican numérisation",
+     "url": "https://digi.vatlib.it/view/MSS_Ott.gr.157.pt.B",
+     "text": "Ottob. gr. 157b"
+    }
+   ]
+  },
+  "66351": {
+   "digitized": [
+    {
+     "label": "Vatican numérisation",
+     "url": "https://digi.vatlib.it/view/MSS_Reg.gr.182",
+     "text": "Reg. gr. 182"
+    }
+   ]
+  },
+  "66630": {
+   "digitized": []
+  },
+  "13222": {
+   "digitized": []
+  },
+  "16668": {
+   "digitized": []
+  },
+  "22428": {
+   "digitized": []
+  },
+  "22974": {
+   "digitized": []
+  },
+  "23787": {
+   "digitized": []
+  },
+  "28930": {
+   "digitized": []
+  },
+  "32651": {
+   "digitized": []
+  },
+  "35536": {
+   "digitized": [
+    {
+     "label": "Jérusalem, numérisation",
+     "url": "https://www.loc.gov/item/00279391846-jo",
+     "text": "00279391846-jo"
+    }
+   ]
+  },
+  "39289": {
+   "digitized": []
+  },
+  "42131": {
+   "digitized": []
+  },
+  "42845": {
+   "digitized": [
+    {
+     "label": "Ambrosiana biblioteca digitale",
+     "url": "https://ambrosiana.comperio.it/opac/detail/view/ambro:catalog:56850",
+     "text": "H 002 inf."
+    }
+   ]
+  },
+  "42943": {
+   "digitized": []
+  },
+  "43244": {
+   "digitized": []
+  },
+  "46055": {
+   "digitized": []
+  },
+  "48174": {
+   "digitized": []
+  },
+  "48178": {
+   "digitized": []
+  },
+  "50906": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b107229975",
+     "text": "Grec 1297 [MF]"
+    }
+   ]
+  },
+  "51778": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b107228072",
+     "text": "Grec 2149 [MF]"
+    }
+   ]
+  },
+  "51779": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b107230526",
+     "text": "Grec 2150 [MF]"
+    }
+   ]
+  },
+  "51888": {
+   "digitized": []
+  },
+  "51889": {
+   "digitized": []
+  },
+  "51949": {
+   "digitized": []
+  },
+  "52231": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b10722319g",
+     "text": "Grec 2596 [MF]"
+    }
+   ]
+  },
+  "54919": {
+   "digitized": []
+  },
+  "55987": {
+   "digitized": []
+  },
+  "15361": {
+   "digitized": [
+    {
+     "label": "RBME Digital",
+     "url": "https://rbme.patrimonionacional.es/s/rbme/item/15887",
+     "text": "Σ. II. 10"
+    }
+   ]
+  },
+  "60035": {
+   "digitized": []
+  },
+  "62250": {
+   "digitized": []
+  },
+  "69977": {
+   "digitized": []
+  },
+  "70797": {
+   "digitized": []
+  },
+  "79837": {
+   "digitized": []
+  },
+  "71056": {
+   "digitized": []
+  },
+  "71074": {
+   "digitized": []
+  },
+  "71293": {
+   "digitized": []
+  },
+  "72702": {
+   "digitized": []
+  },
+  "68869": {
+   "digitized": []
+  },
+  "51674": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b107223075",
+     "text": "Grec 2047 [MF]"
+    }
+   ]
+  },
+  "53343": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b11000114g",
+     "text": "Supplément grec 0608 [MF]"
+    }
+   ]
+  },
+  "71333": {
+   "digitized": []
+  },
+  "15684": {
+   "digitized": []
+  },
+  "64320": {
+   "digitized": []
+  },
+  "81000": {
+   "digitized": []
+  },
+  "12221": {
+   "digitized": []
+  },
+  "67907": {
+   "digitized": [
+    {
+     "label": "Vatican numérisation",
+     "url": "https://digi.vatlib.it/view/MSS_Vat.gr.1276",
+     "text": "Vat. gr. 1276"
+    }
+   ]
+  },
+  "21947": {
+   "digitized": []
+  },
+  "51947": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b10722915z",
+     "text": "Grec 2317 [MF]"
+    }
+   ]
+  },
+  "69804": {
+   "digitized": [
+    {
+     "label": "Venezia, numérisation",
+     "url": "https://www.internetculturale.it/jmms/iccuviewer/iccu.jsp?id=oai%3A193.206.197.121%3A18%3AVE0049%3ACSTOR.240.9990&mode=all&teca=marciana",
+     "text": "gr. Z. 333"
+    }
+   ]
+  },
+  "9753": {
+   "digitized": []
+  },
+  "12972": {
+   "digitized": []
+  },
+  "66151": {
+   "digitized": []
+  },
+  "66743": {
+   "digitized": [
+    {
+     "label": "Vatican numérisation",
+     "url": "https://digi.vatlib.it/view/MSS_Vat.gr.112",
+     "text": "Vat. gr. 112"
+    }
+   ]
+  },
+  "67940": {
+   "digitized": [
+    {
+     "label": "Vatican numérisation",
+     "url": "https://digi.vatlib.it/view/MSS_Vat.gr.1309.pt.1",
+     "text": "Vat. gr. 1309 pt. 1"
+    },
+    {
+     "label": "Vatican numérisation",
+     "url": "https://digi.vatlib.it/view/MSS_Vat.gr.1309.pt.2",
+     "text": "Vat. gr. 1309 pt. 2"
+    }
+   ]
+  },
+  "67984": {
+   "digitized": [
+    {
+     "label": "Vatican numérisation",
+     "url": "https://digi.vatlib.it/view/MSS_Vat.gr.1353",
+     "text": "Vat. gr. 1353"
+    }
+   ]
+  },
+  "67985": {
+   "digitized": []
+  },
+  "68092": {
+   "digitized": []
+  },
+  "68098": {
+   "digitized": [
+    {
+     "label": "Vatican numérisation",
+     "url": "https://digi.vatlib.it/view/MSS_Vat.gr.1467",
+     "text": "Vat. gr. 1467"
+    }
+   ]
+  },
+  "15861": {
+   "digitized": []
+  },
+  "16381": {
+   "digitized": []
+  },
+  "16414": {
+   "digitized": []
+  },
+  "16456": {
+   "digitized": []
+  },
+  "16478": {
+   "digitized": []
+  },
+  "16502": {
+   "digitized": []
+  },
+  "32479": {
+   "digitized": []
+  },
+  "38145": {
+   "digitized": []
+  },
+  "39595": {
+   "digitized": []
+  },
+  "39696": {
+   "digitized": []
+  },
+  "40037": {
+   "digitized": []
+  },
+  "41342": {
+   "digitized": []
+  },
+  "43333": {
+   "digitized": []
+  },
+  "43470": {
+   "digitized": []
+  },
+  "44565": {
+   "digitized": []
+  },
+  "44938": {
+   "digitized": []
+  },
+  "46198": {
+   "digitized": []
+  },
+  "46233": {
+   "digitized": []
+  },
+  "46234": {
+   "digitized": []
+  },
+  "47158": {
+   "digitized": []
+  },
+  "47337": {
+   "digitized": [
+    {
+     "label": "Oxford numérisation",
+     "url": "https://digital.bodleian.ox.ac.uk/inquire/p/1f1ffc7d-548f-4b1e-b45a-d03dad6e3187",
+     "text": "Barocci 51"
+    }
+   ]
+  },
+  "49123": {
+   "digitized": []
+  },
+  "50936": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b107218960",
+     "text": "Grec 1327 [MF]"
+    }
+   ]
+  },
+  "51386": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b107219914",
+     "text": "Grec 1760 [MF]"
+    }
+   ]
+  },
+  "52287": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b10723017s",
+     "text": "Grec 2652 [MF]"
+    }
+   ]
+  },
+  "52391": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b10722452c",
+     "text": "Grec 2755 [MF]"
+    }
+   ]
+  },
+  "52692": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b8528577m",
+     "text": "Grec 3047 [Couleurs]"
+    },
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b10077270w",
+     "text": "Grec 3047 [MF]"
+    }
+   ]
+  },
+  "52695": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b10722380b",
+     "text": "Grec 3050 [MF]"
+    }
+   ]
+  },
+  "52697": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b10723558s",
+     "text": "Grec 3052 [MF]"
+    }
+   ]
+  },
+  "52975": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b11000162n",
+     "text": "Supplément grec 0205 [MF]"
+    }
+   ]
+  },
+  "14330": {
+   "digitized": []
+  },
+  "14913": {
+   "digitized": []
+  },
+  "58007": {
+   "digitized": []
+  },
+  "63912": {
+   "digitized": []
+  },
+  "70080": {
+   "digitized": []
+  },
+  "71196": {
+   "digitized": []
+  },
+  "71643": {
+   "digitized": []
+  },
+  "72038": {
+   "digitized": []
+  },
+  "1135": {
+   "digitized": []
+  },
+  "47504": {
+   "digitized": [
+    {
+     "label": "Oxford numérisation",
+     "url": "https://digital.bodleian.ox.ac.uk/inquire/p/9c699e09-64cf-45d5-acea-07bdeaec39fa",
+     "text": "Barocci 216"
+    }
+   ]
+  },
+  "71029": {
+   "digitized": []
+  },
+  "38019": {
+   "digitized": []
+  },
+  "71072": {
+   "digitized": []
+  },
+  "40755": {
+   "digitized": []
+  },
+  "20594": {
+   "digitized": []
+  },
+  "15552": {
+   "digitized": [
+    {
+     "label": "RBME Digital",
+     "url": "https://rbme.patrimonionacional.es/s/rbme/item/16462",
+     "text": "y. III. 16"
+    }
+   ]
+  },
+  "47437": {
+   "digitized": [
+    {
+     "label": "Oxford numérisation",
+     "url": "https://digital.bodleian.ox.ac.uk/inquire/p/c9707c87-9aa4-4d65-b103-cc261ae68e9e",
+     "text": "Barocci 150"
+    }
+   ]
+  },
+  "16328": {
+   "digitized": []
+  },
+  "9167": {
+   "digitized": []
+  },
+  "39341": {
+   "digitized": []
+  },
+  "52040": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b10076495c",
+     "text": "Grec 2408 [MF]"
+    }
+   ]
+  },
+  "52268": {
+   "digitized": []
+  },
+  "53397": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b11004837p?rk=257512;0",
+     "text": "Supplément grec 0662 [MF]"
+    }
+   ]
+  },
+  "1139": {
+   "digitized": []
+  },
+  "6701": {
+   "digitized": []
+  },
+  "6754": {
+   "digitized": []
+  },
+  "6962": {
+   "digitized": []
+  },
+  "9379": {
+   "digitized": []
+  },
+  "9896": {
+   "digitized": []
+  },
+  "65387": {
+   "digitized": [
+    {
+     "label": "Vatican numérisation",
+     "url": "https://digi.vatlib.it/view/MSS_Ott.gr.145",
+     "text": "Ottob. gr. 145"
+    }
+   ]
+  },
+  "67119": {
+   "digitized": []
+  },
+  "68324": {
+   "digitized": []
+  },
+  "13274": {
+   "digitized": []
+  },
+  "15666": {
+   "digitized": []
+  },
+  "16787": {
+   "digitized": []
+  },
+  "16806": {
+   "digitized": []
+  },
+  "22401": {
+   "digitized": []
+  },
+  "28783": {
+   "digitized": []
+  },
+  "33436": {
+   "digitized": []
+  },
+  "33612": {
+   "digitized": []
+  },
+  "35702": {
+   "digitized": []
+  },
+  "35743": {
+   "digitized": []
+  },
+  "35981": {
+   "digitized": [
+    {
+     "label": "Jérusalem, numérisation",
+     "url": "https://www.loc.gov/item/00279396352-jo",
+     "text": "00279396352-jo"
+    }
+   ]
+  },
+  "37288": {
+   "digitized": []
+  },
+  "37899": {
+   "digitized": []
+  },
+  "38088": {
+   "digitized": []
+  },
+  "43988": {
+   "digitized": []
+  },
+  "46046": {
+   "digitized": []
+  },
+  "46578": {
+   "digitized": [
+    {
+     "label": "Archive.org Digital Library",
+     "url": "https://archive.org/details/4725697.med.yale.edu/page/n3",
+     "text": "New Haven, Yale Med. Libr., 33"
+    }
+   ]
+  },
+  "48397": {
+   "digitized": []
+  },
+  "49525": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b110046406?rk=944210;4",
+     "text": "Coislin 384 [MF]"
+    }
+   ]
+  },
+  "50591": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b10721705f",
+     "text": "Grec 1000 [MF]"
+    }
+   ]
+  },
+  "51854": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b10723148v",
+     "text": "Grec 2225 [MF]"
+    }
+   ]
+  },
+  "51855": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b52524719f",
+     "text": "Grec 2226 [Couleurs]"
+    }
+   ]
+  },
+  "51856": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b10722808h",
+     "text": "Grec 2227 [MF]"
+    }
+   ]
+  },
+  "51929": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b10722142t",
+     "text": "Grec 2299 [MF]"
+    }
+   ]
+  },
+  "51930": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b10722617q",
+     "text": "Grec 2300 [MF]"
+    }
+   ]
+  },
+  "52126": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b10722213d",
+     "text": "Grec 2494 [MF]"
+    }
+   ]
+  },
+  "52820": {
+   "digitized": []
+  },
+  "52854": {
+   "digitized": []
+  },
+  "15521": {
+   "digitized": [
+    {
+     "label": "RBME Digital",
+     "url": "https://rbme.patrimonionacional.es/s/rbme/item/16391",
+     "text": "y. I. 15"
+    }
+   ]
+  },
+  "14470": {
+   "digitized": []
+  },
+  "15142": {
+   "digitized": [
+    {
+     "label": "RBME Digital",
+     "url": "https://rbme.patrimonionacional.es/s/rbme/item/15963",
+     "text": "Φ. I. 10"
+    }
+   ]
+  },
+  "63788": {
+   "digitized": []
+  },
+  "64443": {
+   "digitized": []
+  },
+  "70770": {
+   "digitized": []
+  },
+  "71070": {
+   "digitized": []
+  },
+  "9106": {
+   "digitized": []
+  },
+  "11901": {
+   "digitized": []
+  },
+  "65371": {
+   "digitized": [
+    {
+     "label": "Vatican numérisation",
+     "url": "https://digi.vatlib.it/view/MSS_Ott.gr.129",
+     "text": "Ottob. gr. 129"
+    }
+   ]
+  },
+  "66919": {
+   "digitized": []
+  },
+  "68514": {
+   "digitized": [
+    {
+     "label": "Vatican numérisation",
+     "url": "https://digi.vatlib.it/view/MSS_Vat.gr.1885",
+     "text": "Vat. gr. 1885"
+    }
+   ]
+  },
+  "32477": {
+   "digitized": []
+  },
+  "39358": {
+   "digitized": []
+  },
+  "39930": {
+   "digitized": []
+  },
+  "46325": {
+   "digitized": []
+  },
+  "49113": {
+   "digitized": []
+  },
+  "51818": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b10723677j",
+     "text": "Grec 2189 [MF]"
+    }
+   ]
+  },
+  "51819": {
+   "digitized": []
+  },
+  "51891": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b520009458",
+     "text": "Grec 2261 [Couleurs]"
+    }
+   ]
+  },
+  "51892": {
+   "digitized": []
+  },
+  "51893": {
+   "digitized": []
+  },
+  "51952": {
+   "digitized": []
+  },
+  "56828": {
+   "digitized": []
+  },
+  "66918": {
+   "digitized": []
+  },
+  "16670": {
+   "digitized": []
+  },
+  "23913": {
+   "digitized": []
+  },
+  "42524": {
+   "digitized": []
+  },
+  "43812": {
+   "digitized": []
+  },
+  "44141": {
+   "digitized": []
+  },
+  "49115": {
+   "digitized": []
+  },
+  "51817": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b10723693k",
+     "text": "Grec 2188 [MF]"
+    }
+   ]
+  },
+  "51837": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b10722583f",
+     "text": "Grec 2208 [MF]"
+    }
+   ]
+  },
+  "51846": {
+   "digitized": []
+  },
+  "52744": {
+   "digitized": []
+  },
+  "56488": {
+   "digitized": []
+  },
+  "69765": {
+   "digitized": []
+  },
+  "71067": {
+   "digitized": []
+  },
+  "9469": {
+   "digitized": []
+  },
+  "9483": {
+   "digitized": []
+  },
+  "11752": {
+   "digitized": []
+  },
+  "12226": {
+   "digitized": []
+  },
+  "43813": {
+   "digitized": []
+  },
+  "51966": {
+   "digitized": []
+  },
+  "16707": {
+   "digitized": []
+  },
+  "51925": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b107226630",
+     "text": "Grec 2295 [MF]"
+    }
+   ]
+  },
+  "51847": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b52501940r",
+     "text": "Grec 2218 [Couleurs]"
+    }
+   ]
+  },
+  "80065": {
+   "digitized": []
+  },
+  "66345": {
+   "digitized": [
+    {
+     "label": "Vatican numérisation",
+     "url": "https://digi.vatlib.it/view/MSS_Reg.gr.176",
+     "text": "Reg. gr. 176"
+    }
+   ]
+  },
+  "1484": {
+   "digitized": []
+  },
+  "10033": {
+   "digitized": []
+  },
+  "65395": {
+   "digitized": [
+    {
+     "label": "Vatican numérisation",
+     "url": "https://digi.vatlib.it/view/MSS_Ott.gr.153",
+     "text": "Ottob. gr. 153"
+    }
+   ]
+  },
+  "66926": {
+   "digitized": []
+  },
+  "66927": {
+   "digitized": []
+  },
+  "16676": {
+   "digitized": []
+  },
+  "16679": {
+   "digitized": []
+  },
+  "16681": {
+   "digitized": []
+  },
+  "16682": {
+   "digitized": []
+  },
+  "16684": {
+   "digitized": []
+  },
+  "16991": {
+   "digitized": []
+  },
+  "18765": {
+   "digitized": []
+  },
+  "27262": {
+   "digitized": []
+  },
+  "28750": {
+   "digitized": []
+  },
+  "28751": {
+   "digitized": []
+  },
+  "28928": {
+   "digitized": []
+  },
+  "28935": {
+   "digitized": []
+  },
+  "38032": {
+   "digitized": []
+  },
+  "39928": {
+   "digitized": []
+  },
+  "40061": {
+   "digitized": []
+  },
+  "40111": {
+   "digitized": []
+  },
+  "40663": {
+   "digitized": []
+  },
+  "42363": {
+   "digitized": []
+  },
+  "43645": {
+   "digitized": []
+  },
+  "43799": {
+   "digitized": []
+  },
+  "44523": {
+   "digitized": []
+  },
+  "44745": {
+   "digitized": []
+  },
+  "44959": {
+   "digitized": []
+  },
+  "46327": {
+   "digitized": []
+  },
+  "49150": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b11004841d?rk=3605168;0",
+     "text": "Coislin 008 [MF]"
+    }
+   ]
+  },
+  "49267": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b10037614g",
+     "text": "Coislin 123 [MF]"
+    }
+   ]
+  },
+  "49307": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b10853993x",
+     "text": "Coislin 168 [Couleurs]"
+    },
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b100380205?rk=622320;4",
+     "text": "Coislin 168 [MF]"
+    }
+   ]
+  },
+  "49476": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b11004104f?rk=579402;0",
+     "text": "Coislin 335 [MF]"
+    }
+   ]
+  },
+  "51834": {
+   "digitized": []
+  },
+  "51835": {
+   "digitized": []
+  },
+  "51838": {
+   "digitized": []
+  },
+  "51840": {
+   "digitized": []
+  },
+  "51841": {
+   "digitized": []
+  },
+  "51842": {
+   "digitized": []
+  },
+  "51843": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b107233458",
+     "text": "Grec 2214 [MF]"
+    }
+   ]
+  },
+  "51844": {
+   "digitized": []
+  },
+  "51845": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b107234429",
+     "text": "Grec 2216 [MF]"
+    }
+   ]
+  },
+  "51922": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b107226291",
+     "text": "Grec 2292 [MF]"
+    }
+   ]
+  },
+  "51923": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b10723715j",
+     "text": "Grec 2293 [MF]"
+    }
+   ]
+  },
+  "53093": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b110052369?rk=193134;0",
+     "text": "Supplément grec 0338 [MF]"
+    }
+   ]
+  },
+  "53238": {
+   "digitized": []
+  },
+  "53608": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b11004877b?rk=3862680;0",
+     "text": "Supplément grec 0924 [MF]"
+    }
+   ]
+  },
+  "53834": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b11004869t?rk=128756;0",
+     "text": "Supplément grec 1156 [MF]"
+    }
+   ]
+  },
+  "53948": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b110048797?rk=4334785;2",
+     "text": "Supplément grec 1284 [MF]"
+    }
+   ]
+  },
+  "54452": {
+   "digitized": []
+  },
+  "73152": {
+   "digitized": []
+  },
+  "55642": {
+   "digitized": []
+  },
+  "56445": {
+   "digitized": []
+  },
+  "14488": {
+   "digitized": []
+  },
+  "77484": {
+   "digitized": []
+  },
+  "64421": {
+   "digitized": []
+  },
+  "70489": {
+   "digitized": []
+  },
+  "69763": {
+   "digitized": []
+  },
+  "69764": {
+   "digitized": []
+  },
+  "53534": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b11004486s?rk=171674;4",
+     "text": "Supplément grec 0836 [MF]"
+    }
+   ]
+  },
+  "71035": {
+   "digitized": []
+  },
+  "9437": {
+   "digitized": []
+  },
+  "64639": {
+   "digitized": [
+    {
+     "label": "Vatican numérisation",
+     "url": "https://digi.vatlib.it/view/MSS_Barb.gr.91",
+     "text": "Barb. gr. 091"
+    }
+   ]
+  },
+  "66922": {
+   "digitized": []
+  },
+  "38116": {
+   "digitized": []
+  },
+  "48280": {
+   "digitized": []
+  },
+  "51962": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b107226168",
+     "text": "Grec 2331 [MF]"
+    }
+   ]
+  },
+  "51781": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b10722550v",
+     "text": "Grec 2152 [MF]"
+    }
+   ]
+  },
+  "9563": {
+   "digitized": []
+  },
+  "64824": {
+   "digitized": [
+    {
+     "label": "Vatican numérisation",
+     "url": "https://digi.vatlib.it/view/MSS_Barb.gr.278",
+     "text": "Barb. gr. 278"
+    }
+   ]
+  },
+  "66669": {
+   "digitized": [
+    {
+     "label": "Vatican numérisation",
+     "url": "https://digi.vatlib.it/view/MSS_Vat.gr.38",
+     "text": "Vat. gr. 38"
+    }
+   ]
+  },
+  "42853": {
+   "digitized": [
+    {
+     "label": "Ambrosiana biblioteca digitale",
+     "url": "https://ambrosiana.comperio.it/opac/detail/view/ambro:catalog:75257",
+     "text": "H 022 sup."
+    }
+   ]
+  },
+  "43236": {
+   "digitized": []
+  },
+  "51894": {
+   "digitized": []
+  },
+  "68508": {
+   "digitized": [
+    {
+     "label": "Vatican numérisation",
+     "url": "https://digi.vatlib.it/view/MSS_Vat.gr.1879",
+     "text": "Vat. gr. 1879"
+    }
+   ]
+  },
+  "53423": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b11004949c?rk=1781124;4",
+     "text": "Supplément grec 0688 [MF]"
+    }
+   ]
+  },
+  "37098": {
+   "digitized": []
+  },
+  "38193": {
+   "digitized": []
+  },
+  "9646": {
+   "digitized": []
+  },
+  "68784": {
+   "digitized": []
+  },
+  "43251": {
+   "digitized": [
+    {
+     "label": "Ambrosiana biblioteca digitale",
+     "url": "https://ambrosiana.comperio.it/opac/detail/view/ambro:catalog:8929",
+     "text": "Trotti 373"
+    }
+   ]
+  },
+  "46583": {
+   "digitized": [
+    {
+     "label": "Archive.org Digital Library",
+     "url": "https://archive.org/details/4881281.med.yale.edu/page/n3",
+     "text": "New Haven, Yale Med. Libr., 50"
+    }
+   ]
+  },
+  "51926": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b10722897s",
+     "text": "Grec 2296 [MF]"
+    }
+   ]
+  },
+  "43208": {
+   "digitized": []
+  },
+  "51851": {
+   "digitized": []
+  },
+  "51852": {
+   "digitized": [
+    {
+     "label": "Gallica numérisation",
+     "url": "https://gallica.bnf.fr/ark:/12148/btv1b10722613x",
+     "text": "Grec 2223 [MF]"
+    }
+   ]
+  },
+  "80544": {
+   "digitized": []
   }
  }
 }

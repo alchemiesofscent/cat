@@ -91,12 +91,15 @@ Not listed by Pinakes or MediManus for this work. Papyri and Latin manuscripts a
 | oribasius-002 Collectiones Medicae (libri incerti) | Paris: Par. gr. 2237, f. 163–203 |  |
 | stephanus-atheniensis-philosophus-003 In Hippocratis aphorismos commentaria | Paris: Par. gr. 447, f. 1–21 | Grec 2222, f. 001-69; Grec 2223, f. 001-158v*; Supplément grec 0447, f. 001-21 |
 
-## Links that open a different manuscript (3 of 194 checkable links)
+## Links that open a different manuscript (6 of 675 checkable links)
 
 The link's manuscript is known from the URL itself (Vatican, British Library, Heidelberg) or because Pinakes links the same digitization to a shelfmark (Gallica, ONB, e-codices, BSB, Teca). Shelfmarks corrected above are shown as read from the catalogue.
 
 | Work | Catalogue | Link opens | Evidence |
 |---|---|---|---|
+| alexander-trallianus-001 De febribus | Par. gr. 2718, f. 11v–41v | [paris 2178](https://gallica.bnf.fr/ark:/12148/btv1b107225608/f16.item) | Pinakes (Grec 2178) |
 | aretaeus-cappadox-001 De causis et signis acutorum morborum libri II | Harley 6236, f. 8–118 | [london harley 6326](http://www.bl.uk/manuscripts/Viewer.aspx?ref=harley_ms_6326_f008r) | the URL |
 | aretaeus-cappadox-003 De curatione acutorum morborum libri II | Harley 6236, f. 118–183v | [london harley 6326](http://www.bl.uk/manuscripts/Viewer.aspx?ref=harley_ms_6326_f118r) | the URL |
 | aretaeus-cappadox-004 De curatione diuturnorum morborum libri II | Harley 6236, f. 2–7ν and fol. 183v–212 | [london harley 6326](http://www.bl.uk/manuscripts/Viewer.aspx?ref=harley_ms_6326_f002r) | the URL |
+| galenus-006 Ars medica | Par. gr. 2161, f. 1–24v | [paris 2163](https://gallica.bnf.fr/ark:/12148/btv1b107232737) | Pinakes (Grec 2163) |
+| galenus-077 In Hippocratis Prorrheticum I commentaria | Par. gr. 2186, f. 172–232v | [paris 2168](https://gallica.bnf.fr/ark:/12148/btv1b10722303c/f175.item) | Pinakes (Grec 2168) |
