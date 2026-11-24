@@ -21,9 +21,9 @@ jobs:
           python3 scripts/build.py
       - name: Commit if the data changed
         run: |
-          if git diff --quiet -I '"retrieved"' -- data/medimanus.json; then echo "no change"; exit 0; fi
+          if git diff --quiet -I '"retrieved"' -- data/medimanus.json data/graeco_arabic.json; then echo "no change"; exit 0; fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/medimanus.json docs
+          git add data/medimanus.json data/graeco_arabic.json docs
           git commit -m "Refresh MediManus data ($(head -1 refresh.log))"
           git push
