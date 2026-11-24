@@ -291,6 +291,49 @@ def latest_werke():
     return sorted(files)
 
 
+def apply_corrections(authors):
+    """Apply data/corrections.json; write CORRECTIONS.md listing every change."""
+    cfile = OUT.parent / "corrections.json"
+    C = json.loads(cfile.read_text())
+    log, used = [], set()
+    for a in authors:
+        for w in a["works"]:
+            for m in w["mss"]:
+                before = dict(m)
+                reasons = []
+                for i, f in enumerate(C["fixes"]):
+                    q = f["match"]
+                    if q["work"] == w["id"] and q["shelfmark"] == m["shelfmark"] and \
+                            q.get("folios", m["folios"]) == m["folios"]:
+                        m.update(f["set"])
+                        reasons.append(f["reason"])
+                        used.add(i)
+                if m["city"] in C["city_rules"]:
+                    m["city"] = C["city_rules"][m["city"]]
+                    reasons.append("city name")
+                for pat, rep, why in C["shelfmark_rules"]:
+                    new = re.sub(pat, rep, m["shelfmark"])
+                    if new != m["shelfmark"]:
+                        m["shelfmark"] = new
+                        reasons.append(why)
+                if reasons:
+                    m["corrected"] = "; ".join(reasons)
+                    log.append((w, before, m))
+    missing = [C["fixes"][i]["match"] for i in range(len(C["fixes"])) if i not in used]
+    if missing:
+        raise SystemExit(f"corrections did not match: {missing}")
+    lines = ["# Corrections to the source tables", "",
+             "Applied automatically by `scripts/extract.py` from `data/corrections.json`. "
+             "The original Word/Excel files are unchanged; copy these back if you maintain them.", "",
+             "| Work | Before | After | Why |", "|---|---|---|---|"]
+    fmt = lambda m: f"{m['city']}: {m['shelfmark']}, {m['folios']}".replace("|", "/")
+    for w, b, m in log:
+        why = m["corrected"] + (" (link changed)" if b["url"] != m["url"] else "")
+        lines.append(f"| {w['id']} {w['title_lat']} | {fmt(b)} | {fmt(m)} | {why} |")
+    (OUT.parent.parent / "CORRECTIONS.md").write_text("\n".join(lines) + "\n")
+    print(f"corrections: {len(log)} witnesses changed")
+
+
 def main():
     authors = []
     report = []
@@ -318,6 +361,7 @@ def main():
     authors.sort(key=lambda a: a["name"].lower())
 
     OUT.parent.mkdir(exist_ok=True)
+    apply_corrections(authors)
     OUT.write_text(json.dumps({"authors": authors}, ensure_ascii=False, indent=1))
     for row in sorted(report):
         print(f"{row[0][:45]:45} works {row[1]:4}  mss {row[2]:5}  linked {row[3]:5}")

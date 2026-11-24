@@ -1016,11 +1016,12 @@
      "mss": [
       {
        "city": "Paris",
-       "shelfmark": "Par. suppl. gr. 36",
+       "shelfmark": "Par. Suppl. gr. 36",
        "folios": "21–82",
        "start": "21",
        "url": "https://gallica.bnf.fr/ark:/12148/btv1b11004190c/f22.image",
-       "raw": "Par. suppl. gr. 36, fol. 21--82"
+       "raw": "Par. suppl. gr. 36, fol. 21--82",
+       "corrected": "Par. Suppl. gr. spelling"
       }
      ],
      "date": "",
@@ -2677,11 +2678,12 @@
       },
       {
        "city": "Venedig",
-       "shelfmark": "Marc. gr. Z",
+       "shelfmark": "Marc. gr. Z. 257 (=622)",
        "folios": "49v–56v",
        "start": "49v",
        "url": "http://www.internetculturale.it/jmms/iccuviewer/iccu.jsp?id=oai:193.206.197.121:18:VE0049:CSTOR.240.9902&teca=marciana&viewType=onepage&mediaType=image&objectIndex=108",
-       "raw": "Marc. gr. Z, fol. 49v--56v"
+       "raw": "Marc. gr. Z, fol. 49v--56v",
+       "corrected": "Shelfmark number missing. The link is Marciana CSTOR.240.9902 = Gr. Z. 257 (=622)."
       }
      ],
      "date": "",
@@ -3248,11 +3250,12 @@
      "mss": [
       {
        "city": "Florenz",
-       "shelfmark": "Laur. Plut. 74.23.",
+       "shelfmark": "Laur. Plut. 74.23",
        "folios": "21–185",
        "start": "21",
        "url": "http://mss.bmlonline.it/s.aspx?Id=AWOMMm8dI1A4r7GxMRLO$/oro/59",
-       "raw": "Laur. Plut. 74.23. fol. 21--185"
+       "raw": "Laur. Plut. 74.23. fol. 21--185",
+       "corrected": "trailing full stop"
       },
       {
        "city": "Paris",
@@ -3753,12 +3756,13 @@
        "raw": "Laur. Plut. 74.20, fol. 5--91v"
       },
       {
-       "city": "Paris",
-       "shelfmark": "Par. gr. 2337",
+       "city": "München",
+       "shelfmark": "Monac. gr. 389",
        "folios": "4–61",
        "start": "4",
        "url": "http://daten.digitale-sammlungen.de/bsb00109077/image_13",
-       "raw": "Par. gr. 2337, fol. 4--61"
+       "raw": "Par. gr. 2337, fol. 4--61",
+       "corrected": "Shelfmark does not match the link. bsb00109077 is BSB Cod.graec. 389 (Dioscorides, De simplicibus). Check whether Par. gr. 2337 is a separate witness."
       }
      ],
      "date": "",
@@ -6906,19 +6910,21 @@
      "mss": [
       {
        "city": "München",
-       "shelfmark": "Mon. gr. 39",
+       "shelfmark": "Monac. gr. 39",
        "folios": "121v–130v",
        "start": "121v",
        "url": "https://daten.digitale-sammlungen.de/bsb00069246/image_246",
-       "raw": "Mon. gr. 39, fol. 121v–130v"
+       "raw": "Mon. gr. 39, fol. 121v–130v",
+       "corrected": "Monac. gr. spelling"
       },
       {
        "city": "München",
-       "shelfmark": "Mon. gr. 551",
+       "shelfmark": "Monac. gr. 551",
        "folios": "296–334",
        "start": "296",
        "url": "https://daten.digitale-sammlungen.de/bsb00077176/image_620",
-       "raw": "Mon. gr. 551, fol. 296–334"
+       "raw": "Mon. gr. 551, fol. 296–334",
+       "corrected": "Monac. gr. spelling"
       },
       {
        "city": "New Haven",
@@ -8566,10 +8572,11 @@
       {
        "city": "Modena",
        "shelfmark": "Estense universitaria alpha,P,05,20",
-       "folios": "73v–68",
+       "folios": "73v–?",
        "start": "73v",
        "url": "https://edl.beniculturali.it/beu/850010869",
-       "raw": "Estense universitaria alpha,P,05,20, fol. 73v–68"
+       "raw": "Estense universitaria alpha,P,05,20, fol. 73v–68",
+       "corrected": "End folio precedes start (73v–68). The correct end folio is unknown; needs checking against the manuscript."
       },
       {
        "city": "New Haven",
@@ -9716,11 +9723,12 @@
       },
       {
        "city": "München",
-       "shelfmark": "Mon. gr. 384",
+       "shelfmark": "Monac. gr. 384",
        "folios": "21–22",
        "start": "21",
        "url": "https://daten.digitale-sammlungen.de/bsb00069139/image_51",
-       "raw": "Mon. gr. 384, 21–22"
+       "raw": "Mon. gr. 384, 21–22",
+       "corrected": "Monac. gr. spelling"
       },
       {
        "city": "London",
@@ -9772,11 +9780,12 @@
       },
       {
        "city": "Vatikanstadt",
-       "shelfmark": "Vat. Barb. Gr. 221",
+       "shelfmark": "Vat. Barb. gr. 221",
        "folios": "1–55",
        "start": "1",
        "url": "https://digi.vatlib.it/view/MSS_Barb.gr.221/0007",
-       "raw": "Vat. Barb. Gr. 221, fol. 1–55"
+       "raw": "Vat. Barb. Gr. 221, fol. 1–55",
+       "corrected": "Vat. Barb. gr. spelling"
       },
       {
        "city": "Vatikanstadt",
@@ -10641,11 +10650,12 @@
       },
       {
        "city": "Wien",
-       "shelfmark": "Vind. med. gr. 105v–106",
-       "folios": "",
-       "start": "",
+       "shelfmark": "Vind. med. gr. 15",
+       "folios": "105v–106",
+       "start": "105v",
        "url": "https://digital.onb.ac.at/RepViewer/viewer.faces?doc=DTL_5691714&order=220&view=SINGLE",
-       "raw": "Vind. med. gr. 105v–106"
+       "raw": "Vind. med. gr. 105v–106",
+       "corrected": "Shelfmark number missing. The link is ONB DTL_5691714 (Cod. med. gr. 15), image 220 = fol. 105v."
       }
      ],
      "refs": {
@@ -10952,11 +10962,12 @@
       },
       {
        "city": "Wien",
-       "shelfmark": "Vind. gr. 15",
+       "shelfmark": "Vind. med. gr. 15",
        "folios": "100v–101, 107–112",
        "start": "100v",
        "url": "https://digital.onb.ac.at/RepViewer/viewer.faces?doc=DTL_5691714&order=210&view=SINGLE",
-       "raw": "Vind. gr. 15, fol. 100v–101, 107–112"
+       "raw": "Vind. gr. 15, fol. 100v–101, 107–112",
+       "corrected": "Vind. med. gr. 15 (link is ONB DTL_5691714 = Cod. med. gr. 15)"
       },
       {
        "city": "Wien",
@@ -11090,19 +11101,21 @@
       },
       {
        "city": "Vatikanstadt",
-       "shelfmark": "Vat. Pal. gr. 103v–308",
-       "folios": "",
-       "start": "",
+       "shelfmark": "Vat. Pal. gr. 54",
+       "folios": "103v–308",
+       "start": "103v",
        "url": "https://digi.ub.uni-heidelberg.de/diglit/bav_pal_gr_54/0213",
-       "raw": "Vat. Pal. gr. 103v–308"
+       "raw": "Vat. Pal. gr. 103v–308",
+       "corrected": "Shelfmark number missing. The link is Heidelberg bav_pal_gr_54."
       },
       {
        "city": "Vatikanstadt",
-       "shelfmark": "Vat. Urb. gr. 53–186v",
-       "folios": "",
-       "start": "",
+       "shelfmark": "Vat. Urb. gr. 67",
+       "folios": "53–186v",
+       "start": "53",
        "url": "https://digi.vatlib.it/view/MSS_Urb.gr.67/0110",
-       "raw": "Vat. Urb. gr. 53–186v"
+       "raw": "Vat. Urb. gr. 53–186v",
+       "corrected": "Shelfmark number missing. The link is MSS_Urb.gr.67."
       },
       {
        "city": "Wien",
@@ -11433,8 +11446,9 @@
        "shelfmark": "Vind. med. gr. 15",
        "folios": "137rv",
        "start": "137rv",
-       "url": "http://digital.onb.ac.at/RepViewer/viewer.faces?doc=DTL_5691714&order=1&view=SINGLE",
-       "raw": "Vind. med. gr. 15, fol. 137rv"
+       "url": "https://digital.onb.ac.at/RepViewer/viewer.faces?doc=DTL_5691714&order=283&view=SINGLE",
+       "raw": "Vind. med. gr. 15, fol. 137rv",
+       "corrected": "Link opened image 1, not the folio. Image = 2 x folio + 9 in this codex (checked on 10 other links)."
       }
      ],
      "refs": {
@@ -11698,11 +11712,12 @@
       },
       {
        "city": "Paris",
-       "shelfmark": "Par gr. 2257",
+       "shelfmark": "Par. gr. 2257",
        "folios": "129–130v",
        "start": "129",
        "url": "https://gallica.bnf.fr/ark:/12148/btv1b10722614c/f137.item",
-       "raw": "Par gr. 2257, fol. 129–130v"
+       "raw": "Par gr. 2257, fol. 129–130v",
+       "corrected": "Par. gr. spelling"
       },
       {
        "city": "Paris",
@@ -12022,11 +12037,12 @@
       },
       {
        "city": "Vatikanstadt",
-       "shelfmark": "Vat gr. 307",
+       "shelfmark": "Vat. gr. 307",
        "folios": "5–6",
        "start": "5",
        "url": "https://digi.vatlib.it/view/MSS_Vat.gr.307/0025",
-       "raw": "Vat gr. 307, fol. 5–6"
+       "raw": "Vat gr. 307, fol. 5–6",
+       "corrected": "Vat. gr. spelling"
       },
       {
        "city": "Vatikanstadt",
@@ -12038,11 +12054,12 @@
       },
       {
        "city": "Vatikanstadt",
-       "shelfmark": "Vat. Barb. gr.",
+       "shelfmark": "Vat. Barb. gr. 5",
        "folios": "1–83",
        "start": "1",
        "url": "https://digi.vatlib.it/view/MSS_Barb.gr.5/0005",
-       "raw": "Vat. Barb. gr., fol. 1–83"
+       "raw": "Vat. Barb. gr., fol. 1–83",
+       "corrected": "Shelfmark number missing. The link is MSS_Barb.gr.5."
       },
       {
        "city": "Vatikanstadt",
@@ -13731,8 +13748,9 @@
        "shelfmark": "Vind. med. gr. 15",
        "folios": "138–139",
        "start": "138",
-       "url": "http://digital.onb.ac.at/RepViewer/viewer.faces?doc=DTL_5691714&order=1&view=SINGLE",
-       "raw": "Vind. med. gr. 15, fol. 138–139"
+       "url": "https://digital.onb.ac.at/RepViewer/viewer.faces?doc=DTL_5691714&order=285&view=SINGLE",
+       "raw": "Vind. med. gr. 15, fol. 138–139",
+       "corrected": "Link opened image 1, not the folio. Image = 2 x folio + 9 in this codex (checked on 10 other links)."
       }
      ],
      "refs": {
@@ -13813,11 +13831,12 @@
       },
       {
        "city": "Vatikanstadt",
-       "shelfmark": "Vat. Barb. Gr. 127",
+       "shelfmark": "Vat. Barb. gr. 127",
        "folios": "197rv",
        "start": "197rv",
        "url": "https://digi.vatlib.it/view/MSS_Barb.gr.127/0397",
-       "raw": "Vat. Barb. Gr. 127, fol. 197rv"
+       "raw": "Vat. Barb. Gr. 127, fol. 197rv",
+       "corrected": "Vat. Barb. gr. spelling"
       },
       {
        "city": "Vatikanstadt",
@@ -15303,11 +15322,12 @@
       },
       {
        "city": "Paris",
-       "shelfmark": "Par. suppl. gr. 446",
+       "shelfmark": "Par. Suppl. gr. 446",
        "folios": "60r–69v",
        "start": "60r",
        "url": "https://gallica.bnf.fr/ark:/12148/btv1b11004080k/f62.item",
-       "raw": "Par. suppl. gr. 446, 60r--69v"
+       "raw": "Par. suppl. gr. 446, 60r--69v",
+       "corrected": "Par. Suppl. gr. spelling"
       },
       {
        "city": "Vatikanstadt",
@@ -17940,11 +17960,12 @@
       },
       {
        "city": "Paris",
-       "shelfmark": "Par. suppl. gr. 446",
+       "shelfmark": "Par. Suppl. gr. 446",
        "folios": "45r–60r",
        "start": "45r",
        "url": "https://gallica.bnf.fr/ark:/12148/btv1b11004080k/f47.item",
-       "raw": "Par. suppl. gr. 446, 45r--60r"
+       "raw": "Par. suppl. gr. 446, 45r--60r",
+       "corrected": "Par. Suppl. gr. spelling"
       },
       {
        "city": "Vatikanstadt",
@@ -23627,10 +23648,11 @@
       {
        "city": "Wien",
        "shelfmark": "Vind. med. gr. 4",
-       "folios": "174v–141r",
+       "folios": "174v–241r?",
        "start": "174v",
        "url": "http://digital.onb.ac.at/RepViewer/viewer.faces?doc=DTL_6900034&order=354&view=SINGLE",
-       "raw": "Vind. med. gr. 4, 174v--141r"
+       "raw": "Vind. med. gr. 4, 174v--141r",
+       "corrected": "End folio precedes start. Probably 241r: the next text in the codex begins at 241r. Marked '?' until checked."
       }
      ],
      "date": "420--380",
@@ -31340,10 +31362,11 @@
       {
        "city": "Wien",
        "shelfmark": "Vind. med. gr. 15",
-       "folios": "101-105v",
+       "folios": "101–105v",
        "start": "101",
-       "url": "http://digital.onb.ac.at/RepViewer/viewer.faces?doc=DTL_5691714&order=1&view=SINGLE",
-       "raw": "Vind. med. gr. 15, fol. 101-105v"
+       "url": "https://digital.onb.ac.at/RepViewer/viewer.faces?doc=DTL_5691714&order=211&view=SINGLE",
+       "raw": "Vind. med. gr. 15, fol. 101-105v",
+       "corrected": "Link opened image 1, not the folio. Image = 2 x folio + 9 in this codex (checked on 10 other links)."
       }
      ],
      "date": "",
@@ -31556,12 +31579,13 @@
      "translations_prep": null,
      "mss": [
       {
-       "city": "Bayern",
+       "city": "München",
        "shelfmark": "BSB Cod. gr. 39",
        "folios": "1–79v",
        "start": "1",
        "url": "http://daten.digitale-sammlungen.de/bsb00069246/image_5",
-       "raw": "BSB Cod. gr. 39, fol. 1--79v"
+       "raw": "BSB Cod. gr. 39, fol. 1--79v",
+       "corrected": "city name"
       },
       {
        "city": "Florenz",
@@ -31668,12 +31692,13 @@
        "raw": "Med. gr. 45, fol. 1--28"
       },
       {
-       "city": "Yale",
+       "city": "New Haven",
        "shelfmark": "Yale Med. Libr. 33",
        "folios": "1–113v",
        "start": "1",
        "url": "https://archive.org/details/4725697.med.yale.edu/page/n3",
-       "raw": "Yale Med. Libr. 33, fol. 1--113v"
+       "raw": "Yale Med. Libr. 33, fol. 1--113v",
+       "corrected": "city name"
       }
      ],
      "date": "",
@@ -31754,12 +31779,13 @@
      "translations_prep": null,
      "mss": [
       {
-       "city": "Bayern",
+       "city": "München",
        "shelfmark": "BSB Cod. gr. 39",
        "folios": "1–79v",
        "start": "1",
        "url": "http://daten.digitale-sammlungen.de/bsb00069246/image_164",
-       "raw": "BSB Cod. gr. 39, fol. 1--79v"
+       "raw": "BSB Cod. gr. 39, fol. 1--79v",
+       "corrected": "city name"
       },
       {
        "city": "Paris",
@@ -32474,11 +32500,12 @@
      "mss": [
       {
        "city": "Florenz",
-       "shelfmark": "Laur. Plut.74,11",
+       "shelfmark": "Laur. Plut. 74,11",
        "folios": "150v–162v",
        "start": "150v",
        "url": "http://mss.bmlonline.it/s.aspx?Id=AWOMP62RI1A4r7GxMUa9&c=VII.%20De%20differentia%20febrium$/oro/308",
-       "raw": "Laur. Plut.74,11, fol. 150v--162v"
+       "raw": "Laur. Plut.74,11, fol. 150v--162v",
+       "corrected": "Laur. Plut. spacing"
       },
       {
        "city": "Paris",
@@ -33140,11 +33167,12 @@
       },
       {
        "city": "Paris",
-       "shelfmark": "Par. suppl. gr. 836",
+       "shelfmark": "Par. Suppl. gr. 836",
        "folios": "91–102v",
        "start": "91",
        "url": "https://gallica.bnf.fr/ark:/12148/btv1b11004486s/f100.image",
-       "raw": "Par. suppl. gr. 836, 91--102v"
+       "raw": "Par. suppl. gr. 836, 91--102v",
+       "corrected": "Par. Suppl. gr. spelling"
       }
      ],
      "date": "",
@@ -33411,27 +33439,30 @@
      "mss": [
       {
        "city": "München",
-       "shelfmark": "Monac. Gr. 469",
+       "shelfmark": "Monac. gr. 469",
        "folios": "148–160v, 164r",
        "start": "148",
        "url": "http://daten.digitale-sammlungen.de/bsb00108703/image_351",
-       "raw": "Monac. Gr. 469, fol. 148--160v, 164r"
+       "raw": "Monac. Gr. 469, fol. 148--160v, 164r",
+       "corrected": "Monac. gr. spelling"
       },
       {
        "city": "Paris",
-       "shelfmark": "Par. Gr. 2288",
+       "shelfmark": "Par. gr. 2288",
        "folios": "161–171",
        "start": "161",
        "url": "https://gallica.bnf.fr/ark:/12148/btv1b10722264x/f172.image",
-       "raw": "Par. Gr. 2288, fol. 161--171"
+       "raw": "Par. Gr. 2288, fol. 161--171",
+       "corrected": "Par. gr. spelling"
       },
       {
        "city": "Paris",
-       "shelfmark": "Par. Gr. 2331",
+       "shelfmark": "Par. gr. 2331",
        "folios": "11v–27",
        "start": "11v",
        "url": "https://gallica.bnf.fr/ark:/12148/btv1b107226168/f18.image",
-       "raw": "Par. Gr. 2331, fol. 11v--27"
+       "raw": "Par. Gr. 2331, fol. 11v--27",
+       "corrected": "Par. gr. spelling"
       },
       {
        "city": "Vatikanstadt",
@@ -33521,11 +33552,12 @@
      "mss": [
       {
        "city": "München",
-       "shelfmark": "Monac. Gr. 469",
+       "shelfmark": "Monac. gr. 469",
        "folios": "164v, 161r–163v, 165r–165v, 155v",
        "start": "164v",
        "url": "http://daten.digitale-sammlungen.de/bsb00108703/image_384",
-       "raw": "Monac. Gr. 469, fol. 164v, 161r--163v, 165r--165v, 155v"
+       "raw": "Monac. Gr. 469, fol. 164v, 161r--163v, 165r--165v, 155v",
+       "corrected": "Monac. gr. spelling"
       }
      ],
      "date": "",
@@ -33631,19 +33663,21 @@
       },
       {
        "city": "Paris",
-       "shelfmark": "Par. Gr. 2151",
+       "shelfmark": "Par. gr. 2151",
        "folios": "1–11v",
        "start": "1",
        "url": "https://gallica.bnf.fr/ark:/12148/btv1b107225519",
-       "raw": "Par. Gr. 2151, fol. 1--11v"
+       "raw": "Par. Gr. 2151, fol. 1--11v",
+       "corrected": "Par. gr. spelling"
       },
       {
        "city": "Paris",
-       "shelfmark": "Par. Gr. 2261",
+       "shelfmark": "Par. gr. 2261",
        "folios": "1–37",
        "start": "1",
        "url": "https://gallica.bnf.fr/ark:/12148/btv1b520009458/f7.image",
-       "raw": "Par. Gr. 2261, fol. 1--37"
+       "raw": "Par. Gr. 2261, fol. 1--37",
+       "corrected": "Par. gr. spelling"
       },
       {
        "city": "Vatikanstadt",
@@ -33739,11 +33773,12 @@
      "mss": [
       {
        "city": "Paris",
-       "shelfmark": "Par. Gr. Suppl. 637",
+       "shelfmark": "Par. gr. Suppl. 637",
        "folios": "65v–67",
        "start": "65v",
        "url": "file:///C:\\Users\\coughlin\\Desktop\\13%20CMG\\Other%20Authors\\165https:\\gallica.bnf.fr\\ark:\\12148\\btv1b110000645\\f125.image",
-       "raw": "Par. Gr. Suppl. 637, fol. 65v--67"
+       "raw": "Par. Gr. Suppl. 637, fol. 65v--67",
+       "corrected": "Par. gr. spelling"
       }
      ],
      "date": "",
@@ -34664,11 +34699,12 @@
       },
       {
        "city": "Vatikanstadt",
-       "shelfmark": "Urb. gr. 15v--16",
-       "folios": "",
-       "start": "",
+       "shelfmark": "Vat. Urb. gr. 68",
+       "folios": "15v–16",
+       "start": "15v",
        "url": "https://digi.vatlib.it/view/MSS_Urb.gr.68/0019",
-       "raw": "Urb. gr. 15v--16"
+       "raw": "Urb. gr. 15v--16",
+       "corrected": "Shelfmark number missing. The link is MSS_Urb.gr.68."
       },
       {
        "city": "Vatikanstadt",
@@ -34844,11 +34880,12 @@
       },
       {
        "city": "Vatikanstadt",
-       "shelfmark": "Vat gr. 279",
+       "shelfmark": "Vat. gr. 279",
        "folios": "292–306",
        "start": "292",
        "url": "https://digi.vatlib.it/view/MSS_Vat.gr.279/0297",
-       "raw": "Vat gr. 279, fol. 292--306"
+       "raw": "Vat gr. 279, fol. 292--306",
+       "corrected": "Vat. gr. spelling"
       },
       {
        "city": "Wien",

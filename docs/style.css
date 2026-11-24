@@ -48,3 +48,4 @@ summary{cursor:pointer;padding:.35rem 0}
 .cities{font-size:.9rem;line-height:1.9}
 @media (max-width:640px){dl{grid-template-columns:1fr}ol.toc{columns:1}.pn{min-width:0}header nav{margin-left:0}}
 a.go.stale{color:var(--muted);font-weight:400;text-decoration:line-through}
+.corr{color:var(--accent);cursor:help;font-size:.8rem}

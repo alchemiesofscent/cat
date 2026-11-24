@@ -3,6 +3,7 @@
 Usage: python scripts/build.py
 """
 import html, json, re, shutil
+from urllib.parse import urlencode
 from collections import defaultdict
 from datetime import date
 from pathlib import Path
@@ -93,7 +94,9 @@ def witness_rows(mss, show_work=None):
         view = go(m["url"], f"view f. {esc(m['start'])}" if m["start"] else "view") if m["url"] else ""
         lead = f"<td>{show_work(m)}</td>" if show_work else ""
         rows.append(f"<tr>{lead}<td>{esc(city(m['city']))}</td><td class='sm'>{esc(dash(m['shelfmark']))}</td>"
-                    f"<td class='fol'>{esc(dash(m['folios']))}</td><td>{view}</td></tr>")
+                    f"<td class='fol'>{esc(dash(m['folios']))}"
+                    + (f" <span class='corr' title='Corrected: {esc(m['corrected'], quote=True)}'>†</span>" if m.get("corrected") else "")
+                    + f"</td><td>{view}</td></tr>")
     return "".join(rows)
 
 
@@ -114,12 +117,13 @@ def work_html(a, w):
                      f'<tbody>{witness_rows(w["mss"])}</tbody></table>')
     else:
         parts.append('<h4>Manuscripts</h4><p class="none">No digitized manuscripts recorded in the catalogue.</p>')
-    pk = refs.get("Pinakes")
+    more = []
+    pk = next((u for _, u in refs.get("Pinakes", []) if u), None)
     if pk:
-        url = next((u for _, u in pk if u), None)
-        if url:
-            parts.append(f'<p class="more">Full witness list: <a href="{esc(url)}">Pinakes</a> · '
-                         '<a href="https://medimanus.chs.harvard.edu/app">MediManus</a></p>')
+        more.append(f'<a href="{esc(pk)}">Pinakes</a>')
+    q = re.sub(r"\s*\(.*?\)|[?*]", "", w["title_lat"].split(";")[0]).strip()
+    more.append(f'<a href="https://medimanus.chs.harvard.edu/app/search?{esc(urlencode({"q": q}))}">MediManus</a>')
+    parts.append('<p class="more">Full manuscript tradition: ' + " · ".join(more) + "</p>")
 
     dl = []
     if w.get("editions"):
