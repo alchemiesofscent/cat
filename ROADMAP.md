@@ -1,6 +1,10 @@
 # Roadmap
 
-## v0.2: folio links, review lists, a page for each manuscript
+## v0.2 (week of 1 December 2026): folio links, review lists, a page for each manuscript
+
+In v0.1 the site shows only manuscripts linked at the start folio. v0.2 brings back, as the folio links are filled in,
+the tables now hidden (`SHOW_UNLINKED` in scripts/build.py): the MediManus comparison, the digitized manuscripts known
+to Pinakes, and the editions' other manuscripts (with a ? where Pinakes and MediManus do not list them for the work).
 
 ### 1. Folio links (the core of v0.2)
 

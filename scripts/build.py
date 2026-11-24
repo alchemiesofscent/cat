@@ -590,13 +590,13 @@ def work_html(a, w):
     sig = sigs if sigs else None
     sth = "<th>Siglum</th>" if sig is not None else ""
     if w["mss"]:
-        parts.append(f'<h4>Manuscripts <span class="n">{len(w["mss"])} digitized</span></h4>'
+        parts.append(f'<h4>Manuscripts <span class="n">{len(w["mss"])} linked at the start folio</span></h4>'
                      f'<table class="mss sortable"><thead><tr><th>City</th><th>Shelfmark</th>{sth}<th>Date</th><th>Folios</th><th>Digitization</th></tr></thead>'
                      f'<tbody>{witness_rows(w["mss"], sig=sig, wid=w["id"])}</tbody></table>')
     else:
-        parts.append('<h4>Manuscripts</h4><p class="none">No digitized manuscripts recorded in the catalogue.</p>')
+        parts.append('<h4>Manuscripts</h4><p class="none">No manuscript linked at the start of the text yet.</p>')
     mmw = MM_BY_WORK.get(w["id"], [])
-    if mmw:
+    if mmw and SHOW_UNLINKED:
         ours = defaultdict(list)
         for m in w["mss"]:
             ours[ms_key(m["city"], m["shelfmark"])].append(m)
@@ -632,7 +632,7 @@ def work_html(a, w):
         if x["cote_id"] in PKDIG and k not in seen and (x["cote_id"], x["folios"]) not in done:
             done.add((x["cote_id"], x["folios"]))
             extra.append(x)
-    if extra:
+    if extra and SHOW_UNLINKED:
         trs = []
         for x in sorted(extra, key=lambda x: (x["city"], x["fonds"], x["cote"])):
             links = hand_link(w["id"], pk_shelf(x), x["folios"]) or " ".join(
@@ -650,7 +650,7 @@ def work_html(a, w):
     # the editions' other manuscripts (not in any table above): one row per manuscript, all its sigla
     shown = seen | {ms_key(x["city"], f"{x['fonds']} {x['cote']}") for x in extra}
     rest = {k: v for k, v in sigs.items() if k not in shown}
-    if rest:
+    if rest and SHOW_UNLINKED:
         trs = []
         for k, recs in sorted(rest.items(), key=lambda kv: (kv[1][0]["city"], _nat(kv[1][0]["normalized"] or kv[1][0]["printed"]))):
             r = recs[0]
@@ -783,7 +783,41 @@ def changelog_html():
     return "\n".join(out + (["</ul>"] if open_ul else []))
 
 
+# v0.1 shows only manuscripts linked at the start folio. The other tables (MediManus comparison, Pinakes' other
+# digitizations, the editions' other manuscripts) are built again in v0.2, when the folio links are filled in.
+SHOW_UNLINKED = False
+
+
+def folio_linked(w, m):
+    """True when the witness's link opens the page where the text starts (not just the manuscript, not a dead link)."""
+    h = hand_link(w["id"], display_shelf(m["city"], m["shelfmark"]), m["folios"]) or (go(m) if m["url"] else "")
+    return 'class="go"' in h and "stale" not in h and "view ms." not in h and ">Pinakes<" not in h
+
+
+def only_folio_linked():
+    """Keep in each work the witnesses linked at the folio, and add rows whose folio link was found later
+    (data/folio_links.csv: automatically from the library's manifest, or by hand)."""
+    extra = defaultdict(list)
+    if _FL.exists():
+        with _FL.open(newline="", encoding="utf-8") as fh:
+            for r in csv.DictReader(fh):
+                if r["folio_url"].strip() and r["source"] != "catalogue":
+                    extra[r["work_id"]].append({"city": r["city"], "shelfmark": r["shelfmark"], "folios": r["folios"],
+                                                "start": r["start"], "url": r["folio_url"].strip(), "raw": ""})
+    for a in DATA["authors"]:
+        for w in a["works"]:
+            have = {ms_key(m["city"], m["shelfmark"]) for m in w["mss"]}
+            w["mss_hidden"] = [m for m in w["mss"] if not folio_linked(w, m)]
+            w["mss"] = [m for m in w["mss"] if folio_linked(w, m)] + \
+                [m for m in extra[w["id"]] if ms_key(m["city"], m["shelfmark"]) not in have]
+            first = {}
+            for i, m in enumerate(w["mss"]):
+                first.setdefault(city(m["city"]), i)
+            w["mss"].sort(key=lambda m: (first[city(m["city"])], _nat(display_shelf(m["city"], m["shelfmark"]))))
+
+
 def main():
+    only_folio_linked()
     if OUT.exists():
         shutil.rmtree(OUT)
     (OUT / "authors").mkdir(parents=True)
