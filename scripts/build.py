@@ -518,7 +518,6 @@ def page(title, body, depth=0):
 <link rel="stylesheet" href="{up}style.css">
 </head><body>
 <header class="site"><a class="brand" href="{up}index.html">Ancient Greek Medical Authors</a>
-<span class="tag">works · manuscripts · printed editions · translations</span>
 <nav><a href="{up}index.html">Authors</a><a href="{up}manuscripts.html">Manuscripts</a><a href="{up}about.html">About</a></nav>
 <form class="filter" action="{up}index.html" role="search"><input id="filter" name="q" type="search" placeholder="Filter this page · Enter searches everything" autocomplete="off" aria-label="Filter"></form>
 </header>
