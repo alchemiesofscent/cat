@@ -636,5 +636,35 @@
     "Supplément grec 0447, f. 001-21"
    ]
   }
+ ],
+ "links_checked": 194,
+ "link_mismatch": [
+  {
+   "work": "aretaeus-cappadox-001",
+   "title": "De causis et signis acutorum morborum libri II",
+   "shelfmark": "Harley 6236",
+   "folios": "8–118",
+   "url": "http://www.bl.uk/manuscripts/Viewer.aspx?ref=harley_ms_6326_f008r",
+   "link_names": "london|harley|6326",
+   "evidence": "the URL"
+  },
+  {
+   "work": "aretaeus-cappadox-003",
+   "title": "De curatione acutorum morborum libri II",
+   "shelfmark": "Harley 6236",
+   "folios": "118–183v",
+   "url": "http://www.bl.uk/manuscripts/Viewer.aspx?ref=harley_ms_6326_f118r",
+   "link_names": "london|harley|6326",
+   "evidence": "the URL"
+  },
+  {
+   "work": "aretaeus-cappadox-004",
+   "title": "De curatione diuturnorum morborum libri II",
+   "shelfmark": "Harley 6236",
+   "folios": "2–7ν and fol. 183v–212",
+   "url": "http://www.bl.uk/manuscripts/Viewer.aspx?ref=harley_ms_6326_f002r",
+   "link_names": "london|harley|6326",
+   "evidence": "the URL"
+  }
  ]
 }
